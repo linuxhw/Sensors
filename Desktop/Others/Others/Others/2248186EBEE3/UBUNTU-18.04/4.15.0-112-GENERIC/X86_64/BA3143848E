@@ -1,0 +1,30 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +41.0 C  
+Core0 Temp:   +34.0 C  
+Core1 Temp:   +41.0 C  
+Core1 Temp:   +40.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +124.0 C)
+
+it8716-isa-0290
+Adapter: ISA adapter
+in0:          +1.30 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +3.26 V  (min =  +1.28 V, max =  +1.68 V)  ALARM
+in2:          +1.79 V  (min =  +2.78 V, max =  +3.78 V)  ALARM
++5V:          +2.75 V  (min =  +2.67 V, max =  +3.26 V)
+in4:          +1.49 V  (min =  +2.50 V, max =  +3.49 V)  ALARM
+in5:          +1.14 V  (min =  +0.58 V, max =  +1.34 V)
+in6:          +2.88 V  (min =  +1.04 V, max =  +1.36 V)  ALARM
+5VSB:         +2.88 V  (min =  +2.67 V, max =  +3.26 V)
+Vbat:         +3.06 V  
+fan1:        2351 RPM  (min =   10 RPM)
+fan2:        5075 RPM  (min =   10 RPM)
+temp1:        +21.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp2:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +25.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.550 V
+intrusion0:  ALARM
+

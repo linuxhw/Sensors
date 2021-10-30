@@ -1,0 +1,22 @@
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.28 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.02 V  (min =  +0.50 V, max =  +1.34 V)
+AVCC:         +3.31 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.65 V  (min =  +1.22 V, max =  +1.38 V)  ALARM
+in5:          +1.67 V  (min =  +0.38 V, max =  +0.76 V)  ALARM
+in6:          +1.86 V  (min =  +0.17 V, max =  +1.88 V)
+3VSB:         +3.49 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.12 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        168750 RPM  (min = 1350 RPM, div = 8)
+fan2:        2280 RPM  (min =  811 RPM, div = 8)
+fan3:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+fan4:           0 RPM  (min = 5273 RPM, div = 128)  ALARM
+fan5:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+temp1:        +40.0 C  (high = -28.0 C, hyst = +28.0 C)  ALARM  sensor = thermistor
+temp2:        +49.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +28.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +1.300 V
+intrusion0:  ALARM
+

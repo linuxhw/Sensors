@@ -1,0 +1,37 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+edge:         +53.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       98.25 W  (cap = 125.00 W)
+
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.04 V  
+edge:         +61.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:      109.15 W  (cap = 125.00 W)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +33.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +33.0 C  (high = +105.0 C, crit = +105.0 C)
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      1000.00 mV 
+edge:         +65.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:      104.22 W  (cap = 125.00 W)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+edge:         +72.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:      104.18 W  (cap = 125.00 W)
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+

@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0°C  (high = +86.0°C, crit = +100.0°C)
+Core 1:       +54.0°C  (high = +86.0°C, crit = +100.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+it8718-isa-0a10
+Adapter: ISA adapter
+in0:          +1.22 V  (min =  +3.74 V, max =  +3.84 V)  ALARM
+in1:          +1.84 V  (min =  +2.46 V, max =  +2.99 V)  ALARM
+in2:          +1.34 V  (min =  +1.78 V, max =  +0.82 V)  ALARM
++5V:          +2.94 V  (min =  +1.01 V, max =  +3.76 V)
+in4:          +2.14 V  (min =  +2.99 V, max =  +3.60 V)  ALARM
+in5:          +0.06 V  (min =  +1.55 V, max =  +2.80 V)  ALARM
+in6:          +0.10 V  (min =  +0.00 V, max =  +3.94 V)  ALARM
+5VSB:         +2.80 V  (min =  +2.18 V, max =  +4.06 V)
+Vbat:         +3.20 V  
+fan1:        1809 RPM  (min =   13 RPM)
+fan2:           0 RPM  (min =   65 RPM)  ALARM
+temp1:        +49.0°C  (low  = +127.0°C, high = +80.0°C)  sensor = thermal diode
+temp2:        +39.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermal diode
+temp3:        +22.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+cpu0_vid:    +1.219 V
+intrusion0:  OK
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +1.01 V  (min =  +1.00 V, max =  +1.01 V)
+fan1:           0 RPM
+temp1:        +45.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +2.0°C)
+

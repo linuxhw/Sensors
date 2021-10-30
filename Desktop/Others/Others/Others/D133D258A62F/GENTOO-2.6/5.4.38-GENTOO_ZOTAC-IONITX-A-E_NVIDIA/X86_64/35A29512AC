@@ -1,0 +1,12 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU 0:        +42.0 C  (crit = +125.0 C)
+CPU 1:        +56.0 C  (crit = +125.0 C)
+
+w83l771-i2c-0-4c
+Adapter: SMBus nForce2 adapter at 4d00
+GPU:          +35.0 C  (low  = -40.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+CPU:          +50.6 C  (low  = -40.0 C, high = +70.0 C)
+                       (crit = +110.0 C, hyst = +100.0 C)
+

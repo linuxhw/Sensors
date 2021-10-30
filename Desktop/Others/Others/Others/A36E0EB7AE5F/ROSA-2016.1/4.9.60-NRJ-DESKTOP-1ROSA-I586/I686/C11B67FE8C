@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +28.0°C  (crit = +100.0°C)
+Core 1:       +16.0°C  (crit = +100.0°C)
+
+it8782-isa-0a10
+Adapter: ISA adapter
+in0:          +1.01 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.52 V  (min =  +0.00 V, max =  +3.82 V)
+in2:          +3.38 V  (min =  +3.57 V, max =  +4.08 V)  ALARM
+in3:          +4.08 V  (min =  +4.02 V, max =  +4.08 V)  ALARM
+in4:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +6.02 V  (min =  +0.00 V, max =  +8.16 V)  ALARM
+Vbat:         +3.01 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =   10 RPM)  ALARM
+fan3:           0 RPM  (min =   10 RPM)  ALARM
+temp1:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp2:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+intrusion0:  OK
+
