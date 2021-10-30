@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +57.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +59.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +62.0 C  (crit = +120.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+

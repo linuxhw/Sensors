@@ -1,0 +1,23 @@
+gpu-virtual-0
+Adapter: Virtual device
+temp1:        +44.4 C  (crit = +95.0 C)
+
+tcpm_source_psy_4_0022-i2c-4-22
+Adapter: rk3x-i2c
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         2.50 A  (max =  +2.50 A)
+
+cw2015_battery-i2c-4-62
+Adapter: rk3x-i2c
+in0:           4.14 V  
+curr1:         0.00 A  
+
+cpu-virtual-0
+Adapter: Virtual device
+temp1:        +46.2 C  (crit = +95.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
