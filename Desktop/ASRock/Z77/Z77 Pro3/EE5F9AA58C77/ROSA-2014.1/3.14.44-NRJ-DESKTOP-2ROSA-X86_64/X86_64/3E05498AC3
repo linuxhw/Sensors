@@ -1,0 +1,43 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        2400 RPM
+temp1:        +35.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +36.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 0:         +32.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 1:         +30.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 2:         +36.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 3:         +31.0°C  (high = +80.0°C, crit = +99.0°C)
+
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:          +1.02 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.39 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +0.11 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +1.66 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:            +0.77 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.26 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:          1155 RPM  (min =    0 RPM)
+fan2:          1804 RPM  (min =    0 RPM)
+fan3:          1571 RPM  (min =    0 RPM)
+fan4:             0 RPM  (min =    0 RPM)
+fan5:          1595 RPM  (min =    0 RPM)
+SYSTIN:         +31.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+CPUTIN:         +28.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN:         +45.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+PECI Agent 0:   +35.0°C  (high = +80.0°C, hyst = +75.0°C)
+                         (crit = +99.0°C)
+PCH_CHIP_TEMP:   +0.0°C  
+PCH_CPU_TEMP:    +0.0°C  
+PCH_MCH_TEMP:    +0.0°C  
+intrusion0:    ALARM
+intrusion1:    OK
+beep_enable:   disabled
+

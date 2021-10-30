@@ -1,0 +1,64 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:         912.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:             1.84 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:            3.30 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:           3.28 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           920.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:             1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:             2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:            3.38 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:            3.28 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:             0 RPM  (min =    0 RPM)
+fan2:             0 RPM  (min =    0 RPM)
+SYSTIN:         +40.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         -62.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+cpu0_vid:      +0.000 V
+intrusion0:    ALARM
+intrusion1:    OK
+beep_enable:   disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 0:        +25.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 1:        +24.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 2:        +26.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 3:        +24.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 4:        +27.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 5:        +28.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 6:        +29.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 8:        +24.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 9:        +28.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 10:       +34.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 11:       +26.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 12:       +29.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 13:       +26.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 14:       +27.0 C  (high = +75.0 C, crit = +93.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval =   1.00 s)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +32.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 0:        +23.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 1:        +28.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 2:        +24.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 3:        +25.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 4:        +24.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 5:        +25.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 6:        +23.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 8:        +26.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 9:        +22.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 10:       +27.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 11:       +25.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 12:       +22.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 13:       +21.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 14:       +25.0 C  (high = +75.0 C, crit = +93.0 C)
+

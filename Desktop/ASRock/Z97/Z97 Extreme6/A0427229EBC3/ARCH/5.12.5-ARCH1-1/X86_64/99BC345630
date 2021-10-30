@@ -1,0 +1,33 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +39.0 C  
+case temp:    +30.0 C  
+power total: 112.00 W  
+power +12v:   96.00 W  
+power +5v:    13.00 W  
+power +3.3v:   4.00 W  
+curr in:          N/A  
+curr +12v:     7.00 A  
+curr +5v:      2.00 A  
+curr +3.3v:  1000.00 mA 
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         925 RPM
+temp1:        +34.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

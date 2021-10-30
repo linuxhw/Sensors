@@ -1,0 +1,77 @@
+k10temp-pci-00db
+Adapter: PCI adapter
+Tdie:         +35.5 C  (high = +70.0 C)
+Tctl:         +62.5 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +29.5 C  (high = +70.0 C)
+Tctl:         +56.5 C  
+
+nct6779-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.66 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.28 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                  +3.28 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                    +1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +0.84 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +1.21 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                   +3.38 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                   +3.20 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                   +0.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +0.91 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +1.21 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +49.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +32.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +15.5 C    sensor = thermistor
+AUXTIN1:                +61.0 C    sensor = thermistor
+AUXTIN2:                -62.0 C    sensor = thermistor
+AUXTIN3:                +15.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+jc42-i2c-1-1d
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +32.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-1-19
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +41.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tdie:         +30.5 C  (high = +70.0 C)
+Tctl:         +57.5 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +33.4 C  (high = +70.0 C)
+Tctl:         +60.4 C  
+
+jc42-i2c-1-1f
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +30.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-1-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +47.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

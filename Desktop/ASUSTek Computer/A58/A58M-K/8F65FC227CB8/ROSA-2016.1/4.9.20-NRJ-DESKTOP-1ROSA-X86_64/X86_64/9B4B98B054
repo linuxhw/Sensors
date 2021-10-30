@@ -1,0 +1,26 @@
+it8603-isa-0290
+Adapter: ISA adapter
+in0:          +1.30 V  (min =  +1.31 V, max =  +0.13 V)  ALARM
+in1:          +1.46 V  (min =  +2.98 V, max =  +2.23 V)  ALARM
+in2:          +1.94 V  (min =  +2.99 V, max =  +0.61 V)  ALARM
+in3:          +1.99 V  (min =  +2.90 V, max =  +1.97 V)  ALARM
+in4:          +1.22 V  (min =  +2.46 V, max =  +0.74 V)  ALARM
+3VSB:         +3.34 V  (min =  +1.90 V, max =  +6.07 V)
+Vbat:         +3.24 V  
++3.3V:        +3.36 V  
+fan1:        1397 RPM  (min =  200 RPM)
+fan2:           0 RPM  (min =  600 RPM)  ALARM
+temp1:        +36.0°C  (low  = +46.0°C, high = -33.0°C)  ALARM  sensor = thermistor
+temp2:        +36.0°C  (low  = +110.0°C, high = +103.0°C)  sensor = thermistor
+temp3:       -128.0°C  (low  = +127.0°C, high = -76.0°C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.4°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +69.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
