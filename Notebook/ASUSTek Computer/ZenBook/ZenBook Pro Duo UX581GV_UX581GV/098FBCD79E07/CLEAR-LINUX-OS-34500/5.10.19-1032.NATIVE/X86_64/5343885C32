@@ -1,0 +1,46 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2100 RPM
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +69.0 C  
+
+nvme-pci-3c00
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +58.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:             N/A
+temp1:            N/A  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +76.0 C  (crit = +103.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.85 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+
