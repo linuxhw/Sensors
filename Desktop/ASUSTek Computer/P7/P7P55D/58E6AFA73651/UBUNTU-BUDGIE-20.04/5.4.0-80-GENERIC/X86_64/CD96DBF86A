@@ -1,0 +1,49 @@
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:        1.27 V  (min =  +0.80 V, max =  +1.60 V)
++3.3V Voltage:        3.36 V  (min =  +2.97 V, max =  +3.63 V)
++5V Voltage:          5.02 V  (min =  +4.50 V, max =  +5.50 V)
++12V Voltage:        12.21 V  (min = +10.20 V, max = +13.80 V)
+CPU Fan Speed:      1094 RPM  (min =  600 RPM, max = 7200 RPM)
+Chassis1 Fan Speed:    0 RPM  (min =  600 RPM, max = 7200 RPM)
+Chassis2 Fan Speed:    0 RPM  (min =  600 RPM, max = 7200 RPM)
+Power Fan Speed:       0 RPM  (min =    0 RPM, max = 7200 RPM)
+CPU Temperature:     +42.0 C  (high = +45.0 C, crit = +45.5 C)
+MB Temperature:      +26.0 C  (high = +45.0 C, crit = +46.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +39.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +40.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +39.0 C  (high = +83.0 C, crit = +99.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        1547 RPM
+temp1:        +34.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+w83667hg-isa-0290
+Adapter: ISA adapter
+Vcore:          2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in1:            2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+AVCC:           4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
++3.3V:          4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+in4:            2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in5:            2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+3VSB:           4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+Vbat:           4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+fan1:            0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan2:            0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan3:            0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan4:            0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan5:            0 RPM  (min =    0 RPM, div = 128)  ALARM
+PECI Agent 1:   -1.0 C  (high =  -1.0 C, hyst =  -1.0 C)  ALARM  sensor = Intel PECI
+PECI Agent 1:   +0.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = Intel PECI
+AUXTIN:         +0.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+SYSTIN:         -1.0 C  
+cpu0_vid:     +1.156 V
+intrusion0:   ALARM
+

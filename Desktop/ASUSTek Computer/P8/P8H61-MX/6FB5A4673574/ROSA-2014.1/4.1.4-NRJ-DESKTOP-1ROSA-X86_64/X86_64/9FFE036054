@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +29.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +29.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +27.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +28.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +22.0°C  (high = +80.0°C, crit = +98.0°C)
+
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:          +0.97 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.42 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.41 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:            +0.98 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.33 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:          2119 RPM  (min =    0 RPM)
+fan2:          2561 RPM  (min =    0 RPM)
+fan3:             0 RPM  (min =    0 RPM)
+fan4:             0 RPM  (min =    0 RPM)
+fan5:             0 RPM  (min =    0 RPM)
+SYSTIN:         +65.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+CPUTIN:         -60.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermal diode
+AUXTIN:         +27.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+PECI Agent 0:   +18.0°C  (high = +80.0°C, hyst = +75.0°C)
+                         (crit = +88.0°C)
+PCH_CHIP_TEMP:   +0.0°C  
+PCH_CPU_TEMP:    +0.0°C  
+PCH_MCH_TEMP:    +0.0°C  
+intrusion0:    ALARM
+intrusion1:    OK
+beep_enable:   disabled
+

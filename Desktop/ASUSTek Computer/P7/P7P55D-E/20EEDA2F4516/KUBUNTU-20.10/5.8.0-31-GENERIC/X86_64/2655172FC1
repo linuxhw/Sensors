@@ -1,0 +1,20 @@
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      936.00 mV (min =  +0.80 V, max =  +1.60 V)
++3.3V Voltage:        3.36 V  (min =  +2.97 V, max =  +3.63 V)
++5V Voltage:          5.06 V  (min =  +4.50 V, max =  +5.50 V)
++12V Voltage:        12.32 V  (min = +10.20 V, max = +13.80 V)
+CPU Fan Speed:      1068 RPM  (min =  600 RPM, max = 7200 RPM)
+Chassis1 Fan Speed:  634 RPM  (min =  600 RPM, max = 7200 RPM)
+Chassis2 Fan Speed: 1088 RPM  (min =  600 RPM, max = 7200 RPM)
+Power Fan Speed:       0 RPM  (min =    0 RPM, max = 7200 RPM)
+CPU Temperature:     +29.0 C  (high = +45.0 C, crit = +45.5 C)
+MB Temperature:      +27.0 C  (high = +45.0 C, crit = +46.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +23.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +23.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +23.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +23.0 C  (high = +83.0 C, crit = +99.0 C)
+

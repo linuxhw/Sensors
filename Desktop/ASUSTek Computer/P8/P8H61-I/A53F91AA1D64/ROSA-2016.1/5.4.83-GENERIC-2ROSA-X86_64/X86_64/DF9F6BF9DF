@@ -1,0 +1,24 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:         960.00 mV (min =  +0.00 V, max =  +3.06 V)  ALARM
+in1:           2.22 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in2:           2.88 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
++3.3V:         3.31 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+in4:           1.27 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:           2.90 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in6:           2.17 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+3VSB:          3.58 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+Vbat:          3.34 V  
+fan1:        2033 RPM  (min =   32 RPM)
+fan2:        1041 RPM  (min =   11 RPM)
+temp1:        +33.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermistor
+temp2:        +31.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermistor
+temp3:         -8.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +76.0 C, crit = +95.0 C)
+Core 0:        +43.0 C  (high = +76.0 C, crit = +95.0 C)
+Core 1:        +33.0 C  (high = +76.0 C, crit = +95.0 C)
+

@@ -1,0 +1,47 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +104.0°C)
+temp2:        +29.8°C  (crit = +104.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.90 V  
+temp1:        +40.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +43.0°C  (high = +93.0°C, crit = +103.0°C)
+Core 0:         +34.0°C  (high = +93.0°C, crit = +103.0°C)
+Core 1:         +45.0°C  (high = +93.0°C, crit = +103.0°C)
+Core 2:         +45.0°C  (high = +93.0°C, crit = +103.0°C)
+Core 3:         +38.0°C  (high = +93.0°C, crit = +103.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:            +0.90 V  (min =  +0.65 V, max =  +1.35 V)
++12V:            +12.10 V  (min = +11.42 V, max = +12.58 V)
+AVCC:             +3.33 V  (min =  +3.14 V, max =  +3.47 V)
++3.3V:            +3.33 V  (min =  +3.14 V, max =  +3.47 V)
++5V:              +5.16 V  (min =  +4.76 V, max =  +5.24 V)
+3VSB:             +3.44 V  (min =  +3.14 V, max =  +3.47 V)
+Vbat:             +3.38 V  (min =  +3.14 V, max =  +3.47 V)
+fan1:            1679 RPM  (min =    0 RPM)
+CPU Fan:         1015 RPM  (min =  500 RPM)
+fan3:               0 RPM  (min =    0 RPM)
+fan4:               0 RPM  (min =    0 RPM)
+fan5:               0 RPM  (min =    0 RPM)
+MB:               +33.0°C  (high = +50.0°C, hyst = +40.0°C)  sensor = thermistor
+MB's CPU sensor:  +34.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+PECI Agent 0:     +41.0°C  (high = +80.0°C, hyst = +75.0°C)
+                           (crit = +103.0°C)
+PCH_CHIP_TEMP:     +0.0°C  
+PCH_CPU_TEMP:      +0.0°C  
+PCH_MCH_TEMP:      +0.0°C  
+beep_enable:     disabled
+
