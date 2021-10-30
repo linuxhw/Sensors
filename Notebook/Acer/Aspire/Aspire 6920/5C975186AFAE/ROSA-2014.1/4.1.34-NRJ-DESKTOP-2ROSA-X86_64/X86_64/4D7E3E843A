@@ -1,0 +1,12 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +41.0°C  (crit = +107.0°C)
+temp2:        +50.0°C  (crit = +106.0°C)
+temp3:        +50.0°C  (crit = +106.0°C)
+temp4:        +42.0°C  (crit = +106.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +29.0°C  (high = +85.0°C, crit = +85.0°C)
+Core 1:       +29.0°C  (high = +85.0°C, crit = +85.0°C)
+
