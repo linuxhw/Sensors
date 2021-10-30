@@ -1,0 +1,25 @@
+it8718-isa-0228
+Adapter: ISA adapter
+in0:           1.42 V  (min =  +0.94 V, max =  +1.55 V)
+in1:           1.95 V  (min =  +1.71 V, max =  +2.05 V)
+in2:           3.28 V  (min =  +3.14 V, max =  +3.47 V)
++5V:           2.94 V  (min =  +2.83 V, max =  +3.12 V)
+in4:           3.06 V  (min =  +2.88 V, max =  +3.18 V)
+in5:           4.08 V  (min =  +2.70 V, max =  +3.30 V)  ALARM
+in6:           4.08 V  (min =  +3.60 V, max =  +4.08 V)  ALARM
+in7:           3.28 V  (min =  +2.83 V, max =  +3.12 V)  ALARM
+Vbat:          3.09 V  
+fan1:        2076 RPM  (min =   10 RPM)
+fan2:         795 RPM  (min =    0 RPM)
+fan3:          -1 RPM  (min =    0 RPM)
+temp1:        +44.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +44.0 C  (low  = +127.0 C, high = +70.0 C)  sensor = thermal diode
+temp3:        +90.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.050 V
+intrusion0:  OK
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +36.5 C  (high = +70.0 C)
+                       (crit = +65.0 C, hyst = +60.0 C)
+

@@ -1,0 +1,31 @@
+it8716-isa-0290
+Adapter: ISA adapter
+in0:          +1.17 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.86 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.30 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.85 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +2.98 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +3.18 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +0.74 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +2.91 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.04 V  
+fan1:        1165 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+temp1:        +33.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +19.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+cpu0_vid:    +1.550 V
+intrusion0:  ALARM
+
+nouveau-pci-0200
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst = +10.0 C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +35.0 C  
+Core1 Temp:   +34.0 C  
+

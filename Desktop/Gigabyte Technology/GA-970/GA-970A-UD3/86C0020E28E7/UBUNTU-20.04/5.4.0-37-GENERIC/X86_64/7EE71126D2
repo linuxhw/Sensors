@@ -1,0 +1,37 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +33.6 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+it8720-isa-0228
+Adapter: ISA adapter
+in0:           1.44 V  (min =  +0.00 V, max =  +4.08 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.34 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           2.99 V  (min =  +0.00 V, max =  +4.08 V)
+in4:           3.09 V  (min =  +0.00 V, max =  +4.08 V)
+in5:         944.00 mV (min =  +0.00 V, max =  +4.08 V)
+in6:           4.08 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:          3.02 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.30 V  
+fan1:         839 RPM  (min =   10 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        1086 RPM  (min =   10 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +39.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:        +45.0 C  (low  = +127.0 C, high = +90.0 C)  sensor = Intel PECI
+intrusion0:  OK
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    962.00 mV (min =  +0.82 V, max =  +1.16 V)
+fan1:        1380 RPM
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       79.80 W  (crit =  94.99 W)
+

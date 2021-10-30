@@ -1,0 +1,28 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +34.0 C  
+Core0 Temp:   +34.0 C  
+Core1 Temp:   +35.0 C  
+Core1 Temp:   +31.0 C  
+
+it8720-isa-0228
+Adapter: ISA adapter
+in0:          +1.25 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.94 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.23 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.99 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.07 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +0.32 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +3.23 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.07 V  
+fan1:        1290 RPM  (min =    0 RPM)
+fan2:         964 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +23.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:        +79.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.300 V
+intrusion0:  ALARM
+

@@ -1,0 +1,33 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +38.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        8.15 W  (cap =  35.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+                       (crit = +72.0 C, hyst = +70.0 C)
+
+it8720-isa-0228
+Adapter: ISA adapter
+in0:         992.00 mV (min =  +0.00 V, max =  +4.08 V)
+in1:           1.62 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.26 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           2.96 V  (min =  +0.00 V, max =  +4.08 V)
+in4:           3.12 V  (min =  +0.00 V, max =  +4.08 V)
+in5:         832.00 mV (min =  +0.00 V, max =  +4.08 V)
+in6:           3.26 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:          3.02 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.14 V  
+fan1:        1642 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        2205 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:        +80.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.250 V
+intrusion0:  ALARM
+
