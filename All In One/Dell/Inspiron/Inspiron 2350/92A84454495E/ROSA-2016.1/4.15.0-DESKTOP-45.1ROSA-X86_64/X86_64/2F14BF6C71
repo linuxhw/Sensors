@@ -1,0 +1,39 @@
+f71808a-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.30 V  
+in1:          +0.01 V  
+in2:          +0.01 V  
+in3:          +0.01 V  
+3VSB:         +3.30 V  
+Vbat:         +3.12 V  
+fan1:        4109 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +65.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:       +127.0 C  (high = +85.0 C, hyst = +81.0 C)  ALARM (CRIT)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +68.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +67.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +67.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +68.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +68.0 C  (high = +84.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 4109 RPM
+CPU:            +70.0 C  
+temp2:          +65.0 C  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:       +511.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

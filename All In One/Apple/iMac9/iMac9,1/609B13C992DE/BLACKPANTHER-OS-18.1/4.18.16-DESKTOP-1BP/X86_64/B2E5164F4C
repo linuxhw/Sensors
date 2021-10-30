@@ -1,0 +1,33 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+ODD :        1269 RPM  (min =  800 RPM, max = 4800 RPM)
+HDD :        1599 RPM  (min = 1600 RPM, max = 5900 RPM)
+CPU :        1516 RPM  (min = 1514 RPM, max = 3600 RPM)
+TA0P:         +31.0 C  
+TC0D:         +69.0 C  
+TC0H:         +55.0 C  
+TC0P:         +58.0 C  
+TG0D:         +65.5 C  
+TG0H:         +58.8 C  
+TG0P:        -127.0 C  
+TH0P:         +54.5 C  
+TL0P:         +52.0 C  
+TN0D:         +83.2 C  
+TN0H:         +78.5 C  
+TN0P:         +64.2 C  
+TO0P:         +49.8 C  
+Tm0P:         +56.8 C  
+Tp0P:         +72.8 C  
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +1.00 V  (min =  +0.89 V, max =  +1.05 V)
+temp1:        +65.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +2.0 C)
+                       (emerg = +110.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +77.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +71.0 C  (high = +105.0 C, crit = +105.0 C)
+

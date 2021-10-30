@@ -1,0 +1,25 @@
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +51.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +38.0 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    247.38 J
+Ecore001:    150.25 J
+Esocket0:      2.64 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.04 V  
+Vsoc:        956.00 mV 
+Tctl:         +38.2 C  
+Tdie:         +38.2 C  
+Icore:        28.00 A  
+Isoc:          3.75 A  
+
