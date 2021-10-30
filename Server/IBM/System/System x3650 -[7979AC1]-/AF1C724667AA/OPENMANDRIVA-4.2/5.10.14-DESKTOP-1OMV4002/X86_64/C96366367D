@@ -1,0 +1,76 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+
+aem2-isa-0001
+Adapter: ISA adapter
+temp1:        +33.0 C  
+temp2:        +24.0 C  
+power1:      270.76 W  (interval =   1.00 s)
+power2:      340.80 W  (interval =   1.00 s)
+power3:       33.00 W  
+power4:      743.00 W  
+power5:      743.00 W  
+power6:      497.00 W  
+power7:      425.00 W  
+energy1:       4.13 MJ
+energy2:       7.12 MJ
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +55.5 C  (low  = +93.0 C, high = +124.0 C)
+Ch. 0 DIMM 1:  +51.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 0 DIMM 2:  +42.0 C  (low  = +91.5 C, high = +124.0 C)
+Ch. 1 DIMM 0:  +50.5 C  (low  = +93.0 C, high = +124.0 C)
+Ch. 1 DIMM 1:  +51.5 C  (low  = +93.0 C, high = +124.0 C)
+Ch. 1 DIMM 2:  +48.0 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 2 DIMM 0:  +51.0 C  (low  = +93.0 C, high = +124.0 C)
+Ch. 2 DIMM 1:  +53.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 2 DIMM 2:  +43.5 C  (low  = +91.5 C, high = +124.0 C)
+Ch. 3 DIMM 0:  +58.5 C  (low  = +93.0 C, high = +124.0 C)
+Ch. 3 DIMM 1:  +57.5 C  (low  = +92.5 C, high = +124.0 C)
+Ch. 3 DIMM 2:  +49.5 C  (low  = +92.0 C, high = +124.0 C)
+
+nouveau-pci-1c00
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+ibmpex-isa-0000
+Adapter: ISA adapter
+temp1:         +0.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+power1:      269.70 W  (lowest = 800.00 mW, highest = 623.80 W)
+power2:      272.50 W  (lowest =   3.90 W, highest = 350.50 W)
+power3:      272.80 W  (lowest =   4.70 W, highest = 347.60 W)
+power4:      272.30 W  (lowest =   5.10 W, highest = 345.50 W)
+power5:      271.40 W  (lowest =   5.40 W, highest = 343.40 W)
+power6:      268.10 W  (lowest =   7.00 W, highest = 338.90 W)
+power7:      267.90 W  (lowest =   8.00 W, highest = 314.20 W)
+power8:      269.00 W  (lowest =   8.30 W, highest = 298.00 W)
+power9:      328.00 W  (lowest =  49.00 W, highest = 738.00 W)
+power10:     350.00 W  (lowest =  54.00 W, highest = 430.00 W)
+power11:     344.00 W  (lowest =  61.00 W, highest = 422.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +33.0 C  (high = +80.0 C, crit = +100.0 C)
+
+aem1-isa-0000
+Adapter: ISA adapter
+power1:      349.28 W  (interval =   1.00 s)
+energy1:       7.12 MJ
+
+nouveau-pci-1000
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

@@ -1,0 +1,78 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +42.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 0:        +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 1:        +41.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 2:        +41.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 3:        +41.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 4:        +41.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 5:        +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 8:        +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 9:        +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 10:       +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 11:       +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 12:       +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 16:       +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 17:       +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 18:       +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 19:       +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 20:       +40.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 21:       +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 24:       +42.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 25:       +41.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 26:       +42.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 27:       +43.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 28:       +41.0 C  (high = +88.0 C, crit = +98.0 C)
+
+xclmgmt_microblaze-pci-d801
+Adapter: PCI adapter
+curr1:         6.22 A  (avg =  +6.17 A, highest = +8128.00 A)
+curr2:         1.17 A  (avg =  +1.17 A, highest =  +2.34 A)
+curr3:       562.00 mA (avg =  +0.55 A, highest =  +1.65 A)
+curr4:         0.00 A  (avg =  +0.00 A, highest =  +0.00 A)
+curr5:       1000.00 mA (avg =  +1.00 A, highest =  +1.00 A)
+curr6:       500.00 mA (avg =  +0.50 A, highest = +257.00 A)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval = 4294967.29 s)
+
+lm63-i2c-1-4c
+Adapter: xclmgmt-i2c-xiic.m.55297
+temp1:        -16.0 C  (high =  -5.0 C)                  ALARM (HIGH)
+temp2:         +0.0 C  (low  =  +0.0 C, high =  +0.0 C)  ALARM (LOW, HIGH, CRIT)
+                       (crit =  -5.0 C, hyst = -256.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 0:        +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 1:        +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 2:        +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 3:        +47.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 4:        +39.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 5:        +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 8:        +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 9:        +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 10:       +36.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 11:       +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 12:       +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 16:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 17:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 18:       +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 19:       +37.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 20:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 21:       +36.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 24:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 25:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 26:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 27:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 28:       +38.0 C  (high = +88.0 C, crit = +98.0 C)
+
+xclmgmt_sysmon-pci-d801
+Adapter: PCI adapter
+in0:         936.00 mV (lowest =  +0.93 V, highest =  +0.94 V)
+in1:           1.79 V  (lowest =  +1.76 V, highest =  +1.81 V)
+in2:         937.00 mV (lowest =  +0.93 V, highest =  +0.94 V)
+temp1:        +44.8 C  (lowest = +34.4 C, highest = +49.0 C)
+

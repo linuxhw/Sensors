@@ -1,0 +1,80 @@
+tg3-pci-0400
+Adapter: PCI adapter
+temp1:        +48.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0202
+Adapter: PCI adapter
+temp1:        +47.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0402
+Adapter: PCI adapter
+temp1:        +48.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0200
+Adapter: PCI adapter
+temp1:        +47.0 C  (high = +100.0 C, crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +19.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +19.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +21.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 6:        +21.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 7:        +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +19.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +19.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 13:       +19.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 14:       +20.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 15:       +19.0 C  (high = +83.0 C, crit = +93.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+tg3-pci-0401
+Adapter: PCI adapter
+temp1:        +48.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0203
+Adapter: PCI adapter
+temp1:        +47.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0403
+Adapter: PCI adapter
+temp1:        +48.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0201
+Adapter: PCI adapter
+temp1:        +47.0 C  (high = +100.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 6:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 7:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +28.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 13:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 14:       +28.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 15:       +28.0 C  (high = +83.0 C, crit = +93.0 C)
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +42.5 C  (crit =  +0.0 C, hyst =  +0.0 C)
+

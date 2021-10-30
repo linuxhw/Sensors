@@ -1,0 +1,28 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:         +8.3 C  (crit = +31.3 C)
+
+i350bb-pci-0200
+Adapter: PCI adapter
+loc1:         +38.0 C  (high = +120.0 C, crit = +110.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 0:        +35.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 1:        +34.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 2:        +31.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 3:        +33.0 C  (high = +84.0 C, crit = +94.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +35.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 0:        +35.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 1:        +33.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 2:        +30.0 C  (high = +84.0 C, crit = +94.0 C)
+Core 3:        +29.0 C  (high = +84.0 C, crit = +94.0 C)
+

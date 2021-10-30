@@ -1,0 +1,11 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +8.3 C  (crit = +31.3 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 1:       +36.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 2:       +37.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 3:       +38.0 C  (high = +74.0 C, crit = +100.0 C)
+

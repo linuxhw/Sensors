@@ -1,0 +1,64 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      132.00 W  (interval =   1.00 s)
+
+nvme-pci-8b00
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +46.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +38.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +34.0 C  (high = +80.0 C, crit = +98.0 C)
+
+nvme-pci-8400
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8700
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8300
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +31.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +32.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +32.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +31.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +30.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +32.0 C  (high = +80.0 C, crit = +98.0 C)
+
+nvme-pci-8c00
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8a00
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8900
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8600
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

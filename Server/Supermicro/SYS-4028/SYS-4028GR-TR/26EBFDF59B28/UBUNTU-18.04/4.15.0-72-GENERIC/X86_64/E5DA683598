@@ -1,0 +1,48 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +33.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 6:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 7:        +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 8:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 9:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 10:       +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 11:       +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 12:       +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 13:       +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 14:       +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 15:       +24.0 C  (high = +80.0 C, crit = +98.0 C)
+
+i350bb-pci-8100
+Adapter: PCI adapter
+loc1:         +40.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +31.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 6:        +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 7:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 8:        +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 9:        +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 10:       +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 11:       +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 12:       +24.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 13:       +23.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 14:       +25.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 15:       +24.0 C  (high = +80.0 C, crit = +98.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      246.00 W  (interval =   1.00 s)
+

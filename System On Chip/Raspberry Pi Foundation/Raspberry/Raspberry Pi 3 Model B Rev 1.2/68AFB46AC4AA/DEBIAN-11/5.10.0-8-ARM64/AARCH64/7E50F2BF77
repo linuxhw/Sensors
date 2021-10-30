@@ -1,0 +1,8 @@
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +54.8 C  (crit = +90.0 C)
+
+ds3231-i2c-1-68
+Adapter: bcm2835 (i2c@7e804000)
+temp1:        +32.0 C  
+

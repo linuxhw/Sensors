@@ -1,0 +1,36 @@
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 5000
+temp1:        +29.2 C  (low  =  +0.0 C)
+                       (high = +76.0 C, hyst = +76.0 C)
+                       (crit = +98.0 C, hyst = +98.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 5000
+temp1:        +30.2 C  (low  =  +0.0 C)
+                       (high = +76.0 C, hyst = +76.0 C)
+                       (crit = +98.0 C, hyst = +98.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at 5000
+temp1:        +28.8 C  (low  =  +0.0 C)
+                       (high = +76.0 C, hyst = +76.0 C)
+                       (crit = +98.0 C, hyst = +98.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at 5000
+temp1:        +29.5 C  (low  =  +0.0 C)
+                       (high = +76.0 C, hyst = +76.0 C)
+                       (crit = +98.0 C, hyst = +98.0 C)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +55.5 C  
+

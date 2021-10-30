@@ -1,0 +1,19 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +13.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:       +13.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:        +8.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:       +9.0 C  (high = +85.0 C, crit = +95.0 C)
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +31.5 C  (high = +95.0 C, hyst = +90.0 C)  ALARM (HIGH)
+                       (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +11.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:       +17.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:       +12.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:      +15.0 C  (high = +85.0 C, crit = +95.0 C)
+

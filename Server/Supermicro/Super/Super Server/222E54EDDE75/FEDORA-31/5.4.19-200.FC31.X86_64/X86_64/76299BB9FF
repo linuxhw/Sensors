@@ -1,0 +1,23 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval =   1.00 s)
+
+amdgpu-pci-6500
+Adapter: PCI adapter
+vddgfx:       +0.85 V  
+fan1:        2287 RPM  (min = 1800 RPM, max = 6000 RPM)
+edge:         +48.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:       10.23 W  (cap =  35.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +26.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +26.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+

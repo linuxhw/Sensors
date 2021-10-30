@@ -1,0 +1,27 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +28.0 C  (high = +80.0 C, crit = +96.0 C)
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +47.0 C  (high = +100.0 C, hyst = +95.0 C)
+                       (crit = +110.0 C)
+
+radeon-pci-0400
+Adapter: PCI adapter
+temp1:        +56.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +25.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +33.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +22.0 C  (high = +80.0 C, crit = +96.0 C)
+

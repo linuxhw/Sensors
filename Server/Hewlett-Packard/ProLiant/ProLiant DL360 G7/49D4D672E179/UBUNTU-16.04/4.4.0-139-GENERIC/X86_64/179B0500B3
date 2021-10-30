@@ -1,0 +1,26 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:         +8.3*C  (crit = +31.3*C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +28.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 1:       +31.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 2:       +30.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 8:       +25.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 9:       +30.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 10:      +35.0*C  (high = +80.0*C, crit = +96.0*C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +38.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 1:       +31.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 2:       +35.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 8:       +30.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 9:       +32.0*C  (high = +80.0*C, crit = +96.0*C)
+Core 10:      +30.0*C  (high = +80.0*C, crit = +96.0*C)
+

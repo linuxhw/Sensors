@@ -1,0 +1,32 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +57.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 0:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 1:         +49.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 2:         +50.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 3:         +51.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 4:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 5:         +49.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 6:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 7:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Physical id 1:  +59.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 0:         +53.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 1:         +49.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 2:         +49.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 3:         +53.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 4:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 5:         +48.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 6:         +52.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 7:         +51.0 C  (high = +77.0 C, crit = +87.0 C)
+
+tg3-pci-0200
+Adapter: PCI adapter
+temp1:        +46.0 C  (high = +100.0 C, crit = +110.0 C)
+

@@ -1,0 +1,31 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +28.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +28.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +28.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+
+nouveau-pci-1800
+Adapter: PCI adapter
+fan1:        1852 RPM
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+

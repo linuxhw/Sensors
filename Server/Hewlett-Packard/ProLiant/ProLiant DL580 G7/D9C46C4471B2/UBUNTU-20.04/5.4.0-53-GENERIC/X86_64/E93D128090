@@ -1,0 +1,60 @@
+coretemp-isa-0002
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 1:       +44.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 2:       +43.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 8:       +49.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 9:       +44.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 16:      +48.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 17:      +52.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 18:      +48.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 24:      +47.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 25:      +44.0 C  (high = +86.0 C, crit = +94.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 1:       +39.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 2:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 8:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 9:       +43.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 16:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 17:      +40.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 18:      +45.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 24:      +45.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 25:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +8.3 C  (crit = +31.3 C)
+
+coretemp-isa-0003
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 1:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 2:       +45.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 8:       +43.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 9:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 16:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 17:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 18:      +44.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 24:      +43.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 25:      +38.0 C  (high = +86.0 C, crit = +94.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 1:       +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 2:       +44.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 8:       +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 9:       +37.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 16:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 17:      +42.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 18:      +41.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 24:      +39.0 C  (high = +86.0 C, crit = +94.0 C)
+Core 25:      +38.0 C  (high = +86.0 C, crit = +94.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+

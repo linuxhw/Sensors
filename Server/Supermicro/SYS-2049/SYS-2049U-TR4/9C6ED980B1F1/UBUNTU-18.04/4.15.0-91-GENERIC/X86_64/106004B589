@@ -1,0 +1,72 @@
+coretemp-isa-0002
+Adapter: ISA adapter
+Package id 2:  +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +62.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +62.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +61.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +61.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +62.0 C  (high = +90.0 C, crit = +100.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +62.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +69.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +69.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +70.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +68.0 C  (high = +90.0 C, crit = +100.0 C)
+
+i350bb-pci-3300
+Adapter: PCI adapter
+loc1:         +47.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0003
+Adapter: ISA adapter
+Package id 3:  +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +56.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +57.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +60.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +64.0 C  (high = +90.0 C, crit = +100.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +74.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +73.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +73.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +72.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +74.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +72.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +72.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +74.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +72.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +62.0 C  (high = +90.0 C, crit = +100.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      742.00 W  (interval =   1.00 s)
+

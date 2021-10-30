@@ -1,0 +1,66 @@
+jc42-i2c-0-1d
+Adapter: SMBus I801 adapter at 4000
+temp1:        +37.2 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +82.0 C, hyst = +82.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at 4000
+temp1:        +35.5 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +74.0 C, hyst = +74.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at 4000
+temp1:        +35.5 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +74.0 C, hyst = +74.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +25.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +31.0 C  (high = +80.0 C, crit = +96.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:         915 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       29.14 W  (cap = 120.00 W)
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +45.5 C  (high = +95.0 C, hyst = +90.0 C)  ALARM (HIGH)
+                       (crit = +110.0 C)
+
+jc42-i2c-0-1c
+Adapter: SMBus I801 adapter at 4000
+temp1:        +36.8 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +82.0 C, hyst = +82.0 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 4000
+temp1:        +36.0 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +82.0 C, hyst = +82.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 4000
+temp1:        +35.2 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit = +81.5 C, hyst = +81.5 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +36.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +30.0 C  (high = +80.0 C, crit = +96.0 C)
+

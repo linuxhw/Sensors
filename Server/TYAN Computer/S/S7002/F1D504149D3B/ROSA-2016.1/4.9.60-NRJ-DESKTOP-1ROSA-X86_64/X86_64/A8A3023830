@@ -1,0 +1,55 @@
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 0400
+temp1:        +38.8°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +33.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 1:       +30.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 2:       +39.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 8:       +29.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 9:       +32.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 10:      +31.0°C  (high = +80.0°C, crit = +96.0°C)
+
+w83793-i2c-0-2f
+Adapter: SMBus I801 adapter at 0400
+VcoreA:       +1.04 V  (min =  +0.00 V, max =  +2.05 V)
+VcoreB:       +1.04 V  (min =  +0.00 V, max =  +2.05 V)
+in2:          +1.09 V  (min =  +0.00 V, max =  +2.05 V)
+in3:          +1.47 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +1.07 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +3.18 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +0.99 V  (min =  +0.00 V, max =  +2.04 V)
++5V:          +4.76 V  (min =  +4.52 V, max =  +5.50 V)
+5VSB:         +4.73 V  (min =  +4.52 V, max =  +5.50 V)
+Vbat:         +3.09 V  (min =  +2.70 V, max =  +3.30 V)
+fan1:         712 RPM  (min =  800 RPM)  ALARM
+fan2:           0 RPM  (min =  800 RPM)  ALARM
+fan3:           0 RPM  (min =  800 RPM)  ALARM
+fan4:           0 RPM  (min =  800 RPM)  ALARM
+fan5:           0 RPM  (min =  800 RPM)  ALARM
+fan6:        1953 RPM  (min =    0 RPM)
+fan7:           0 RPM  (min =    0 RPM)
+fan8:           0 RPM  (min =    0 RPM)
+fan9:           0 RPM  (min =    0 RPM)  ALARM
+fan10:          0 RPM  (min =    0 RPM)  ALARM
+fan11:          0 RPM  (min =    0 RPM)  ALARM
+fan12:          0 RPM  (min =    0 RPM)  ALARM
+temp1:        +36.8°C  (high = +100.0°C, hyst = +95.0°C)  sensor = Intel PECI
+temp2:        +37.8°C  (high = +100.0°C, hyst = +95.0°C)  sensor = Intel PECI
+temp5:        -63.0°C  (high = +100.0°C, hyst = +95.0°C)  sensor = thermistor
+temp6:        +43.0°C  (high = +100.0°C, hyst = +95.0°C)  sensor = thermistor
+intrusion0:  OK
+beep_enable: disabled
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +30.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 1:       +31.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 2:       +31.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 8:       +34.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 9:       +31.0°C  (high = +80.0°C, crit = +96.0°C)
+Core 10:      +29.0°C  (high = +80.0°C, crit = +96.0°C)
+

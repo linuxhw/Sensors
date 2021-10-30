@@ -1,0 +1,41 @@
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at 5000
+temp1:        +28.7 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +23.9 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at 5000
+temp1:        +28.7 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +25.9 C  
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval =   1.00 s)
+

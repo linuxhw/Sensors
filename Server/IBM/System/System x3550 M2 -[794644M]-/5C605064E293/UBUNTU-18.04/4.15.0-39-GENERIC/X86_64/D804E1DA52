@@ -1,0 +1,37 @@
+jc42-i2c-1-1b
+Adapter: SMBus I801 adapter at 2000
+temp1:        +27.2 C  (low  =  +0.0 C)
+                       (high = +82.0 C, hyst = +79.0 C)
+                       (crit = +87.0 C, hyst = +84.0 C)
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +50.5 C  (high = +100.0 C, hyst = +90.0 C)
+                       (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 1:       +35.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 2:       +35.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 3:       +33.0 C  (high = +87.0 C, crit = +103.0 C)
+
+jc42-i2c-1-1e
+Adapter: SMBus I801 adapter at 2000
+temp1:        +28.2 C  (low  =  +0.0 C)
+                       (high = +82.0 C, hyst = +79.0 C)
+                       (crit = +87.0 C, hyst = +84.0 C)
+
+jc42-i2c-1-18
+Adapter: SMBus I801 adapter at 2000
+temp1:        +26.8 C  (low  =  +0.0 C)
+                       (high = +82.0 C, hyst = +79.0 C)
+                       (crit = +87.0 C, hyst = +84.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 1:       +38.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 2:       +40.0 C  (high = +87.0 C, crit = +103.0 C)
+Core 3:       +37.0 C  (high = +87.0 C, crit = +103.0 C)
+

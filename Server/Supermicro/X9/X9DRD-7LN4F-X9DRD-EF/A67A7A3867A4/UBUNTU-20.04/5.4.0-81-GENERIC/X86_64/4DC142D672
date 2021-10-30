@@ -1,0 +1,28 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +65.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +62.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +64.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +63.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +64.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +64.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +62.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +64.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +64.0 C  (high = +80.0 C, crit = +90.0 C)
+
+i350bb-pci-0500
+Adapter: PCI adapter
+loc1:         +63.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +49.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +43.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +49.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +46.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +43.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +46.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +45.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +46.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +45.0 C  (high = +80.0 C, crit = +90.0 C)
+

@@ -1,0 +1,32 @@
+i350bb-pci-0700
+Adapter: PCI adapter
+loc1:         +65.0*C  (high = +120.0*C, crit = +110.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +54.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 0:         +54.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 1:         +52.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 2:         +53.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 3:         +54.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 4:         +49.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 8:         +50.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 9:         +53.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 10:        +54.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 11:        +52.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 12:        +48.0*C  (high = +71.0*C, crit = +81.0*C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Physical id 1:  +61.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 0:         +56.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 1:         +60.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 2:         +57.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 3:         +56.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 4:         +59.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 8:         +57.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 9:         +57.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 10:        +57.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 11:        +60.0*C  (high = +71.0*C, crit = +81.0*C)
+Core 12:        +57.0*C  (high = +71.0*C, crit = +81.0*C)
+

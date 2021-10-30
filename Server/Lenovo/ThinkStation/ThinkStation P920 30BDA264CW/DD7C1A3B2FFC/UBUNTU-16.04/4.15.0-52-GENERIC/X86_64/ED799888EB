@@ -1,0 +1,46 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 0:        +46.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 1:        +46.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 2:        +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 3:        +46.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 4:        +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 5:        +47.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 8:        +47.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 9:        +46.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 10:       +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 11:       +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 12:       +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 13:       +45.0 C  (high = +77.0 C, crit = +87.0 C)
+
+nouveau-pci-1800
+Adapter: PCI adapter
+fan1:        1023 RPM
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 0:        +43.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 1:        +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 2:        +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 3:        +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 4:        +43.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 5:        +45.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 8:        +43.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 9:        +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 10:       +41.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 11:       +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 12:       +42.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 13:       +43.0 C  (high = +77.0 C, crit = +87.0 C)
+
+nouveau-pci-3b00
+Adapter: PCI adapter
+fan1:        1060 RPM
+temp1:        +48.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

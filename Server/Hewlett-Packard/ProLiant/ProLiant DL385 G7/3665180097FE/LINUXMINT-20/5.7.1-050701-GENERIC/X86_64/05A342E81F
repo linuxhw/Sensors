@@ -1,0 +1,22 @@
+k10temp-pci-00db
+Adapter: PCI adapter
+temp1:        +33.0 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +65.0 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+temp1:        +27.0 C  (high = +70.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+temp1:        +33.0 C  (high = +70.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +27.0 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +65.0 C)
+

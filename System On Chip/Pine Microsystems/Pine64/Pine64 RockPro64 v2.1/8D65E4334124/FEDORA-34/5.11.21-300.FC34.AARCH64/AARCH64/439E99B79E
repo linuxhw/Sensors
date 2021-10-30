@@ -1,0 +1,13 @@
+gpu-virtual-0
+Adapter: Virtual device
+temp1:        +38.8 C  (crit = +95.0 C)
+
+tcpm_source_psy_4_0022-i2c-4-22
+Adapter: rk3x-i2c
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+cpu-virtual-0
+Adapter: Virtual device
+temp1:        +42.2 C  (crit = +95.0 C)
+

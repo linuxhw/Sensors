@@ -1,0 +1,98 @@
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 0580
+temp1:        +43.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+drivetemp-scsi-7-0
+Adapter: SCSI adapter
+temp1:         +0.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +26.0 C, highest = +39.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 0580
+temp1:        +41.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nct6776-isa-0a30
+Adapter: ISA adapter
+Vcore:                   1.76 V  (min =  +1.26 V, max =  +2.00 V)
+in1:                     1.81 V  (min =  +1.55 V, max =  +2.02 V)
+AVCC:                    3.30 V  (min =  +2.90 V, max =  +3.66 V)
++3.3V:                   3.30 V  (min =  +2.83 V, max =  +3.66 V)
+in4:                     1.36 V  (min =  +1.12 V, max =  +1.72 V)
+in5:                     1.26 V  (min =  +1.07 V, max =  +1.39 V)
+in6:                     1.05 V  (min =  +0.90 V, max =  +1.22 V)
+3VSB:                    3.28 V  (min =  +2.90 V, max =  +3.66 V)
+Vbat:                    3.20 V  (min =  +2.50 V, max =  +3.60 V)
+RearFan:                844 RPM  (min =  200 RPM)
+CPUFan:                2389 RPM  (min =  200 RPM)
+FronFan:               1584 RPM  (min =  200 RPM)
+SYSTIN:                 +36.0 C  (high = +85.0 C, hyst = +80.0 C)  sensor = thermistor
+CPUTIN:                 +33.0 C  (high = +85.0 C, hyst = +80.0 C)  sensor = thermistor
+AUXTIN:                 +23.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PECI Agent 0:           +62.0 C  (high = +95.0 C, hyst = +92.0 C)
+                                 (crit = +100.0 C)
+PCH_CHIP_CPU_MAX_TEMP:  +57.0 C  (high = +95.0 C, hyst = +90.0 C)
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+beep_enable:           enabled
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +39.0 C  (lowest = +39.0 C, highest = +39.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +46.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +41.0 C, highest = +53.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at 0580
+temp1:        +42.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:        1186 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       43.08 W  (cap = 145.00 W)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at 0580
+temp1:        +42.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+temp1:         +0.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +28.0 C, highest = +40.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (lowest = +35.0 C, highest = +35.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +61.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +61.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +51.0 C  (high = +80.0 C, crit = +100.0 C)
+

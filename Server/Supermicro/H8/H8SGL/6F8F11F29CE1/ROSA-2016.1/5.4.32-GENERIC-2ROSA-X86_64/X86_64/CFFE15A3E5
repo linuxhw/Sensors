@@ -1,0 +1,60 @@
+w83795g-i2c-13-2f
+Adapter: SMBus PIIX4 adapter at 0b00
+in0:         992.00 mV (min =  +0.68 V, max =  +1.45 V)
+in2:           1.36 V  (min =  +1.12 V, max =  +1.65 V)
+in6:           1.10 V  (min =  +0.98 V, max =  +1.21 V)
+in7:           1.85 V  (min =  +1.62 V, max =  +1.99 V)
+in8:           1.26 V  (min =  +1.13 V, max =  +1.38 V)
+in9:           1.81 V  (min =  +1.63 V, max =  +2.00 V)
+in10:          1.47 V  (min =  +1.42 V, max =  +1.53 V)
+in11:          1.19 V  (min =  +1.08 V, max =  +1.33 V)
++3.3V:         3.28 V  (min =  +2.96 V, max =  +3.63 V)
+3VSB:          3.26 V  (min =  +2.96 V, max =  +3.63 V)
+Vbat:          3.25 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =  712 RPM)  ALARM
+fan2:           0 RPM  (min =  712 RPM)  ALARM
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:        5152 RPM  (min =  712 RPM)
+fan5:           0 RPM  (min =  712 RPM)  ALARM
+fan6:           0 RPM  (min =  712 RPM)  ALARM
+temp3:        +50.0 C  (high = +127.0 C, hyst = +127.0 C)
+                       (crit = +85.0 C, hyst = +80.0 C)  sensor = thermal diode
+temp6:        +46.8 C  (high = +127.0 C, hyst = +127.0 C)
+                       (crit = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+temp7:        +21.5 C  (high = +70.0 C, hyst = +67.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)  sensor = AMD AMDSI
+intrusion0:  OK
+beep_enable: disabled
+
+jc42-i2c-13-1e
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +46.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+temp1:        +20.8 C  (high = +70.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.88 V, max =  +1.08 V)
+temp1:        +51.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+jc42-i2c-13-1f
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +47.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       49.97 W  (crit = 115.17 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +21.6 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+

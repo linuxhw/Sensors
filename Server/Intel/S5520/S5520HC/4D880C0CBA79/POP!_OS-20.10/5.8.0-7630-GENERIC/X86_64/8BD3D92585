@@ -1,0 +1,30 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +39.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +37.0 C  (high = +80.0 C, crit = +96.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:        1.02 V  
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +42.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       20.05 W  (cap =  83.00 W)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +33.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +38.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +35.0 C  (high = +80.0 C, crit = +96.0 C)
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +68.0 C  (high = +95.0 C, hyst = +90.0 C)
+                       (crit = +110.0 C)
+
