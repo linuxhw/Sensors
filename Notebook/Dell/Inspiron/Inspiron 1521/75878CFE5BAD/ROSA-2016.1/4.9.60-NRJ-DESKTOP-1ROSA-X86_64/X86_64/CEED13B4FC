@@ -1,0 +1,17 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2998 RPM
+CPU:            +37.0°C  
+SODIMM:         +37.0°C  
+Other:          +42.0°C  
+Other:          +68.0°C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +37.5°C  (crit = +95.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+Core1 Temp:   +31.0°C  
+
