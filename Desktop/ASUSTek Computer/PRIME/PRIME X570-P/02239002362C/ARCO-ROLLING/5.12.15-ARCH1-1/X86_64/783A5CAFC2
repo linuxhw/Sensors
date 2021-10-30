@@ -1,0 +1,18 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+fan1:        1521 RPM  (min =    0 RPM, max = 3900 RPM)
+edge:         +32.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.19 W  (cap =  46.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.8 C  
+Tdie:         +48.8 C  
+Tccd1:        +47.8 C  
+

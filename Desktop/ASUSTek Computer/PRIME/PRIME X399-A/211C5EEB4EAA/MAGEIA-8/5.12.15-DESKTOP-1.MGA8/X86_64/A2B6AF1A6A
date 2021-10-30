@@ -1,0 +1,36 @@
+nouveau-pci-4200
+Adapter: PCI adapter
+fan1:         637 RPM
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +74.0 C  
+Tdie:         +47.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +72.2 C  
+Tdie:         +45.2 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +66.8 C  (low  = -273.1 C, high = +109.8 C)
+                       (crit = +129.8 C)
+Sensor 2:     +88.8 C  (low  = -273.1 C, high = -273.1 C)
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +70.8 C  
+Tdie:         +43.8 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +74.4 C  
+Tdie:         +47.4 C  
+Tccd1:        +71.0 C  
+Tccd2:        +70.5 C  
+Tccd3:        +74.5 C  
+

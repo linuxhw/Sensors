@@ -1,0 +1,49 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    620.13 J
+Ecore001:    185.21 J
+Ecore002:    204.43 J
+Ecore003:    183.49 J
+Ecore004:    156.27 J
+Ecore005:    138.22 J
+Ecore006:    142.31 J
+Ecore007:    159.79 J
+Esocket0:     13.11 kJ
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      768.00 mV 
+fan1:           9 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +35.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +37.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +36.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        5.00 W  (cap = 222.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.34 V  
+Vsoc:          1.09 V  
+Tctl:         +32.0 C  
+Tdie:         +32.0 C  
+Icore:         4.00 A  
+Isoc:          8.50 A  
+
+nouveau-pci-0d00
+Adapter: PCI adapter
+GPU core:    875.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:        1290 RPM
+temp1:        +37.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       22.70 W  (crit = 225.00 mW)
+

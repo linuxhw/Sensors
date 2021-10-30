@@ -1,0 +1,34 @@
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +42.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +26.0 C, highest = +51.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.20 V  
+fan1:        1207 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +69.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:      107.04 W  (cap = 183.00 W)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  =  -5.0 C, high = +80.0 C)
+                       (crit low = -10.0 C, crit = +85.0 C)
+                       (lowest = +23.0 C, highest = +42.0 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.40 V  
+SVI2_SoC:      1.01 V  
+Tdie:         +52.4 C  (high = +95.0 C)
+Tctl:         +62.4 C  
+SVI2_P_Core:  80.02 W  
+SVI2_P_SoC:   14.25 W  
+SVI2_C_Core:  51.96 A  
+SVI2_C_SoC:   14.07 A  
+

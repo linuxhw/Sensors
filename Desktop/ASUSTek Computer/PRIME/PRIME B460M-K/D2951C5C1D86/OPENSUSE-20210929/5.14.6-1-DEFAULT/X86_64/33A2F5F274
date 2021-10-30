@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +40.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +36.0 C  (high = +84.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +53.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1726 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +45.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       34.08 W  (cap = 175.00 W)
+

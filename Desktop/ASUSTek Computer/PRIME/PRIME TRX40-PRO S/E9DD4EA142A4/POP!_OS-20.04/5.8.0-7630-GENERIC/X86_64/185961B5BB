@@ -1,0 +1,44 @@
+nvme-pci-4700
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +77.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:      4.53 kJ
+Ecore001:      4.48 kJ
+Ecore002:      4.55 kJ
+Ecore003:      4.37 kJ
+Ecore004:      4.45 kJ
+Ecore005:      4.41 kJ
+Ecore006:      3.99 kJ
+Ecore007:      3.96 kJ
+Ecore008:      3.92 kJ
+Ecore009:      3.88 kJ
+Ecore010:      3.77 kJ
+Ecore011:      3.76 kJ
+Ecore012:      4.49 kJ
+Ecore013:      4.45 kJ
+Ecore014:      4.46 kJ
+Ecore015:      4.51 kJ
+Ecore016:      4.36 kJ
+Ecore017:      4.36 kJ
+Ecore018:      3.93 kJ
+Ecore019:      3.91 kJ
+Ecore020:      3.87 kJ
+Ecore021:      3.94 kJ
+Ecore022:      3.88 kJ
+Ecore023:      3.91 kJ
+Esocket0:    278.34 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.1 C  
+Tdie:         +50.1 C  
+Tccd1:        +45.8 C  
+Tccd3:        +40.5 C  
+Tccd5:        +44.5 C  
+Tccd7:        +48.0 C  
+

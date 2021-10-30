@@ -1,0 +1,30 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.43 V  
+SVI2_SoC:      1.02 V  
+Tdie:         +52.9 C  (high = +95.0 C)
+Tctl:         +52.9 C  
+Tccd1:        +46.2 C  
+SVI2_P_Core:  15.96 W  
+SVI2_P_SoC:    8.10 W  
+SVI2_C_Core:  11.20 A  
+SVI2_C_SoC:    7.95 A  
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.41 V  
++12V Voltage:             11.97 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.33 V  
+CPU Fan:                 1295 RPM
+Chassis Fan 1:            831 RPM
+Chassis Fan 2:            913 RPM
+Chassis Fan 3:            906 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                 1286 RPM
+CPU Temperature:          +52.0 C  
+Motherboard Temperature:  +38.0 C  
+Chipset Temperature:      +53.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+

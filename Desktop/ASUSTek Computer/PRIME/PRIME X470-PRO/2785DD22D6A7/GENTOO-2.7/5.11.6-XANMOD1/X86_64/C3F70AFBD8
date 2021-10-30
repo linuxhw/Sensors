@@ -1,0 +1,73 @@
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +32.0 C, highest = +38.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +30.0 C, highest = +37.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +30.0 C, highest = +58.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.9 C  
+Tdie:         +52.9 C  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.12 V  
+fan1:        1724 RPM  (min =    0 RPM, max = 2400 RPM)
+edge:         +66.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       52.12 W  (cap =  95.00 W)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.31 V  
++12V Voltage:             11.84 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.33 V  
+CPU Fan:                 2184 RPM
+Chassis Fan 1:           1080 RPM
+Chassis Fan 2:            613 RPM
+Chassis Fan 3:            618 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +52.0 C  
+Motherboard Temperature:  +39.0 C  
+Chipset Temperature:      +48.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +85.0 C)
+                       (lowest = +31.0 C, highest = +37.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +33.0 C, highest = +39.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +29.0 C, highest = +35.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+

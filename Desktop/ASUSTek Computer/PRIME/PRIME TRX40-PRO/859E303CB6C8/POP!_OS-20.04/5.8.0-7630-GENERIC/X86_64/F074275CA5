@@ -1,0 +1,109 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.2 C  
+Tdie:         +54.2 C  
+Tccd1:        +37.8 C  
+Tccd3:        +36.5 C  
+Tccd5:        +35.2 C  
+Tccd7:        +51.8 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-4900
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+nvme-pci-2400
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     16.48 kJ
+Ecore001:     12.90 kJ
+Ecore002:     12.50 kJ
+Ecore003:     19.16 kJ
+Ecore004:     18.87 kJ
+Ecore005:     18.32 kJ
+Ecore006:     16.42 kJ
+Ecore007:     17.26 kJ
+Ecore008:     14.95 kJ
+Ecore009:     20.29 kJ
+Ecore010:     17.76 kJ
+Ecore011:     24.77 kJ
+Ecore012:     15.62 kJ
+Ecore013:     15.28 kJ
+Ecore014:     14.80 kJ
+Ecore015:     17.01 kJ
+Ecore016:     14.21 kJ
+Ecore017:     13.66 kJ
+Ecore018:     14.86 kJ
+Ecore019:     14.69 kJ
+Ecore020:     13.71 kJ
+Ecore021:     17.49 kJ
+Ecore022:     14.69 kJ
+Ecore023:     14.45 kJ
+Esocket0:      6.19 MJ
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                        1.32 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.74 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      592.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                        1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     136.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                       1.21 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                       1.79 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                      575 RPM  (min =    0 RPM)
+fan2:                      666 RPM  (min =    0 RPM)
+fan3:                      522 RPM  (min =    0 RPM)
+fan5:                      562 RPM  (min =    0 RPM)
+fan6:                        0 RPM  (min =    0 RPM)
+fan7:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +29.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +35.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +23.5 C    sensor = thermistor
+AUXTIN1:                   +97.0 C    sensor = thermistor
+AUXTIN2:                   +15.0 C    sensor = thermistor
+AUXTIN3:                   -21.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +34.5 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+nvme-pci-4800
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

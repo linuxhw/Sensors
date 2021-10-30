@@ -1,0 +1,56 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    152.61 J
+Ecore001:     62.11 J
+Ecore002:     66.37 J
+Ecore003:     73.53 J
+Ecore004:     47.15 J
+Ecore005:     46.10 J
+Ecore006:     50.10 J
+Ecore007:     54.25 J
+Ecore008:     48.33 J
+Ecore009:     50.83 J
+Ecore010:     51.12 J
+Ecore011:     52.94 J
+Ecore012:     47.58 J
+Ecore013:     43.49 J
+Ecore014:     46.75 J
+Ecore015:     44.49 J
+Ecore016:     51.83 J
+Ecore017:     49.81 J
+Ecore018:     62.94 J
+Ecore019:     56.15 J
+Ecore020:     43.87 J
+Ecore021:     46.37 J
+Ecore022:     47.46 J
+Ecore023:     45.20 J
+Ecore024:     43.88 J
+Ecore025:     35.49 J
+Ecore026:     36.27 J
+Ecore027:     32.52 J
+Ecore028:     40.17 J
+Ecore029:     41.90 J
+Ecore030:     40.45 J
+Ecore031:     37.10 J
+Esocket0:    425.26 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.2 C  
+Tdie:         +50.2 C  
+Tccd1:        +33.0 C  
+Tccd3:        +31.0 C  
+Tccd5:        +32.0 C  
+Tccd7:        +31.8 C  
+
+nvme-pci-4800
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+enp67s0-pci-4300
+Adapter: PCI adapter
+PHY Temperature:  +55.0 C  
+

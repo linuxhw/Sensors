@@ -1,0 +1,23 @@
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:        948.00 mV 
++12V Voltage:             12.23 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.33 V  
+CPU Fan:                  869 RPM
+Chassis Fan 1:            842 RPM
+Chassis Fan 2:            767 RPM
+Chassis Fan 3:           1320 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +55.0 C  
+Motherboard Temperature:  +27.0 C  
+Chipset Temperature:       +0.0 C  
+Tsensor 1 Temperature:     +0.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +55.4 C  (high = +70.0 C)
+Tctl:         +55.4 C  
+

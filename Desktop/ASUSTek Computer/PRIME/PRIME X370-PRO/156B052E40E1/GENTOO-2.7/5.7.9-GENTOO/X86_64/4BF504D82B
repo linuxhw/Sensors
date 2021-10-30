@@ -1,0 +1,24 @@
+it8628-isa-0290
+Adapter: ISA adapter
+in0:           1.16 V  (min =  +0.00 V, max =  +1.43 V)
+in1:           2.74 V  (min =  +2.65 V, max =  +2.65 V)
+in2:           2.20 V  (min =  +0.00 V, max =  +2.80 V)
++5V:           4.37 V  (min =  +5.74 V, max =  +2.95 V)
+in4:          36.00 mV (min =  +1.32 V, max =  +2.86 V)
+in5:          36.00 mV (min =  +2.04 V, max =  +2.47 V)
+in6:          36.00 mV (min =  +1.48 V, max =  +1.52 V)
+3VSB:          3.58 V  (min =  +5.54 V, max =  +5.30 V)
+Vbat:          3.53 V  
+in12:        456.00 mV 
+fan1:         747 RPM  (min =   10 RPM)
+fan3:           0 RPM  (min =   58 RPM)  ALARM
+fan5:           0 RPM  (min =   -1 RPM)  ALARM
+temp1:        +41.0 C  (low  = -45.0 C, high = -34.0 C)  sensor = thermistor
+temp2:        +42.0 C  (low  =  -9.0 C, high = -86.0 C)  sensor = thermistor
+temp3:        +38.0 C  (low  = -58.0 C, high =  -3.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+radeon-pci-0400
+Adapter: PCI adapter
+temp1:        +46.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

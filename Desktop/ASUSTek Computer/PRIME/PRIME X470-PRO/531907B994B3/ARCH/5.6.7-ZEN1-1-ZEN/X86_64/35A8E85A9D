@@ -1,0 +1,52 @@
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.27 V  
++12V Voltage:             12.10 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.31 V  
+CPU Fan:                  650 RPM
+Chassis Fan 1:           1308 RPM
+Chassis Fan 2:           1069 RPM
+Chassis Fan 3:           1057 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +44.0 C  
+Motherboard Temperature:  +32.0 C  
+Chipset Temperature:       +0.0 C  
+Tsensor 1 Temperature:     +0.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.28 V  
+Vsoc:          1.09 V  
+Tdie:         +44.8 C  
+Tctl:         +44.8 C  
+Tccd1:        +37.2 C  
+Icore:        10.00 A  
+Isoc:          8.75 A  
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1157 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +35.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +35.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +38.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:        8.00 W  (cap = 180.00 W)
+

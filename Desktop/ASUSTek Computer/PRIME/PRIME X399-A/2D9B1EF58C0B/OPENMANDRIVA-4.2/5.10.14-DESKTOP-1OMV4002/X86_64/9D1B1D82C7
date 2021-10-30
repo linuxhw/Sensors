@@ -1,0 +1,95 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +59.4 C  
+Tdie:         +32.4 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    668.70 J
+Ecore001:    231.39 J
+Ecore002:    206.58 J
+Ecore003:    264.54 J
+Ecore004:    331.67 J
+Ecore005:    298.83 J
+Ecore006:    237.97 J
+Ecore007:    215.43 J
+Ecore008:    214.78 J
+Ecore009:    233.90 J
+Ecore010:    233.83 J
+Ecore011:    243.40 J
+Ecore012:    186.04 J
+Ecore013:    202.64 J
+Ecore014:    212.89 J
+Ecore015:    218.37 J
+Ecore016:    239.64 J
+Ecore017:    242.87 J
+Ecore018:    178.20 J
+Ecore019:    175.36 J
+Ecore020:    190.93 J
+Ecore021:    209.50 J
+Ecore022:    216.07 J
+Ecore023:    226.14 J
+Esocket0:     28.72 kJ
+Esocket1:     28.72 kJ
+Esocket2:     28.72 kJ
+Esocket3:     28.72 kJ
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +62.8 C  
+Tdie:         +35.8 C  
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +62.0 C  
+Tdie:         +35.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.9 C  
+Tdie:         +35.9 C  
+Tccd1:        +59.2 C  
+Tccd2:        +62.5 C  
+Tccd3:        +62.5 C  
+
+nouveau-pci-4200
+Adapter: PCI adapter
+fan1:        1205 RPM
+temp1:        +25.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0d00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

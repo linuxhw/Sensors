@@ -1,0 +1,44 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.39 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +50.6 C  (high = +95.0 C)
+Tctl:         +50.6 C  
+Tccd1:        +49.2 C  
+SVI2_P_Core:  37.65 W  
+SVI2_P_SoC:   11.21 W  
+SVI2_C_Core:  31.62 A  
+SVI2_C_SoC:   10.59 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+it8665-isa-0290
+Adapter: ISA adapter
+VDDCR CPU:   937.00 mV (min =  +0.64 V, max =  +1.98 V)
+VCCP2:         2.50 V  (min =  +2.17 V, max =  +2.76 V)
+in2:           1.98 V  (min =  +1.67 V, max =  +1.41 V)
++12V:          3.31 V  (min =  +1.15 V, max =  +4.58 V)
++5V:         125.40 mV (min =  +8.91 V, max =  +4.89 V)
+in5:          33.00 mV (min =  +1.61 V, max =  +2.41 V)
+in6:          33.00 mV (min =  +1.98 V, max =  +2.40 V)
+3VSB:          3.29 V  (min =  +2.03 V, max =  +3.95 V)
+Vbat:          3.25 V  
++3.3V:         3.31 V  
+CPU Fan:     1159 RPM  (min =   28 RPM)
+AIO Pump:     748 RPM  (min =   15 RPM)
+Chassis 1:    842 RPM  (min =   29 RPM)
+Chassis 2:    884 RPM  (min =   -1 RPM)  ALARM
+AIO Pump_W+:  769 RPM  (min =   -1 RPM)  ALARM
+CPU temp:     +46.0 C  (low  = +120.0 C, high = -68.0 C)
+MB temp:      +34.0 C  (low  =  -7.0 C, high = +62.0 C)  sensor = thermistor
+VRM temp:     +36.0 C  (low  = +111.0 C, high = -89.0 C)  sensor = thermistor
+temp4:        +36.0 C  (low  = -46.0 C, high = -36.0 C)  sensor = thermistor
+temp5:        +36.0 C  (low  = -81.0 C, high = -26.0 C)  sensor = thermistor
+temp6:        +36.0 C  (low  = -51.0 C, high = -19.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
