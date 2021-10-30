@@ -1,0 +1,18 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +56.0°C  (crit = +110.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:       +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:       +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:       +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+i8k-virtual-0
+Adapter: Virtual device
+Processor Fan: 5132 RPM
+CPU:            +56.0°C  
+Ambient:        +49.0°C  
+Ambient:        +48.0°C  
+

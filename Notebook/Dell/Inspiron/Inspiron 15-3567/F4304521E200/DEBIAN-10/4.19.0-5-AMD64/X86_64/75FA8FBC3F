@@ -1,0 +1,16 @@
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +63.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +34.0 C  
+Ambient:        +32.0 C  
+

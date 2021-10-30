@@ -1,0 +1,26 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+CPU:          +76.0 C  
+Ambient:      +64.0 C  
+Ambient:      +60.0 C  
+Ambient:      +60.0 C  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +70.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +78.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +79.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +79.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +79.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +71.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +79.0 C  (crit = +89.0 C)
+
