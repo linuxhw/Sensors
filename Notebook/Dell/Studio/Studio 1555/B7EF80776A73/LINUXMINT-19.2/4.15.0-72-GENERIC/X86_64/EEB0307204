@@ -1,0 +1,20 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3237 RPM
+fan2:          3237 RPM
+fan3:          41125 RPM
+CPU:            +64.0 C  
+CPU:            +61.0 C  
+Other:          +55.0 C  
+GPU:            +67.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +61.0 C  (crit = +100.0 C)
+temp2:        +55.0 C  (crit = +100.0 C)
+temp3:        +67.0 C  (crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +69.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

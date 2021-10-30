@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +46.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +44.0 C  (high = +87.0 C, crit = +105.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2592 RPM
+Video Fan:     2802 RPM
+CPU:            +51.0 C  
+Ambient:        +49.0 C  
+Ambient:        +43.0 C  
+SODIMM:         +44.0 C  
+SODIMM:         +43.0 C  
+SODIMM:         +43.0 C  
+GPU:            +45.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +56.5 C  (crit = +107.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +55.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

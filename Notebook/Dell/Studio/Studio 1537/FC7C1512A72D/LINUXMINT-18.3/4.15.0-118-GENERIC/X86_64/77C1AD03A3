@@ -1,0 +1,21 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2829 RPM
+fan2:          2829 RPM
+fan3:          2833 RPM
+CPU:            +56.0 C  
+CPU:            +56.0 C  
+Other:          +52.0 C  
+GPU:            +65.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  (crit = +100.0 C)
+temp2:        +52.0 C  (crit = +100.0 C)
+temp3:        +65.0 C  (crit = +100.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +56.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +57.0 C  (high = +105.0 C, crit = +105.0 C)
+
