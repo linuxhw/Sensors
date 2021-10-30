@@ -1,0 +1,20 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +35.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+vddnb:       943.00 mV 
+edge:         +35.0 C  (crit =  +5.0 C, hyst = -273.1 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +29.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       23.53 mW (avg =   7.04 mW, interval =   0.01 s)
+                       (crit =  65.00 W)
+

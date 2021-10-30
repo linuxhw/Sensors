@@ -1,0 +1,17 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +42.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       49.14 W  (crit = 125.19 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +35.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +31.1 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+

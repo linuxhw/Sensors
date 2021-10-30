@@ -1,0 +1,16 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 5500 RPM)
+edge:         +18.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       12.23 W  (cap =  30.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +23.0 C  
+Tdie:         +23.0 C  
+

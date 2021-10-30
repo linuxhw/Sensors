@@ -1,0 +1,22 @@
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      987.00 mV 
+fan1:         188 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.20 W  (cap =  43.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +32.9 C  
+Tdie:         +32.9 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+

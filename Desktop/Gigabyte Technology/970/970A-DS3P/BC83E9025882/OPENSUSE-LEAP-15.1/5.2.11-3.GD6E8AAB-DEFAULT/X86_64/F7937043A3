@@ -1,0 +1,35 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+CPU TDP:      49.38 W  (crit = 125.19 W)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +1.00 V  
+GPU Fan:     1488 RPM  (min =    0 RPM, max = 5200 RPM)
+GPU Temp:     +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+GPU TDP:      20.13 W  (cap = 110.00 W)
+
+it8620-isa-0228
+Adapter: ISA adapter
+Vcore:        +1.39 V  (min =  +0.80 V, max =  +1.60 V)
++1.5V:        +1.48 V  (min =  +1.36 V, max =  +1.66 V)
++12V:        +12.95 V  (min = +10.79 V, max = +13.19 V)
++5V:          +4.95 V  (min =  +4.50 V, max =  +5.49 V)
++3.3V:        +3.25 V  (min =  +2.97 V, max =  +3.62 V)
+Vbat:         +3.12 V  
+CPU Fan:     1069 RPM  (min =  200 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+M/B Temp:     +37.0 C  (low  =  +0.0 C, high = +65.0 C)  sensor = thermistor
+CPU Temp:     +35.0 C  (low  =  +0.0 C, high = +90.0 C)  sensor = thermal diode
+CPU:          +29.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+temp4:        +46.0 C  
+temp5:        +46.0 C  
+temp6:        +46.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Core Temp:  +29.2 C  (high = +70.0 C)
+                         (crit = +80.0 C, hyst = +77.0 C)
+

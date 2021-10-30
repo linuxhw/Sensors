@@ -1,0 +1,57 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.23 V  (min =  +0.60 V, max =  +1.45 V)
+in1:           1.21 V  (min =  +0.00 V, max =  +2.78 V)
+in2:           1.22 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         3.38 V  (min =  +0.00 V, max =  +5.56 V)
+in4:           1.35 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.25 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          3.38 V  (min =  +3.21 V, max =  +3.40 V)
+Vbat:          3.33 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +26.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +32.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+it8686-isa-0a40
+Adapter: ISA adapter
+in0:           1.25 V  (min =  +0.60 V, max =  +1.45 V)
+in1:           2.04 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.03 V  (min =  +3.06 V, max =  +3.06 V)
+in3:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.12 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         912.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.39 V  (min =  +1.16 V, max =  +1.44 V)
+3VSB:          3.34 V  (min =  +3.19 V, max =  +3.46 V)
+Vbat:          3.24 V  
+fan1:        1642 RPM  (min =    0 RPM)
+fan2:         694 RPM  (min =    0 RPM)
+fan3:         467 RPM  (min =    0 RPM)
+fan4:         647 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +31.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +49.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +38.0 C  (low  =  +0.0 C, high = +90.0 C)  sensor = AMD AMDSI
+temp4:        +44.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp5:        +56.0 C  (low  =  +0.0 C, high = -124.0 C)  sensor = thermistor
+temp6:        +62.0 C  (low  =  +0.0 C, high = -124.0 C)  sensor = thermistor
+intrusion0:  OK
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.1 C  
+Tdie:         +48.1 C  
+
