@@ -1,0 +1,18 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +45.0°C  (crit = +226.8°C)
+temp2:        +45.0°C  
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +43.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (crit = +120.0°C, hyst = +90.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +44.4°C  (high = +70.0°C)
+                       (crit = +115.5°C, hyst = +108.0°C)
+

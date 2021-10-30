@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +56.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +56.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +52.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +90.0 C)
+temp2:        +26.8 C  (crit = +200.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+axp288_fuel_gauge-isa-0000
+Adapter: ISA adapter
+in0:           3.66 V  
+curr1:        -1.12 A  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
