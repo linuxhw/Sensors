@@ -1,0 +1,40 @@
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +54.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.60 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +66.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  
+temp2:        +56.0 C  (crit = +128.0 C)
+temp3:         +0.0 C  (crit = +128.0 C)
+temp4:        +34.0 C  (crit = +128.0 C)
+temp5:        +40.0 C  (crit = +128.0 C)
+temp6:        +26.0 C  (crit = +128.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       838.00 mV 
+Vsoc:          1.05 V  
+Tctl:         +66.5 C  
+Tdie:         +66.5 C  
+Icore:        28.00 A  
+Isoc:          9.75 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
