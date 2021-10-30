@@ -1,0 +1,20 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       52.88 mW (avg =  53.26 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      762.00 mV 
+vddnb:       862.00 mV 
+edge:         +47.0 C  (crit =  +1.0 C, hyst = -273.1 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +47.5 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.37 V  
+

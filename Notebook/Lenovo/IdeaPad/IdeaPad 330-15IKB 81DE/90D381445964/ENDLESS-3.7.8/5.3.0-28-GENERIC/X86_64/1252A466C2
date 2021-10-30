@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:           N/A  
+fan1:             N/A  (min =    0 RPM, max =    0 RPM)
+edge:             N/A  (crit = +104000.0 C, hyst = -273.1 C)
+power1:           N/A  (cap =  14.00 W)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +42.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.60 V  
+

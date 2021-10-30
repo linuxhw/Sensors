@@ -1,0 +1,11 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:             N/A
+temp1:        +36.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +39.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:        +38.0 C  (high = +105.0 C, crit = +105.0 C)
+

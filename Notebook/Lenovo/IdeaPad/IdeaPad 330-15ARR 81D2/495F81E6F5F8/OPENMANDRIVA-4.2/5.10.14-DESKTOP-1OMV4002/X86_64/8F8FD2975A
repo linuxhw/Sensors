@@ -1,0 +1,33 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +45.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.45 V  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    115.17 J
+Ecore001:    115.17 J
+Ecore002:     43.16 J
+Ecore003:     43.16 J
+Esocket0:      1.64 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       981.00 mV 
+Vsoc:          1.04 V  
+Tctl:         +45.2 C  
+Tdie:         +45.2 C  
+Icore:        21.00 A  
+Isoc:         11.75 A  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        4.07 W  (cap =  12.00 W)
+
