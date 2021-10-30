@@ -1,0 +1,32 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       14.41 W  (crit =  95.13 W)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:          +2.76 V  (min =  +0.10 V, max =  +1.25 V)  ALARM
+in1:          +2.76 V  (min =  +1.15 V, max =  +2.77 V)  ALARM
+in2:          +1.26 V  (min =  +0.06 V, max =  +0.85 V)  ALARM
++3.3V:        +3.07 V  (min =  +2.21 V, max =  +1.01 V)  ALARM
+in4:          +1.20 V  (min =  +1.50 V, max =  +1.19 V)  ALARM
+in5:          +2.52 V  (min =  +1.19 V, max =  +1.46 V)  ALARM
+in6:          +1.73 V  (min =  +2.38 V, max =  +1.15 V)  ALARM
+3VSB:         +0.12 V  (min =  +3.74 V, max =  +0.26 V)  ALARM
+Vbat:         +3.31 V  
+fan1:        1033 RPM  (min =   54 RPM)
+fan2:           0 RPM  (min =   64 RPM)  ALARM
+fan3:        2242 RPM  (min =   10 RPM)
+temp1:        +38.0 C  (low  = +127.0 C, high = +40.0 C)  ALARM  sensor = thermistor
+temp2:        +28.0 C  (low  = +96.0 C, high = -62.0 C)  ALARM  sensor = thermistor
+temp3:       -128.0 C  (low  = +64.0 C, high = +110.0 C)  sensor = disabled
+intrusion0:  OK
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +27.9 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+

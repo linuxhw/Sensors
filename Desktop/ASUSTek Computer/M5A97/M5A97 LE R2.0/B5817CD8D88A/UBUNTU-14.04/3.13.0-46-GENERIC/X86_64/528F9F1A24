@@ -1,0 +1,23 @@
+it8721-isa-0290
+Adapter: ISA adapter
++12V:        +12.00 V  (min = +10.97 V, max =  +1.29 V)  ALARM
++5V:          +5.05 V  (min =  +0.69 V, max =  +5.38 V)
+Vcore:        +1.22 V  (min =  +3.02 V, max =  +2.80 V)  ALARM
++3.3V:        +3.29 V  (min =  +4.27 V, max =  +5.45 V)  ALARM
+3VSB:         +3.07 V  (min =  +5.16 V, max =  +5.64 V)  ALARM
+Vbat:         +3.34 V  
+CPU Fan:     6428 RPM  (min =   41 RPM)
+Chassis Fan:    0 RPM  (min =   19 RPM)  ALARM
+Power Fan:   1095 RPM  (min =   34 RPM)
+CPU Temp:     +67.0 C  (low  = -125.0 C, high = +106.0 C)  sensor = thermistor
+M/B Temp:     +34.0 C  (low  = -51.0 C, high = -99.0 C)  ALARM  sensor = thermistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Temp (rel):  +59.0 C  (high = +70.0 C)
+                          (crit = +90.0 C, hyst = +87.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        6.75 W  (crit = 125.19 W)
+

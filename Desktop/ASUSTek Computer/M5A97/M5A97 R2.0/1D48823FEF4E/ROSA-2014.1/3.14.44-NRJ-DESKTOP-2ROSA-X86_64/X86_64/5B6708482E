@@ -1,0 +1,28 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +30.0°C  (high = +70.0°C)
+                       (crit = +90.0°C, hyst = +87.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       76.32 W  (crit =  94.99 W)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:          +2.78 V  (min =  +0.98 V, max =  +2.88 V)
+in1:          +2.82 V  (min =  +0.42 V, max =  +1.69 V)  ALARM
+in2:          +1.02 V  (min =  +2.66 V, max =  +0.55 V)  ALARM
++3.3V:        +3.24 V  (min =  +4.30 V, max =  +5.11 V)  ALARM
+in4:          +1.54 V  (min =  +1.30 V, max =  +1.62 V)
+in5:          +2.50 V  (min =  +0.20 V, max =  +2.34 V)  ALARM
+in6:          +1.64 V  (min =  +0.77 V, max =  +0.11 V)  ALARM
+3VSB:         +0.38 V  (min =  +2.93 V, max =  +2.66 V)  ALARM
+Vbat:         +3.34 V  
+fan1:        1804 RPM  (min =   38 RPM)
+fan2:           0 RPM  (min =   31 RPM)  ALARM
+fan3:           0 RPM  (min =   41 RPM)  ALARM
+temp1:        +41.0°C  (low  = -83.0°C, high = +103.0°C)  sensor = thermistor
+temp2:        +34.0°C  (low  = +71.0°C, high =  +5.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  = +14.0°C, high = +125.0°C)  sensor = disabled
+intrusion0:  OK
+

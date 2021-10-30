@@ -1,0 +1,40 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +33.8 C  (high = +70.0 C)
+                       (crit = +83.5 C, hyst = +81.5 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +2.0 C)
+                       (emerg = +110.0 C, hyst =  +2.0 C)
+
+it8728-isa-0290
+Adapter: ISA adapter
+in0:          +1.08 V  (min =  +1.52 V, max =  +1.48 V)  ALARM
+in1:          +1.50 V  (min =  +2.82 V, max =  +0.23 V)  ALARM
+in2:          +1.87 V  (min =  +0.58 V, max =  +0.43 V)  ALARM
+in3:          +1.99 V  (min =  +1.98 V, max =  +0.29 V)  ALARM
+in4:          +2.05 V  (min =  +2.70 V, max =  +0.00 V)  ALARM
+in5:          +0.18 V  (min =  +1.73 V, max =  +0.78 V)  ALARM
+in6:          +2.30 V  (min =  +1.94 V, max =  +1.94 V)  ALARM
+3VSB:         +1.34 V  (min =  +4.20 V, max =  +1.68 V)  ALARM
+Vbat:         +3.26 V  
+fan1:        1541 RPM  (min =   17 RPM)
+fan2:        6367 RPM  (min =  154 RPM)
+temp1:        +39.0 C  (low  = -87.0 C, high = +37.0 C)  ALARM  sensor = thermistor
+temp2:        +34.0 C  (low  = -111.0 C, high = -51.0 C)  ALARM  sensor = thermistor
+temp3:       -128.0 C  (low  = +90.0 C, high = +21.0 C)  sensor = disabled
+intrusion0:  OK
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      +1.08 V  (min =  +0.80 V, max =  +1.60 V)
++3.3V Voltage:      +3.38 V  (min =  +2.97 V, max =  +3.63 V)
++5V Voltage:        +4.98 V  (min =  +4.50 V, max =  +5.50 V)
++12V Voltage:      +12.03 V  (min = +10.20 V, max = +13.80 V)
+CPU Fan Speed:     1541 RPM  (min =  600 RPM, max = 7200 RPM)
+Chassis Fan Speed: 6367 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:    +39.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:     +34.0 C  (high = +45.0 C, crit = +75.0 C)
+
