@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +26.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +24.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +25.0 C  (high = +84.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+it8628-isa-0a40
+Adapter: ISA adapter
+Vcore:         +0.47 V  (min =  +0.55 V, max =  +1.40 V)
++12V:         +11.95 V  (min = +11.38 V, max = +12.60 V)
++5V:           +5.13 V  (min =  +4.74 V, max =  +5.25 V)
+VAXG:          +0.01 V  (min =  +0.00 V, max =  +3.06 V)
+VCCSA:         +1.07 V  (min =  +1.06 V, max =  +1.10 V)
+DRAM:          +1.19 V  (min =  +1.14 V, max =  +1.26 V)
+3VSB:          +3.38 V  (min =  +3.14 V, max =  +3.46 V)
+Vbat:          +3.14 V  
+CPU Fan:       846 RPM  (min =   10 RPM)
+CPU Opt Fan:   601 RPM  (min =    0 RPM)
+System Fan 1:  768 RPM  (min =    0 RPM)
+System Fan 2:    0 RPM  (min =    0 RPM)
+System Fan 3:    0 RPM  (min =    0 RPM)
+System Temp:   +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU Temp:      +29.0 C  (low  =  +0.0 C, high = +80.0 C)  sensor = Intel PECI
+
