@@ -1,0 +1,25 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    980.00 mV (min =  +0.83 V, max =  +1.00 V)
+temp1:        +48.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.5 C  (crit = +107.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +53.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +53.0 C  (high = +87.0 C, crit = +105.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2778 RPM
+CPU:            +55.0 C  
+Ambient:        +37.0 C  
+SODIMM:         +35.0 C  
+GPU:            +48.0 C  
+
