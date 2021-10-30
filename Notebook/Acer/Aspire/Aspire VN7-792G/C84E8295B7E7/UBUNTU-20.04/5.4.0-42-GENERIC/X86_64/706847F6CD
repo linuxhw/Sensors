@@ -1,0 +1,22 @@
+ath10k_hwmon-pci-0600
+Adapter: PCI adapter
+temp1:        +76.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.22 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +75.0 C  (crit = +100.0 C)
+temp2:        +62.0 C  (crit = +92.0 C)
+

@@ -1,0 +1,19 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.60 V, max =  +1.20 V)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +67.0 C  (crit = +104.0 C)
+temp2:        +39.0 C  (crit = +126.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +61.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +61.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +60.0 C  (high = +105.0 C, crit = +105.0 C)
+
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +43.5 C  
+
