@@ -1,0 +1,33 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +35.0 C  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.98 V  
+curr1:         0.00 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.0 C  (crit = +100.0 C)
+temp2:        +42.0 C  (crit = +100.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +23.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
