@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+nct7802-i2c-4-2e
+Adapter: SMBus CMI adapter cmi
+in0:          +3.36 V  (min =  +0.00 V, max =  +4.09 V)
+in1:          +1.96 V  
+in3:          +1.21 V  (min =  +0.00 V, max =  +2.05 V)
+in4:          +1.68 V  (min =  +0.00 V, max =  +2.05 V)
+fan1:           0 RPM  (min =    0 RPM)
+fan2:        3147 RPM  (min =    0 RPM)
+temp1:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)  sensor = thermal diode
+temp4:        +37.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp5:        +36.8 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp6:         +0.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +33.5 C  
+

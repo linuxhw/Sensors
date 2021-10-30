@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +91.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +90.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +91.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +87.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +83.0 C  (high = +84.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.92 V  
+curr1:         0.00 A  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +54.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+clevo_xsm_wmi-isa-0000
+Adapter: ISA adapter
+CPU fan:         3654 RPM
+CPU temperature:  +92.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +92.0 C  (crit = +120.0 C)
+
