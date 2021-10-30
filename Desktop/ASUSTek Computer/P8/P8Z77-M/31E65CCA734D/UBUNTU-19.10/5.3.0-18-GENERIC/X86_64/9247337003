@@ -1,0 +1,22 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 0:        +36.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 1:        +39.0 C  (high = +82.0 C, crit = +102.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +103.0 C)
+temp2:        +29.8 C  (crit = +103.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+fan1:        1430 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +41.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       29.14 W  (cap = 145.00 W)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

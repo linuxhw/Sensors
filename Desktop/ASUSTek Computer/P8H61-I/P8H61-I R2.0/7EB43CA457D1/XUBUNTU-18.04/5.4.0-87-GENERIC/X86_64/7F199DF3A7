@@ -1,0 +1,26 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:          +0.95 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +1.50 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.06 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +2.30 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +0.22 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.31 V  
+fan1:        1599 RPM  (min =   31 RPM)
+fan2:        1394 RPM  (min =   18 RPM)
+temp1:        +37.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +36.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:         -8.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +38.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +41.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +39.0 C  (high = +85.0 C, crit = +105.0 C)
+

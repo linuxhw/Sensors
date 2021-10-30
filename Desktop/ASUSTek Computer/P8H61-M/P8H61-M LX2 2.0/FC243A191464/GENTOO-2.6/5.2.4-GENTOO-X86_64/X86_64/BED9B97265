@@ -1,0 +1,27 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+VCore:        +1.04 V  (min =  +0.00 V, max =  +1.74 V)
++12V:        +12.10 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:         +3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++3.3V:        +3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++5V:          +4.88 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:         +3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VBat:         +3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VTT:          +1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU Fan:     2323 RPM  (min =    0 RPM)
+CPU Temp:     +30.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+beep_enable: disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Chip Temperature:    +36.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 1 Temperature:  +36.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 2 Temperature:  +30.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 3 Temperature:  +34.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 4 Temperature:  +27.0 C  (high = +85.0 C, crit = +105.0 C)
+
