@@ -1,0 +1,27 @@
+it8771-isa-0a20
+Adapter: ISA adapter
+in0:          +2.23 V  (min =  +1.14 V, max =  +2.20 V)  ALARM
+in1:          +2.23 V  (min =  +2.68 V, max =  +3.06 V)  ALARM
+in2:          +2.23 V  (min =  +2.12 V, max =  +1.14 V)  ALARM
++3.3V:        +3.29 V  (min =  +3.79 V, max =  +6.05 V)  ALARM
+in4:          +2.23 V  (min =  +0.00 V, max =  +0.56 V)  ALARM
+in5:          +2.23 V  (min =  +2.78 V, max =  +2.29 V)  ALARM
+in6:          +2.23 V  (min =  +2.81 V, max =  +2.10 V)  ALARM
+3VSB:         +3.24 V  (min =  +0.00 V, max =  +4.54 V)  ALARM
+Vbat:         +3.14 V  
+fan1:           0 RPM  (min =   16 RPM)  ALARM
+fan2:        1809 RPM  (min =   10 RPM)
+fan3:           0 RPM  (min =   10 RPM)  ALARM
+temp1:        +67.0 C  (low  = -55.0 C, high = +62.0 C)  ALARM  sensor = thermal diode
+temp2:        +76.0 C  (low  =  -7.0 C, high =  -6.0 C)  ALARM  sensor = Intel PECI
+temp3:       -128.0 C  (low  =  -1.0 C, high = -27.0 C)  sensor = disabled
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +78.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +78.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +72.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +75.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +74.0 C  (high = +84.0 C, crit = +100.0 C)
+

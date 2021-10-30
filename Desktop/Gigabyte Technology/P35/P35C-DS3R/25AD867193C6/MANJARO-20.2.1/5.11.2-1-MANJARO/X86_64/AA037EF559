@@ -1,0 +1,32 @@
+it8718-isa-0290
+Adapter: ISA adapter
+in0:           1.09 V  (min =  +0.00 V, max =  +4.08 V)
+in1:           1.97 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.38 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           2.93 V  (min =  +0.00 V, max =  +4.08 V)
+in4:         992.00 mV (min =  +0.00 V, max =  +4.08 V)
+in5:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:           1.23 V  (min =  +0.00 V, max =  +4.08 V)
+in7:           3.06 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.17 V  
+fan1:        1094 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:         957 RPM  (min =    0 RPM)
+fan4:         873 RPM  (min =    0 RPM)
+temp1:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +41.0 C  (low  = +127.0 C, high = +70.0 C)  sensor = thermal diode
+temp3:         -2.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.150 V
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +54.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +55.0 C  (high = +84.0 C, crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +44.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

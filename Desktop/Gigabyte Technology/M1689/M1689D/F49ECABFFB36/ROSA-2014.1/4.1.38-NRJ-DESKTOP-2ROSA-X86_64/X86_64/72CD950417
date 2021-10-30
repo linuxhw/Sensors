@@ -1,0 +1,19 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +25.0 C  
+
+smsc47m192-i2c-3-2d
+Adapter: SMBus ALi 1563 Adapter @ 1400
+in0:          +2.58 V  (min =  +0.00 V, max =  +3.32 V)
+Vcore:        +1.14 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.33 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.21 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.44 V  (min = +10.81 V, max = +13.19 V)
+VCC:          +3.46 V  (min =  +2.97 V, max =  +3.63 V)
+in6:          +1.67 V  (min =  +0.00 V, max =  +1.99 V)
+in7:          +2.39 V  (min =  +2.39 V, max =  +2.37 V)  ALARM
+SIO Temp:     +27.0 C  (low  = -128.0 C, high = +127.0 C)
+temp2:        +55.0 C  (low  = -128.0 C, high = +127.0 C)
+temp3:        +26.0 C  (low  =  -1.0 C, high =  -9.0 C)  ALARM
+cpu0_vid:    +1.500 V
+
