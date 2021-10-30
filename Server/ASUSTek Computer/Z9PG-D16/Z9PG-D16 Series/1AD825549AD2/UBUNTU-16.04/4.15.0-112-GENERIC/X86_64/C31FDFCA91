@@ -1,0 +1,88 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +60.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +61.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+
+nouveau-pci-8900
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +55.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       20.86 W  (crit = 125.00 mW)
+
+nouveau-pci-8500
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +53.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       19.35 W  (crit = 125.00 mW)
+
+nouveau-pci-0800
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +55.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       20.88 W  (crit = 125.00 mW)
+
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +56.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       19.95 W  (crit = 125.00 mW)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +61.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +63.0 C  (high = +90.0 C, crit = +100.0 C)
+
+nouveau-pci-8a00
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       20.64 W  (crit = 125.00 mW)
+
+nouveau-pci-8600
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       19.21 W  (crit = 125.00 mW)
+
+nouveau-pci-0900
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       20.05 W  (crit = 125.00 mW)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       19.99 W  (crit = 125.00 mW)
+

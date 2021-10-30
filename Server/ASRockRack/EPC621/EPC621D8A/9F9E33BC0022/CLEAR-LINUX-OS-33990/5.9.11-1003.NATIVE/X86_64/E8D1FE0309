@@ -1,0 +1,64 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 0:        +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 1:        +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 2:        +38.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 3:        +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 4:        +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 5:        +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 6:        +41.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 8:        +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 9:        +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 10:       +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 11:       +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 12:       +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 13:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 14:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 16:       +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 17:       +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 18:       +38.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 19:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 20:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 21:       +42.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 22:       +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 24:       +38.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 25:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 26:       +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 27:       +36.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 28:       +37.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 29:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+Core 30:       +35.0 C  (high = +71.0 C, crit = +81.0 C)
+
+nvme-pci-6700
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-6500
+Adapter: PCI adapter
+Composite:    +58.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +58.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +77.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-6800
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-6600
+Adapter: PCI adapter
+Composite:    +53.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+

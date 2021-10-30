@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +34.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +36.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +35.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +28.0 C  (high = +81.0 C, crit = +91.0 C)
+
+i350bb-pci-0600
+Adapter: PCI adapter
+loc1:         +50.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +28.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +35.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +36.0 C  (high = +81.0 C, crit = +91.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      812.00 mV 
+fan1:         933 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +55.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       11.22 W  (cap =  46.00 W)
+

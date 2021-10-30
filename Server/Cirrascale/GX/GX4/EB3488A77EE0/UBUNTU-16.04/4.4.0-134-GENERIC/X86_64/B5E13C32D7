@@ -1,0 +1,32 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval =   1.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +38.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 0:         +28.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 1:         +28.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 2:         +32.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 3:         +30.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 4:         +33.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 5:         +27.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 6:         +29.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 7:         +28.0*C  (high = +77.0*C, crit = +87.0*C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Physical id 1:  +38.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 0:         +29.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 1:         +32.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 2:         +32.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 3:         +29.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 4:         +30.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 5:         +30.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 6:         +32.0*C  (high = +77.0*C, crit = +87.0*C)
+Core 7:         +33.0*C  (high = +77.0*C, crit = +87.0*C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

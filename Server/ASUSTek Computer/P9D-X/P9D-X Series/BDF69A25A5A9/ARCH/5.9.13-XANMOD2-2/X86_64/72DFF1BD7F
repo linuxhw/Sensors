@@ -1,0 +1,62 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+in0:                     1.79 V  (min =  +0.00 V, max =  +1.74 V)  ALARM
+in1:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.23 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     3.23 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.41 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     3.30 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  528.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  200.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.50 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  272.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                   908 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +33.0 C  (high = +90.0 C, hyst = +90.0 C)  sensor = thermistor
+CPUTIN:                 +69.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                -62.0 C    sensor = thermistor
+AUXTIN1:                +55.0 C    sensor = thermistor
+AUXTIN2:               +103.0 C    sensor = thermistor
+AUXTIN3:               +102.0 C    sensor = thermistor
+PECI Agent 0:           +39.0 C  (high = +90.0 C, hyst = +90.0 C)
+                                 (crit = +100.0 C)
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at f000
+temp1:        +35.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at f000
+temp1:        +35.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+

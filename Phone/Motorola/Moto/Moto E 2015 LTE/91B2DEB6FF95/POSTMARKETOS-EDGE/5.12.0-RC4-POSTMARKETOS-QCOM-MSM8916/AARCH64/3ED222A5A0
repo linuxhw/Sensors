@@ -1,0 +1,11 @@
+max170xx_battery-virtual-0
+Adapter: Virtual device
+temp1:        +25.7*C  
+
+max170xx_battery-i2c-2-36
+Adapter: QUP I2C adapter
+in0:           4.11 V  (min =  +3.06 V, max =  +4.36 V)
+                       (avg =  +4.12 V)
+temp:         +25.7*C  (low  = -20.0*C, high = +60.0*C)  ALARM (LOW)
+curr1:       -261.00 mA (avg =  -0.18 A)
+

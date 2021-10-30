@@ -1,0 +1,24 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +26.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +29.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +24.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +25.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +26.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +30.0 C  (high = +81.0 C, crit = +101.0 C)
+
+nouveau-pci-0700
+Adapter: PCI adapter
+temp1:        +42.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +115.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +27.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +28.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +26.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +31.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +23.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +24.0 C  (high = +81.0 C, crit = +101.0 C)
+
