@@ -1,0 +1,24 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:        +0.0 C  (crit = +100.0 C)
+Core 1:        +0.0 C  (crit = +100.0 C)
+
+it8720-isa-0290
+Adapter: ISA adapter
+in0:          +1.10 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.50 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.34 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.15 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +2.96 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.07 V  
+fan1:        4687 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+temp1:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +64.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +39.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+cpu0_vid:    +0.588 V
+intrusion0:  ALARM
+
