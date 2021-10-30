@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +45.0°C  (high = +95.0°C, crit = +105.0°C)
+Core 2:       +40.0°C  (high = +95.0°C, crit = +105.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.00 V  (min =  +0.85 V, max =  +1.00 V)
+temp1:        +52.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+jc42-i2c-15-18
+Adapter: SMBus I801 adapter at 8000
+temp1:        +32.5°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +44.0°C  
+SODIMM:         +33.0°C  
+Other:          +39.0°C  
+GPU:            +50.0°C  
+
