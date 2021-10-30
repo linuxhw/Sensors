@@ -1,0 +1,40 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.60 V, max =  +1.20 V)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.10 V  
+curr1:         1.60 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        3442 RPM
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +52.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
