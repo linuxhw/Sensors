@@ -1,0 +1,25 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.43 V  
+vddnb:       912.00 mV 
+edge:         +45.0 C  
+power1:        4.00 mW 
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.83 V  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2600 RPM
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +49.0 C  (crit = +120.0 C)
+

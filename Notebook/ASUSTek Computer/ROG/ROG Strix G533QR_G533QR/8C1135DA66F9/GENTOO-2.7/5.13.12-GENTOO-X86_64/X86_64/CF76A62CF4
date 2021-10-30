@@ -1,0 +1,15 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.39 V  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.44 V  
+vddnb:       931.00 mV 
+edge:         +46.0 C  
+power1:        2.00 mW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +56.0 C  (crit = +120.0 C)
+

@@ -1,0 +1,30 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1500 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +57.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +50.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +59.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 4:        +55.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 5:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.60 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +62.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +49.0 C  (crit = +103.0 C)
+

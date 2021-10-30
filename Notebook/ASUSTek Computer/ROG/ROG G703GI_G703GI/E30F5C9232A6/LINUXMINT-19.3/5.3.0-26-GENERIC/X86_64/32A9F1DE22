@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +44.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +43.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +44.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 4:        +44.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 5:        +43.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.60 V  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +48.0 C  (crit = +103.0 C)
+

@@ -1,0 +1,30 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+vddnb:       943.00 mV 
+edge:         +47.0*C  
+power1:      1000.00 uW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +55.0*C  (crit = +120.0*C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +35.9*C  (low  =  -0.1*C, high = +82.8*C)
+                       (crit = +84.8*C)
+Sensor 1:     +36.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +42.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.83 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0*C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2400 RPM
+

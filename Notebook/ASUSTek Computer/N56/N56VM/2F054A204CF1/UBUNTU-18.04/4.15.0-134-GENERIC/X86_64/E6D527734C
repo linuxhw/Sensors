@@ -1,0 +1,17 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3200 RPM
+temp1:        +83.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +83.0 C  (crit = +108.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +71.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +71.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +69.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +67.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +64.0 C  (high = +87.0 C, crit = +105.0 C)
+
