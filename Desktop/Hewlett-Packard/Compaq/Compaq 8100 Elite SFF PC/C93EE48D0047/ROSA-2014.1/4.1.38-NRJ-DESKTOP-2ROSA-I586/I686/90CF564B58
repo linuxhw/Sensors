@@ -1,0 +1,23 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        2070 RPM
+temp1:        +59.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +31.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +29.0 C  (high = +89.0 C, crit = +105.0 C)
+
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+fan3:        1225 RPM
+fan4:        1013 RPM
+temp1:        +24.0 C  
+temp2:        +40.0 C  
+temp3:        +26.0 C  
+temp4:       -128.0 C  
+
