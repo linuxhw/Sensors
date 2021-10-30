@@ -1,0 +1,44 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.45 V  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -20.1 C, high = +77.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +42.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    104.94 J
+Ecore001:    104.94 J
+Ecore002:     51.76 J
+Ecore003:     51.76 J
+Ecore004:     54.21 J
+Ecore005:     54.21 J
+Ecore006:     58.82 J
+Ecore007:     58.82 J
+Esocket0:      1.07 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.6 C  
+Tdie:         +50.6 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+

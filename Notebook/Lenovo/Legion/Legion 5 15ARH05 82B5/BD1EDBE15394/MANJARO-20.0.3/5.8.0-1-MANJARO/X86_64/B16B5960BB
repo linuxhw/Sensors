@@ -1,0 +1,30 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    395.77 J
+Ecore001:    395.77 J
+Ecore002:    308.18 J
+Ecore003:    308.18 J
+Ecore004:    365.96 J
+Ecore005:    365.96 J
+Ecore006:    284.46 J
+Ecore007:    284.46 J
+Esocket0:     12.32 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.6 C  
+Tdie:         +62.6 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.41 V  
+
