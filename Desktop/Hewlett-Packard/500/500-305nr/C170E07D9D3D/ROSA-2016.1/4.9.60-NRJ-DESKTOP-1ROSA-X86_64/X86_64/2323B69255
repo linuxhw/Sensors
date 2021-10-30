@@ -1,0 +1,33 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +41.0°C  (high = +86.0°C, crit = +92.0°C)
+Core 0:         +39.0°C  (high = +86.0°C, crit = +92.0°C)
+Core 1:         +40.0°C  (high = +86.0°C, crit = +92.0°C)
+Core 2:         +39.0°C  (high = +86.0°C, crit = +92.0°C)
+Core 3:         +40.0°C  (high = +86.0°C, crit = +92.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +97.0°C)
+temp2:        +29.8°C  (crit = +97.0°C)
+
+f71808a-isa-0290
+Adapter: ISA adapter
++3.3V:        +3.31 V  
+in1:          +1.70 V  
+in2:          +1.02 V  
+in3:          +1.47 V  
+3VSB:         +3.34 V  
+Vbat:         +3.28 V  
+fan1:         947 RPM
+fan2:        1522 RPM
+fan3:           0 RPM  ALARM
+temp1:        +39.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +33.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +43.0°C  (crit = +120.0°C, hyst = +90.0°C)
+

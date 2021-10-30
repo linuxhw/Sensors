@@ -1,0 +1,22 @@
+smsc47b397-isa-0880
+Adapter: ISA adapter
+fan1:        1079 RPM
+fan2:           0 RPM
+fan3:        1011 RPM
+fan4:        1212 RPM
+temp1:        +20.0 C  
+temp2:        +44.0 C  
+temp3:        +22.0 C  
+temp4:       -128.0 C  
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.78 V, max =  +1.16 V)
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.0 C  (high = +70.0 C)
+
