@@ -1,0 +1,24 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  (crit = +128.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        3680 RPM
+

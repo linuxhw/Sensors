@@ -1,0 +1,50 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        4036 RPM
+temp1:        +71.0 C  
+temp2:        +61.0 C  
+temp3:         +0.0 C  
+temp4:         +1.0 C  
+temp5:        +47.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:            N/A  
+temp9:         +0.0 C  
+temp10:        +0.0 C  
+temp11:       +66.0 C  
+temp12:        +0.0 C  
+temp13:        +0.0 C  
+temp14:        +0.0 C  
+temp15:        +0.0 C  
+temp16:        +0.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +74.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.06 V  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +74.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +70.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nouveau-pci-3c00
+Adapter: PCI adapter
+temp1:        +61.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +71.0 C  (crit = +128.0 C)
+
