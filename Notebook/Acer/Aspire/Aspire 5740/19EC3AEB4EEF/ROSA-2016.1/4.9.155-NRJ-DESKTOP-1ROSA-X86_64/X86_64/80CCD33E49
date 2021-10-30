@@ -1,0 +1,14 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +48.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:       +55.0 C  (high = +80.0 C, crit = +90.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  (crit = +100.0 C)
+temp2:        +32.0 C  (crit = +96.0 C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +50.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

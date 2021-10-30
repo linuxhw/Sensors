@@ -1,0 +1,17 @@
+jc42-i2c-7-1a
+Adapter: SMBus I801 adapter at 3000
+temp1:        +44.0 C  (low  = +88.5 C)                  ALARM (LOW)
+                       (high = +88.5 C, hyst = +87.0 C)
+                       (crit = +78.5 C, hyst = +77.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:       +44.0 C  (high = +80.0 C, crit = +90.0 C)
+
+jc42-i2c-7-18
+Adapter: SMBus I801 adapter at 3000
+temp1:        +43.8 C  (low  = +88.5 C)                  ALARM (LOW)
+                       (high = +88.5 C, hyst = +87.0 C)
+                       (crit = +78.5 C, hyst = +77.0 C)
+
