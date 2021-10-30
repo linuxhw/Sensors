@@ -1,0 +1,21 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.33 V  
+curr1:       862.00 mA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +66.0 C  (crit = +120.0 C)
+

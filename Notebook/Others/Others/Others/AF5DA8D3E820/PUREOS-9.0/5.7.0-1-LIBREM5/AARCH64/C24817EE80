@@ -1,0 +1,27 @@
+max170xx_battery-i2c-3-36
+Adapter: 30a50000.i2c
+in0:           3.54 V  (min =  +2.70 V, max =  +4.18 V)
+                       (avg =  +3.59 V)
+temp:         +36.4 C  (low  =  +0.0 C, high = +70.0 C)  ALARM (LOW)
+curr1:        -1.10 A  (avg =  -0.84 A)
+
+vpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +90.0 C)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +90.0 C)
+
+bq25890_charger-i2c-3-6a
+Adapter: 30a50000.i2c
+in0:           2.30 V  
+
+max170xx_battery-virtual-0
+Adapter: Virtual device
+temp1:        +36.4 C  
+
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +90.0 C)
+

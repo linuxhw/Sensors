@@ -1,0 +1,31 @@
+compal_laptop-virtual-0
+Adapter: Virtual device
+temp1:        +26.1 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +45.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +47.0 C  (high = +90.0 C, crit = +90.0 C)
+
+compal_laptop-isa-0000
+Adapter: ISA adapter
+in0:           12.51 V  
+temp:          +26.1 C  
+temp ambient:  +29.0 C  
+curr1:          0.00 A  (avg =  +0.00 A)
+
+compal-isa-0000
+Adapter: ISA adapter
+fan1:           2800 RPM
+CPU_TEMP:        +50.0 C  
+CPU_TEMP_LOCAL:  +46.0 C  
+CPU_DTS:          +0.0 C  
+NorthBridge:      +0.0 C  
+VGA_TEMP:        +53.0 C  
+SKIN_TEMP90:      +0.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.10 V  
+curr1:         0.00 A  
+

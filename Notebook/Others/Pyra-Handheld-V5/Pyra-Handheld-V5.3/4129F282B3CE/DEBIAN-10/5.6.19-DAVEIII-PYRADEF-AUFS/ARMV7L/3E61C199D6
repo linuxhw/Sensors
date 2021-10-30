@@ -1,0 +1,27 @@
+ina231-i2c-1-4f
+Adapter: OMAP I2C adapter
+in0:          +0.00 V  
+in1:          +3.58 V  
+power1:        3.12 mW 
+curr1:        +0.00 A  
+
+bq24297-virtual-0
+Adapter: Virtual device
+temp1:        +22.5 C  
+
+bq27421_0-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+bq24297-i2c-1-6b
+Adapter: OMAP I2C adapter
+in0:           +0.00 V  
+temp ambient:  +22.5 C  
+curr1:         +0.00 A  (max =  +1.00 A)
+
+bq27421_0-i2c-1-55
+Adapter: OMAP I2C adapter
+in0:           +3.67 V  
+temp ambient:  +44.0 C  
+curr1:         -1.35 A  
+

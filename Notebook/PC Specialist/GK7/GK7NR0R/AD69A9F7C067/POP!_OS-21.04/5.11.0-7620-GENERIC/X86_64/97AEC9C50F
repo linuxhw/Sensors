@@ -1,0 +1,42 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+jc42-i2c-1-19
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +47.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.22 V  
+vddnb:       912.00 mV 
+edge:         +47.0 C  
+power1:        8.00 W  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.60 V  
+curr1:         0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +76.2 C  
+Tdie:         +76.2 C  
+
+jc42-i2c-1-18
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +45.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +76.0 C  (crit = +114.0 C)
+
