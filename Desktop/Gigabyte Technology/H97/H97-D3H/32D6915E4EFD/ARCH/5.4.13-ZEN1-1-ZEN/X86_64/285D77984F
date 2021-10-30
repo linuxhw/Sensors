@@ -1,0 +1,44 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+it8620-isa-0a30
+Adapter: ISA adapter
+in0:          24.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          12.00 mV (min =  +0.00 V, max =  +3.06 V)
+in5:           1.74 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           1.50 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.36 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          2.93 V  
+fan1:         621 RPM  (min =   10 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =   10 RPM)  ALARM
+temp1:        +21.0 C  (low  =  +0.0 C, high = +80.0 C)  sensor = thermistor
+temp2:       +127.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +21.0 C  (low  =  +0.0 C, high = +90.0 C)  sensor = Intel PECI
+temp4:        +21.0 C  
+temp5:        +46.0 C  
+temp6:        +46.0 C  
+intrusion0:  OK
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      956.00 mV 
+fan1:         558 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +28.0 C  (crit = +104.0 C, hyst = -273.1 C)
+power1:       21.22 W  (cap = 156.00 W)
+

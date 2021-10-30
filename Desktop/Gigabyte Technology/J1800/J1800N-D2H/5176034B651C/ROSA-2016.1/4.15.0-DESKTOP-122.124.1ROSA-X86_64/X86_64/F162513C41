@@ -1,0 +1,39 @@
+it8620-isa-0a40
+Adapter: ISA adapter
+in0:         960.00 mV (min =  +0.83 V, max =  +2.76 V)  ALARM
+in1:           2.00 V  (min =  +2.53 V, max =  +1.85 V)  ALARM
+in2:           2.04 V  (min =  +0.53 V, max =  +1.33 V)  ALARM
++5V:           3.77 V  (min =  +2.30 V, max =  +4.44 V)
+in4:         816.00 mV (min =  +1.69 V, max =  +0.02 V)  ALARM
+in5:           2.04 V  (min =  +1.85 V, max =  +0.86 V)  ALARM
+in6:           1.36 V  (min =  +2.21 V, max =  +1.02 V)  ALARM
+3VSB:          3.36 V  (min =  +2.57 V, max =  +0.74 V)  ALARM
+Vbat:          2.98 V  
+fan1:           0 RPM  (min =   33 RPM)  ALARM
+fan2:           0 RPM  (min =   33 RPM)  ALARM
+fan3:           0 RPM  (min =   13 RPM)  ALARM
+temp1:        +39.0 C  (low  = +79.0 C, high = +15.0 C)  ALARM  sensor = thermistor
+temp2:        -55.0 C  (low  =  -8.0 C, high = -102.0 C)  ALARM  sensor = disabled
+temp3:        -55.0 C  (low  = -109.0 C, high = -27.0 C)  sensor = disabled
+temp4:        +45.0 C  
+temp5:        +44.0 C  
+temp6:        +45.0 C  
+intrusion0:  ALARM
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +26.8 C  (crit = +100.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +49.0 C  (high = +105.0 C, crit = +105.0 C)
+

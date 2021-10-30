@@ -1,0 +1,31 @@
+it8728-isa-0a30
+Adapter: ISA adapter
+CPU Vtt:      +1.08 V  (min =  +1.02 V, max =  +1.08 V)
++3.3V:        +3.27 V  (min =  +3.13 V, max =  +3.46 V)
++12V:        +12.02 V  (min = +11.38 V, max = +12.60 V)
++5V:          +4.83 V  (min =  +4.74 V, max =  +5.25 V)
+Vaxg:         +0.01 V  (min =  +0.40 V, max =  +1.40 V)
+Vcore:        +1.76 V  (min =  +0.78 V, max =  +1.50 V)
+Vdram:        +1.54 V  (min =  +1.43 V, max =  +1.57 V)
+3VSB:         +3.38 V  (min =  +3.14 V, max =  +3.46 V)
+Vbat:         +3.31 V  
+CPU fan:     1630 RPM  (min =  700 RPM)
+Sys1 fan:       0 RPM  (min =  200 RPM)
+Sys2 fan:       0 RPM  (min =  200 RPM)
+Sys3 fan:       0 RPM  (min =  200 RPM)
+Sys4 fan:       0 RPM  (min =  200 RPM)
+System temp:  +62.0 C  (low  = +10.0 C, high = +60.0 C)  sensor = thermistor
+CPU temp:     +58.0 C  (low  = +10.0 C, high = +85.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
+acpitz-virtual-0
+Adapter: Virtual device
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +70.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:         +67.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:         +69.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:         +67.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:         +63.0 C  (high = +80.0 C, crit = +100.0 C)
+
