@@ -1,0 +1,30 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +57.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.85 V  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +57.8 C  (high = +70.0 C)
+Tctl:         +57.8 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      700.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        3.17 W  (cap =  18.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +57.0 C  (crit = +103.0 C)
+

@@ -1,0 +1,21 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +84.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +67.5 C  (high = +70.0 C)
+Tctl:         +67.5 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +68.0 C  (crit = +95.0 C)
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+fan1:             N/A
+temp1:        +67.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+power1:           N/A  
+

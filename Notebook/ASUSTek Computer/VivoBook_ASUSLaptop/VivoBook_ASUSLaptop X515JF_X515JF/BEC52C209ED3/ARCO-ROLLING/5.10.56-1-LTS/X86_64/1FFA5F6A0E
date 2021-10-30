@@ -1,0 +1,25 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3600 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.85 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +78.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +77.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +76.0 C  (crit = +103.0 C)
+

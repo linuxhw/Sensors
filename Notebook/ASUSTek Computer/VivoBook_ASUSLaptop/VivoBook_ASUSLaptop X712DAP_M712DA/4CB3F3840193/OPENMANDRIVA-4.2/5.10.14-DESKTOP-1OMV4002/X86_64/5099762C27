@@ -1,0 +1,37 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +79.0 C  (crit = +100.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.06 V  
+Vsoc:          1.30 V  
+Tctl:         +79.8 C  
+Tdie:         +79.8 C  
+Icore:        32.00 A  
+Isoc:          9.50 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.92 V  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    168.36 J
+Ecore001:    168.36 J
+Esocket0:      1.19 kJ
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3000 RPM
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +79.0 C  
+
