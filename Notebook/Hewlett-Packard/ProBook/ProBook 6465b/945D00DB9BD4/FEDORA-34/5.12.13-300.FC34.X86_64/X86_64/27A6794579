@@ -1,0 +1,18 @@
+radeon-pci-0008
+Adapter: PCI adapter
+in0:         875.00 mV 
+temp1:        +60.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +60.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +61.0 C  (crit = +128.0 C)
+temp2:         +0.0 C  (crit = +128.0 C)
+temp3:        +60.0 C  (crit = +128.0 C)
+temp4:         +0.0 C  (crit = +128.0 C)
+temp5:        +25.0 C  (crit = +128.0 C)
+

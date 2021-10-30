@@ -1,0 +1,44 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +40.5 C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +47.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+CPUZ:         +43.0 C  (crit = +128.0 C)
+GFXZ:          +0.0 C  (crit = +128.0 C)
+EXTZ:         +41.0 C  (crit = +128.0 C)
+LOCZ:         +42.0 C  (crit = +128.0 C)
+BATZ:         +32.0 C  (crit = +128.0 C)
+PCHZ:          +0.0 C  (crit = +128.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+edge:         +40.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        2.22 kW (cap =  21.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.04 V  
+curr1:         0.00 A  
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +28.0 C, highest = +49.0 C)
+
