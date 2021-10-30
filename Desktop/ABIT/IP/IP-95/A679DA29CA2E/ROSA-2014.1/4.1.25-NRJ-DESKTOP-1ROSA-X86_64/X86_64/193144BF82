@@ -1,0 +1,28 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +84.5°C  
+
+it8712-isa-0a10
+Adapter: ISA adapter
+in0:          +1.25 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.81 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.26 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +2.91 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +3.28 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +2.85 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.23 V  
+fan1:        1757 RPM  (min =    0 RPM)
+fan2:        2777 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +50.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +60.0°C  (low  = +127.0°C, high = +120.0°C)  sensor = thermal diode
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+cpu0_vid:    +1.463 V
+intrusion0:  ALARM
+

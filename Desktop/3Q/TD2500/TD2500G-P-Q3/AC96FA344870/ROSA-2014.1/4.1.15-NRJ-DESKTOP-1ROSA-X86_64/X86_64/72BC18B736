@@ -1,0 +1,30 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +77.0°C  (crit = +127.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +78.0°C  (crit = +100.0°C)
+Core 1:       +77.0°C  (crit = +100.0°C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.18 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.86 V  (min =  +0.03 V, max =  +1.87 V)
+AVCC:         +3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.69 V  (min =  +0.98 V, max =  +0.88 V)  ALARM
+in5:          +1.06 V  (min =  +0.72 V, max =  +0.00 V)  ALARM
+in6:          +1.34 V  (min =  +0.39 V, max =  +0.67 V)  ALARM
+3VSB:         +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.30 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min = 14062 RPM, div = 4)  ALARM
+fan2:           0 RPM  (min = 12980 RPM, div = 4)  ALARM
+fan3:           0 RPM  (min = 9375 RPM, div = 4)  ALARM
+fan5:           0 RPM  (min = 9642 RPM, div = 2)  ALARM
+temp1:        +65.0°C  (high = +106.0°C, hyst = -61.0°C)  sensor = thermistor
+temp2:        +80.5°C  (high = +80.0°C, hyst = +75.0°C)  ALARM  sensor = thermistor
+temp3:        +26.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

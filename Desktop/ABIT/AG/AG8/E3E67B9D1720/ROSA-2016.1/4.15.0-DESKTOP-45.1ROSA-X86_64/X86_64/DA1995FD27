@@ -1,0 +1,31 @@
+w83627hf-isa-0290
+Adapter: ISA adapter
+in0:          +3.31 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +3.31 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.30 V  (min =  +2.82 V, max =  +3.79 V)
+in3:          +2.96 V  (min =  +3.76 V, max =  +3.54 V)  ALARM
+in4:          +2.98 V  (min =  +1.82 V, max =  +0.53 V)  ALARM
+in5:          +2.99 V  (min =  +3.82 V, max =  +4.05 V)  ALARM
+in6:          +2.99 V  (min =  +1.71 V, max =  +4.02 V)
+in7:          +3.23 V  (min =  +3.41 V, max =  +3.57 V)  ALARM
+in8:          +2.83 V  (min =  +3.98 V, max =  +2.53 V)  ALARM
+fan1:           0 RPM  (min = 3901 RPM, div = 2)  ALARM
+fan2:           0 RPM  (min =    0 RPM, div = 2)
+fan3:           0 RPM  (min = 2700 RPM, div = 2)  ALARM
+temp1:        -33.0 C  (high = +125.0 C, hyst = -33.0 C)  sensor = thermistor
+temp2:        -32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        -32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+beep_enable: enabled
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +20.0 C  (crit = +85.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.32 V  (min =  +1.20 V, max =  +1.32 V)
+temp1:        +70.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +125.0 C, hyst =  +2.0 C)
+                       (emerg = +130.0 C, hyst = +10.0 C)
+

@@ -1,0 +1,16 @@
+w83697hf-isa-0290
+Adapter: ISA adapter
+in0:          +1.33 V  (min =  +3.09 V, max =  +1.20 V)  ALARM
+in2:          +3.30 V  (min =  +0.51 V, max =  +1.36 V)  ALARM
+in3:          +3.06 V  (min =  +0.51 V, max =  +1.10 V)  ALARM
+in4:          +2.93 V  (min =  +2.59 V, max =  +2.30 V)  ALARM
+in5:          +3.02 V  (min =  +0.43 V, max =  +0.80 V)  ALARM
+in6:          +3.09 V  (min =  +0.00 V, max =  +3.25 V)
+in7:          +3.26 V  (min =  +3.65 V, max =  +1.90 V)  ALARM
+in8:          +3.44 V  (min =  +3.78 V, max =  +3.36 V)  ALARM
+fan1:        2518 RPM  (min = 1985 RPM, div = 8)
+fan2:        2311 RPM  (min = 8881 RPM, div = 8)  ALARM
+temp1:        +30.0°C  (high = +43.0°C, hyst = +102.0°C)  sensor = thermistor
+temp2:        +41.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+beep_enable: enabled
+
