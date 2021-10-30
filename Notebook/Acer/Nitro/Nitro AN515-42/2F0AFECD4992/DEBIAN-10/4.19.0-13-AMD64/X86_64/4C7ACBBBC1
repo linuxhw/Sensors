@@ -1,0 +1,22 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +46.5 C  (high = +70.0 C)
+Tctl:         +46.5 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.76 V  
+temp1:        +46.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        9.07 W  (cap =  60.00 W)
+
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +53.0 C  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+fan1:             N/A
+temp1:        +46.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
