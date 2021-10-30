@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.0°C  
+
+jc42-i2c-15-18
+Adapter: SMBus I801 adapter at 6000
+temp1:        +51.4°C  (low  = +88.5°C)                  ALARM (LOW)
+                       (high = +88.5°C, hyst = +87.0°C)
+                       (crit = +78.5°C, hyst = +77.0°C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +47.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
