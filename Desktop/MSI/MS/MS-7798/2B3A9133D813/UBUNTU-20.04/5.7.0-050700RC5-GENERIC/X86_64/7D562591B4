@@ -1,0 +1,38 @@
+f71869a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.38 V  
+in1:           1.14 V  
+in2:          32.00 mV 
+in3:         960.00 mV 
+in4:           1.11 V  
+in5:         816.00 mV 
+in6:           1.06 V  
+3VSB:          3.38 V  
+Vbat:          3.26 V  
+fan1:        1831 RPM
+fan2:         778 RPM
+fan3:           0 RPM  ALARM
+temp1:          FAULT  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:       +231.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp3:        +27.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +104.0 C)
+temp2:        +29.8 C  (crit = +104.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +32.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 0:        +40.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 1:        +28.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 2:        +30.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 3:        +35.0 C  (high = +93.0 C, crit = +103.0 C)
+
