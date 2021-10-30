@@ -1,0 +1,33 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +62.0 C  (crit = +103.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3900 RPM
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.70 V  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +67.8 C)
+                       (crit = +70.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+
