@@ -1,0 +1,69 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +63.1°C  (high = +70.0°C)
+                       (crit = +97.0°C, hyst = +90.0°C)
+
+lm92-i2c-13-4a
+Adapter: SMBus PIIX4 adapter port 4 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (crit =  +0.0°C, hyst =  +0.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +61.0°C  (crit = +255.0°C)
+
+lm92-i2c-12-4a
+Adapter: SMBus PIIX4 adapter port 3 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+lm92-i2c-11-4a
+Adapter: SMBus PIIX4 adapter port 2 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+lm92-i2c-10-4a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+lm92-i2c-13-4b
+Adapter: SMBus PIIX4 adapter port 4 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       39.45 W  (interval =   0.01 s, crit =  15.05 W)
+
+lm92-i2c-12-4b
+Adapter: SMBus PIIX4 adapter port 3 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+temp1:        +62.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+lm92-i2c-11-4b
+Adapter: SMBus PIIX4 adapter port 2 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+lm92-i2c-10-4b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:         +0.0°C  (low  =  +0.0°C, hyst =  +0.0°C)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
