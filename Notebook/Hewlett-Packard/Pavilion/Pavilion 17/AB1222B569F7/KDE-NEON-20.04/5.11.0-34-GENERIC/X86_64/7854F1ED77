@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +42.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +41.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.16 V  
+curr1:       409.00 mA 
+
+nouveau-pci-0a00
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.60 V, max =  +1.20 V)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +45.0 C  
+

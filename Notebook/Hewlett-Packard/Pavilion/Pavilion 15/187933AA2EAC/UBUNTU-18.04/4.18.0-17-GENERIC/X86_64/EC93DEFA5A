@@ -1,0 +1,24 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.82 V  
+fan1:             N/A
+temp1:        +46.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        2.22 kW (cap =  30.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +52.2 C  (high = +70.0 C)
+                       (crit = +97.0 C, hyst = +90.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  (crit = +255.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +48.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        8.44 W  (interval =   0.01 s, crit =  15.05 W)
+
