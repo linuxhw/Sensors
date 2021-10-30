@@ -1,0 +1,26 @@
+jc42-i2c-8-1a
+Adapter: SMBus I801 adapter at e000
+temp1:        +40.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:       +41.0 C  (high = +80.0 C, crit = +90.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  (crit = +88.0 C)
+temp2:        +41.0 C  (crit = +88.0 C)
+
+jc42-i2c-8-18
+Adapter: SMBus I801 adapter at e000
+temp1:        +42.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +42.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
