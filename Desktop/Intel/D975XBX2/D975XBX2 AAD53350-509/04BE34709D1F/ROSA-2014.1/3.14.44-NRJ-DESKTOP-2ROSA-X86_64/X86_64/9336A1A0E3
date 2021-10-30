@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0°C  (high = +78.0°C, crit = +100.0°C)
+Core 1:       +51.0°C  (high = +78.0°C, crit = +100.0°C)
+
+asc7621a-i2c-3-2e
+Adapter: SMBus I801 adapter at 3000
+in0:          +1.48 V  (min =  +0.00 V, max =  +3.32 V)
+in1:          +1.16 V  (min =  +0.00 V, max =  +2.99 V)
+in2:          +3.26 V  (min =  +0.00 V, max =  +4.38 V)
+in3:          +4.97 V  (min =  +0.00 V, max =  +6.64 V)
+in4:         +12.14 V  (min =  +0.00 V, max = +15.94 V)
+fan1:        2486 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        1295 RPM  (min =    0 RPM)
+fan4:        1151 RPM  (min =    0 RPM)
+temp1:        +41.8°C  (low  = -127.0°C, high = +127.0°C)
+                       (crit = +63.0°C)
+temp2:        +35.0°C  (low  = -127.0°C, high = +127.0°C)
+                       (crit = +65.0°C)
+temp3:        +36.8°C  (low  = -127.0°C, high = +127.0°C)
+                       (crit = +65.0°C)
+temp4:       -128.0°C  (low  = -127.0°C, high =  +0.0°C)
+                       (crit =  +0.0°C)
+temp5:       +115.5°C  
+temp6:        -84.5°C  
+temp7:        +96.2°C  
+temp8:       +118.5°C  
+

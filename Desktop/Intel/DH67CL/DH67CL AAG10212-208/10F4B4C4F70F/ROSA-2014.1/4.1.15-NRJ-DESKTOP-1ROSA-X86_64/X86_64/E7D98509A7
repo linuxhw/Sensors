@@ -1,0 +1,37 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +55.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +44.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +41.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +43.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +43.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +41.0°C  (high = +80.0°C, crit = +98.0°C)
+
+nct6775-isa-0290
+Adapter: ISA adapter
+Vcore:          +0.97 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.10 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:            +1.08 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.38 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:             0 RPM  (min =    0 RPM, div = 128)
+fan2:          1081 RPM  (min =    0 RPM, div = 32)  ALARM
+fan3:             0 RPM  (min =    0 RPM, div = 128)
+fan4:             0 RPM  (div = 128)
+SYSTIN:         +39.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
+CPUTIN:         +38.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+PECI Agent 0:   +44.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = Intel PECI
+PCH_CHIP_TEMP:  +61.0°C  
+PECI Agent 1:    +0.0°C  (high = +80.0°C, hyst = +75.0°C)
+cpu0_vid:      +0.000 V
+intrusion0:    OK
+

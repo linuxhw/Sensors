@@ -1,0 +1,16 @@
+emc6d103-i2c-6-2e
+Adapter: SMBus I801 adapter at 2000
+in0:          +3.23 V  (min =  +0.79 V, max =  +3.32 V)
+Vcore:        +1.35 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.31 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.00 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.09 V  (min =  +0.00 V, max = +15.94 V)
+fan1:        1587 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +72.6°C  (low  = -127.0°C, high = +127.0°C)
+M/B Temp:     +40.1°C  (low  = -127.0°C, high = +127.0°C)
+temp3:        +48.2°C  (low  = -127.0°C, high = +127.0°C)
+cpu0_vid:    +1.088 V
+

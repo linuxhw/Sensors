@@ -1,0 +1,41 @@
+nct6683-isa-0a20
+Adapter: ISA adapter
+VIN0:            1.01 V  
+VIN1:            1.01 V  
+VCC:             3.36 V  
+VSB:             3.30 V  
+VIN14:           1.15 V  
+VIN3:            1.06 V  
+VIN7:            1.01 V  
+fan1:          1060 RPM
+fan2:           627 RPM
+fan3:             0 RPM
+PECI 0.0:       +44.0*C  (high = +80.0*C, crit = +88.0*C)  sensor = Intel PECI
+PCH CHIP:       +48.0*C  (high = +85.0*C, crit = +95.0*C)
+Local:          +48.5*C  (high = +60.0*C, crit = +68.0*C)
+Thermistor 15:  +35.0*C  (high = +70.0*C, crit = +78.0*C)  sensor = thermistor
+Thermistor 16:  +41.5*C  (high = +80.0*C, crit = +88.0*C)  sensor = thermistor
+DIMM 0:          +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+DIMM 1:          +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+DIMM 2:          +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+DIMM 3:          +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+Virtual 0:       +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+Virtual 1:       +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+Virtual 2:       +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+Virtual 3:       +0.0*C  (high =  +0.0*C, crit =  +0.0*C)
+intrusion0:    OK
+beep_enable:   disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8*C  (crit = +105.0*C)
+temp2:        +29.8*C  (crit = +105.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 0:        +41.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 1:        +39.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 2:        +37.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 3:        +39.0*C  (high = +80.0*C, crit = +100.0*C)
+

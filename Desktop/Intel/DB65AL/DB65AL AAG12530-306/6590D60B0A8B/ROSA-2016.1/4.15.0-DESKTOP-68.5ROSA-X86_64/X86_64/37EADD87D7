@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 0:        +42.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 1:        +44.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 2:        +46.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 3:        +46.0 C  (high = +80.0 C, crit = +99.0 C)
+
+nct6775-isa-0290
+Adapter: ISA adapter
+Vcore:           1.24 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           760.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:            3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:           3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:             1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:             1.50 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:             1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:            3.31 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:            3.22 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:             0 RPM  (min =    0 RPM, div = 64)
+fan2:          1028 RPM  (min =    0 RPM, div = 32)  ALARM
+fan3:          1406 RPM  (min =    0 RPM, div = 32)  ALARM
+fan4:             0 RPM  (div = 64)
+SYSTIN:         +33.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+CPUTIN:         +34.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+PECI Agent 0:   +44.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = Intel PECI
+PCH_CHIP_TEMP:  +55.0 C  
+PECI Agent 1:    +0.0 C  (high = +80.0 C, hyst = +75.0 C)
+cpu0_vid:      +0.000 V
+intrusion0:    OK
+

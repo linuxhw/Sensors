@@ -1,0 +1,31 @@
+it8721-isa-0a00
+Adapter: ISA adapter
+in0:          +2.94 V  (min =  +2.28 V, max =  +2.48 V)  ALARM
+in1:          +2.92 V  (min =  +1.50 V, max =  +3.06 V)
+in2:          +1.99 V  (min =  +2.20 V, max =  +1.62 V)  ALARM
++3.3V:        +3.29 V  (min =  +1.20 V, max =  +4.56 V)
+in4:          +1.09 V  (min =  +2.98 V, max =  +1.33 V)  ALARM
+in5:          +1.26 V  (min =  +2.84 V, max =  +1.46 V)  ALARM
+in6:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.26 V  (min =  +5.90 V, max =  +2.09 V)  ALARM
+Vbat:         +3.26 V  
+fan1:        2265 RPM  (min =   10 RPM)
+fan2:           0 RPM  (min =   20 RPM)  ALARM
+fan3:           0 RPM  (min =   10 RPM)  ALARM
+temp1:        +40.0 C  (low  = -69.0 C, high = -33.0 C)  ALARM  sensor = thermal diode
+temp2:       -128.0 C  (low  = -69.0 C, high = +115.0 C)  sensor = disabled
+temp3:        -61.0 C  (low  = -67.0 C, high = +59.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.85 V  (min =  +0.85 V, max =  +1.10 V)
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +36.0 C  (high = +76.0 C, crit = +100.0 C)
+

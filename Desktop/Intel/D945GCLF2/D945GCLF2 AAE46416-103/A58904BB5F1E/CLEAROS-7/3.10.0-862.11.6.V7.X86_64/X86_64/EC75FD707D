@@ -1,0 +1,20 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +72.0 C  (crit = +125.0 C)
+Core 1:       +69.0 C  (crit = +125.0 C)
+
+smsc47m192-i2c-7-2d
+Adapter: SMBus I801 adapter at 3000
+in0:          +2.54 V  (min =  +0.00 V, max =  +3.32 V)
+Vcore:        +1.16 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.32 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.05 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.06 V  (min = +10.81 V, max = +13.19 V)
+VCC:          +3.32 V  (min =  +2.97 V, max =  +3.63 V)
+in6:          +1.57 V  (min =  +0.00 V, max =  +1.99 V)
+in7:          +1.78 V  (min =  +0.00 V, max =  +2.39 V)
+SIO Temp:     +41.0 C  (low  = -127.0 C, high = +127.0 C)
+temp2:        +61.0 C  (low  = -127.0 C, high = +50.0 C)  ALARM
+temp3:        +49.0 C  (low  = -127.0 C, high = +127.0 C)
+cpu0_vid:    +0.000 V
+
