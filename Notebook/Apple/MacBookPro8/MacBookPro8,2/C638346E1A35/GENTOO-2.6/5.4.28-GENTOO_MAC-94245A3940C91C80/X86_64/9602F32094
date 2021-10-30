@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package:      +59.0 C  (high = +86.0 C, crit = +100.0 C)
+CPU0:         +59.0 C  (high = +86.0 C, crit = +100.0 C)
+CPU1:         +59.0 C  (high = +86.0 C, crit = +100.0 C)
+CPU2:         +55.0 C  (high = +86.0 C, crit = +100.0 C)
+CPU3:         +56.0 C  (high = +86.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          +11.85 V  
+temp ambient:  +26.5 C  
+curr1:         +2.13 A  (avg =  +2.66 A)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+FAN Left:            2003 RPM  (min = 2000 RPM, max = 6200 RPM)
+FAN Right:           2001 RPM  (min = 2000 RPM, max = 6200 RPM)
+Battery1:             +26.2 C  
+Battery2:             +29.5 C  
+Battery3:             +28.8 C  
+CPU Core:             +58.8 C  
+CPU Die:              +53.2 C  
+CPU Fan1:             +65.2 C  
+CPU Fan2:             +67.2 C  
+CPU Proximity:        +46.0 C  
+CPU0 Die:             +59.0 C  
+CPU1 Die:             +58.0 C  
+CPU2 Die:             +54.0 C  
+CPU3 Die:             +56.0 C  
+GPU Core:             +58.0 C  
+System Agent Die:     +54.0 C  
+CPU Trending:          -0.2 C  
+GPU Die:              +48.2 C  
+GPU Proximity:        +41.8 C  
+Thunderbolt Die:      +40.0 C  
+Memory Die:           +58.2 C  
+PHC Proximity:        +49.5 C  
+PHC Die:              +58.0 C  
+Heatpipe1 Proximity:  +39.8 C  
+Heatpipe2 Proximity:  +38.2 C  
+Mainboard Proximity:  +32.5 C  
+Palm Rest:            +25.5 C  
+Memory Proximity:     +34.2 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+Battery:      +26.5 C  
+
