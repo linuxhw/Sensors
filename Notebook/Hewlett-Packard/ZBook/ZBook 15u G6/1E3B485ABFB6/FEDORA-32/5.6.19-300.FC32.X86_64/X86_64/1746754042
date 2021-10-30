@@ -1,0 +1,44 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+amdgpu-pci-3a00
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +42.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        4.13 W  (cap =  18.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.09 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+nvme-pci-3b00
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  
+temp2:        +46.0 C  (crit = +128.0 C)
+temp3:         +0.0 C  (crit = +128.0 C)
+temp4:        +39.0 C  (crit = +128.0 C)
+temp5:        +40.0 C  (crit = +128.0 C)
+temp6:        +32.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+

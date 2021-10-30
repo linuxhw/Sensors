@@ -1,0 +1,24 @@
+max1617-i2c-7-4e
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:         +0.0 C  (low  =  +0.0 C, high =  +0.0 C)
+temp2:        +59.0 C  (low  = +52.0 C, high = +70.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +59.0 C  (crit = +105.0 C)
+temp2:        +20.0 C  (crit = +105.0 C)
+
+emc1402-i2c-7-4c
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +53.0 C  (low  =  +0.0 C, hyst = +10.0 C)
+                       (high = +93.0 C, hyst = +83.0 C)
+                       (crit = +88.0 C, hyst = +78.0 C)
+temp2:        +64.0 C  (low  =  +0.0 C, hyst = +10.0 C)
+                       (high = +90.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +59.0 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)
+
