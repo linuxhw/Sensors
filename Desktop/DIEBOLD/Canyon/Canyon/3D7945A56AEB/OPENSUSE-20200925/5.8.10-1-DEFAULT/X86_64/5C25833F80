@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Package Temperature:  +43.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 0 Temperature:   +36.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 1 Temperature:   +38.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 2 Temperature:   +42.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 3 Temperature:   +42.0 C  (high = +85.0 C, crit = +105.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+nct6776-isa-0a00
+Adapter: ISA adapter
+Vcore:                      944.00 mV (min =  +0.99 V, max =  +1.26 V)  ALARM
++12V:                        12.29 V  (min = +11.42 V, max = +13.25 V)
+AVCC:                         3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                        3.36 V  (min =  +2.98 V, max =  +3.63 V)
++5V:                          5.20 V  (min =  +4.76 V, max =  +5.52 V)
+3VSB:                         3.38 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                         3.34 V  (min =  +2.70 V, max =  +3.63 V)
+Front Top Fan:               729 RPM  (min =    0 RPM)
+CPU Fan:                     652 RPM  (min =    0 RPM)
+Front Bottom Fan:            716 RPM  (min =    0 RPM)
+Motherboard - SYSTEM:         +0.0 C  (high =  +0.0 C, hyst =  +0.0 C)  sensor = CPU diode
+Motherboard - CPU:           +39.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+Motherboard - PECI Agent 0:  +43.0 C  (high = +80.0 C, hyst = +75.0 C)
+                                      (crit = +105.0 C)
+Motherboard - Intel Q77:     +61.0 C  (high = +80.0 C, hyst = +75.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+

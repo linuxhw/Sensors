@@ -1,0 +1,22 @@
+w83792d-i2c-0-2f
+Adapter: SMBus I801 adapter at 0540
+VcoreA:       +1.33 V  (min =  +0.00 V, max =  +2.04 V)
+VcoreB:       +1.35 V  (min =  +0.00 V, max =  +2.04 V)
+in2:          +1.82 V  (min =  +0.00 V, max =  +4.08 V)
+in3:          +1.26 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +1.19 V  (min =  +1.07 V, max =  +1.31 V)
+in5:          +2.54 V  (min =  +2.16 V, max =  +2.93 V)
++5V:          +4.99 V  (min =  +4.49 V, max =  +5.50 V)
+5VSB:         +5.00 V  (min =  +4.49 V, max =  +5.50 V)
+Vbat:         +0.00 V  (min =  +2.69 V, max =  +3.30 V)  ALARM
+fan1:        1318 RPM  (min =  712 RPM, div = 8)
+fan2:        1360 RPM  (min =  712 RPM, div = 8)
+fan3:           0 RPM  (min =  712 RPM, div = 8)  ALARM
+fan4:        1074 RPM  (min =  712 RPM, div = 8)
+fan6:           0 RPM  (min =  712 RPM, div = 8)  ALARM
+fan7:           0 RPM  (min =    0 RPM, div = 8)
+temp1:        +50.0°C  (high = +127.0°C, hyst =  +0.0°C)
+temp2:        +55.0°C  (high = +80.0°C, hyst = +70.0°C)
+temp3:        +59.0°C  (high = +80.0°C, hyst = +70.0°C)
+intrusion0:  OK
+
