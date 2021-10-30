@@ -1,0 +1,15 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +60.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +59.0 C  (high = +90.0 C, crit = +90.0 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 0400
+temp1:        +61.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +55.0 C  (crit = +104.0 C)
+

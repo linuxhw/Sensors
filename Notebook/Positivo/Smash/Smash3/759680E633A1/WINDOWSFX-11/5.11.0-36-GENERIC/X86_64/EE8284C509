@@ -1,0 +1,16 @@
+axp288_fuel_gauge-isa-0000
+Adapter: ISA adapter
+in0:           4.08 V  
+curr1:       -560.00 mA 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +81.3 C  (crit = +100.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +80.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +80.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +78.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +78.0 C  (high = +90.0 C, crit = +90.0 C)
+

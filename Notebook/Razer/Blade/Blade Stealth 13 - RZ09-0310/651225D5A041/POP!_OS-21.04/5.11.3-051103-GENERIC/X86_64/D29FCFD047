@@ -1,0 +1,31 @@
+hidpp_battery_1-hid-3-19
+Adapter: HID adapter
+in0:           3.99 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +76.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +76.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.00 V  
+curr1:         4.00 mA 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+nvme-pci-5700
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
