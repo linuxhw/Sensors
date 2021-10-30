@@ -1,0 +1,16 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +76.5 C  (high = +70.0 C)
+Tctl:         +76.5 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +64.0 C  (crit = +120.0 C)
+temp2:        +50.0 C  (crit = +120.0 C)
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +76.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+

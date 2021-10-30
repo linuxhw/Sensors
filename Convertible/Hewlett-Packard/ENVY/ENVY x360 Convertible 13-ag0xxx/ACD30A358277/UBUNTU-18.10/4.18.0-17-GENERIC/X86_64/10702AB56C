@@ -1,0 +1,18 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+fan1:             N/A
+temp1:        +58.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+power1:           N/A  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  (crit = +120.0 C)
+temp2:        +48.0 C  (crit = +120.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +58.0 C  (high = +70.0 C)
+Tctl:         +58.0 C  
+

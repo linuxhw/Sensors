@@ -1,0 +1,29 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:          +0.00 V  
+curr1:            N/A  (max =  +3.00 A)
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:          +0.00 V  
+curr1:            N/A  (max =  +3.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +41.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          +7.64 V  
+curr1:        +2.13 A  
+

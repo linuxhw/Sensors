@@ -1,0 +1,21 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.28 V  
+curr1:         1.75 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +50.0 C  (crit = +120.0 C)
+temp2:        +45.0 C  (crit = +120.0 C)
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +51.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +51.0 C  (high = +70.0 C)
+Tctl:         +51.0 C  
+
