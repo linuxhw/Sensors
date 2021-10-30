@@ -1,0 +1,34 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +37.6 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:         696 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +49.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.09 W  (cap = 110.00 W)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      112.46 W  (crit = 125.19 W)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:           2.80 V  (min =  +2.28 V, max =  +0.10 V)  ALARM
+in1:           2.80 V  (min =  +1.09 V, max =  +2.62 V)  ALARM
+in2:           1.32 V  (min =  +2.26 V, max =  +1.21 V)  ALARM
++3.3V:         3.29 V  (min =  +1.70 V, max =  +5.28 V)
+in4:           1.56 V  (min =  +0.65 V, max =  +0.01 V)  ALARM
+in5:           2.52 V  (min =  +1.46 V, max =  +2.02 V)  ALARM
+in6:         216.00 mV (min =  +0.20 V, max =  +2.59 V)
+3VSB:          5.90 V  (min =  +3.53 V, max =  +2.28 V)  ALARM
+Vbat:          3.43 V  
+fan1:        1442 RPM  (min =   24 RPM)
+fan2:        2039 RPM  (min =   38 RPM)
+temp1:        +48.0 C  (low  = +28.0 C, high = +87.0 C)  sensor = thermistor
+temp2:        +32.0 C  (low  =  +5.0 C, high = +62.0 C)  sensor = thermistor
+temp3:       -128.0 C  (low  = -43.0 C, high = -76.0 C)  sensor = disabled
+intrusion0:  OK
+

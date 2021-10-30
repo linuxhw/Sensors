@@ -1,0 +1,42 @@
+atk0110-acpi-0
+Adapter: ACPI interface
+ +3.3 Voltage:          +3.48 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:            +5.13 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:          +12.70 V  (min = +10.20 V, max = +13.80 V)
+CPU Voltage:            +1.44 V  (min =  +0.80 V, max =  +1.60 V)
+CPU/NB Voltage:         +1.40 V  (min =  +0.80 V, max =  +1.60 V)
+CPU VDDA Voltage:       +2.48 V  (min =  +2.00 V, max =  +3.00 V)
+DRAM Voltage:           +1.77 V  (min =  +1.40 V, max =  +1.90 V)
+HT Voltage:             +1.20 V  (min =  +0.80 V, max =  +1.50 V)
+NB Voltage:             +1.10 V  (min =  +0.90 V, max =  +1.35 V)
+NB 1.8V Voltage:        +1.81 V  (min =  +1.50 V, max =  +2.00 V)
+SB Voltage:             +1.20 V  (min =  +0.80 V, max =  +1.50 V)
+CPU FAN Speed:         1030 RPM  (min =  600 RPM, max = 7200 RPM)
+PWR_FAN FAN Speed:        0 RPM  (min =  600 RPM, max = 7200 RPM)
+CHA_FAN1 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+CHA_FAN2 FAN Speed:    1433 RPM  (min =  600 RPM, max = 7200 RPM)
+CHA_FAN3 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+OPT_FAN1 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+OPT_FAN2 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+OPT_FAN3 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:        +32.0°C  (high = +60.0°C, crit = +65.0°C)
+MB Temperature:         +23.0°C  (high = +55.0°C, crit = +55.0°C)
+NB Temperature:         +44.0°C  (high = +80.0°C, crit = +80.0°C)
+SB Temperature:         +39.0°C  (high = +65.0°C, crit = +65.0°C)
+OPT_TEMP1 Temperature:   +0.0°C  (high = +45.0°C, crit = +45.0°C)
+OPT_TEMP2 Temperature:   +0.0°C  (high = +45.0°C, crit = +45.0°C)
+OPT_TEMP3 Temperature:   +0.0°C  (high = +45.0°C, crit = +45.0°C)
+
+radeon-pci-0600
+Adapter: PCI adapter
+temp1:        +31.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +31.0°C  (high = +70.0°C)
+                       (crit = +95.0°C, hyst = +93.0°C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +30.0°C  (crit = +120.0°C, hyst = +90.0°C)
+

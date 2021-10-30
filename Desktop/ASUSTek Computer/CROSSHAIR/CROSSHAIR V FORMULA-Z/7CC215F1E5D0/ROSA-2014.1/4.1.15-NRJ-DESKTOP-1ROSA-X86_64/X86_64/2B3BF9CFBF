@@ -1,0 +1,31 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +45.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +22.1°C  (high = +70.0°C)
+                       (crit = +90.0°C, hyst = +87.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        7.19 W  (crit = 125.02 W)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:          +2.78 V  (min =  +0.48 V, max =  +2.47 V)  ALARM
+in1:          +2.76 V  (min =  +1.48 V, max =  +0.04 V)  ALARM
+in2:          +1.34 V  (min =  +2.66 V, max =  +0.10 V)  ALARM
++3.3V:        +3.29 V  (min =  +0.22 V, max =  +1.54 V)  ALARM
+in4:          +0.38 V  (min =  +1.82 V, max =  +1.74 V)  ALARM
+in5:          +2.51 V  (min =  +0.10 V, max =  +0.01 V)  ALARM
+in6:          +2.30 V  (min =  +2.45 V, max =  +0.17 V)  ALARM
+3VSB:         +0.10 V  (min =  +2.45 V, max =  +4.66 V)  ALARM
+Vbat:         +3.29 V  
+fan1:        1173 RPM  (min =   32 RPM)
+fan2:        1473 RPM  (min =   20 RPM)
+temp1:        +36.0°C  (low  = +78.0°C, high = +110.0°C)  sensor = thermistor
+temp2:        +33.0°C  (low  = +40.0°C, high = -85.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  = -82.0°C, high = +51.0°C)  sensor = disabled
+intrusion0:  OK
+

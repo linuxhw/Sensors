@@ -1,0 +1,87 @@
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+fan1:        1322 RPM  (min =  400 RPM, max = 3300 RPM)
+edge:         +49.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +49.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +51.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        7.00 W  (cap = 180.00 W)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +53.0 C  
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +24.0 C, highest = +42.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +39.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +39.9 C  (low  = -40.1 C, high = +83.8 C)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.33 V  
+CPU SOC Voltage:           1.09 V  
+DRAM Voltage:              1.37 V  
+VDDP Voltage:              1.05 V  
+1.8V PLL Voltage:          1.81 V  
++12V Voltage:             11.90 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              3.16 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Fan:                  716 RPM
+Chassis Fan 1:            643 RPM
+Chassis Fan 2:            934 RPM
+Chassis Fan 3:            922 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                 1390 RPM
+Water Flow:                 0 RPM
+CPU Temperature:          +57.0 C  
+CPU Socket Temperature:   +43.0 C  
+Motherboard Temperature:  +39.0 C  
+Chipset Temperature:      +62.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +41.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:    2.00 A  
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +26.0 C, highest = +42.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       863.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +55.9 C  
+Tdie:         +55.9 C  
+Tccd1:        +44.8 C  
+Icore:       1000.00 mA 
+Isoc:          8.50 A  
+
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +40.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

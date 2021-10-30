@@ -1,0 +1,26 @@
+f71869a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.31 V  
+in1:           1.38 V  
+in2:           1.11 V  
+in3:         888.00 mV 
+in4:         616.00 mV 
+in5:           1.41 V  
+in6:           1.34 V  
+3VSB:          3.39 V  
+Vbat:          3.31 V  
+fan1:        1809 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +34.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +33.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp3:       +127.0 C  (high = +70.0 C, hyst = +68.0 C)  ALARM (CRIT)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = thermistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +14.6 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+

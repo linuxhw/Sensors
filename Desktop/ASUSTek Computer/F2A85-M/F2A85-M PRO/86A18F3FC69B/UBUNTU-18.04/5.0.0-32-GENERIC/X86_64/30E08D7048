@@ -1,0 +1,20 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +25.9 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +12.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.20 V  
+fan1:         820 RPM  (min =    0 RPM, max = 3200 RPM)
+temp1:        +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       45.20 W  (cap = 175.00 W)
+

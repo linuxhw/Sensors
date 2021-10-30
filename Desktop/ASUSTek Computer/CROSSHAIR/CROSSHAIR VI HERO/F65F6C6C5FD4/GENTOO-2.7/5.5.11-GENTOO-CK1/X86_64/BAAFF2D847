@@ -1,0 +1,54 @@
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:         +1.42 V  
+CPU SOC Voltage:          +1.09 V  
+DRAM Voltage:             +1.35 V  
+VDDP Voltage:             +1.07 V  
+1.8V PLL Voltage:         +1.83 V  
++12V Voltage:            +11.90 V  
++5V Voltage:              +4.96 V  
+3VSB Voltage:             +3.31 V  
+VBAT Voltage:             +3.16 V  
+AVCC3 Voltage:            +3.31 V  
+SB 1.05V Voltage:         +1.04 V  
+CPU Fan:                 1038 RPM
+Chassis Fan 1:           1064 RPM
+Chassis Fan 2:           1151 RPM
+Chassis Fan 3:           1095 RPM
+AIO Pump:                1273 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+CPU Temperature:          +63.0 C  
+CPU Socket Temperature:   +39.0 C  
+Motherboard Temperature:  +38.0 C  
+Chipset Temperature:      +60.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +40.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:  +10.00 A  
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:        1318 RPM  (min =  400 RPM, max = 3300 RPM)
+edge:         +41.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +42.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +45.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        6.00 W  (cap = 180.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +62.8 C  (high = +70.0 C)
+Tctl:         +62.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +38.9 C  (low  = -40.1 C, high = +83.8 C)
+

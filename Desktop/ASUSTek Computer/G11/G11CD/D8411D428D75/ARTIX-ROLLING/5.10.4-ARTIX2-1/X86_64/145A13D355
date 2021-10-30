@@ -1,0 +1,57 @@
+nct6792-isa-0290
+Adapter: ISA adapter
+in0:                   976.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                     1.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                   992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:                  1351 RPM  (min =    0 RPM)
+fan2:                   989 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +121.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                  +4.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +34.0 C    sensor = thermistor
+AUXTIN1:               +109.0 C    sensor = thermistor
+AUXTIN2:               +111.0 C    sensor = thermistor
+AUXTIN3:               -128.0 C    sensor = thermistor
+PECI Agent 0:           +52.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.18 V  
+fan1:        1918 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +61.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       77.06 W  (cap = 122.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +39.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +42.0 C  (high = +84.0 C, crit = +100.0 C)
+

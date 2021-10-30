@@ -1,0 +1,44 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +27.0 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+nouveau-pci-0900
+Adapter: PCI adapter
+GPU core:     +0.89 V  (min =  +0.82 V, max =  +1.21 V)
+fan1:        1470 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       26.35 W  (crit = 265.00 mW)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:          +2.76 V  (min =  +0.40 V, max =  +0.68 V)  ALARM
+in1:          +2.81 V  (min =  +2.17 V, max =  +1.88 V)  ALARM
+in2:          +1.40 V  (min =  +0.95 V, max =  +2.20 V)  ALARM
++3.3V:        +3.31 V  (min =  +5.11 V, max =  +4.92 V)  ALARM
+in4:          +0.06 V  (min =  +0.18 V, max =  +1.03 V)  ALARM
+in5:          +2.50 V  (min =  +1.46 V, max =  +0.23 V)  ALARM
+in6:          +2.08 V  (min =  +2.60 V, max =  +2.35 V)  ALARM
+3VSB:         +4.73 V  (min =  +3.43 V, max =  +0.41 V)  ALARM
+Vbat:         +3.41 V  
+fan1:        1486 RPM  (min =   33 RPM)
+fan2:          -1 RPM  (min =   10 RPM)
+temp1:        +40.0 C  (low  = -33.0 C, high = -45.0 C)  ALARM  sensor = thermistor
+temp2:        +36.0 C  (low  = +23.0 C, high =  +9.0 C)  ALARM  sensor = thermistor
+temp3:       -128.0 C  (low  = -125.0 C, high = +81.0 C)  sensor = disabled
+intrusion0:  OK
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       61.96 W  (crit = 125.19 W)
+

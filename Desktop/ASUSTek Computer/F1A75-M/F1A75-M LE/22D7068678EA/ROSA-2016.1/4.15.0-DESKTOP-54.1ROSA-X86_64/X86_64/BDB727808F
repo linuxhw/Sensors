@@ -1,0 +1,38 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.10 V  (min =  +1.00 V, max =  +1.30 V)
+fan1:           0 RPM
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +125.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst = +10.0 C)
+
+f71869a-isa-0290
+Adapter: ISA adapter
++3.3V:        +3.41 V  
+in1:          +1.02 V  
+in2:          +0.80 V  
+in3:          +0.58 V  
+in4:          +0.34 V  
+in5:          +1.38 V  
+in6:          +1.30 V  
+3VSB:         +3.41 V  
+Vbat:         +3.33 V  
+fan1:        2347 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +37.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +37.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp3:       +127.0 C  (high = +70.0 C, hyst = +68.0 C)  ALARM (CRIT)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = thermistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +23.0 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
