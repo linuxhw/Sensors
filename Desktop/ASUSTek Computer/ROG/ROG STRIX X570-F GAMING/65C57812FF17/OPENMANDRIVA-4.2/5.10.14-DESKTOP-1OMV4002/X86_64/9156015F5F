@@ -1,0 +1,34 @@
+nouveau-pci-0700
+Adapter: PCI adapter
+fan1:        1273 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    214.71 J
+Ecore001:    155.79 J
+Ecore002:    123.40 J
+Ecore003:    259.49 J
+Ecore004:    209.45 J
+Ecore005:    174.72 J
+Ecore006:    139.09 J
+Ecore007:    125.68 J
+Ecore008:    103.26 J
+Ecore009:    147.90 J
+Ecore010:    141.25 J
+Ecore011:    109.97 J
+Esocket0:     12.35 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.43 V  
+Vsoc:          1.08 V  
+Tctl:         +48.0 C  
+Tdie:         +48.0 C  
+Tccd1:        +50.0 C  
+Tccd2:        +32.0 C  
+Icore:        20.00 A  
+Isoc:         10.23 A  
+

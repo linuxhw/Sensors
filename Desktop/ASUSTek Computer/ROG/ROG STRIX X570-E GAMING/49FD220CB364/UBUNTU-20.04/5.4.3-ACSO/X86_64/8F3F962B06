@@ -1,0 +1,24 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.41 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +59.2 C  (high = +70.0 C)
+Tctl:         +59.2 C  
+Tccd1:        +46.2 C  
+Tccd2:        +41.5 C  
+SVI2_P_Core:  25.95 W  
+SVI2_P_SoC:   15.69 W  
+SVI2_C_Core:  18.45 A  
+SVI2_C_SoC:   14.42 A  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:        1.07 V  
+fan1:        1070 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +60.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       57.16 W  (cap = 120.00 W)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

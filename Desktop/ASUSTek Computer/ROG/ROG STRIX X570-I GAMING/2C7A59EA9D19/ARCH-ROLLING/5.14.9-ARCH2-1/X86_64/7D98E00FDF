@@ -1,0 +1,38 @@
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:        1.10 V  
+fan1:        1102 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +56.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       21.02 W  (cap = 135.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +64.8 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +64.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +75.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.28 V  
+SVI2_SoC:      1.01 V  
+Tdie:         +61.0 C  (high = +95.0 C)
+Tctl:         +61.0 C  
+Tccd1:        +58.2 C  
+Tccd2:        +58.8 C  
+SVI2_P_Core:  30.41 W  
+SVI2_P_SoC:   11.03 W  
+SVI2_C_Core:  23.72 A  
+SVI2_C_SoC:   10.89 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +53.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +58.9 C  (low  = -273.1 C, high = +65261.8 C)
+

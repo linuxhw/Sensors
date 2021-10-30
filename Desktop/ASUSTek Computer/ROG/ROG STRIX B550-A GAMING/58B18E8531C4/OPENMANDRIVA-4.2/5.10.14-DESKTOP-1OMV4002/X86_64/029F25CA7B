@@ -1,0 +1,29 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+fan1:         768 RPM
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    923.64 J
+Ecore001:    388.97 J
+Ecore002:    423.06 J
+Ecore003:    403.22 J
+Ecore004:    406.89 J
+Ecore005:    397.04 J
+Ecore006:    388.50 J
+Ecore007:    394.14 J
+Esocket0:     10.87 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       925.00 mV 
+Vsoc:        969.00 mV 
+Tctl:         +30.2 C  
+Tdie:         +30.2 C  
+Tccd1:        +22.8 C  
+Icore:       1000.00 mA 
+Isoc:          2.79 A  
+

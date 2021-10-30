@@ -1,0 +1,51 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       925.00 mV 
+Vsoc:        981.00 mV 
+Tctl:         +33.5 C  
+Tdie:         +33.5 C  
+Tccd1:        +34.5 C  
+Icore:       1000.00 mA 
+Isoc:          3.50 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:        447.00 mV 
+VPP MEM Voltage:           2.52 V  
++12V Voltage:              9.92 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              3.27 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.03 V  
+CPU Core Voltage:        925.00 mV 
+CPU SOC Voltage:         978.00 mV 
+CPU Fan:                  704 RPM
+Chassis Fan 1:           1186 RPM
+AIO Pump:                   0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +33.0 C  
+CPU Socket Temperature:   +33.0 C  
+Motherboard Temperature:  +45.0 C  
+Chipset Temperature:      +45.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +34.0 C  
+CPU VRM Output Current:    0.00 A  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1195 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +32.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +32.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +36.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:        9.00 W  (cap = 188.00 W)
+

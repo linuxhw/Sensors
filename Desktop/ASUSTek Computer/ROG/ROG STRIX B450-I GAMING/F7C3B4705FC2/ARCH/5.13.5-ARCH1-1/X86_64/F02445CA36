@@ -1,0 +1,42 @@
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   969.00 mV 
+SVI2_SoC:      1.09 V  
+Tdie:         +56.5 C  (high = +95.0 C)
+Tctl:         +56.5 C  
+SVI2_P_Core:   9.06 W  
+SVI2_P_SoC:    9.03 W  
+SVI2_C_Core:  10.39 A  
+SVI2_C_SoC:    8.30 A  
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:        959.00 mV 
+VPP MEM Voltage:           2.50 V  
++12V Voltage:              9.87 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.25 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Core Voltage:        968.00 mV 
+CPU SOC Voltage:           1.08 V  
+CPU Fan:                  969 RPM
+Chassis Fan 1:            786 RPM
+AIO Pump:                   0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +56.0 C  
+CPU Socket Temperature:   +46.0 C  
+Motherboard Temperature:  +48.0 C  
+Chipset Temperature:      +55.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +47.0 C  
+CPU VRM Output Current:   10.00 A  
+

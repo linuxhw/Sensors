@@ -1,0 +1,30 @@
+corsaircpro-hid-3-9
+Adapter: HID adapter
+in0:          11.98 V  
+in1:           4.98 V  
+in2:           3.36 V  
+fan1 4pin:    751 RPM
+fan2 4pin:    749 RPM
+fan3 4pin:    748 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +60.9 C  
+Tdie:         +60.9 C  
+Tccd1:        +38.0 C  
+Tccd2:        +56.8 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

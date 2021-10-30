@@ -1,0 +1,48 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    791.66 J
+Ecore001:    659.95 J
+Ecore002:    660.82 J
+Ecore003:    661.92 J
+Ecore004:    761.51 J
+Ecore005:    679.11 J
+Ecore006:    688.78 J
+Ecore007:    698.22 J
+Esocket0:     17.04 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.41 V  
+Vsoc:          1.09 V  
+Tctl:         +49.9 C  
+Tdie:         +49.9 C  
+Tccd1:        +54.2 C  
+Icore:        23.00 A  
+Isoc:         10.23 A  
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3400 RPM)
+edge:         +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +36.0 C  (crit = +108.0 C, hyst = -273.1 C)
+                       (emerg = +113.0 C)
+mem:          +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:        7.00 W  (cap = 220.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

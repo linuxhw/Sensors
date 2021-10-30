@@ -1,0 +1,29 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+Case 1:       710 RPM  (min =  500 RPM)
+CPU Fan:     1008 RPM  (min =  600 RPM)
+Case 2:       672 RPM  (min =  500 RPM)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+Wifi Radio Temp:  +33.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.44 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +43.9 C  (high = +95.0 C)
+Tctl:         +43.9 C  
+Tccd1:        +49.0 C  
+SVI2_P_Core:  14.27 W  
+SVI2_P_SoC:    9.93 W  
+SVI2_C_Core:  10.54 A  
+SVI2_C_SoC:    9.12 A  
+

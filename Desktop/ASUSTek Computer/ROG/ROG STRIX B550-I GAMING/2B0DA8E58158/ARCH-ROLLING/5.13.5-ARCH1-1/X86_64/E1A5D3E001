@@ -1,0 +1,35 @@
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           4.14 V  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.37 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +51.2 C  (high = +95.0 C)
+Tctl:         +51.2 C  
+Tccd1:        +55.2 C  
+SVI2_P_Core:  13.53 W  
+SVI2_P_SoC:    9.34 W  
+SVI2_C_Core:  10.54 A  
+SVI2_C_SoC:    8.53 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      862.00 mV 
+fan1:         476 RPM  (min =    0 RPM, max = 3400 RPM)
+edge:         +51.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +54.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +64.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       28.00 W  (cap = 186.00 W)
+

@@ -1,0 +1,35 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +47.8 C  (high = +70.0 C)
+
+it8665-isa-0290
+Adapter: ISA adapter
+in0:          +0.63 V  (min =  +2.58 V, max =  +1.13 V)
+in1:          +0.68 V  (min =  +1.47 V, max =  +2.63 V)
+in2:          +2.01 V  (min =  +2.68 V, max =  +2.64 V)
+in3:          +2.02 V  (min =  +0.50 V, max =  +1.97 V)
+in4:          +0.56 V  (min =  +2.75 V, max =  +2.13 V)
+in5:          +0.68 V  (min =  +1.38 V, max =  +0.60 V)
+in6:          +0.91 V  (min =  +0.85 V, max =  +1.69 V)
+3VSB:         +3.33 V  (min =  +2.38 V, max =  +4.58 V)
+Vbat:         +3.18 V  
++3.3V:        +3.33 V  
+fan1:        1243 RPM  (min =   13 RPM)
+fan2:           0 RPM  (min =   63 RPM)
+fan3:           0 RPM  (min =   59 RPM)
+fan4:        1021 RPM  (min =   -1 RPM)
+fan5:           0 RPM  (min =   -1 RPM)
+fan6:        2973 RPM  (min =   -1 RPM)
+temp1:        +47.0 C  (low  = -82.0 C, high = +12.0 C)
+temp2:        +42.0 C  (low  = -89.0 C, high = -90.0 C)  sensor = thermistor
+temp3:        +45.0 C  (low  = -53.0 C, high = -49.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+temp1:        +47.8 C  (high = +70.0 C)
+

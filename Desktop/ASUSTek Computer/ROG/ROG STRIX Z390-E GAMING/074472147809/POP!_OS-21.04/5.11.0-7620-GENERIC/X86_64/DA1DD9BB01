@@ -1,0 +1,52 @@
+corsairpsu-hid-3-6
+Adapter: HID adapter
+v_in:             N/A  
+v_out +12v:       N/A  
+v_out +5v:        N/A  
+v_out +3.3v:      N/A  
+psu fan:          N/A
+vrm temp:         N/A  
+case temp:        N/A  
+power total:      N/A  
+power +12v:       N/A  
+power +5v:        N/A  
+power +3.3v:      N/A  
+curr in:          N/A  
+curr +12v:        N/A  
+curr +5v:         N/A  
+curr +3.3v:       N/A  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.03 V  
+fan1:        1208 RPM  (min =    0 RPM, max = 2400 RPM)
+edge:         +53.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       27.07 W  (cap = 150.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +55.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +50.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +53.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +51.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +51.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +56.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +51.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +54.0 C  (high = +86.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +52.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +57.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,38 @@
+it8665-isa-0290
+Adapter: ISA adapter
+in0:           1.35 V  (min =  +2.60 V, max =  +2.77 V)
+in1:           2.51 V  (min =  +2.67 V, max =  +2.69 V)
+in2:           2.02 V  (min =  +2.23 V, max =  +1.38 V)
+in3:           2.00 V  (min =  +1.97 V, max =  +2.75 V)
+in4:          33.00 mV (min =  +2.54 V, max =  +1.01 V)
+in5:          33.00 mV (min =  +2.77 V, max =  +2.40 V)
+in6:          33.00 mV (min =  +2.06 V, max =  +1.91 V)
+3VSB:          3.31 V  (min =  +0.00 V, max =  +3.99 V)
+Vbat:          3.25 V  
++3.3V:         3.33 V  
+CPU Fan:     1303 RPM  (min =   31 RPM)
+fan2:        1654 RPM  (min =   14 RPM)
+fan3:        1001 RPM  (min =   15 RPM)
+fan4:        1004 RPM  (min =   -1 RPM)
+fan6:        1038 RPM  (min =   -1 RPM)
+CPU Temp:     +54.0 C  (low  = -65.0 C, high =  -9.0 C)
+temp2:        +38.0 C  (low  = +108.0 C, high = -97.0 C)  sensor = thermistor
+temp3:        +39.0 C  (low  = -95.0 C, high = -21.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+amdgpu-pci-1000
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +54.0 C  
+
+nvme-pci-0f00
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU temp:     +54.2 C  
+Tdie:         +54.2 C  
+

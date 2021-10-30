@@ -1,0 +1,36 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:         870 RPM
+temp1:        +44.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        9.16 W  (cap = 110.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +46.0 C  (high = +70.0 C)
+Tctl:         +46.0 C  
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.27 V  
+VPP MEM Voltage:           2.52 V  
++12V Voltage:             10.08 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.36 V  
+VBAT Voltage:              3.21 V  
+AVCC3 Voltage:             3.36 V  
+SB 1.05V Voltage:          1.06 V  
+CPU Core Voltage:          1.29 V  
+CPU SOC Voltage:         818.00 mV 
+CPU Fan:                  490 RPM
+Chassis Fan 1:           1670 RPM
+AIO Pump:                   0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +46.0 C  
+CPU Socket Temperature:   +34.0 C  
+Motherboard Temperature:  +38.0 C  
+Chipset Temperature:      +47.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +36.0 C  
+CPU VRM Output Current:    6.00 A  
+

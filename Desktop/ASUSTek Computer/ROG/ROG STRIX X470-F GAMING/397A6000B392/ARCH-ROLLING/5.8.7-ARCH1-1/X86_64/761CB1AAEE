@@ -1,0 +1,36 @@
+eth0-pci-0a00
+Adapter: PCI adapter
+PHY Temperature:  +57.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.34 V  
+Vsoc:          1.04 V  
+Tctl:         +45.0 C  
+Tdie:         +35.0 C  
+Icore:         6.00 A  
+Isoc:          7.75 A  
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.33 V  
++12V Voltage:             11.84 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.31 V  
+CPU Fan:                  758 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:           1128 RPM
+Chassis Fan 3:            627 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                  658 RPM
+CPU Temperature:          +35.0 C  
+Motherboard Temperature:  +35.0 C  
+Chipset Temperature:      +49.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+

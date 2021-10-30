@@ -1,0 +1,81 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +77.5 C  
+Tdie:         +50.5 C  
+Tccd1:        +62.2 C  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:         926 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +45.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       42.21 W  (cap = 135.00 W)
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +45.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +64.9 C  
+Tdie:         +37.9 C  
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:               1.35 V  
+CPU SOC Voltage:              959.00 mV 
+DRAM AB Voltage:                1.22 V  
+DRAM CD Voltage:                1.22 V  
+1.8V PLL Voltage:               1.83 V  
++12V Voltage:                  11.97 V  
++5V Voltage:                    4.82 V  
+3VSB Voltage:                   3.36 V  
+VBAT Voltage:                   2.99 V  
+AVCC3 Voltage:                  3.38 V  
+SB 1.05V Voltage:               1.05 V  
+CPU Core Voltage:               1.42 V  
+CPU SOC Voltage:              900.00 mV 
+DRAM AB Voltage:                1.21 V  
+DRAM CD Voltage:                1.20 V  
+CPU Fan:                      1043 RPM
+Chassis Fan 1:                   0 RPM
+Chassis Fan 2:                   0 RPM
+HAMP Fan:                        0 RPM
+Water Pump 1:                    0 RPM
+CPU OPT:                       748 RPM
+Water Flow:                      0 RPM
+Waterblock Flow:                 0 RPM
+EXT Fan 1:                       0 RPM
+EXT Fan 2:                       0 RPM
+EXT Fan 3:                       0 RPM
+Cover Fan:                       0 RPM
+CPU Temperature:               +48.0 C  
+CPU Socket Temperature:        +36.0 C  
+Motherboard Temperature:       +35.0 C  
+Chipset Temperature:           +54.0 C  
+Tsensor 1 Temperature:        +216.0 C  
+CPU VRM Temperature:           +42.0 C  
+Water In:                     +216.0 C  
+Water Out:                    +216.0 C  
+Waterblock In:                +216.0 C  
+Waterblock Out:               +216.0 C  
+EXT Tsensor 1:                  +0.0 C  
+EXT Tsensor 2:                  +0.0 C  
+EXT Tsensor 3:                  +0.0 C  
+Tsensor 2 Temperature:        +216.0 C  
+DIMM.2 Tsensor 1 Temperature: +216.0 C  
+DIMM.2 Tsensor 2 Temperature: +216.0 C  
+CPU VRM Output Current:        12.00 A  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+

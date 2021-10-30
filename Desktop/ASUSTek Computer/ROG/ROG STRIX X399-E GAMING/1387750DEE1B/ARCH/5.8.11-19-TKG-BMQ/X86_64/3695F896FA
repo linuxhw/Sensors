@@ -1,0 +1,47 @@
+i350bb-pci-4200
+Adapter: PCI adapter
+loc1:         +57.0 C  (high = +120.0 C, crit = +110.0 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +72.4 C  
+Tdie:         +45.4 C  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+amdgpu-pci-4600
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:         837 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +38.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       22.00 W  (cap = 250.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +80.5 C  
+Tdie:         +53.5 C  
+Tccd1:        +71.5 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
