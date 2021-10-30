@@ -1,0 +1,28 @@
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       975.00 mV 
+edge:         +50.0 C  (crit =  +1.0 C, hyst = -273.1 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +50.8 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +84.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.87 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       10.41 mW (avg =   6.37 mW, interval =   0.01 s)
+                       (crit =   6.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +47.0 C  (crit = +255.0 C)
+

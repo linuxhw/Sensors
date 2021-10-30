@@ -1,0 +1,33 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +45.0 C  (crit = +125.0 C)
+temp2:         +0.0 C  (crit = +200.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       894.00 mV 
+Vsoc:          1.04 V  
+Tctl:         +51.0 C  
+Tdie:         +51.0 C  
+Icore:        18.00 A  
+Isoc:          9.50 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.99 V  
+curr1:            N/A  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    106.07 J
+Ecore001:     77.75 J
+Ecore002:     89.87 J
+Ecore003:     77.34 J
+Esocket0:      1.25 kJ
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +51.0 C  
+
