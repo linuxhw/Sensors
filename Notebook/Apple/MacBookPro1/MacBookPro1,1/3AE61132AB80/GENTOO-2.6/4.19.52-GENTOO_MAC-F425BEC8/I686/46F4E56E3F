@@ -1,0 +1,22 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+FAN Left:              1042 RPM  (min = 1000 RPM, max = 6000 RPM)
+FAN Right:             1048 RPM  (min = 1000 RPM, max = 6000 RPM)
+Airflow (Input):        +26.0 C  
+Battery (Integrated):  -128.0 C  
+CPU (Die):              +69.2 C  
+CPU (Proximity):        +60.0 C  
+GPU (Heatsink):         +66.0 C  
+GPU (Proximity):        +59.8 C  
+GPU (Die):              +69.5 C  
+Heatpipe (Left):        +46.0 C  
+Heatpipe (Right):       +45.2 C  
+Mainboard (Proximity):  +58.5 C  
+Palm Rest (Left):       +40.0 C  
+Palm Rest (Right):      +39.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +66.0 C  (crit = +100.0 C)
+Core 1:       +64.0 C  (crit = +100.0 C)
+

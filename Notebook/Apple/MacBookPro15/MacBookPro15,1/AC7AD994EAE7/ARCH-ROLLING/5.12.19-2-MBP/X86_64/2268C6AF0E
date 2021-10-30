@@ -1,0 +1,85 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +37.4 C  
+
+applesmc-acpi-0
+Adapter: ACPI interface
+fan1:        2165 RPM  (min = 2160 RPM, max = 5927 RPM)
+fan2:        1996 RPM  (min = 2000 RPM, max = 5489 RPM)
+TA0V:         +23.5 C  
+TB0T:         +37.0 C  
+TB1T:         +35.8 C  
+TB2T:         +37.0 C  
+TC0E:         +62.5 C  
+TC0F:         +64.8 C  
+TC0P:         +53.8 C  
+TC1C:         +58.0 C  
+TC2C:         +59.0 C  
+TC3C:         +58.0 C  
+TC4C:         +58.0 C  
+TC5C:         +59.0 C  
+TC6C:         +57.0 C  
+TC7C:        -127.0 C  
+TC8C:        -127.0 C  
+TCGC:         +59.0 C  
+TCMX:         +60.0 C  
+TCSA:         +60.0 C  
+TCXC:         +59.8 C  
+TF0S:          +4.5 C  
+TG0P:         +54.8 C  
+TGDD:         +58.0 C  
+TGDF:         +59.0 C  
+TGVP:         +51.0 C  
+TH0F:         +44.8 C  
+TH0X:         +44.8 C  
+TH0a:         +41.2 C  
+TH0b:         +44.8 C  
+TH1a:          +0.0 C  
+TH1b:          +0.0 C  
+TM0P:         +49.0 C  
+TPCD:         +55.0 C  
+TTLD:         +49.5 C  
+TTRD:         +54.5 C  
+TW0P:         +47.2 C  
+TaLC:         +44.2 C  
+TaRC:         +49.0 C  
+Th1H:         +54.2 C  
+Th2H:         +52.5 C  
+Tm0P:         +55.2 C  
+Tm1P:        -127.0 C  
+Ts0P:         +34.8 C  
+Ts0S:         +40.8 C  
+Ts1P:         +30.5 C  
+Ts1S:         +41.2 C  
+Ts2S:         +41.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+edge:         +58.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:        9.14 W  (cap =  40.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.99 V  
+temp:         +37.4 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +41.9 C  
+

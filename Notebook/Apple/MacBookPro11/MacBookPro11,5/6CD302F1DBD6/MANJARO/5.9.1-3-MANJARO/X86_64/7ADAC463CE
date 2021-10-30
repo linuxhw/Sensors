@@ -1,0 +1,85 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +64.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+temp:         +31.3 C  
+curr1:         2.53 A  (avg =  +2.79 A)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +54.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +61.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +84.0 C, crit = +100.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2169 RPM  (min = 2160 RPM, max = 6156 RPM)
+Right side : 2000 RPM  (min = 2000 RPM, max = 5700 RPM)
+TB0T:         +31.0 C  
+TB1T:         +31.0 C  
+TB2T:         +31.0 C  
+TBXT:         +31.0 C  
+TC0E:         +67.0 C  
+TC0F:         +70.0 C  
+TC0P:         +53.8 C  
+TC1C:         +60.0 C  
+TC1F:         +68.0 C  
+TC1f:         +68.0 C  
+TC2C:         +63.0 C  
+TC3C:         +65.0 C  
+TC4C:         +66.0 C  
+TCGC:         +63.0 C  
+TCMc:          +0.0 C  
+TCSA:         +59.0 C  
+TCTD:          +0.0 C  
+TCXC:         +67.2 C  
+TCXM:         +68.0 C  
+TCXP:         +61.2 C  
+TG0D:         +57.5 C  
+TG0F:         +56.5 C  
+TG0P:         +55.0 C  
+TG1D:        -127.0 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:         -61.0 C  
+TH0R:        -127.0 C  
+TH0V:         +40.8 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH0x:        -127.0 C  
+TM0P:         +46.5 C  
+TM0S:         +45.0 C  
+TP0P:         +46.8 C  
+TPCD:         +54.0 C  
+TW0P:         +42.8 C  
+Ta0P:         +40.8 C  
+TaSP:         +39.8 C  
+Th1H:         +46.0 C  
+Th2H:         +49.5 C  
+Ts0P:         +29.0 C  
+Ts0S:         +40.0 C  
+Ts1P:         +28.8 C  
+Ts1S:         +40.8 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +31.3 C  
+

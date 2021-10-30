@@ -1,0 +1,41 @@
+lm75-i2c-1-49
+Adapter: SMBus iSMT adapter at 81774000
+temp1:        +40.0 C  (high = +80.0 C, hyst = +75.0 C)
+
+powr1220-i2c-0-61
+Adapter: SMBus I801 adapter at 2000
+vmon1:         5.08 V  (highest =  +5.08 V)
+vmon2:         3.37 V  (highest =  +3.37 V)
+vmon3:         1.84 V  (highest =  +1.84 V)
+vmon4:         1.02 V  (highest =  +1.02 V)
+vmon5:         1.07 V  (highest =  +1.07 V)
+vmon6:         1.23 V  (highest =  +1.23 V)
+vmon7:         1.27 V  (highest =  +1.27 V)
+vmon8:         2.52 V  (highest =  +2.52 V)
+vmon9:       876.00 mV (highest =  +0.88 V)
+vmon10:      924.00 mV (highest =  +0.92 V)
+vmon11:      816.00 mV (highest =  +0.82 V)
+vmon12:        2.88 V  (highest =  +2.88 V)
+vcca:          3.31 V  (highest =  +3.31 V)
+vccinp:        3.29 V  (highest =  +3.29 V)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +26.8 C  (crit = +100.0 C)
+
+lm75-i2c-1-4a
+Adapter: SMBus iSMT adapter at 81774000
+temp1:        +40.5 C  (high = +80.0 C, hyst = +75.0 C)
+
+lm75-i2c-1-48
+Adapter: SMBus iSMT adapter at 81774000
+temp1:        +48.5 C  (high = +80.0 C, hyst = +75.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +75.0 C, crit = +95.0 C)
+Core 2:        +39.0 C  (high = +75.0 C, crit = +95.0 C)
+Core 4:        +36.0 C  (high = +75.0 C, crit = +95.0 C)
+Core 8:        +38.0 C  (high = +75.0 C, crit = +95.0 C)
+Core 14:       +40.0 C  (high = +75.0 C, crit = +95.0 C)
+

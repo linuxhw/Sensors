@@ -1,0 +1,78 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +58.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2162 RPM  (min = 2160 RPM, max = 6156 RPM)
+Right side : 1997 RPM  (min = 2000 RPM, max = 5700 RPM)
+TB0T:         +33.5 C  
+TB1T:         +33.5 C  
+TB2T:         +33.5 C  
+TBXT:         +33.5 C  
+TC0E:         +69.5 C  
+TC0F:         +74.0 C  
+TC0P:         +51.0 C  
+TC1C:         +59.0 C  
+TC1F:         +64.2 C  
+TC1f:         +64.2 C  
+TC2C:         +55.0 C  
+TC3C:         +59.0 C  
+TC4C:         +59.0 C  
+TCGC:         +57.0 C  
+TCMc:          +0.0 C  
+TCSA:         +58.0 C  
+TCTD:          -0.2 C  
+TCXC:         +63.2 C  
+TCXM:         +64.8 C  
+TCXP:         +63.2 C  
+TG0D:         +56.5 C  
+TG0F:         +55.8 C  
+TG0P:         +52.5 C  
+TG1D:        -127.0 C  
+TH0A:         +38.0 C  
+TH0B:         +38.0 C  
+TH0C:         +34.0 C  
+TH0F:         -43.0 C  
+TH0R:         -43.0 C  
+TH0V:         +42.0 C  
+TH0a:         +38.0 C  
+TH0b:         +38.0 C  
+TH0c:         +34.0 C  
+TH0x:        -127.0 C  
+TM0P:         +45.8 C  
+TM0S:         +44.8 C  
+TP0P:         +47.8 C  
+TPCD:         +54.0 C  
+TW0P:         +44.0 C  
+Ta0P:         +40.2 C  
+TaSP:         +39.2 C  
+Th1H:         +46.8 C  
+Th2H:         +48.2 C  
+Ts0P:         +32.5 C  
+Ts0S:         +41.2 C  
+Ts1P:         +31.5 C  
+Ts1S:         +42.2 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +33.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +62.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +59.0 C  (high = +84.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.90 V  
+temp:         +33.9 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +54.5 C  
+

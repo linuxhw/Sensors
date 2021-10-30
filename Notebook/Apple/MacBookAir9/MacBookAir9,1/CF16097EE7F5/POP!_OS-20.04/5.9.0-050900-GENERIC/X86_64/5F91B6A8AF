@@ -1,0 +1,22 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.15 V  
+temp:         +23.4 C  
+curr1:         1.56 A  (avg =  +1.08 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +23.4 C  
+
+nvme-pci-7400
+Adapter: PCI adapter
+Composite:    +29.9 C  
+

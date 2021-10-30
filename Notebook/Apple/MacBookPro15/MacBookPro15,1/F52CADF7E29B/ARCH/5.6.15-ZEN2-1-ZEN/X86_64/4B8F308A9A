@@ -1,0 +1,34 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      718.00 mV 
+edge:         +60.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:        7.10 W  (cap =  40.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           12.70 V  
+temp ambient:  +35.4 C  
+curr1:          0.00 A  (avg =  +0.03 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +41.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +70.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +35.4 C  
+

@@ -1,0 +1,30 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           12.81 V  
+temp ambient:  +38.2 C  
+curr1:          0.00 A  (avg =  +0.06 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +97.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +86.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +88.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +86.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +92.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +97.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +85.0 C  (high = +100.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      718.00 mV 
+edge:         +75.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:        8.17 W  (cap =  40.00 W)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +38.2 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +68.0 C  
+

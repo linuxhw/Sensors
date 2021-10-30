@@ -1,0 +1,85 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.96 V  
+temp:         +35.0 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+
+applesmc-acpi-0
+Adapter: ACPI interface
+fan1:        2165 RPM  (min = 2160 RPM, max = 5927 RPM)
+fan2:        2017 RPM  (min = 2000 RPM, max = 5489 RPM)
+TA0V:         +21.0 C  
+TB0T:         +34.8 C  
+TB1T:         +33.2 C  
+TB2T:         +34.8 C  
+TC0E:         +61.0 C  
+TC0F:         +63.8 C  
+TC0P:         +51.2 C  
+TC1C:         +67.0 C  
+TC2C:         +68.0 C  
+TC3C:         +71.0 C  
+TC4C:         +69.0 C  
+TC5C:         +61.0 C  
+TC6C:         +68.0 C  
+TC7C:        -127.0 C  
+TC8C:        -127.0 C  
+TCGC:         +57.0 C  
+TCMX:         +71.0 C  
+TCSA:         +66.0 C  
+TCXC:         +65.2 C  
+TF0S:          +4.5 C  
+TG0P:         +52.0 C  
+TGDD:         +55.0 C  
+TGDF:         +56.2 C  
+TGVP:         +49.0 C  
+TH0F:         +43.0 C  
+TH0X:         +43.0 C  
+TH0a:         +40.0 C  
+TH0b:         +43.0 C  
+TH1a:          +0.0 C  
+TH1b:          +0.0 C  
+TM0P:         +47.5 C  
+TPCD:         +54.0 C  
+TTLD:         +48.2 C  
+TTRD:         +52.8 C  
+TW0P:         +45.8 C  
+TaLC:         +43.0 C  
+TaRC:         +47.0 C  
+Th1H:         +51.8 C  
+Th2H:         +50.5 C  
+Tm0P:         +52.5 C  
+Tm1P:        -127.0 C  
+Ts0P:         +32.5 C  
+Ts0S:         +39.0 C  
+Ts1P:         +28.2 C  
+Ts1S:         +40.0 C  
+Ts2S:         +39.2 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +35.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+edge:         +55.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:        8.16 W  (cap =  40.00 W)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  
+
