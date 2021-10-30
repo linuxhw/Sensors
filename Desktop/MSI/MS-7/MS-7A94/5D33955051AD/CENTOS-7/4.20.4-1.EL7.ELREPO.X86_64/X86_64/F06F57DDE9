@@ -1,0 +1,39 @@
+nct7802-i2c-12-2a
+Adapter: SMBus I801 adapter at 3000
+in0:          +3.29 V  (min =  +0.00 V, max =  +4.09 V)
+in1:          +0.74 V  
+in2:          +0.30 V  (min =  +0.00 V, max =  +2.05 V)
+in3:          +1.01 V  (min =  +0.00 V, max =  +2.05 V)
+in4:          +0.87 V  (min =  +0.00 V, max =  +2.05 V)
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp4:        +32.0*C  (low  =  +0.0*C, high = +85.0*C)
+                       (crit = +100.0*C)
+temp6:         +0.0*C  
+
+nouveau-pci-6500
+Adapter: PCI adapter
+GPU core:     +0.91 V  (min =  +0.80 V, max =  +1.19 V)
+temp1:        +44.0*C  (high = +95.0*C, hyst =  +3.0*C)
+                       (crit = +105.0*C, hyst =  +5.0*C)
+                       (emerg = +135.0*C, hyst =  +5.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 0:        +27.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 1:        +26.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 2:        +25.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 3:        +26.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 4:        +25.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 5:        +25.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 6:        +27.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 8:        +26.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 9:        +25.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 10:       +26.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 11:       +26.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 12:       +25.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 13:       +27.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 14:       +27.0*C  (high = +90.0*C, crit = +100.0*C)
+

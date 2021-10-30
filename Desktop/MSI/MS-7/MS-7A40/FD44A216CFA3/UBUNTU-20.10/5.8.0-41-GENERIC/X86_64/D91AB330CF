@@ -1,0 +1,19 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.47 V  
+Vsoc:          1.09 V  
+Tctl:         +34.2 C  
+Tdie:         +34.2 C  
+Icore:        17.00 A  
+Isoc:          2.50 A  
+
+amdgpu-pci-2900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +34.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

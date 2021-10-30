@@ -1,0 +1,47 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +30.5 C  (high = +70.0 C)
+Tctl:         +57.5 C  
+
+nct6795-isa-0a20
+Adapter: ISA adapter
+in0:                   880.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     3.30 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   800.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.34 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     3.26 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  616.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.51 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1412 RPM  (min =    0 RPM)
+fan2:                   706 RPM  (min =    0 RPM)
+fan3:                   666 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                   735 RPM  (min =    0 RPM)
+SYSTIN:                 +36.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+CPUTIN:                 +32.0 C  (high = +110.0 C, hyst = +89.0 C)  sensor = thermistor
+AUXTIN0:                +37.0 C  (high = +110.0 C, hyst = +89.0 C)  sensor = thermistor
+AUXTIN1:                +49.0 C    sensor = thermistor
+AUXTIN2:                +48.0 C    sensor = thermistor
+AUXTIN3:                 -1.0 C    sensor = thermistor
+SMBUSMASTER 0:          +57.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +30.5 C  (high = +70.0 C)
+Tctl:         +57.5 C  
+

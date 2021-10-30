@@ -1,0 +1,17 @@
+amdgpu-pci-4200
+Adapter: PCI adapter
+vddgfx:       +1.04 V  
+fan1:         568 RPM  (min =    0 RPM, max = 3800 RPM)
+temp1:        +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       17.09 W  (cap =  49.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +67.8 C  (high = +70.0 C)
+Tctl:         +94.8 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +67.8 C  (high = +70.0 C)
+Tctl:         +94.8 C  
+
