@@ -1,0 +1,20 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.32 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+Fan:                                           3981 RPM
+CPU:                                            +63.0 C  
+HDAPS:                                          +47.0 C  
+PCMCIA:                                         +31.0 C  
+GPU:                                            +58.0 C  
+System battery (front left, charging circuit):  +33.0 C  
+temp6:                                              N/A  
+System battery (rear right):                    +24.0 C  
+temp8:                                              N/A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +63.0 C  (crit = +99.0 C)
+

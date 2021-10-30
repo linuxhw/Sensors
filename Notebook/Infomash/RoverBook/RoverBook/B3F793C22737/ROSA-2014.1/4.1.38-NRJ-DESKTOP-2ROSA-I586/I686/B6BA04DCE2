@@ -1,0 +1,11 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +60.0°C  (crit = +120.0°C)
+
+adm1032-i2c-6-4c
+Adapter: SMBus I801 adapter at 0400
+temp1:        +49.0°C  (low  =  +0.0°C, high = +85.0°C)
+                       (crit = +85.0°C, hyst = +75.0°C)
+temp2:       +127.9°C  (low  =  +0.0°C, high = +85.0°C)  ALARM (HIGH, CRIT)
+                       (crit = +85.0°C, hyst = +75.0°C)
+
