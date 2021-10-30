@@ -1,0 +1,21 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +31.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.9 C  
+Tdie:         +53.9 C  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         652 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +50.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       27.04 W  (cap = 145.00 W)
+

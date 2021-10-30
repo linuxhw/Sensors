@@ -1,0 +1,20 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.35 V  
+Vsoc:        819.00 mV 
+Tdie:         +69.5 C  
+Tctl:         +79.5 C  
+Icore:        42.00 A  
+Isoc:          4.25 A  
+
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.03 V  
+fan1:        1920 RPM  (min =    0 RPM, max = 5200 RPM)
+edge:         +70.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       44.02 W  (cap = 110.00 W)
+
+radeon-pci-0600
+Adapter: PCI adapter
+temp1:        +66.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

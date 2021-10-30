@@ -1,0 +1,19 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +63.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.31 V  
+Vsoc:          1.01 V  
+Tctl:         +55.1 C  
+Tdie:         +55.1 C  
+Tccd1:        +47.0 C  
+Icore:        18.00 A  
+Isoc:          6.25 A  
+

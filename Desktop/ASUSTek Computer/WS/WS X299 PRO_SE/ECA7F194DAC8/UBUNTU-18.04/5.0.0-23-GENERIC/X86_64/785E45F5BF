@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +24.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 0:        +24.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 1:        +23.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 2:        +21.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 3:        +22.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 4:        +22.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 5:        +22.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 6:        +23.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 8:        +24.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 9:        +22.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 10:       +21.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 11:       +21.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 12:       +23.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 13:       +23.0 C  (high = +100.0 C, crit = +110.0 C)
+Core 14:       +22.0 C  (high = +100.0 C, crit = +110.0 C)
+
+amdgpu-pci-6700
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        1207 RPM  (min =  400 RPM, max = 3300 RPM)
+temp1:        +10.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:        4.00 W  (cap = 180.00 W)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

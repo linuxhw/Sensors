@@ -1,0 +1,40 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +58.0 C  
+Tdie:         +58.0 C  
+Tccd1:        +54.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+corsairpsu-hid-3-7
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +52.0 C  
+case temp:    +41.0 C  
+power total: 192.00 W  
+power +12v:  136.00 W  
+power +5v:    33.00 W  
+power +3.3v:  12.00 W  
+curr in:          N/A  
+curr +12v:    14.00 A  
+curr +5v:      6.00 A  
+curr +3.3v:    3.00 A  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:        1.18 V  
+fan1:        1303 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +64.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       80.03 W  (cap = 180.00 W)
+

@@ -1,0 +1,30 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.22 V  
+SVI2_SoC:      1.08 V  
+Tdie:         +93.1 C  (high = +95.0 C)
+Tctl:         +93.1 C  
+Tccd1:        +89.0 C  
+Tccd2:        +92.2 C  
+SVI2_P_Core:  76.72 W  
+SVI2_P_SoC:   13.69 W  
+SVI2_C_Core:  63.25 A  
+SVI2_C_SoC:   12.65 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.19 V  
+fan1:           0 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +64.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +75.0 C  (crit = +107.0 C, hyst = -273.1 C)
+                       (emerg = +112.0 C)
+mem:          +68.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       83.00 W  (cap = 195.00 W)
+

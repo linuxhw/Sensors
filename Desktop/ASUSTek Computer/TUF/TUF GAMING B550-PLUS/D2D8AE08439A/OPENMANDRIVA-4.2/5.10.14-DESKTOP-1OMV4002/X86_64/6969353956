@@ -1,0 +1,27 @@
+nouveau-pci-0800
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:      1.70 kJ
+Ecore001:    473.08 J
+Ecore002:    492.67 J
+Ecore003:    511.23 J
+Ecore004:    490.41 J
+Ecore005:    543.66 J
+Esocket0:     17.71 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       938.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +36.9 C  
+Tdie:         +36.9 C  
+Tccd1:        +34.0 C  
+Icore:       1000.00 mA 
+Isoc:          7.75 A  
+

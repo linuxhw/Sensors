@@ -1,0 +1,29 @@
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +53.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 0:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 1:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 2:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 3:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 4:        +24.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 5:        +24.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 6:        +27.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 8:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 9:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 10:       +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 11:       +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 12:       +24.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 13:       +27.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 14:       +26.0 C  (high = +95.0 C, crit = +105.0 C)
+

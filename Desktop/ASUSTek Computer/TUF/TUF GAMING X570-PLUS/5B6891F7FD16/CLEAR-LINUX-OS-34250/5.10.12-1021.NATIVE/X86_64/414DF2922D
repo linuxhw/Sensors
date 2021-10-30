@@ -1,0 +1,25 @@
+nouveau-pci-0a00
+Adapter: PCI adapter
+fan1:         911 RPM
+temp1:        +33.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.8 C  
+Tdie:         +48.8 C  
+Tccd1:        +39.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+

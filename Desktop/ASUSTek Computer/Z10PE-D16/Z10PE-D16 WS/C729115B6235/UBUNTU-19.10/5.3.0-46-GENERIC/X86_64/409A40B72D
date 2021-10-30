@@ -1,0 +1,40 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +29.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +28.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +33.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +30.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 4:        +32.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 5:        +28.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 8:        +31.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 9:        +33.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 10:       +31.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 11:       +28.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 12:       +30.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 13:       +33.0 C  (high = +86.0 C, crit = +96.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval =   1.00 s)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +39.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +29.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +30.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +32.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +32.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 4:        +32.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 5:        +34.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 8:        +34.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 9:        +33.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 10:       +34.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 11:       +30.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 12:       +31.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 13:       +34.0 C  (high = +86.0 C, crit = +96.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

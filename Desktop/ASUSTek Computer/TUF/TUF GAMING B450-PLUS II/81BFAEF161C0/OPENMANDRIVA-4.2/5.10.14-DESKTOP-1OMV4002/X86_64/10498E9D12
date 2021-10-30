@@ -1,0 +1,33 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +65.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst = +10.0 C)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    786.76 J
+Ecore001:    150.76 J
+Ecore002:    222.90 J
+Ecore003:    342.08 J
+Esocket0:      4.82 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       713.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +31.9 C  
+Tdie:         +31.9 C  
+Icore:         0.00 A  
+Isoc:          2.25 A  
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

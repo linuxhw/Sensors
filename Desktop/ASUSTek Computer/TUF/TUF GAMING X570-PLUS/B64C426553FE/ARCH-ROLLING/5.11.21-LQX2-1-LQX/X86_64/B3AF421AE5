@@ -1,0 +1,36 @@
+corsairpsu-hid-3-7
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +49.0 C  
+case temp:    +42.0 C  
+power total:  72.00 W  
+power +12v:   44.00 W  
+power +5v:    19.00 W  
+power +3.3v:  10.00 W  
+curr in:          N/A  
+curr +12v:     3.00 A  
+curr +5v:      3.00 A  
+curr +3.3v:    3.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +39.2 C  
+Tdie:         +39.2 C  
+Tccd1:        +37.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
