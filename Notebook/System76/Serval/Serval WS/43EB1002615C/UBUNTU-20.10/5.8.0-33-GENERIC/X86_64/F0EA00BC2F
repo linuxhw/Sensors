@@ -1,0 +1,17 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.96 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +49.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +51.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +54.0 C  (crit = +120.0 C)
+

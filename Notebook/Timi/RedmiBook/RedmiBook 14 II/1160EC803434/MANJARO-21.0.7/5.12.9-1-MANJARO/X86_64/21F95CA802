@@ -1,0 +1,21 @@
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      762.00 mV 
+vddnb:       649.00 mV 
+edge:         +40.0 C  
+power1:      1000.00 uW 
+
+BATT-acpi-0
+Adapter: ACPI interface
+in0:          15.40 V  
+curr1:       322.00 mA 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.1 C  
+Tdie:         +41.1 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +41.0 C  
+

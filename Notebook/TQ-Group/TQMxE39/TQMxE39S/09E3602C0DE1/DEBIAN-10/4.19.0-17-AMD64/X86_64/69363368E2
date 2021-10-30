@@ -1,0 +1,24 @@
+ath10k_hwmon-pci-0900
+Adapter: PCI adapter
+temp1:        +29.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +110.0 C, crit = +110.0 C)
+Core 0:        +38.0 C  (high = +110.0 C, crit = +110.0 C)
+Core 1:        +38.0 C  (high = +110.0 C, crit = +110.0 C)
+Core 2:        +37.0 C  (high = +110.0 C, crit = +110.0 C)
+Core 3:        +37.0 C  (high = +110.0 C, crit = +110.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  (crit = +125.0 C)
+
+ath10k_hwmon-pci-0800
+Adapter: PCI adapter
+temp1:        +41.0 C  
+
+lm75-i2c-0-48
+Adapter: SMBus I801 adapter at 4040
+temp1:        +51.5 C  (high = +80.0 C, hyst = +75.0 C)
+

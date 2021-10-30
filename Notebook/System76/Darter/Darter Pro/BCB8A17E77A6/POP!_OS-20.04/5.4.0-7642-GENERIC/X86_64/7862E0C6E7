@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.99 V  
+curr1:         0.00 A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+system76-isa-0000
+Adapter: ISA adapter
+CPU fan:         5158 RPM
+GPU fan:            0 RPM
+CPU temperature:  +75.0 C  
+GPU temperature:   +0.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +75.0 C  (crit = +120.0 C)
+
