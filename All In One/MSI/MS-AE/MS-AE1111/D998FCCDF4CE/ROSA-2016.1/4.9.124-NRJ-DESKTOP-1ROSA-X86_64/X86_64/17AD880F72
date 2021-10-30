@@ -1,0 +1,12 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +66.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +60.0 C  (high = +76.0 C, crit = +100.0 C)
+
+g781-i2c-7-4c
+Adapter: SMBus I801 adapter at 0400
+temp1:        +71.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +60.2 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+

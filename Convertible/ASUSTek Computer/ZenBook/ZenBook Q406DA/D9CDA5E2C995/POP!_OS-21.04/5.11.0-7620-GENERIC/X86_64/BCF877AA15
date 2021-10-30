@@ -1,0 +1,27 @@
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +70.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.83 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +70.8 C  
+Tdie:         +70.8 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3600 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +72.0 C  (crit = +103.0 C)
+

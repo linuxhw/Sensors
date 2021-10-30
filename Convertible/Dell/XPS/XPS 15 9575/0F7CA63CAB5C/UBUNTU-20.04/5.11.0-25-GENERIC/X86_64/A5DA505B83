@@ -1,0 +1,72 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +45.0 C  
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2493 RPM
+Video Fan:     2700 RPM
+CPU:            +63.0 C  
+Ambient:        +45.0 C  
+Ambient:        +35.0 C  
+Other:          +44.0 C  
+Ambient:        +47.0 C  
+Ambient:        +46.0 C  
+Ambient:        +48.0 C  
+SODIMM:         +42.0 C  
+GPU:            +49.0 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +3.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.87 V  
+curr1:       1000.00 uA 
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+edge:         +49.0 C  (crit = +89.0 C, hyst = -273.1 C)
+power1:        8.06 W  (cap =  50.00 W)
+
+ucsi_source_psy_USBC000:004-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +77.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +77.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:          18.00 V  (min =  +0.00 V, max = +20.00 V)
+curr1:         6.50 A  (max =  +6.50 A)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+nvme-pci-6f00
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

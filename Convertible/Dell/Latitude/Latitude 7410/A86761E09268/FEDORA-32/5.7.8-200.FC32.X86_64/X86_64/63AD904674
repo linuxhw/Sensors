@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +70.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-6d00
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +56.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.13 V  
+curr1:         3.33 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        6077 RPM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +61.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
