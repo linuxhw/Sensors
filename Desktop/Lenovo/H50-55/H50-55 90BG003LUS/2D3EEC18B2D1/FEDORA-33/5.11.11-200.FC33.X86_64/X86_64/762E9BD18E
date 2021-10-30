@@ -1,0 +1,49 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  65.19 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:         +1.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nct6792-isa-0a10
+Adapter: ISA adapter
+in0:                   920.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in2:                     3.36 V  (min =  +3.01 V, max =  +3.50 V)
+in3:                     3.36 V  (min =  +3.01 V, max =  +3.50 V)
+in4:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in5:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                   280.00 mV (min =  +0.20 V, max =  +0.40 V)
+in7:                     3.28 V  (min =  +3.01 V, max =  +3.50 V)
+in8:                     3.23 V  (min =  +3.01 V, max =  +3.50 V)
+in9:                     1.50 V  (min =  +1.40 V, max =  +1.60 V)
+in10:                  160.00 mV (min =  +0.05 V, max =  +0.25 V)
+in11:                  120.00 mV (min =  +0.05 V, max =  +0.25 V)
+in12:                  464.00 mV (min =  +0.30 V, max =  +0.50 V)
+in13:                    1.03 V  (min =  +0.90 V, max =  +1.10 V)
+in14:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1973 RPM  (min = 1800 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +122.0 C  (high = +84.0 C, hyst = +83.0 C)  sensor = thermistor
+CPUTIN:                 +31.0 C  (high = +84.0 C, hyst = +83.0 C)  sensor = CPU diode
+AUXTIN0:                +20.5 C  (high = +29.5 C, hyst = +28.5 C)  sensor = CPU diode
+AUXTIN1:               +118.0 C    sensor = thermistor
+AUXTIN2:               +113.0 C    sensor = thermistor
+AUXTIN3:               -128.0 C    sensor = thermistor
+SMBUSMASTER 0:           +1.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +7.1 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+

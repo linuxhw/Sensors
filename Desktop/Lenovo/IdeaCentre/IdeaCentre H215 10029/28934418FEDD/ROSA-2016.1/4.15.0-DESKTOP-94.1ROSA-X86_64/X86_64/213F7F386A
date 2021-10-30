@@ -1,0 +1,23 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +15.6 C  (high = +70.0 C)
+
+it8720-isa-0e80
+Adapter: ISA adapter
+in0:           2.16 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:           2.16 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:           2.16 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:           3.02 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:           1.20 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:           4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:           4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:          4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:          3.28 V  
+fan1:        2288 RPM  (min =    0 RPM)
+fan2:        1541 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +18.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+temp2:        +24.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+temp3:        +22.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+intrusion0:  ALARM
+

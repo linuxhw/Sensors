@@ -1,0 +1,29 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +49.0°C  (crit = +106.0°C)
+temp2:        +49.0°C  (crit = +106.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +56.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 0:         +53.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 1:         +56.0°C  (high = +87.0°C, crit = +105.0°C)
+
+it8772-isa-0290
+Adapter: ISA adapter
+in0:          +2.22 V  (min =  +1.07 V, max =  +2.33 V)
+in1:          +2.22 V  (min =  +2.57 V, max =  +0.91 V)  ALARM
+in2:          +3.06 V  (min =  +2.87 V, max =  +0.12 V)  ALARM
+in3:          +3.06 V  (min =  +2.41 V, max =  +2.90 V)  ALARM
+in4:          +2.22 V  (min =  +0.26 V, max =  +2.80 V)
+in5:          +2.51 V  (min =  +0.49 V, max =  +0.88 V)  ALARM
+in6:          +2.65 V  (min =  +1.79 V, max =  +2.38 V)  ALARM
+3VSB:         +3.29 V  (min =  +2.78 V, max =  +0.36 V)  ALARM
+Vbat:         +3.19 V  
+fan2:        4326 RPM  (min =   15 RPM)
+fan3:           0 RPM  (min =   21 RPM)  ALARM
+temp1:       -128.0°C  (low  = +49.0°C, high = -19.0°C)  sensor = disabled
+temp2:       -128.0°C  (low  = +63.0°C, high = -32.0°C)  sensor = disabled
+temp3:        +57.0°C  (low  = +12.0°C, high = +100.0°C)  sensor = Intel PECI
+intrusion0:  ALARM
+
