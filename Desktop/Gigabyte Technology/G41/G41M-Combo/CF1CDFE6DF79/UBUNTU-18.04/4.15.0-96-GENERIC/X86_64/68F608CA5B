@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +28.0 C  (high = +59.0 C, crit = +85.0 C)
+Core 1:       +20.0 C  (high = +59.0 C, crit = +85.0 C)
+Core 2:       +26.0 C  (high = +59.0 C, crit = +85.0 C)
+Core 3:       +24.0 C  (high = +59.0 C, crit = +85.0 C)
+
+be2net-pci-0102
+Adapter: PCI adapter
+temp1:        +29.0 C  
+
+be2net-pci-0100
+Adapter: PCI adapter
+temp1:        +69.0 C  
+
+be2net-pci-0103
+Adapter: PCI adapter
+temp1:        +30.0 C  
+
+be2net-pci-0101
+Adapter: PCI adapter
+temp1:        +29.0 C  
+
