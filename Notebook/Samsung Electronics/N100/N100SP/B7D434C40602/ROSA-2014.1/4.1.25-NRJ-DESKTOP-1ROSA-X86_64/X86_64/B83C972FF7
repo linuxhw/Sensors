@@ -1,0 +1,14 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.0°C  (crit = +99.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0°C  (crit = +100.0°C)
+
+jc42-i2c-3-19
+Adapter: SMBus I801 adapter at f000
+temp1:        +44.0°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
