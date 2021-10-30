@@ -1,0 +1,48 @@
+corsairpsu-hid-3-d
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:      576 RPM
+vrm temp:     +42.0 C  
+case temp:    +32.0 C  
+power total: 284.00 W  
+power +12v:  260.00 W  
+power +5v:    23.00 W  
+power +3.3v:   5.00 W  
+curr in:          N/A  
+curr +12v:    21.00 A  
+curr +5v:      4.00 A  
+curr +3.3v:  1000.00 mA 
+
+amdgpu-pci-2800
+Adapter: PCI adapter
+vddgfx:      993.00 mV 
+fan1:        1708 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +70.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +76.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +96.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:      176.00 W  (cap = 219.00 W)
+
+nvme-pci-2500
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +83.2 C  
+Tdie:         +83.2 C  
+Tccd1:        +70.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +65.8 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +65.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +68.8 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,23 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    328.50 J
+Ecore001:     94.13 J
+Ecore002:     84.27 J
+Ecore003:    100.34 J
+Ecore004:     86.05 J
+Ecore005:     80.54 J
+Esocket0:      4.85 kJ
+
+radeon-pci-2700
+Adapter: PCI adapter
+temp1:        +49.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       819.00 mV 
+Vsoc:        819.00 mV 
+Tctl:         +38.0 C  
+Tdie:         +38.0 C  
+Icore:         6.00 A  
+Isoc:          4.75 A  
+

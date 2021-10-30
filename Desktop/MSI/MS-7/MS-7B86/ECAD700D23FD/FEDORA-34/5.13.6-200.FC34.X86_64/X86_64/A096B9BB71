@@ -1,0 +1,45 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +67.9 C  
+Tdie:         +67.9 C  
+Tccd1:        +61.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+Vcore:          1.23 V  (min =  +0.40 V, max =  +1.45 V)
+ATX 5V:         5.08 V  (min =  +4.76 V, max =  +5.24 V)
+AVCC Analog:    3.34 V  (min =  +3.14 V, max =  +3.47 V)
+ATX 3.3V:       3.34 V  (min =  +3.14 V, max =  +3.47 V)
+ATX 12V:       12.19 V  (min = +11.42 V, max = +12.58 V)
+3VSB Standby:   3.34 V  (min =  +3.14 V, max =  +3.47 V)
+RTC Battery:    3.31 V  (min =  +2.00 V, max =  +3.41 V)
+CPU 1.8V:       1.82 V  (min =  +1.64 V, max =  +2.00 V)
+CPU VDDP:       0.00 V  (min =  +0.00 V, max =  +0.00 V)
+Vsoc:           1.11 V  (min =  +0.80 V, max =  +1.45 V)
+Vdram:          1.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+5VSB Standby:   5.06 V  (min =  +4.74 V, max =  +5.24 V)
+PUMP_FAN1:       0 RPM  (min =    0 RPM)
+CPU_FAN1:     2518 RPM  (min =    0 RPM)
+SYS_FAN1:      920 RPM  (min =    0 RPM)
+SYS_FAN2:      906 RPM  (min =    0 RPM)
+SYS_FAN3:        0 RPM  (min =    0 RPM)
+SYS_FAN4:        0 RPM  (min =    0 RPM)
+Super I/O:     +36.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+SoC VRM:       +46.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+CPU VRM:       +51.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+B450:          +41.0 C    sensor = thermistor
+CPU die:       +67.5 C  
+intrusion0:   ALARM
+beep_enable:  enabled
+
+radeon-pci-2600
+Adapter: PCI adapter
+GPU:          +47.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

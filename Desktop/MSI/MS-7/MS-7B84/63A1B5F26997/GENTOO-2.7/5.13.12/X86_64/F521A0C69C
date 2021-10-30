@@ -1,0 +1,15 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +60.4 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +88.0 C)
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +43.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +39.0 C, highest = +43.0 C)
+

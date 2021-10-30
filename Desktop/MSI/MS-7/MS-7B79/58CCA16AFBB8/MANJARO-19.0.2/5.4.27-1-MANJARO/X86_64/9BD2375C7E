@@ -1,0 +1,42 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +50.0 C  (high = +70.0 C)
+Tctl:         +50.0 C  
+
+nct6795-isa-0a20
+Adapter: ISA adapter
+Vcore:                   1.39 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                    3.34 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   776.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.33 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.22 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  744.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.51 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  2616 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                  1164 RPM  (min =    0 RPM)
+fan5:                  1176 RPM  (min =    0 RPM)
+fan6:                  1155 RPM  (min =    0 RPM)
+SYSTIN:                 +34.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+CPUTIN:                 +39.0 C  (high = +110.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:                +38.5 C  (high = +110.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +40.0 C    sensor = thermistor
+AUXTIN3:                 -1.0 C    sensor = thermistor
+SMBUSMASTER 0:          +50.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+

@@ -1,0 +1,70 @@
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +18.0 C, highest = +35.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +18.0 C, highest = +36.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +32.9 C  (low  = -40.1 C, high = +83.8 C)
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                   896.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   760.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  664.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.16 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  688.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.52 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1041 RPM  (min =    0 RPM)
+fan3:                  1086 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:                 +38.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:                +39.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +45.0 C    sensor = thermistor
+AUXTIN3:                 -2.0 C    sensor = thermistor
+SMBUSMASTER 0:          +63.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +31.0 C  (low  =  +5.0 C, high = +40.0 C)
+                       (crit low =  +0.0 C, crit = +80.0 C)
+                       (lowest = +18.0 C, highest = +31.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.43 V  
+Vsoc:          1.13 V  
+Tctl:         +62.5 C  
+Tdie:         +52.5 C  
+Icore:        38.00 A  
+Isoc:         10.00 A  
+

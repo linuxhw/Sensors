@@ -1,0 +1,31 @@
+hidpp_battery_1-hid-3-d
+Adapter: HID adapter
+in0:           4.12 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.03 V  
+Tctl:         +51.1 C  
+Tdie:         +51.1 C  
+Icore:        23.00 A  
+Isoc:          7.25 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+amdgpu-pci-2600
+Adapter: PCI adapter
+vddgfx:      937.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 3500 RPM)
+edge:         +43.0 C  (crit = +89.0 C, hyst = -273.1 C)
+power1:       26.10 W  (cap = 260.00 W)
+

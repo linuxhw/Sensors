@@ -1,0 +1,136 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +65.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +78.0 C  
+Tdie:         +51.0 C  
+
+nct7802-i2c-9-28
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+in0:           3.34 V  (min =  +0.00 V, max =  +4.09 V)
+in1:         566.00 mV 
+fan1:        1289 RPM  (min =    0 RPM)
+fan2:        1590 RPM  (min =    0 RPM)
+fan3:         371 RPM  (min =    0 RPM)
+temp1:        +53.5 C  (low  =  +0.0 C, high = +85.0 C)  ALARM (LOW)
+                       (crit = +100.0 C)  sensor = thermistor
+temp2:        -60.0 C  (low  =  +0.0 C, high = +85.0 C)  ALARM (LOW)
+                       (crit = +100.0 C)  sensor = thermistor
+temp3:        +39.2 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)  sensor = thermistor
+temp4:        +53.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp5:         +0.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp6:         +0.0 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +65.8 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +63.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +69.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                     1.30 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                   992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   520.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  344.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.16 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.50 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                   644 RPM  (min =    0 RPM)
+fan3:                  1036 RPM  (min =    0 RPM)
+fan4:                  2119 RPM  (min =    0 RPM)
+fan5:                  1105 RPM  (min =    0 RPM)
+fan6:                   960 RPM  (min =    0 RPM)
+fan7:                  1145 RPM  (min =    0 RPM)
+SYSTIN:                 +61.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:                 +47.0 C  (high = +107.0 C, hyst = +89.0 C)  sensor = thermistor
+AUXTIN0:                +56.0 C  (high = +107.0 C, hyst = +89.0 C)  sensor = thermistor
+AUXTIN1:                +44.0 C    sensor = thermistor
+AUXTIN2:                +73.0 C    sensor = thermistor
+AUXTIN3:                 +0.0 C    sensor = thermistor
+SMBUSMASTER 0:          +92.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+corsaircpro-hid-3-1
+Adapter: HID adapter
+in0:          11.92 V  
+in1:           4.96 V  
+in2:           3.35 V  
+fan1 4pin:   1454 RPM
+fan2 4pin:    948 RPM
+fan3 4pin:   1436 RPM
+fan4 4pin:   1413 RPM
+fan5 4pin:      0 RPM
+temp1:        +60.3 C  
+temp2:        +31.4 C  
+temp3:        +40.0 C  
+temp4:        +32.8 C  
+
+nct7802-i2c-9-2a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+in0:           3.32 V  (min =  +0.00 V, max =  +4.09 V)
+in1:         558.00 mV 
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +59.1 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)  sensor = thermistor
+temp2:        +62.6 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)  sensor = thermistor
+temp3:        +50.6 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)  sensor = thermistor
+temp4:        +60.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp5:         +0.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +100.0 C)
+temp6:         +0.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +91.8 C  
+Tdie:         +64.8 C  
+Tccd1:        +74.8 C  
+
+amdgpu-pci-4600
+Adapter: PCI adapter
+vddgfx:      831.00 mV 
+fan1:        2892 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +82.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +96.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +94.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:      137.00 W  (cap = 250.00 W)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +64.8 C  (low  = -273.1 C, high = +65261.8 C)
+

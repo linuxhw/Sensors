@@ -1,0 +1,55 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                     1.30 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   696.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  648.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.54 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1859 RPM  (min =    0 RPM)
+fan3:                   828 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                   874 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +36.0 C  (high = +127.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:                 +43.0 C  (high = +127.0 C, hyst = +105.0 C)  sensor = thermistor
+AUXTIN0:                +43.0 C  (high = +127.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +46.0 C    sensor = thermistor
+AUXTIN3:                 -3.0 C    sensor = thermistor
+SMBUSMASTER 0:          +43.5 C  (high = +127.0 C, hyst = +105.0 C)
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.29 V  
+SVI2_SoC:      1.12 V  
+Tdie:         +49.8 C  (high = +95.0 C)
+Tctl:         +49.8 C  
+SVI2_P_Core:  21.52 W  
+SVI2_P_SoC:   13.80 W  
+SVI2_C_Core:  16.63 A  
+SVI2_C_SoC:   12.27 A  
+
+amdgpu-pci-2600
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:         835 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       34.06 W  (cap = 175.00 W)
+

@@ -1,0 +1,26 @@
+amdgpu-pci-1200
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +40.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +40.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +42.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       14.00 W  (cap = 190.00 W)
+
+nvme-pci-2d00
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.40 V  
+Vsoc:          1.11 V  
+Tdie:         +42.2 C  
+Tctl:         +42.2 C  
+Icore:        14.00 A  
+Isoc:         16.50 A  
+
