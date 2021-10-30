@@ -1,0 +1,32 @@
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +51.0 C  
+MAC Temperature:  +52.6 C  
+
+nvme-pci-4c00
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.8 C  
+Tdie:         +57.8 C  
+Tccd1:        +40.8 C  
+Tccd3:        +41.8 C  
+Tccd5:        +44.8 C  
+Tccd7:        +39.5 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+

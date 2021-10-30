@@ -1,0 +1,25 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +87.8 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      993.00 mV 
+fan1:         672 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +61.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        5.20 W  (cap =  36.00 W)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.46 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +39.8 C  (high = +95.0 C)
+Tctl:         +39.8 C  
+Tccd1:        +36.5 C  
+Tccd2:        +36.0 C  
+SVI2_P_Core:  29.88 W  
+SVI2_P_SoC:   11.14 W  
+SVI2_C_Core:  18.45 A  
+SVI2_C_SoC:   10.30 A  
+

@@ -1,0 +1,56 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.5 C  
+Tdie:         +43.5 C  
+Tccd1:        +37.8 C  
+Tccd3:        +36.2 C  
+Tccd5:        +39.2 C  
+Tccd7:        +37.8 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        1366 RPM
+temp1:        +38.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    404.34 J
+Ecore001:    164.66 J
+Ecore002:    150.04 J
+Ecore003:     95.87 J
+Ecore004:    149.54 J
+Ecore005:     88.46 J
+Ecore006:    111.05 J
+Ecore007:    114.19 J
+Ecore008:    115.51 J
+Ecore009:     69.97 J
+Ecore010:     74.11 J
+Ecore011:     72.60 J
+Ecore012:     65.62 J
+Ecore013:     75.68 J
+Ecore014:    106.84 J
+Ecore015:     66.75 J
+Ecore016:     58.18 J
+Ecore017:     72.21 J
+Ecore018:    140.97 J
+Ecore019:     87.63 J
+Ecore020:    114.33 J
+Ecore021:     72.42 J
+Ecore022:     73.06 J
+Ecore023:     70.27 J
+Esocket0:     33.57 kJ
+
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +49.7 C  
+MAC Temperature:  +50.9 C  
+
+nouveau-pci-5200
+Adapter: PCI adapter
+fan1:        1307 RPM
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

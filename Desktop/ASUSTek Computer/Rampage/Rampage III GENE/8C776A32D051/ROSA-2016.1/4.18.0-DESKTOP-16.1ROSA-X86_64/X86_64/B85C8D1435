@@ -1,0 +1,52 @@
+w83667hg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.08 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.72 V  (min =  +0.75 V, max =  +0.18 V)  ALARM
+AVCC:         +3.26 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.23 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.66 V  (min =  +1.34 V, max =  +1.94 V)
+in5:          +2.04 V  (min =  +0.98 V, max =  +0.32 V)  ALARM
+3VSB:         +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.30 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =  721 RPM, div = 16)  ALARM
+fan2:        1205 RPM  (min =  453 RPM, div = 16)
+fan3:           0 RPM  (min = 7031 RPM, div = 4)  ALARM
+fan4:           0 RPM  (min = 1081 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min =  753 RPM, div = 16)  ALARM
+temp1:        +33.0 C  (high =  -5.0 C, hyst = +115.0 C)  ALARM  sensor = thermistor
+temp2:        +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +37.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  OK
+
+atk0110-acpi-0
+Adapter: ACPI interface
+3.3V Voltage:           +3.23 V  (min =  +2.97 V, max =  +3.63 V)
+5V Voltage:             +4.97 V  (min =  +4.50 V, max =  +5.50 V)
+12V Voltage:           +12.08 V  (min = +10.20 V, max = +13.80 V)
+DRAM Bus Voltage:       +1.51 V  (min =  +1.40 V, max =  +1.90 V)
+CPU Voltage:            +1.24 V  (min =  +0.80 V, max =  +1.80 V)
+ICH Voltage:            +1.11 V  (min =  +0.90 V, max =  +1.35 V)
+ICH PCIE Voltage:       +0.03 V  (min =  +1.20 V, max =  +1.80 V)
+CPU PLL Voltage:        +1.81 V  (min =  +1.50 V, max =  +2.00 V)
+IOH PCIE Voltage:       +1.51 V  (min =  +1.20 V, max =  +1.80 V)
+IOH Voltage:            +1.16 V  (min =  +0.90 V, max =  +1.35 V)
+QPI/DRAM Core Voltage:  +1.16 V  (min =  +0.80 V, max =  +1.50 V)
+CPU FAN Speed:         1214 RPM  (min =  600 RPM, max = 7200 RPM)
+CHA_FAN1 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+CHA_FAN2 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+PWR_FAN FAN Speed:        0 RPM  (min =  600 RPM, max = 7200 RPM)
+OPT_FAN1 FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:        +38.0 C  (high = +60.0 C, crit = +65.0 C)
+MB Temperature:         +33.0 C  (high = +45.0 C, crit = +55.0 C)
+SB Temperature:         +48.0 C  (high = +65.0 C, crit = +80.0 C)
+NB Temperature:         +44.0 C  (high = +80.0 C, crit = +80.0 C)
+OPT_TEMP1 Temperature:   +0.0 C  (high = +45.0 C, crit = +45.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +34.0 C  (high = +80.0 C, crit = +100.0 C)
+

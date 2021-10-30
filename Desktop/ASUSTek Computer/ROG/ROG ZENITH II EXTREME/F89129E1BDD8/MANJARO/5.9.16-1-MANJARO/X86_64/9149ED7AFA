@@ -1,0 +1,85 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+energy1:          N/A
+energy2:          N/A
+energy3:          N/A
+energy4:          N/A
+energy5:          N/A
+energy6:          N/A
+energy7:          N/A
+energy8:          N/A
+energy9:          N/A
+energy10:         N/A
+energy11:         N/A
+energy12:         N/A
+energy13:         N/A
+energy14:         N/A
+energy15:         N/A
+energy16:         N/A
+energy17:         N/A
+energy18:         N/A
+energy19:         N/A
+energy20:         N/A
+energy21:         N/A
+energy22:         N/A
+energy23:         N/A
+energy24:         N/A
+energy25:         N/A
+energy26:         N/A
+energy27:         N/A
+energy28:         N/A
+energy29:         N/A
+energy30:         N/A
+energy31:         N/A
+energy32:         N/A
+energy33:         N/A
+
+nvme-pci-4e00
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4400
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4d00
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+enp70s0-pci-4600
+Adapter: PCI adapter
+PHY Temperature:  +63.1 C  
+MAC Temperature:  +63.2 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.5 C  
+Tdie:         +48.5 C  
+Tccd1:        +42.8 C  
+Tccd3:        +45.2 C  
+Tccd5:        +47.8 C  
+Tccd7:        +44.0 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+

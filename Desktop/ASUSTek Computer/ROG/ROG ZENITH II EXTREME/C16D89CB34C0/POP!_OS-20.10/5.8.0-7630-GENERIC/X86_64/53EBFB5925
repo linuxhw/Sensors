@@ -1,0 +1,50 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     16.55 kJ
+Ecore001:     16.71 kJ
+Ecore002:     16.85 kJ
+Ecore003:     18.08 kJ
+Ecore004:     17.34 kJ
+Ecore005:     17.65 kJ
+Ecore006:     18.50 kJ
+Ecore007:     17.82 kJ
+Ecore008:     18.42 kJ
+Ecore009:     18.32 kJ
+Ecore010:     17.41 kJ
+Ecore011:     17.76 kJ
+Ecore012:     18.27 kJ
+Ecore013:     17.94 kJ
+Ecore014:     17.80 kJ
+Ecore015:     20.40 kJ
+Ecore016:     19.88 kJ
+Ecore017:     18.30 kJ
+Ecore018:     17.82 kJ
+Ecore019:     16.74 kJ
+Ecore020:     17.62 kJ
+Ecore021:     18.48 kJ
+Ecore022:     18.16 kJ
+Ecore023:     18.11 kJ
+Esocket0:      1.37 MJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.1 C  
+Tdie:         +55.1 C  
+Tccd1:        +51.2 C  
+Tccd3:        +50.8 C  
+Tccd5:        +51.2 C  
+Tccd7:        +49.5 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +55.2 C  
+

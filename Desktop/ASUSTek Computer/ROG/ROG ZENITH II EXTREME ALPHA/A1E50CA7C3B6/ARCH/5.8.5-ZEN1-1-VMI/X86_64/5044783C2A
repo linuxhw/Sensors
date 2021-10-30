@@ -1,0 +1,66 @@
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     80.03 J
+Ecore001:     65.63 J
+Ecore002:     62.80 J
+Ecore003:     63.70 J
+Ecore004:     64.35 J
+Ecore005:     65.96 J
+Ecore006:     60.85 J
+Ecore007:     62.89 J
+Ecore008:     73.48 J
+Ecore009:     70.87 J
+Ecore010:     69.63 J
+Ecore011:     74.54 J
+Ecore012:     66.42 J
+Ecore013:     68.90 J
+Ecore014:     66.26 J
+Ecore015:     68.13 J
+Ecore016:     74.34 J
+Ecore017:     70.39 J
+Ecore018:     65.73 J
+Ecore019:     66.84 J
+Ecore020:     67.98 J
+Ecore021:     82.64 J
+Ecore022:     69.34 J
+Ecore023:     76.78 J
+Ecore024:     64.52 J
+Ecore025:     67.89 J
+Ecore026:     68.38 J
+Ecore027:     62.23 J
+Ecore028:     61.00 J
+Ecore029:     61.22 J
+Ecore030:     60.13 J
+Ecore031:     60.85 J
+Esocket0:      6.45 kJ
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.36 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +63.8 C  (high = +95.0 C)
+Tctl:         +63.8 C  
+Tccd1:        +47.8 C  
+Tccd3:        +48.2 C  
+Tccd5:        +49.2 C  
+Tccd7:        +48.2 C  
+SVI2_P_Core:  40.41 W  
+SVI2_P_SoC:   16.33 W  
+SVI2_C_Core:  27.67 A  
+SVI2_C_SoC:   15.01 A  
+
+nvme-pci-4800
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
