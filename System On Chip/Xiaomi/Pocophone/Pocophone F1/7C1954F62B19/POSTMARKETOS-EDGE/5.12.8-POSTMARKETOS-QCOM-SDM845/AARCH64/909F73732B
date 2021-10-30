@@ -1,0 +1,10 @@
+bms-virtual-0
+Adapter: Virtual device
+temp1:        +36.8 C  
+
+bms-isa-0000
+Adapter: ISA adapter
+in0:           3.70 V  (min =  +3.70 V)
+temp:         +36.8 C  (low  =  +0.0 C, high = +60.0 C)  ALARM (LOW)
+curr1:       529.00 mA 
+

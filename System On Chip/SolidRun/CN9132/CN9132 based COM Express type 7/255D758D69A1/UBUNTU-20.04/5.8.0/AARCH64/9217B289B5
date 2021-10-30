@@ -1,0 +1,27 @@
+cp0configspacef2000000mdio12a200switch04mdio13-mdio-d
+Adapter: MDIO adapter
+temp1:        -75.0 C  
+
+cp0configspacef2000000mdio12a200switch04mdio11-mdio-b
+Adapter: MDIO adapter
+temp1:        -75.0 C  
+
+ina220-i2c-7-40
+Adapter: i2c-1-mux (chan_id 3)
+in0:           3.00 mV 
+in1:          12.07 V  
+power1:        3.14 W  
+curr1:       262.00 mA 
+
+cp0configspacef2000000mdio12a200switch04mdio14-mdio-e
+Adapter: MDIO adapter
+temp1:        -75.0 C  
+
+cp0configspacef2000000mdio12a200switch04mdio12-mdio-c
+Adapter: MDIO adapter
+temp1:        -75.0 C  
+
+f212a200mdiomii00-mdio-0
+Adapter: MDIO adapter
+temp1:        +33.0 C  (crit = +100.0 C)
+
