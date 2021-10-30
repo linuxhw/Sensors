@@ -1,0 +1,47 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +43.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +39.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +35.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +39.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +39.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +44.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +43.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +40.0 C  (high = +85.0 C, crit = +95.0 C)
+
+i350bb-pci-0600
+Adapter: PCI adapter
+loc1:         +56.0 C  (high = +120.0 C, crit = +110.0 C)
+
+nvme-pci-8400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -20.1 C, high = +75.8 C)
+                       (crit = +77.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +53.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +53.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +50.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +52.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +48.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +48.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +49.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +46.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +46.0 C  (high = +85.0 C, crit = +95.0 C)
+
+nouveau-pci-8800
+Adapter: PCI adapter
+fan1:        1141 RPM
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-8500
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -20.1 C, high = +75.8 C)
+                       (crit = +77.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+

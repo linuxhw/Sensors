@@ -1,0 +1,27 @@
+k8temp-pci-00db
+Adapter: PCI adapter
+temp1:        +57.0 C  
+temp3:        +58.0 C  
+
+k8temp-pci-00cb
+Adapter: PCI adapter
+temp1:        +53.0 C  
+temp3:        +49.0 C  
+
+nouveau-pci-0700
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.90 V, max =  +1.11 V)
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k8temp-pci-00d3
+Adapter: PCI adapter
+temp1:        +43.0 C  
+temp3:        +51.0 C  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +50.0 C  
+temp3:        +47.0 C  
+

@@ -1,0 +1,51 @@
+w83627hf-isa-0290
+Adapter: ISA adapter
+in0:          +0.00 V  (min =  +1.09 V, max =  +1.50 V)  ALARM
+in1:          +0.00 V  (min =  +1.09 V, max =  +1.50 V)  ALARM
+in2:          +0.00 V  (min =  +2.82 V, max =  +3.79 V)  ALARM
+in3:          +3.01 V  (min =  +2.91 V, max =  +2.70 V)  ALARM
+in4:          +0.00 V  (min =  +0.61 V, max =  +1.55 V)  ALARM
+in5:          +0.00 V  (min =  +1.12 V, max =  +0.03 V)  ALARM
+in6:          +0.00 V  (min =  +0.38 V, max =  +2.35 V)  ALARM
+in7:          +3.41 V  (min =  +0.77 V, max =  +0.51 V)  ALARM
+in8:          +3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:           0 RPM  (min = 225000 RPM, div = 2)  ALARM
+fan2:           0 RPM  (min = 3571 RPM, div = 2)  ALARM
+fan3:           0 RPM  (min = 7031 RPM, div = 2)  ALARM
+temp1:       +127.0°C  (high =  +0.0°C, hyst = -41.0°C)  ALARM  sensor = thermistor
+temp2:       +127.0°C  (high = +80.0°C, hyst = +75.0°C)  ALARM  sensor = thermistor
+temp3:       +127.0°C  (high = +80.0°C, hyst = +75.0°C)  ALARM  sensor = thermistor
+cpu0_vid:    +1.488 V
+beep_enable: enabled
+
+w83793-i2c-4-2f
+Adapter: SMBus I801 adapter at 1100
+VcoreA:       +1.27 V  (min =  +0.92 V, max =  +1.49 V)
+VcoreB:       +1.54 V  (min =  +0.92 V, max =  +1.49 V)  ALARM
+in2:          +1.21 V  (min =  +1.08 V, max =  +1.33 V)
+in3:          +0.53 V  (min =  +0.38 V, max =  +0.69 V)
+in4:          +1.82 V  (min =  +1.62 V, max =  +1.98 V)
+in5:          +3.34 V  (min =  +2.96 V, max =  +3.63 V)
+in6:          +0.99 V  (min =  +0.90 V, max =  +1.10 V)
++5V:          +4.95 V  (min =  +4.52 V, max =  +5.50 V)
+5VSB:         +5.14 V  (min =  +4.52 V, max =  +5.50 V)
+Vbat:         +3.23 V  (min =  +2.70 V, max =  +3.30 V)
+fan1:           0 RPM  (min =  712 RPM)  ALARM
+fan2:        2710 RPM  (min =  712 RPM)
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:           0 RPM  (min =  712 RPM)  ALARM
+fan5:           0 RPM  (min =  712 RPM)  ALARM
+fan6:           0 RPM  (min =  712 RPM)  ALARM
+fan7:        1401 RPM  (min =  712 RPM)
+fan8:           0 RPM  (min =  712 RPM)  ALARM
+fan9:           0 RPM  (min =  712 RPM)  ALARM
+fan10:          0 RPM  (min =  712 RPM)  ALARM
+temp1:        +42.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermal diode
+temp2:        -99.0°C  (high = +100.0°C, hyst = +95.0°C)  sensor = thermal diode
+temp3:       -128.0°C  (high = +100.0°C, hyst = +95.0°C)  sensor = thermal diode
+temp4:       -128.0°C  (high = +100.0°C, hyst = +95.0°C)  sensor = thermal diode
+temp5:        +52.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+temp6:        +46.0°C  (high = +50.0°C, hyst = +45.0°C)  sensor = thermistor
+intrusion0:  OK
+beep_enable: disabled
+

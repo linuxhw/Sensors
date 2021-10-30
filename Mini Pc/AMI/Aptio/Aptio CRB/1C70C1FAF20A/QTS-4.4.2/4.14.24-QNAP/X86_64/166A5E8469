@@ -1,0 +1,28 @@
+f71869a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.30 V  
+in1:         904.00 mV 
+in2:         808.00 mV 
+in3:         992.00 mV 
+in4:         992.00 mV 
+in5:           1.01 V  
+in6:         1000.00 mV 
+3VSB:          3.31 V  
+Vbat:          3.30 V  
+fan1:        1060 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +43.0*C  (high = +117.0*C, hyst = +113.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)  sensor = thermistor
+temp2:        +35.0*C  (high = +117.0*C, hyst = +113.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)  sensor = thermistor
+temp3:        +44.0*C  (high = +70.0*C, hyst = +68.0*C)
+                       (crit = +85.0*C, hyst = +83.0*C)  sensor = thermistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +47.0*C  (high = +105.0*C, crit = +105.0*C)
+Core 1:       +47.0*C  (high = +105.0*C, crit = +105.0*C)
+Core 2:       +50.0*C  (high = +105.0*C, crit = +105.0*C)
+Core 3:       +50.0*C  (high = +105.0*C, crit = +105.0*C)
+

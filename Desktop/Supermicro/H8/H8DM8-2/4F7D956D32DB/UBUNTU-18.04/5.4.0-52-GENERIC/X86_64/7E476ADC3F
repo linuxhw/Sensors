@@ -1,0 +1,45 @@
+w83627hf-isa-0290
+Adapter: ISA adapter
+in0:          +1.50 V  (min =  +1.34 V, max =  +1.65 V)
+in1:          +1.41 V  (min =  +1.25 V, max =  +1.54 V)
+in2:          +3.46 V  (min =  +2.96 V, max =  +3.62 V)
+in3:          +3.01 V  (min =  +2.78 V, max =  +3.90 V)
+in4:          +3.18 V  (min =  +2.83 V, max =  +3.47 V)
+in5:          +0.56 V  (min =  +0.42 V, max =  +0.88 V)
+in6:          +0.78 V  (min =  +2.78 V, max =  +2.24 V)  ALARM
+in7:          +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+in8:          +3.04 V  (min =  +2.96 V, max =  +3.62 V)
+fan1:           0 RPM  (min = 3068 RPM, div = 2)  ALARM
+fan2:           0 RPM  (min = 3068 RPM, div = 2)  ALARM
+fan3:           0 RPM  (min = 6308 RPM, div = 2)  ALARM
+temp1:        +48.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp2:        +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +24.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +1.550 V
+beep_enable: enabled
+
+w83793-i2c-1-2c
+Adapter: SMBus nForce2 adapter at 2e00
+VcoreA:       +1.22 V  (min =  +1.08 V, max =  +1.62 V)
+VcoreB:       +1.15 V  (min =  +1.08 V, max =  +1.62 V)
+in2:          +1.13 V  (min =  +1.08 V, max =  +1.33 V)
+in3:          +0.86 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +0.86 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +1.79 V  (min =  +1.62 V, max =  +1.98 V)
+in6:          +1.81 V  (min =  +1.62 V, max =  +1.98 V)
++5V:          +5.05 V  (min =  +4.52 V, max =  +5.50 V)
+5VSB:         +5.19 V  (min =  +4.52 V, max =  +5.50 V)
+Vbat:         +2.99 V  (min =  +2.70 V, max =  +3.30 V)
+fan1:           0 RPM  (min =  712 RPM)  ALARM
+fan2:           0 RPM  (min =  712 RPM)  ALARM
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:           0 RPM  (min =  712 RPM)  ALARM
+fan5:           0 RPM  (min =  712 RPM)  ALARM
+fan6:           0 RPM  (min =  712 RPM)  ALARM
+fan7:        5113 RPM  (min =  712 RPM)
+fan8:        6428 RPM  (min =  712 RPM)
+temp1:        +25.2 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermal diode
+temp2:        +35.8 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermal diode
+intrusion0:  OK
+beep_enable: disabled
+

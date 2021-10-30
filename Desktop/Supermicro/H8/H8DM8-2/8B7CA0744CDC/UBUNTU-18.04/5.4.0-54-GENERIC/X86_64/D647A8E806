@@ -1,0 +1,25 @@
+w83793-i2c-1-2c
+Adapter: SMBus nForce2 adapter at 2e00
+VcoreA:       +1.23 V  (min =  +1.08 V, max =  +1.62 V)
+VcoreB:       +1.23 V  (min =  +1.08 V, max =  +1.62 V)
+in2:          +1.12 V  (min =  +1.08 V, max =  +1.33 V)
+in3:          +0.85 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +0.85 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +1.76 V  (min =  +1.62 V, max =  +1.98 V)
+in6:          +1.79 V  (min =  +1.62 V, max =  +1.98 V)
++5V:          +4.97 V  (min =  +4.52 V, max =  +5.50 V)
+5VSB:         +5.00 V  (min =  +4.52 V, max =  +5.50 V)
+Vbat:         +3.04 V  (min =  +2.70 V, max =  +3.30 V)
+fan1:           0 RPM  (min =  712 RPM)  ALARM
+fan2:           0 RPM  (min =  712 RPM)  ALARM
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:           0 RPM  (min =  712 RPM)  ALARM
+fan5:           0 RPM  (min =  712 RPM)  ALARM
+fan6:           0 RPM  (min =  712 RPM)  ALARM
+fan7:        2547 RPM  (min =  712 RPM)
+fan8:        2766 RPM  (min =  712 RPM)
+temp1:        +28.2 C  (high = +72.0 C, hyst = +67.0 C)  sensor = thermal diode
+temp2:        +29.8 C  (high = +72.0 C, hyst = +67.0 C)  sensor = thermal diode
+intrusion0:  OK
+beep_enable: disabled
+

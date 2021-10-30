@@ -1,0 +1,25 @@
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+drvtemp:      +23.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +21.0 C, highest = +30.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +49.0 C  (crit = +95.0 C)
+temp2:        +47.0 C  (crit = +95.0 C)
+temp3:        +48.0 C  (crit = +95.0 C)
+temp4:        +48.0 C  (crit = +95.0 C)
+temp5:        +48.0 C  (crit = +95.0 C)
+temp6:        +49.0 C  (crit = +95.0 C)
+temp7:        +49.0 C  (crit = +95.0 C)
+temp8:        +48.0 C  (crit = +95.0 C)
+temp9:        +48.0 C  (crit = +95.0 C)
+
+nvme-pci-20100
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+

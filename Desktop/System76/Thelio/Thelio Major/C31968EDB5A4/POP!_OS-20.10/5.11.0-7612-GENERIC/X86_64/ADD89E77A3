@@ -1,0 +1,70 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.6 C  
+Tdie:         +63.6 C  
+Tccd1:        +47.2 C  
+Tccd3:        +51.2 C  
+Tccd5:        +49.0 C  
+Tccd7:        +48.8 C  
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:         600 RPM
+INTF:         810 RPM
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+energy1:          N/A
+energy2:          N/A
+energy3:          N/A
+energy4:          N/A
+energy5:          N/A
+energy6:          N/A
+energy7:          N/A
+energy8:          N/A
+energy9:          N/A
+energy10:         N/A
+energy11:         N/A
+energy12:         N/A
+energy13:         N/A
+energy14:         N/A
+energy15:         N/A
+energy16:         N/A
+energy17:         N/A
+energy18:         N/A
+energy19:         N/A
+energy20:         N/A
+energy21:         N/A
+energy22:         N/A
+energy23:         N/A
+energy24:         N/A
+energy25:         N/A
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:        1110 RPM
+INTF:         780 RPM
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

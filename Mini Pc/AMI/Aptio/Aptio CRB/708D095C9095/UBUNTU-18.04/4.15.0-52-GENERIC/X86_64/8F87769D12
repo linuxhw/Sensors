@@ -1,0 +1,28 @@
+it8786-isa-0a40
+Adapter: ISA adapter
+in0:          +0.84 V  (min =  +0.85 V, max =  +1.60 V)  ALARM
+in1:          +1.37 V  (min =  +2.89 V, max =  +0.17 V)  ALARM
+in2:          +1.97 V  (min =  +2.10 V, max =  +0.66 V)  ALARM
++3.3V:        +3.31 V  (min =  +5.64 V, max =  +6.07 V)  ALARM
+in4:          +1.98 V  (min =  +2.22 V, max =  +2.42 V)  ALARM
+in5:          +1.97 V  (min =  +0.62 V, max =  +1.31 V)  ALARM
+in6:          +2.23 V  (min =  +2.66 V, max =  +0.84 V)  ALARM
+3VSB:         +3.29 V  (min =  +3.86 V, max =  +2.11 V)  ALARM
+Vbat:         +2.88 V  
+fan1:           0 RPM  (min =    0 RPM)
+temp1:        +34.0 C  (low  = -128.0 C, high = +127.0 C)  sensor = disabled
+temp2:        +34.0 C  (low  = -128.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:         -8.0 C  (low  = +48.0 C, high = +127.0 C)  sensor = disabled
+intrusion0:  ALARM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +26.8 C  (crit = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +55.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +52.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +52.0 C  (high = +90.0 C, crit = +90.0 C)
+

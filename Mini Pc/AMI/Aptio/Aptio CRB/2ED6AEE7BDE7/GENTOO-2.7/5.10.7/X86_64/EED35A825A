@@ -1,0 +1,34 @@
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +60.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +58.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +58.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:       +60.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:       +59.0 C  (high = +105.0 C, crit = +105.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +61.0 C  
+
+it8786-isa-0a40
+Adapter: ISA adapter
+in0:         924.00 mV (min =  +1.13 V, max =  +2.47 V)  ALARM
+in1:           1.54 V  (min =  +2.87 V, max =  +1.52 V)  ALARM
+in2:           1.96 V  (min =  +2.64 V, max =  +2.58 V)  ALARM
++3.3V:         3.31 V  (min =  +5.71 V, max =  +4.56 V)  ALARM
+in4:           2.03 V  (min =  +3.01 V, max =  +3.06 V)  ALARM
+in5:           3.04 V  (min =  +2.24 V, max =  +2.65 V)  ALARM
+in6:           1.79 V  (min =  +2.47 V, max =  +1.14 V)  ALARM
+3VSB:          3.26 V  (min =  +5.71 V, max =  +6.05 V)  ALARM
+Vbat:          3.17 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:         -8.0 C  (low  = -128.0 C, high = +127.0 C)  sensor = disabled
+temp2:        -83.0 C  (low  = -128.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:         -8.0 C  (low  = +48.0 C, high = +127.0 C)  sensor = disabled
+intrusion0:  OK
+

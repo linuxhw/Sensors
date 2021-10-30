@@ -1,0 +1,41 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +29.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 0:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 1:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 2:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 3:        +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 4:        +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 5:        +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 6:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 8:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 9:        +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 10:       +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 11:       +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 12:       +24.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 13:       +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 14:       +24.0°C  (high = +82.0°C, crit = +92.0°C)
+
+amdgpu-pci-8100
+Adapter: PCI adapter
+fan1:        1073 RPM
+temp1:        +32.0°C  (crit =  +0.0°C, hyst =  +0.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 0:        +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 1:        +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 2:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 3:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 4:        +23.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 5:        +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 6:        +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 8:        +21.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 9:        +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 10:       +21.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 11:       +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 12:       +22.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 13:       +21.0°C  (high = +82.0°C, crit = +92.0°C)
+Core 14:       +22.0°C  (high = +82.0°C, crit = +92.0°C)
+

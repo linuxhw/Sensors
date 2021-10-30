@@ -1,0 +1,95 @@
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +29.0 C, highest = +59.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +31.0 C, highest = +56.0 C)
+
+drivetemp-scsi-7-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +28.0 C, highest = +55.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +31.0 C, highest = +57.0 C)
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +39.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +30.0 C, highest = +55.0 C)
+
+jc42-i2c-1-1b
+Adapter: SMBus I801 adapter at e000
+RAM:          +47.8 C  (low  =  +0.0 C)
+                       (high = +50.0 C, hyst = +50.0 C)
+                       (crit = +50.0 C, hyst = +50.0 C)
+
+jc42-i2c-1-19
+Adapter: SMBus I801 adapter at e000
+RAM:          +46.0 C  (low  =  +0.0 C)
+                       (high = +50.0 C, hyst = +50.0 C)
+                       (crit = +50.0 C, hyst = +50.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Kern 1:       +55.0 C  (high = +98.0 C, crit = +98.0 C)  ALARM (CRIT)
+Kern 2:       +55.0 C  (high = +98.0 C, crit = +98.0 C)  ALARM (CRIT)
+Kern 3:       +55.0 C  (high = +98.0 C, crit = +98.0 C)  ALARM (CRIT)
+Kern 4:       +55.0 C  (high = +98.0 C, crit = +98.0 C)  ALARM (CRIT)
+Kern 5:       +53.0 C  (high = +98.0 C, crit = +98.0 C)
+Kern 6:       +53.0 C  (high = +98.0 C, crit = +98.0 C)
+Kern 7:       +54.0 C  (high = +98.0 C, crit = +98.0 C)
+Kern 8:       +54.0 C  (high = +98.0 C, crit = +98.0 C)
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +39.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +31.0 C, highest = +55.0 C)
+
+drivetemp-scsi-8-0
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +28.0 C, highest = +59.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +30.0 C, highest = +55.0 C)
+
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +27.0 C, highest = +55.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +31.0 C, highest = +56.0 C)
+
+jc42-i2c-1-1a
+Adapter: SMBus I801 adapter at e000
+RAM:          +47.2 C  (low  =  +0.0 C)
+                       (high = +50.0 C, hyst = +50.0 C)
+                       (crit = +50.0 C, hyst = +50.0 C)
+
+jc42-i2c-1-18
+Adapter: SMBus I801 adapter at e000
+RAM:          +45.5 C  (low  =  +0.0 C)
+                       (high = +50.0 C, hyst = +50.0 C)
+                       (crit = +50.0 C, hyst = +50.0 C)
+

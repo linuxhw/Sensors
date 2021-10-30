@@ -1,0 +1,48 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +30.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +27.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +32.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +28.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 4:        +33.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 5:        +23.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 8:        +29.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 9:        +35.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 10:       +29.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 11:       +23.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 12:       +26.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 13:       +27.0 C  (high = +74.0 C, crit = +94.0 C)
+
+i350bb-pci-0700
+Adapter: PCI adapter
+loc1:         +59.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +40.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +40.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +33.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +31.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +33.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 4:        +35.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 5:        +30.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 8:        +35.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 9:        +37.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 10:       +30.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 11:       +32.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 12:       +28.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 13:       +34.0 C  (high = +74.0 C, crit = +94.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:        1228 RPM  (min =  400 RPM, max = 3300 RPM)
+edge:         +37.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +39.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +40.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        8.00 W  (cap = 165.00 W)
+

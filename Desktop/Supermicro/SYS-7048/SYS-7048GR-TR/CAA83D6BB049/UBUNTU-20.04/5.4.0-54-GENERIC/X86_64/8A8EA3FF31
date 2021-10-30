@@ -1,0 +1,47 @@
+nouveau-pci-8300
+Adapter: PCI adapter
+fan1:         883 RPM
+temp1:        +33.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 0:        +20.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 1:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 2:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 3:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 4:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 5:        +20.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +22.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +22.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 11:       +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +20.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 13:       +20.0 C  (high = +87.0 C, crit = +97.0 C)
+
+i350bb-pci-8100
+Adapter: PCI adapter
+loc1:         +41.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 0:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 1:        +22.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 2:        +22.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 3:        +22.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 4:        +23.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 5:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 11:       +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +21.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 13:       +21.0 C  (high = +87.0 C, crit = +97.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      168.00 W  (interval =   1.00 s)
+

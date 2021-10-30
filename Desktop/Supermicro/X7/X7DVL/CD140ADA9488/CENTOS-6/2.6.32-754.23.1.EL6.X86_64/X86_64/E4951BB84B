@@ -1,0 +1,65 @@
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0: +45.0 C  (low  = +89.5 C, high = +124.0 C)  
+Ch. 0 DIMM 1: +40.5 C  (low  = +88.0 C, high = +124.0 C)  
+Ch. 1 DIMM 0: +45.0 C  (low  = +89.5 C, high = +124.0 C)  
+Ch. 1 DIMM 1: +43.0 C  (low  = +88.0 C, high = +124.0 C)  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:      +40.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 1:      +33.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 2:      +36.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 3:      +37.0 C  (high = +82.0 C, crit = +100.0 C)  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:      +45.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 1:      +38.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 2:      +36.0 C  (high = +82.0 C, crit = +100.0 C)  
+Core 3:      +36.0 C  (high = +82.0 C, crit = +100.0 C)  
+
+w83627hf-isa-0290
+Adapter: ISA adapter
+in0:         +3.33 V  (min =  +0.00 V, max =  +4.08 V)   
+in1:         +4.08 V  (min =  +0.00 V, max =  +4.08 V)   
+in2:         +0.91 V  (min =  +2.82 V, max =  +3.79 V)   ALARM
+in3:         +3.02 V  (min =  +0.32 V, max =  +0.08 V)   ALARM
+in4:         +1.18 V  (min =  +1.28 V, max =  +0.21 V)   ALARM
+in5:         +1.54 V  (min =  +0.78 V, max =  +0.13 V)   ALARM
+in6:         +1.82 V  (min =  +1.30 V, max =  +2.05 V)   
+in7:         +3.33 V  (min =  +1.60 V, max =  +0.06 V)   ALARM
+in8:         +3.23 V  (min =  +2.08 V, max =  +0.16 V)   ALARM
+fan1:          0 RPM  (min = 7031 RPM, div = 2)  ALARM
+fan2:          0 RPM  (min = 4687 RPM, div = 2)  ALARM
+fan3:          0 RPM  (min = 168750 RPM, div = 2)  ALARM
+temp1:       +39.0 C  (high = +50.0 C, hyst = +45.0 C)  sensor = thermistor
+temp2:       +33.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:       +34.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:   +0.000 V
+beep_enable:enabled
+
+w83793-i2c-4-2f
+Adapter: SMBus I801 adapter at 1100
+CPU Core 1:  +1.10 V  (min =  +0.92 V, max =  +1.49 V)   
+CPU Core 2:  +1.08 V  (min =  +0.92 V, max =  +1.49 V)   
+VTT:         +1.19 V  (min =  +1.14 V, max =  +1.26 V)   
+-12V:       -11.52 V  (min = -12.53 V, max = -11.38 V)   
+P1V5:        +1.49 V  (min =  +1.34 V, max =  +1.65 V)   
++3.3V:       +3.31 V  (min =  +3.14 V, max =  +3.47 V)   
++12V:       +11.81 V  (min = +11.42 V, max = +12.58 V)   
++5V:         +5.12 V  (min =  +4.76 V, max =  +5.26 V)   
+5VSB:        +5.09 V  (min =  +4.76 V, max =  +5.26 V)   
+VBAT:        +3.23 V  (min =  +2.99 V, max =  +3.66 V)   
+fan1:       5037 RPM  (min =  712 RPM)
+fan2:       6136 RPM  (min =  712 RPM)
+fan3:       6367 RPM  (min =  712 RPM)
+fan4:       6367 RPM  (min =  712 RPM)
+CPU1 fan:      0 RPM  (min =  712 RPM)  ALARM
+CPU2 fan:      0 RPM  (min =  712 RPM)  ALARM
+CPU1 Temp:   +40.0 C  (high = +87.0 C, hyst = +82.0 C)  sensor = Intel PECI
+CPU2 Temp:   +43.0 C  (high = +87.0 C, hyst = +82.0 C)  sensor = Intel PECI
+System Temp: +36.0 C  (high = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+cpu0_vid:   +2.000 V
+beep_enable:disabled
+

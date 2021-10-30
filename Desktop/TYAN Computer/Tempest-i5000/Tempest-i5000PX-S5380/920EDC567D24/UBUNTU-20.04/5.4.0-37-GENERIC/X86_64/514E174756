@@ -1,0 +1,25 @@
+nouveau-pci-0900
+Adapter: PCI adapter
+fan1:        1821 RPM
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +77.0 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 0 DIMM 1:  +66.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 1 DIMM 0:  +58.5 C  (low  = +105.5 C, high = +124.0 C)
+Ch. 1 DIMM 1:  +47.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 2 DIMM 0:  +55.5 C  (low  = +99.5 C, high = +124.0 C)
+Ch. 2 DIMM 1:  +48.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 3 DIMM 0:  +63.5 C  (low  = +92.0 C, high = +124.0 C)
+Ch. 3 DIMM 1:  +52.0 C  (low  = +85.0 C, high = +124.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +51.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +57.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +61.0 C  (high = +84.0 C, crit = +100.0 C)
+

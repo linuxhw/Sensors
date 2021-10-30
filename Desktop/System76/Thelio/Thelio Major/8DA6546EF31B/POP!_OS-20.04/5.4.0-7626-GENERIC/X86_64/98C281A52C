@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +58.4 C  (high = +70.0 C)
+Tctl:         +58.4 C  
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:        1110 RPM
+INTF:         840 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:         720 RPM
+INTF:         840 RPM
+
+amdgpu-pci-2300
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:        1186 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +40.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +40.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +42.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       21.00 W  (cap = 150.00 W)
+

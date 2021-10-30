@@ -1,0 +1,42 @@
+f75387-i2c-0-2e
+Adapter: SMBus I801 adapter at f000
+in0:           1.71 V  (min =  +0.00 V, max =  +2.04 V)
+in1:           1.10 V  (min =  +0.00 V, max =  +2.04 V)
+in2:           1.10 V  (min =  +0.00 V, max =  +2.04 V)
+in3:         904.00 mV (min =  +0.00 V, max =  +2.04 V)
+fan1:         366 RPM  (min =   97 RPM, max =  366 RPM)
+fan2:         366 RPM  (min = 5882 RPM, max =  366 RPM)
+temp1:       -110.8 C  (high = +100.0 C, hyst = +95.0 C)
+temp2:       -110.8 C  (high = +100.0 C, hyst = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +38.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +36.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +35.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +30.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +30.0 C  (high = +81.0 C, crit = +91.0 C)
+
+f71889a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.38 V  
+in1:         944.00 mV (max =  +2.04 V)
+in2:         744.00 mV 
+in3:         976.00 mV 
+in4:           1.10 V  
+in5:         744.00 mV 
+in6:         872.00 mV 
+3VSB:          3.39 V  
+Vbat:          3.33 V  
+fan1:        1510 RPM
+fan2:           0 RPM  ALARM
+fan3:        1126 RPM
+temp1:        +31.0 C  (high = +255.0 C, hyst = +251.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp2:          FAULT  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:        +31.0 C  (high = +255.0 C, hyst = +253.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+

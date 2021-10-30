@@ -1,0 +1,62 @@
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +45.5 C  (high = +100.0 C, hyst = +90.0 C)  ALARM (HIGH)
+                       (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +32.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +30.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +31.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +32.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +30.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +31.0 C  (high = +81.0 C, crit = +101.0 C)
+
+nouveau-pci-0300
+Adapter: PCI adapter
+GPU core:     +1.01 V  (min =  +0.60 V, max =  +1.20 V)
+fan1:        1890 RPM
+temp1:        +24.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nct6775-isa-0880
+Adapter: ISA adapter
+Vcore:        +1.05 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +0.77 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:         +3.34 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.34 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:          +0.75 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:          +1.09 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:         +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.20 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan2:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan3:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan4:           0 RPM  (div = 128)  ALARM
+SYSTIN:       +87.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:       -63.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+AUXTIN:       +21.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  OK
+
+adt7490-i2c-0-2e
+Adapter: SMBus I801 adapter at 5000
+in0:          +1.52 V  (min =  +0.00 V, max =  +3.31 V)
+Vcore:        +1.25 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.33 V  (min =  +2.96 V, max =  +3.61 V)
++5V:          +4.97 V  (min =  +4.48 V, max =  +5.50 V)
++12V:        +12.29 V  (min =  +0.00 V, max = +15.69 V)
+in5:          +2.53 V  (min =  +0.00 V, max =  +4.48 V)
+fan1:         807 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:         979 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +46.0 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +103.0 C, hyst = +103.0 C)
+M/B Temp:     +36.0 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +65.0 C, hyst = +61.0 C)
+temp3:        +28.5 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +65.0 C, hyst = +61.0 C)
+

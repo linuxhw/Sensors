@@ -1,0 +1,36 @@
+w83795g-i2c-0-2f
+Adapter: SMBus PIIX4 adapter at 0b00
+in0:          +1.08 V  (min =  +0.68 V, max =  +1.33 V)
+in1:          +1.09 V  (min =  +0.68 V, max =  +1.33 V)
+in2:          +1.84 V  (min =  +1.62 V, max =  +1.99 V)
+in3:          +1.84 V  (min =  +1.62 V, max =  +1.99 V)
+in4:          +0.92 V  (min =  +1.62 V, max =  +2.01 V)  ALARM
+in5:          +0.90 V  (min =  +1.42 V, max =  +1.53 V)  ALARM
+in6:          +1.10 V  (min =  +0.98 V, max =  +1.21 V)
+in7:          +1.52 V  (min =  +1.35 V, max =  +1.65 V)
+in8:          +1.26 V  (min =  +1.13 V, max =  +1.38 V)
+in9:          +1.83 V  (min =  +1.63 V, max =  +2.00 V)
+in10:         +1.48 V  (min =  +1.42 V, max =  +1.53 V)
+in11:         +1.22 V  (min =  +1.48 V, max =  +1.82 V)  ALARM
++3.3V:        +3.26 V  (min =  +2.96 V, max =  +3.63 V)
+3VSB:         +3.24 V  (min =  +2.96 V, max =  +3.63 V)
+Vbat:         +3.19 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =  712 RPM)  ALARM
+fan2:           0 RPM  (min =  712 RPM)  ALARM
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:           0 RPM  (min =  712 RPM)  ALARM
+fan5:           0 RPM  (min =  712 RPM)  ALARM
+fan6:           0 RPM  (min =  712 RPM)  ALARM
+fan7:        3245 RPM  (min =  712 RPM)
+fan8:        4115 RPM  (min =  712 RPM)
+temp1:        +36.8 C  (high = +72.0 C, hyst = +62.0 C)
+                       (crit = +72.0 C, hyst = +62.0 C)  sensor = thermal diode
+temp2:        +40.2 C  (high = +72.0 C, hyst = +62.0 C)
+                       (crit = +72.0 C, hyst = +62.0 C)  sensor = thermal diode
+temp3:        +49.5 C  (high = +80.0 C, hyst = +80.0 C)
+                       (crit = +85.0 C, hyst = +80.0 C)  sensor = thermal diode
+temp4:        +37.2 C  (high = +70.0 C, hyst = +70.0 C)
+                       (crit = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+intrusion0:  ALARM
+beep_enable: disabled
+

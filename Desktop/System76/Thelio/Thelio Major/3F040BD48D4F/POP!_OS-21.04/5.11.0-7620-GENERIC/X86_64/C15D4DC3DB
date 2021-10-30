@@ -1,0 +1,101 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.4 C  
+Tdie:         +65.4 C  
+Tccd1:        +48.2 C  
+Tccd2:        +49.5 C  
+Tccd3:        +51.8 C  
+Tccd4:        +48.2 C  
+Tccd5:        +44.0 C  
+Tccd6:        +44.5 C  
+Tccd7:        +61.5 C  
+Tccd8:        +50.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:      6.16 kJ
+Ecore001:      4.36 kJ
+Ecore002:      4.69 kJ
+Ecore003:      4.94 kJ
+Ecore004:      8.93 kJ
+Ecore005:      7.55 kJ
+Ecore006:      7.36 kJ
+Ecore007:      6.84 kJ
+Ecore008:      6.96 kJ
+Ecore009:      5.95 kJ
+Ecore010:      5.92 kJ
+Ecore011:      5.72 kJ
+Ecore012:      6.41 kJ
+Ecore013:      6.09 kJ
+Ecore014:      5.89 kJ
+Ecore015:      5.67 kJ
+Ecore016:      6.43 kJ
+Ecore017:      5.53 kJ
+Ecore018:      5.42 kJ
+Ecore019:      5.86 kJ
+Ecore020:      5.59 kJ
+Ecore021:      5.07 kJ
+Ecore022:      5.20 kJ
+Ecore023:      4.87 kJ
+Ecore024:      5.31 kJ
+Ecore025:      4.70 kJ
+Ecore026:      4.69 kJ
+Ecore027:      4.55 kJ
+Ecore028:      5.23 kJ
+Ecore029:      4.55 kJ
+Ecore030:      4.34 kJ
+Ecore031:      4.45 kJ
+Ecore032:      5.23 kJ
+Ecore033:      4.53 kJ
+Ecore034:      4.34 kJ
+Ecore035:      4.71 kJ
+Ecore036:      5.94 kJ
+Ecore037:      5.30 kJ
+Ecore038:      5.64 kJ
+Ecore039:      5.39 kJ
+Ecore040:      5.30 kJ
+Ecore041:      4.70 kJ
+Ecore042:      5.38 kJ
+Ecore043:      4.77 kJ
+Ecore044:      4.79 kJ
+Ecore045:      4.01 kJ
+Ecore046:      4.17 kJ
+Ecore047:      4.58 kJ
+Ecore048:      5.63 kJ
+Ecore049:      4.61 kJ
+Ecore050:      4.67 kJ
+Ecore051:      4.67 kJ
+Ecore052:      5.19 kJ
+Ecore053:      4.74 kJ
+Ecore054:      4.58 kJ
+Ecore055:      4.67 kJ
+Ecore056:      6.68 kJ
+Ecore057:      4.46 kJ
+Ecore058:      4.88 kJ
+Ecore059:      4.25 kJ
+Ecore060:      4.98 kJ
+Ecore061:      4.18 kJ
+Ecore062:      4.24 kJ
+Ecore063:      4.31 kJ
+Esocket0:      8.81 MJ
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
