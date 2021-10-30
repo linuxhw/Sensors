@@ -1,0 +1,13 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+temp1:       +4294939.3 C  
+temp2:       +4294939.3 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +100.0 C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +62.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

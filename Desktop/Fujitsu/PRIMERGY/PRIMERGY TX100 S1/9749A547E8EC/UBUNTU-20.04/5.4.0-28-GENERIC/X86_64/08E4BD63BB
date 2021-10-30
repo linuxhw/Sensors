@@ -1,0 +1,23 @@
+fschds-i2c-0-73
+Adapter: SMBus I801 adapter at 1c20
++12V:            12.12 V  
++5V:              5.01 V  
+Vbat:             3.14 V  
+PSU Fan:        1140 RPM  (div = 4)
+CPU Fan:         780 RPM  (div = 4)
+System FAN2:       FAULT  (div = 4)
+System FAN3:       FAULT  (div = 4)
+System FAN4:       FAULT  (div = 4)
+CPU Temp:        +23.0 C  (high = +64.0 C)
+Super I/O Temp:  +37.0 C  (high = +55.0 C)
+System Temp:     +26.0 C  (high = +47.0 C)
+temp4:           +24.0 C  (high = +64.0 C)
+temp5:           +45.0 C  (high = +62.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 1:       +40.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 2:       +39.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 3:       +40.0 C  (high = +74.0 C, crit = +100.0 C)
+

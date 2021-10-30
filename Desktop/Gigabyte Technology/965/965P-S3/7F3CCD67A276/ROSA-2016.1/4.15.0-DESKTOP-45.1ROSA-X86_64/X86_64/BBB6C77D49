@@ -1,0 +1,32 @@
+it8718-isa-0290
+Adapter: ISA adapter
+in0:          +1.41 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.90 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.33 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.96 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +0.32 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +1.20 V  (min =  +0.00 V, max =  +4.08 V)
+in7:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +2.59 V  
+fan1:         783 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:         -1.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+cpu0_vid:    +1.325 V
+intrusion0:  OK
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.93 V  (min =  +0.60 V, max =  +1.20 V)
+temp1:        +32.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 1:       +51.0 C  (high = +74.0 C, crit = +100.0 C)
+

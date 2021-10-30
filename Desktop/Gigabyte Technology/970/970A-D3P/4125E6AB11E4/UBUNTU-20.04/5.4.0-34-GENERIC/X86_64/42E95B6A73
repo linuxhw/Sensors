@@ -1,0 +1,21 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      731.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +48.0 C  (crit = +113.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +48.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +70.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       19.00 W  (cap = 135.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +23.1 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       75.83 W  (crit = 125.02 W)
+

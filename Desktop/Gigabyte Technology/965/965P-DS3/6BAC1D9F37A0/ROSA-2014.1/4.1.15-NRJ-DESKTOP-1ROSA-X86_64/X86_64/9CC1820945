@@ -1,0 +1,31 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +57.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +2.0°C)
+                       (emerg = +110.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0°C  (high = +78.0°C, crit = +100.0°C)
+Core 1:       +54.0°C  (high = +78.0°C, crit = +100.0°C)
+
+it8718-isa-0290
+Adapter: ISA adapter
+in0:          +1.30 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.90 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.28 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.91 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +0.58 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +0.06 V  (min =  +0.00 V, max =  +4.08 V)
+in7:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +2.56 V  
+fan1:         923 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +34.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +35.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermal diode
+temp3:         -2.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+cpu0_vid:    +1.350 V
+intrusion0:  OK
+

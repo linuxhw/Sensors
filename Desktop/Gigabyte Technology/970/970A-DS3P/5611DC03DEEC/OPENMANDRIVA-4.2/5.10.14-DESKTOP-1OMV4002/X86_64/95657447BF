@@ -1,0 +1,15 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +37.0 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       87.71 W  (crit = 125.19 W)
+

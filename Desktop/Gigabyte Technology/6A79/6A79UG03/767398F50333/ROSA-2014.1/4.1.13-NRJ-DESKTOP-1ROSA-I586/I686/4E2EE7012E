@@ -1,0 +1,20 @@
+it8712-isa-0290
+Adapter: ISA adapter
+in0:          +1.30 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +2.58 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.23 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.93 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +2.98 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +1.97 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +2.10 V  (min =  +0.00 V, max =  +4.08 V)
+in7:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.23 V  
+fan1:        4115 RPM  (min =  664 RPM, div = 8)
+fan2:           0 RPM  (min =    0 RPM, div = 8)
+fan3:           0 RPM  (min =    0 RPM, div = 8)
+temp1:        -55.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp2:         -2.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp3:        +45.0°C  (low  = +127.0°C, high = +90.0°C)  sensor = thermal diode
+cpu0_vid:    +1.388 V
+intrusion0:  ALARM
+

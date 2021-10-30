@@ -1,0 +1,20 @@
+it8772-isa-0a30
+Adapter: ISA adapter
+in0:           1.18 V  (min =  +2.68 V, max =  +0.73 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +1.87 V)
+in2:           2.03 V  (min =  +2.34 V, max =  +0.68 V)
+in3:           2.00 V  (min =  +1.46 V, max =  +0.41 V)
+in4:           2.02 V  (min =  +1.14 V, max =  +2.68 V)
+in5:           2.02 V  (min =  +2.70 V, max =  +0.50 V)
+in6:           2.22 V  (min =  +3.05 V, max =  +2.39 V)
+3VSB:          3.34 V  (min =  +4.27 V, max =  +4.46 V)
+Vbat:          3.26 V  
+fan2:        1577 RPM  (min =   15 RPM)
+fan3:           0 RPM  (min =   14 RPM)
+fan4:           0 RPM  (min =   -1 RPM)
+fan5:           0 RPM  (min =   -1 RPM)
+temp1:        +33.0 C  (low  = -10.0 C, high = -17.0 C)  sensor = thermistor
+temp2:        +30.0 C  (low  = -52.0 C, high = -76.0 C)  sensor = thermistor
+temp3:        +48.0 C  (low  = -80.0 C, high = +31.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+

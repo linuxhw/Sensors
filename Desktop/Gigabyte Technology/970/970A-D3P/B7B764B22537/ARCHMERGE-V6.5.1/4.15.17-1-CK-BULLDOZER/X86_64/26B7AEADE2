@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +44.1°C  (high = +63.8°C)
+                       (crit = +67.7°C, hyst = +66.6°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:        1831 RPM
+temp1:        +37.0°C  (crit =  +0.0°C, hyst =  +0.0°C)
+
+it8728-isa-0228
+Adapter: ISA adapter
+VCore:        +1.38 V  (min =  +0.70 V, max =  +1.50 V)
+VDDR:         +1.48 V  (min =  +1.43 V, max =  +1.57 V)
++3.3V:        +2.97 V  (min =  +3.13 V, max =  +3.47 V)
++5V:          +4.94 V  (min =  +4.76 V, max =  +5.26 V)
++12V:        +11.79 V  (min = +11.43 V, max = +12.59 V)
+-12V:        -12.30 V  (min = -11.37 V, max = -12.64 V)
+-5V:          -5.22 V  (min =  -4.74 V, max =  -5.25 V)
+3.3VSB:       +3.31 V  (min =  +2.86 V, max =  +3.14 V)
+VBat:         +3.22 V  
+CPU Fan:     2721 RPM  (min =    0 RPM)
+PWR Fan:      557 RPM  (min =    0 RPM)
+SYS Fan:      827 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+NB Temp:      +29.0°C  (low  =  +0.0°C, high = +65.0°C)  sensor = thermistor
+CPU Temp:     +38.0°C  (low  =  +0.0°C, high = +55.0°C)  sensor = thermal diode
+temp3:        +43.9°C  (low  = +36.5°C, high = +67.7°C)  sensor = Intel PECI
+intrusion0:  OK
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       50.17 W  (crit = 125.23 W)
+
