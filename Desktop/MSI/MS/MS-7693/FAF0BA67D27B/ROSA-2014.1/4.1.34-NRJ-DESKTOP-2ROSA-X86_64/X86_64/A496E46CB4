@@ -1,0 +1,38 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +39.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +35.5°C  (crit = +120.0°C, hyst = +90.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +12.8°C  (high = +70.0°C)
+                       (crit = +80.0°C, hyst = +77.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       54.91 W  (crit = 125.23 W)
+
+f71889ed-isa-0480
+Adapter: ISA adapter
++3.3V:        +3.25 V  
+in1:          +1.06 V  (max =  +2.04 V)
+in2:          +1.12 V  
+in3:          +0.87 V  
+in4:          +0.58 V  
+in5:          +1.23 V  
+in6:          +1.54 V  
+3VSB:         +3.30 V  
+Vbat:         +3.28 V  
+fan1:        3562 RPM
+fan2:        1408 RPM
+fan3:           0 RPM  ALARM
+temp1:        +37.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +80.0°C, hyst = +76.0°C)  sensor = transistor
+temp2:        +41.0°C  (high = +85.0°C, hyst = +77.0°C)
+                       (crit = +100.0°C, hyst = +92.0°C)  sensor = thermistor
+temp3:        +32.0°C  (high = +70.0°C, hyst = +68.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = transistor
+

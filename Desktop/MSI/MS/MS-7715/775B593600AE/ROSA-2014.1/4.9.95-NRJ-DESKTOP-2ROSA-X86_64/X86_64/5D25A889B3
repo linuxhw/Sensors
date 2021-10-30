@@ -1,0 +1,34 @@
+f71889ed-isa-0600
+Adapter: ISA adapter
++3.3V:        +3.23 V  
+in1:          +1.40 V  (max =  +2.04 V)
+in2:          +1.08 V  
+in3:          +0.94 V  
+in4:          +0.67 V  
+in5:          +1.26 V  
+in6:          +1.52 V  
+3VSB:         +3.25 V  
+Vbat:         +3.18 V  
+fan1:        1738 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +43.0 C  (high = +255.0 C, hyst = +251.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp2:          FAULT  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:        +35.0 C  (high = +255.0 C, hyst = +253.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.96 V  (min =  +0.00 V, max =  +1.21 V)
+fan1:        1590 RPM
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +88.0 C)
+

@@ -1,0 +1,31 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +29.1*C  (high = +70.0*C)
+                       (crit = +80.0*C, hyst = +77.0*C)
+
+f71868a-isa-0480
+Adapter: ISA adapter
++3.3V:         3.30 V  
+in1:         928.00 mV 
+in2:           1.49 V  
+in3:         944.00 mV 
+in4:           1.10 V  
+in5:           1.17 V  
+in6:           1.16 V  
+3VSB:          3.28 V  
+Vbat:          3.28 V  
+5VSB:          4.90 V  
+fan1:        1474 RPM
+fan2:        1152 RPM
+fan3:         968 RPM
+temp1:        +24.0*C  (high = +85.0*C, hyst = +81.0*C)
+                       (crit = +80.0*C, hyst = +76.0*C)  sensor = transistor
+temp2:        +50.0*C  (high = +85.0*C, hyst = +81.0*C)
+                       (crit = +98.0*C, hyst = +94.0*C)  sensor = thermistor
+temp3:        +35.0*C  (high = +70.0*C, hyst = +68.0*C)
+                       (crit = +85.0*C, hyst = +83.0*C)  sensor = transistor
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       57.67 W  (crit =  94.99 W)
+

@@ -1,0 +1,32 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       79.60 mW (avg =  62.81 mW, interval =   0.01 s)
+                       (crit =  65.00 W)
+
+f71868a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.30 V  
+in1:           1.42 V  
+in2:           1.50 V  
+in3:         936.00 mV 
+in4:           1.07 V  
+in5:           1.09 V  
+in6:           1.10 V  
+3VSB:          3.30 V  
+Vbat:          3.28 V  
+5VSB:          5.02 V  
+fan1:        3157 RPM
+fan2:        2369 RPM
+fan3:           0 RPM  ALARM
+temp1:        +61.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +58.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +114.0 C, hyst = +110.0 C)  sensor = thermistor
+temp3:        +40.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +77.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+

@@ -1,0 +1,12 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +48.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +115.0°C, hyst =  +2.0°C)
+                       (emerg = +130.0°C, hyst = +10.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +12.5°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +69.0°C)
+

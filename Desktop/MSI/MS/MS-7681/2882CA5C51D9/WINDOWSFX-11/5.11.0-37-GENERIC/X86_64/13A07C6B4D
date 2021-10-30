@@ -1,0 +1,41 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +38.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +43.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +43.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +42.0 C  (high = +85.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+f71889a-isa-0290
+Adapter: ISA adapter
+in0:           1.59 V  
+in1:           1.35 V  (max =  +2.04 V)
+in2:         912.00 mV 
+in3:         968.00 mV 
+in4:           1.08 V  
+in5:         728.00 mV 
+in6:           1.03 V  
+in7:           1.61 V  
+in8:           1.58 V  
+fan1:        1971 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +44.0 C  (high = +255.0 C, hyst = +251.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp2:        +43.0 C  (high = +255.0 C, hyst = +251.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp3:        +33.0 C  (high = +255.0 C, hyst = +253.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      943.00 mV 
+fan1:        1182 RPM  (min =    0 RPM, max = 5500 RPM)
+edge:         +32.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.21 W  (cap =  48.00 W)
+

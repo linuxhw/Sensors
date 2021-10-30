@@ -1,0 +1,34 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      124.95 W  (crit = 124.95 W)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +62.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+f71889a-isa-0480
+Adapter: ISA adapter
++3.3V:        +3.28 V  
+in1:          +1.36 V  (max =  +2.04 V)
+in2:          +1.08 V  
+in3:          +0.87 V  
+in4:          +0.62 V  
+in5:          +1.36 V  
+in6:          +1.66 V  
+3VSB:         +3.28 V  
+Vbat:         +3.36 V  
+fan1:        1945 RPM
+fan2:         988 RPM
+fan3:           0 RPM  ALARM
+temp1:        +39.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +80.0 C, hyst = +76.0 C)  sensor = transistor
+temp2:        +37.0 C  (high = +85.0 C, hyst = +79.0 C)
+                       (crit = +109.0 C, hyst = +103.0 C)  sensor = thermistor
+temp3:        +34.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +24.5 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+
