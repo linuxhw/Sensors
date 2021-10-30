@@ -1,0 +1,32 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU (Internal):  +42.0 C  (high = +70.0 C)
+
+nct6779-isa-0290
+Adapter: ISA adapter
+VCore:              1.22 V  (min =  +0.80 V, max =  +1.46 V)
+VPPM:               2.56 V  (min =  +2.37 V, max =  +2.62 V)
+AVCC:               3.33 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:              3.31 V  (min =  +2.98 V, max =  +3.63 V)
++12V:              12.20 V  (min = +11.40 V, max = +12.62 V)
+VDDCR_SOC:          1.10 V  (min =  +0.80 V, max =  +1.20 V)
+Memory VDDIO:       1.35 V  (min =  +1.10 V, max =  +1.50 V)
+3VSB:               3.46 V  (min =  +2.98 V, max =  +3.63 V)
+Battery:            3.26 V  (min =  +2.70 V, max =  +3.63 V)
+Memory VTT:       456.00 mV (min =  +0.55 V, max =  +0.75 V)  ALARM
+Chipset 1.05V:      1.08 V  (min =  +0.90 V, max =  +1.20 V)
++5V:                5.02 V  (min =  +4.75 V, max =  +5.26 V)
+VDDP:             928.00 mV (min =  +0.91 V, max =  +1.07 V)
++1.8V (PLL):        1.82 V  (min =  +1.77 V, max =  +1.84 V)
+[unused]:            0 RPM  (min =    0 RPM)
+CPU Cooler:        601 RPM  (min =    0 RPM)
+CPU Water Pump:   2261 RPM  (min =    0 RPM)
+Case:              474 RPM  (min =    0 RPM)
+[unused]:            0 RPM  (min =    0 RPM)
+Motherboard:       +33.0 C  (high = +60.0 C, hyst = +55.0 C)  sensor = thermistor
+CPU:               +41.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+Auxillary 1 (16):   +8.0 C    sensor = thermistor
+VRM:               +62.0 C    sensor = thermistor
+Auxiliary 2 (21):  +22.0 C    sensor = thermistor
+beep_enable:      disabled
+

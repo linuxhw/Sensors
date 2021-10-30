@@ -1,0 +1,31 @@
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:         1.38 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           1.01 V  (min =  +0.70 V, max =  +0.46 V)  ALARM
+AVCC:          3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:         3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           1.68 V  (min =  +0.24 V, max =  +0.81 V)  ALARM
+in5:           1.73 V  (min =  +1.54 V, max =  +1.88 V)
+in6:           1.87 V  (min =  +1.14 V, max =  +0.22 V)  ALARM
+3VSB:          3.49 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:          3.10 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        2163 RPM  (min = 1147 RPM, div = 8)
+fan2:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+fan3:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+fan4:           0 RPM  (min = 1506 RPM, div = 128)  ALARM
+fan5:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+temp1:        +37.0 C  (high = -64.0 C, hyst = +29.0 C)  ALARM  sensor = thermistor
+temp2:        +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +28.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +1.400 V
+intrusion0:  ALARM
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +51.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +14.9 C  (high = +70.0 C)
+                       (crit = +101.0 C, hyst = +99.0 C)
+

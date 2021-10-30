@@ -1,0 +1,44 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+VCore:                        1.30 V  (min =  +0.40 V, max =  +1.46 V)
+VPPM:                         2.54 V  (min =  +2.37 V, max =  +2.62 V)
+AVCC:                         3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VCC:                         3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++12V:                        12.20 V  (min = +11.40 V, max = +12.62 V)
+VDDCR_SOC:                    1.10 V  (min =  +0.80 V, max =  +1.20 V)
+DRAM (VDDIO):                 1.37 V  (min =  +1.10 V, max =  +1.50 V)
+3VSB:                         3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VBat:                         3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Null:                         0.00 V  (min =  +0.00 V, max =  +0.00 V)
+Mem_VTT:                    648.00 mV (min =  +0.60 V, max =  +0.75 V)
+Chipset 1.05V:                1.08 V  (min =  +0.90 V, max =  +1.20 V)
++5V:                          5.14 V  (min =  +4.75 V, max =  +5.26 V)
+VDDP:                       928.00 mV (min =  +0.91 V, max =  +1.07 V)
+1.8V+:                        1.82 V  (min =  +1.77 V, max =  +1.84 V)
+Chassis Fan 3 Speed:        1218 RPM  (min =  700 RPM)
+CPU Fan 1 Speed:             898 RPM  (min =  700 RPM)
+CPU Fan 2 Speed:            1132 RPM  (min =  700 RPM)
+Chassis Fan 1 Speed:        1021 RPM  (min =  700 RPM)
+Chassis Fan 2 Speed:         768 RPM  (min =  700 RPM)
+Motherboard:                 +27.0 C  (high = +60.0 C, hyst = +55.0 C)  sensor = thermistor
+CPU MB:                      +27.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+Auxillary:                    +7.0 C    sensor = thermistor
+VRM:                         +46.0 C    sensor = thermistor
+AUXTIN2:                     +21.0 C    sensor = thermistor
+CPU (PECI):                  -25.0 C    sensor = thermistor
+CPU tCTL (offset included):  +43.0 C  
+PCH_CHIP_CPU_MAX_TEMP:        +0.0 C  
+PCH_CHIP_TEMP:                +0.0 C  
+PCH_CPU_TEMP:                 +0.0 C  
+beep_enable:                disabled
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+fan1:           0 RPM
+edge:         +29.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +33.0 C  (high = +70.0 C)
+Tctl:         +43.0 C  
+

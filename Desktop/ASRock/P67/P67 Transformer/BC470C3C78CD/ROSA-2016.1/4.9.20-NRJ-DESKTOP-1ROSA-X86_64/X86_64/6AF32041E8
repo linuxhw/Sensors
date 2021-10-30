@@ -1,0 +1,32 @@
+nct6775-isa-0290
+Adapter: ISA adapter
+Vcore:        +0.99 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:         +3.28 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +0.08 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:          +1.70 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:          +0.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:         +3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =    0 RPM, div = 32)
+fan2:        2909 RPM  (min =    0 RPM, div = 8)  ALARM
+fan3:           0 RPM  (min =    0 RPM, div = 32)
+SYSTIN:       +44.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+CPUTIN:       +62.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN:      +127.5°C  (high = +80.0°C, hyst = +75.0°C)  ALARM  sensor = thermistor
+cpu0_vid:    +1.100 V
+intrusion0:  ALARM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.10 V  (min =  +1.00 V, max =  +1.15 V)
+temp1:        +67.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +95.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +72.0°C  (high = +89.0°C, crit = +105.0°C)
+Core 2:       +71.0°C  (high = +89.0°C, crit = +105.0°C)
+

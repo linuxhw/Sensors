@@ -1,0 +1,117 @@
+ucsi_source_psy_5_00081-i2c-5-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.0 C  
+Tdie:         +54.0 C  
+Tccd1:        +40.0 C  
+Tccd2:        +38.0 C  
+Tccd3:        +37.0 C  
+Tccd4:        +33.2 C  
+Tccd5:        +38.5 C  
+Tccd6:        +37.8 C  
+Tccd7:        +37.5 C  
+Tccd8:        +40.0 C  
+
+nvme-pci-4a00
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +86.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 3:     +74.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    108.66 J
+Ecore001:     79.55 J
+Ecore002:     71.01 J
+Ecore003:     70.77 J
+Ecore004:     65.56 J
+Ecore005:     66.30 J
+Ecore006:     62.80 J
+Ecore007:     58.78 J
+Ecore008:     56.18 J
+Ecore009:     58.89 J
+Ecore010:     51.80 J
+Ecore011:     52.75 J
+Ecore012:     65.65 J
+Ecore013:     52.23 J
+Ecore014:     54.66 J
+Ecore015:     63.18 J
+Ecore016:     53.25 J
+Ecore017:     50.11 J
+Ecore018:     54.66 J
+Ecore019:     52.02 J
+Ecore020:     57.52 J
+Ecore021:     54.72 J
+Ecore022:     50.48 J
+Ecore023:     54.96 J
+Ecore024:     48.65 J
+Ecore025:     51.59 J
+Ecore026:     62.89 J
+Ecore027:     50.40 J
+Ecore028:     51.65 J
+Ecore029:     73.36 J
+Ecore030:     51.13 J
+Ecore031:     60.00 J
+Ecore032:     59.83 J
+Ecore033:     55.42 J
+Ecore034:     55.47 J
+Ecore035:     79.01 J
+Ecore036:     57.96 J
+Ecore037:     55.71 J
+Ecore038:     58.51 J
+Ecore039:     59.84 J
+Ecore040:     60.64 J
+Ecore041:     54.34 J
+Ecore042:     52.72 J
+Ecore043:     55.48 J
+Ecore044:     50.37 J
+Ecore045:     49.90 J
+Ecore046:     49.95 J
+Ecore047:     51.97 J
+Ecore048:     63.51 J
+Ecore049:     58.43 J
+Ecore050:     56.63 J
+Ecore051:     55.88 J
+Ecore052:     60.65 J
+Ecore053:     56.92 J
+Ecore054:     60.63 J
+Ecore055:     55.71 J
+Ecore056:     54.59 J
+Ecore057:     54.87 J
+Ecore058:     52.77 J
+Ecore059:     52.46 J
+Ecore060:     52.84 J
+Ecore061:     62.89 J
+Ecore062:     51.47 J
+Ecore063:     55.45 J
+Esocket0:     29.17 kJ
+
+ucsi_source_psy_2_00081-i2c-2-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +64.6 C  
+
+nvme-pci-4b00
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+

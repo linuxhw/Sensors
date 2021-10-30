@@ -1,0 +1,31 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+VCore:                +0.37 V  (min =  +0.30 V, max =  +1.46 V)
+VPPM:                 +2.58 V  (min =  +2.00 V, max =  +3.20 V)
+AVCC:                 +3.34 V  (min =  +2.98 V, max =  +3.63 V)
+3VCC:                 +3.34 V  (min =  +2.98 V, max =  +3.63 V)
++12V:                +12.30 V  (min = +11.40 V, max = +12.62 V)
+VDDCR_SOC:            +1.11 V  (min =  +0.80 V, max =  +1.20 V)
+DRAM:                 +1.38 V  (min =  +1.10 V, max =  +1.50 V)
+3VSB:                 +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+VBat:                 +3.28 V  (min =  +2.70 V, max =  +3.63 V)
+VTT_DDR:              +0.96 V  (min =  +0.50 V, max =  +1.20 V)
+Chipset 1.05V:        +1.09 V  (min =  +0.90 V, max =  +1.20 V)
++5V:                  +5.06 V  (min =  +4.75 V, max =  +5.26 V)
+VDDP:                 +0.94 V  (min =  +0.90 V, max =  +1.05 V)
++1.8V:                +1.85 V  (min =  +1.70 V, max =  +2.04 V)
+Chassis Fan 3 Speed:  663 RPM  (min =  254 RPM)
+CPU Fan 1 Speed:      687 RPM  (min =  254 RPM)
+CPU Fan 2 Speed:     1849 RPM  (min =    0 RPM)
+Chassis Fan 1 Speed:  784 RPM  (min =  254 RPM)
+Chassis Fan 2 Speed:    0 RPM  (min =    0 RPM)
+Motherboard:          +27.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPU:                  +26.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+VRM:                  +28.0 C    sensor = thermistor
+beep_enable:         disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +31.1 C  (high = +70.0 C)
+Tctl:         +31.1 C  
+
