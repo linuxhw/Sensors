@@ -1,0 +1,39 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      706.00 mV 
+edge:         +37.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        9.04 W  (cap =  48.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       769.00 mV 
+Vsoc:          1.04 V  
+Tctl:         +40.9 C  
+Tdie:         +40.9 C  
+Icore:         4.00 A  
+Isoc:          7.50 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.57 V  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +40.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2600 RPM
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -40.1 C, high = +89.8 C)
+                       (crit = +93.8 C)
+Sensor 2:     +28.9 C  (low  = -40.1 C, high = +89.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +120.0 C)
+

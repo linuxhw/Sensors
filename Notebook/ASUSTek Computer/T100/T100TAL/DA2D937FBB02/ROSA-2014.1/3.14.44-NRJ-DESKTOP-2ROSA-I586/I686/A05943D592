@@ -1,0 +1,23 @@
+asus-isa-0000
+Adapter: ISA adapter
+temp1:       +6280.0°C  
+
+STR0-virtual-0
+Adapter: Virtual device
+temp1:       -273.2°C  
+
+STR1-virtual-0
+Adapter: Virtual device
+temp1:       -273.2°C  
+
+STR2-virtual-0
+Adapter: Virtual device
+temp1:       -273.2°C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:       +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:       +36.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:       +36.0°C  (high = +105.0°C, crit = +105.0°C)
+

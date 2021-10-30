@@ -1,0 +1,24 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2400 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.55 V  
+curr1:         1.42 A  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +44.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +44.2 C  (high = +70.0 C)
+Tctl:         +44.2 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +44.0 C  (crit = +103.0 C)
+
