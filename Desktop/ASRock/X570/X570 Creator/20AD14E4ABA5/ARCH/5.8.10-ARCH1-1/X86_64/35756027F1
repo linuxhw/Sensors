@@ -1,0 +1,43 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+amdgpu-pci-3500
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1196 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +51.0 C  (crit = +113.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +51.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +62.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       31.00 W  (cap = 150.00 W)
+
+nvme-pci-3200
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+charon10g0-pci-2e00
+Adapter: PCI adapter
+PHY Temperature:  +77.9 C  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   988.00 mV 
+SVI2_SoC:      1.01 V  
+Tdie:         +52.9 C  (high = +95.0 C)
+Tctl:         +52.9 C  
+Tccd1:        +37.2 C  
+Tccd2:        +38.5 C  
+SVI2_P_Core:   3.25 W  
+SVI2_P_SoC:    3.87 W  
+SVI2_C_Core:   3.29 A  
+SVI2_C_SoC:    3.83 A  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

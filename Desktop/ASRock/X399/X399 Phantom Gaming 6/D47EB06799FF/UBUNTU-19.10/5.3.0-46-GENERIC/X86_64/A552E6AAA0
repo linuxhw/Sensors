@@ -1,0 +1,25 @@
+amdgpu-pci-4200
+Adapter: PCI adapter
+vddgfx:        1.18 V  
+fan1:        2299 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +76.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       61.06 W  (cap =  99.00 W)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +50.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +71.8 C  (high = +70.0 C)
+Tctl:         +98.8 C  
+
+radeon-pci-4100
+Adapter: PCI adapter
+temp1:        +64.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +71.6 C  (high = +70.0 C)
+Tctl:         +98.6 C  
+

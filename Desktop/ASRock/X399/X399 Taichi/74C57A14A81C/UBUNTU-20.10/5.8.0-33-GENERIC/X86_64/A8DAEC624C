@@ -1,0 +1,32 @@
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +58.5 C  
+Tdie:         +31.5 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +55.5 C  
+Tdie:         +28.5 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +59.6 C  
+Tdie:         +32.6 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +64.6 C  
+Tdie:         +37.6 C  
+Tccd1:        +55.5 C  
+Tccd2:        +56.5 C  
+Tccd3:        +55.5 C  
+

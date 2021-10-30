@@ -1,0 +1,45 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.8 C  
+Tdie:         +46.8 C  
+Tccd1:        +49.5 C  
+Tccd2:        +49.8 C  
+
+amdgpu-pci-3400
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:         876 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +43.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +45.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +45.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       35.00 W  (cap = 250.00 W)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+amdgpu-pci-3700
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:         806 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +36.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       18.00 W  (cap = 250.00 W)
+
+enp46s0-pci-2e00
+Adapter: PCI adapter
+PHY Temperature:  +56.8 C  
+MAC Temperature:  +56.7 C  
+

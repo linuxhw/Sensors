@@ -1,0 +1,16 @@
+amdgpu-pci-2500
+Adapter: PCI adapter
+vddgfx:       +0.94 V  
+fan1:        1894 RPM  (min =  400 RPM, max = 4900 RPM)
+temp1:        +74.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:      165.00 W  (cap = 165.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +43.5 C  (high = +70.0 C)
+Tctl:         +53.5 C  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

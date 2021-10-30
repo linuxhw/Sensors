@@ -1,0 +1,42 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+
+nouveau-pci-0800
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0 - VRM VCore:                 1.36 V  (min =  +0.30 V, max =  +1.46 V)
+in1:                             1.70 V  (min =  +1.61 V, max =  +1.78 V)
+in2 - AVCC:                      3.41 V  (min =  +3.23 V, max =  +3.58 V)
+in3 - 3VCC:                      3.34 V  (min =  +3.18 V, max =  +3.54 V)
+in4 - +12V:                     11.99 V  (min = +11.40 V, max = +12.62 V)
+in5 - VDDCR_SOC (Data Fabric): 1000.00 mV (min =  +0.80 V, max =  +1.20 V)
+in6 - DRAM (VDDIO):              1.21 V  (min =  +1.10 V, max =  +1.50 V)
+in7 - 3VSB:                      3.41 V  (min =  +3.07 V, max =  +3.74 V)
+in8 - VBat:                      3.26 V  (min =  +2.70 V, max =  +3.63 V)
+in9 - in9:                       1.67 V  (min =  +1.51 V, max =  +1.85 V)
+in10 - Mem_VTT:                  1.02 V  (min =  +0.00 V, max =  +1.32 V)
+in11 - Chipset 1.05V:          632.00 mV (min =  +0.57 V, max =  +0.70 V)
+in12 - +5V:                    944.00 mV (min =  +0.90 V, max =  +0.99 V)
+in13 - VDDP:                   920.00 mV (min =  +0.88 V, max =  +1.04 V)
+in14 - 1.8V+:                  912.00 mV (min =  +0.90 V, max =  +0.93 V)
+CPU Fan 1 Speed:               2432 RPM  (min = 1500 RPM)
+Chassis Fan 1 Speed:            856 RPM  (min =  800 RPM)
+Motherboard:                    +37.0 C    sensor = thermistor
+CPU MB:                         +44.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+Auxillary:                      +15.0 C    sensor = thermistor
+VRM:                            -62.0 C    sensor = thermistor
+AUXTIN2:                        +12.0 C    sensor = thermistor
+CPU (PECI):                     +31.0 C    sensor = thermistor
+CPU tCTL (offset included):     +56.0 C  (high = +105.0 C, hyst = +95.0 C)
+SMBUSMASTER 0:                  +75.5 C  
+PCH_CHIP_CPU_MAX_TEMP:           +0.0 C  
+PCH_CHIP_TEMP:                   +0.0 C  
+beep_enable:                   enabled
+

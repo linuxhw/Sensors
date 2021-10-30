@@ -1,0 +1,81 @@
+amdgpu-pci-1100
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +41.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +41.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +46.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       48.00 W  (cap = 190.00 W)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.39 V  
+SVI2_SoC:      1.19 V  
+Tdie:         +57.4 C  (high = +95.0 C)
+Tctl:         +57.4 C  
+Tccd1:        +57.8 C  
+SVI2_P_Core:  18.29 W  
+SVI2_P_SoC:    5.97 W  
+SVI2_C_Core:  13.18 A  
+SVI2_C_SoC:    5.00 A  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                   704.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.61 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     1.20 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     1.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.63 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  624.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  920.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  896.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   623 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+fan3:                  2436 RPM  (min =    0 RPM)
+fan4:                  1783 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                  6000 RPM  (min =    0 RPM)
+fan7:                  1788 RPM  (min =    0 RPM)
+SYSTIN:                 +35.0 C    sensor = thermistor
+CPUTIN:                 +36.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                 +8.0 C    sensor = thermistor
+AUXTIN1:                -62.0 C    sensor = thermistor
+AUXTIN2:                +13.0 C    sensor = thermistor
+AUXTIN3:                +32.0 C    sensor = thermistor
+SMBUSMASTER 1:          +50.0 C  (high = +105.0 C, hyst = +95.0 C)
+SMBUSMASTER 0:          +57.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

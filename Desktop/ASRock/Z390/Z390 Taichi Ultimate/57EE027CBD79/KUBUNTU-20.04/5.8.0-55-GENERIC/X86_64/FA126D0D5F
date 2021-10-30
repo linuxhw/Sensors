@@ -1,0 +1,45 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 0:        +34.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 1:        +35.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 2:        +34.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 3:        +35.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 4:        +34.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 5:        +39.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 6:        +34.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 7:        +33.0 C  (high = +101.0 C, crit = +115.0 C)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +53.3 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,93 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+
+nct6793-isa-0a10
+Adapter: ISA adapter
+in0:                    +0.20 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +0.94 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                    +3.47 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                    +3.28 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                    +0.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +0.77 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                    +3.47 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                    +3.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                   +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +0.94 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +0.18 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1976 RPM  (min =    0 RPM)
+fan2:                   975 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                   798 RPM  (min =    0 RPM)
+SYSTIN:                +113.0 C  (high =  +0.0 C, hyst =  +0.0 C)  sensor = thermistor
+CPUTIN:                 +31.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +39.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+AUXTIN1:               +106.0 C    sensor = thermistor
+AUXTIN2:               +105.0 C    sensor = thermistor
+AUXTIN3:               +104.0 C    sensor = thermistor
+Virtual_TEMP:           +35.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 0:        +35.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 1:        +41.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 2:        +45.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 3:        +36.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 4:        +35.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 5:        +35.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 6:        +34.0 C  (high = +101.0 C, crit = +115.0 C)
+Core 7:        +33.0 C  (high = +101.0 C, crit = +115.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +62.0 C  
+
+nct6791-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.69 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.70 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.49 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                  +3.49 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                    +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +1.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                   +3.50 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                   +3.25 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                    +1.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                   +0.24 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +1.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +1.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +1.27 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +1.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   491 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +39.0 C  (high = +36.0 C, hyst = +35.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 -63.0 C  (high = +36.0 C, hyst = +35.0 C)  sensor = thermistor
+AUXTIN0:                +22.0 C    sensor = thermistor
+AUXTIN1:                +96.0 C    sensor = thermistor
+AUXTIN2:                +12.0 C    sensor = thermistor
+AUXTIN3:                 +6.0 C    sensor = thermistor
+PECI Agent 0:           +38.5 C  (high = +36.0 C, hyst = +35.0 C)  ALARM
+                                 (crit = +115.0 C)
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+

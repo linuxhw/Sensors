@@ -1,0 +1,26 @@
+enp5s0-pci-0500
+Adapter: PCI adapter
+PHY Temperature:  +68.4 C  
+MAC Temperature:  +68.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 0:        +40.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 1:        +38.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 2:        +41.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 3:        +42.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 4:        +39.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 5:        +41.0 C  (high = +95.0 C, crit = +105.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+

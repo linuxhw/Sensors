@@ -1,0 +1,38 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nct6683-isa-0a20
+Adapter: ISA adapter
+VIN0:             448.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN1:             992.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN2:             992.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN3:             912.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN7:               1.18 V  (min =  +0.00 V, max =  +0.00 V)
+VIN12:              1.09 V  (min =  +0.00 V, max =  +0.00 V)
+VIN13:              1.28 V  (min =  +0.00 V, max =  +0.00 V)
+VCC:                3.33 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:              666 RPM  (min =    0 RPM)
+fan2:             1044 RPM  (min =    0 RPM)
+fan3:             4181 RPM  (min =    0 RPM)
+fan4:             5504 RPM  (min =    0 RPM)
+Thermistor 14:     +35.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 15:     +32.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+AMD TSI Addr 98h:  +33.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = AMD AMDSI
+AMD TSI Addr 9ah:  +57.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = AMD AMDSI
+intrusion0:       OK
+beep_enable:      disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +42.1 C  (high = +70.0 C)
+Tctl:         +42.1 C  
+
