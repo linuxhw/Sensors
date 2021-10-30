@@ -1,0 +1,22 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +76.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.72 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +67.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +75.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  (crit = +115.0 C)
+temp2:        +69.0 C  (crit = +105.0 C)
+temp3:        +29.7 C  (crit = +112.0 C)
+temp4:        +80.0 C  (crit = +112.0 C)
+temp5:        +49.0 C  (crit = +90.0 C)
+
