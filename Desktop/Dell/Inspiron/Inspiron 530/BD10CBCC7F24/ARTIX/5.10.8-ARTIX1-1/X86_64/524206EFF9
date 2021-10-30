@@ -1,0 +1,13 @@
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +120.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +30.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +30.0 C  (high = +86.0 C, crit = +100.0 C)
+

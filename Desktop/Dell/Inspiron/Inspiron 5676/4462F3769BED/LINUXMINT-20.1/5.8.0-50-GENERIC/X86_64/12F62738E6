@@ -1,0 +1,21 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2360 RPM
+fan2:        1577 RPM
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      1000.00 mV 
+fan1:         644 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +52.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.24 W  (cap = 110.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       913.00 mV 
+Vsoc:        813.00 mV 
+Tctl:         +42.9 C  
+Tdie:         +42.9 C  
+Icore:        15.00 A  
+Isoc:         11.75 A  
+

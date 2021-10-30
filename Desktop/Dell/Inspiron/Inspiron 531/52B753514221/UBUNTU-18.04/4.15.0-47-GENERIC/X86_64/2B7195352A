@@ -1,0 +1,24 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +36.0 C  
+Core0 Temp:   +37.0 C  
+Core1 Temp:   +47.0 C  
+Core1 Temp:   +36.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +26.0 C  (crit = +95.0 C)
+
+f8000-isa-0290
+Adapter: ISA adapter
++3.3V:        +3.38 V  
+3VSB:         +3.34 V  
+Vbat:         +3.01 V  
+fan1:        1486 RPM
+fan2:        1107 RPM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM
+temp1:        +47.0 C  (high = +70.0 C, hyst = +60.0 C)
+temp2:        +37.0 C  (high = +100.0 C, hyst = +85.0 C)
+temp3:        +26.0 C  (high = +100.0 C, hyst = +85.0 C)
+

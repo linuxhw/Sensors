@@ -1,0 +1,19 @@
+ath10k_hwmon-pci-0500
+Adapter: PCI adapter
+temp1:        +47.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       856.00 mV 
+Vsoc:        888.00 mV 
+Tctl:         +56.8 C  
+Tdie:         +36.8 C  
+Icore:         7.00 A  
+Isoc:          9.75 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:         760 RPM
+fan2:         919 RPM
+fan3:        1445 RPM
+

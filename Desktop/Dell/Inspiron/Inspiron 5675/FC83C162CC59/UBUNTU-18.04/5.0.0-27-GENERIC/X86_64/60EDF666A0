@@ -1,0 +1,17 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:         754 RPM  (min =    0 RPM, max = 5300 RPM)
+temp1:        +39.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       10.05 W  (cap = 110.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +40.0 C  (high = +70.0 C)
+Tctl:         +60.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:         501 RPM
+fan2:        1147 RPM
+
