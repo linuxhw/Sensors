@@ -1,0 +1,30 @@
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+FAN:            0 RPM
+CPU:          +38.0 C  
+WLAN:         +36.0 C  
+HDD:          +35.0 C  
+BAT0:         +28.0 C  
+BAT1:         +24.0 C  
+RAM:          +35.0 C  
+GPU:          +41.0 C  
+WWAN:         +42.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +36.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+CPU_0:        +38.0 C  (crit = +127.0 C)
+CPU_1:        +41.0 C  (crit = +100.0 C)
+

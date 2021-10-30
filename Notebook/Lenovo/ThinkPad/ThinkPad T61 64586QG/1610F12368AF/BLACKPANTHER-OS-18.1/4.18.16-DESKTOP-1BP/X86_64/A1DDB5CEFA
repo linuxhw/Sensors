@@ -1,0 +1,37 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        3030 RPM
+temp1:        +76.0 C  
+temp2:        +49.0 C  
+temp3:        +37.0 C  
+temp4:        +67.0 C  
+temp5:        +41.0 C  
+temp6:        +33.0 C  
+temp7:        +36.0 C  
+temp8:        +33.0 C  
+temp9:        +41.0 C  
+temp10:       +50.0 C  
+temp11:       +54.0 C  
+temp12:           N/A  
+temp13:           N/A  
+temp14:           N/A  
+temp15:           N/A  
+temp16:           N/A  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.15 V  (min =  +1.15 V, max =  +1.25 V)
+temp1:        +73.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +3.0 C)
+                       (emerg = +125.0 C, hyst = +10.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +65.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +71.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +76.0 C  (crit = +127.0 C)
+temp2:        +71.0 C  (crit = +100.0 C)
+

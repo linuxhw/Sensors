@@ -1,0 +1,36 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +60.0°C  (crit = +127.0°C)
+temp2:        +64.0°C  (crit = +100.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +65.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +110.0°C, hyst =  +3.0°C)
+                       (emerg = +125.0°C, hyst = +10.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 1:       +65.0°C  (high = +100.0°C, crit = +100.0°C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        3322 RPM
+temp1:        +60.0°C  
+temp2:        +48.0°C  
+temp3:        +33.0°C  
+temp4:        +61.0°C  
+temp5:        +30.0°C  
+temp6:            N/A  
+temp7:        +29.0°C  
+temp8:            N/A  
+temp9:        +41.0°C  
+temp10:       +52.0°C  
+temp11:       +42.0°C  
+temp12:           N/A  
+temp13:           N/A  
+temp14:           N/A  
+temp15:           N/A  
+temp16:           N/A  
+

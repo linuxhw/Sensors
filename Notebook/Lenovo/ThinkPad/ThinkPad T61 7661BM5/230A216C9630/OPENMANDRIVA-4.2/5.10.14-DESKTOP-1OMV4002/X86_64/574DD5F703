@@ -1,0 +1,34 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        3018 RPM
+temp1:        +65.0 C  
+temp2:        +44.0 C  
+temp3:        +37.0 C  
+temp4:            N/A  
+temp5:        +50.0 C  
+temp6:            N/A  
+temp7:        +34.0 C  
+temp8:            N/A  
+temp9:        +46.0 C  
+temp10:       +48.0 C  
+temp11:       +46.0 C  
+temp12:           N/A  
+temp13:           N/A  
+temp14:           N/A  
+temp15:           N/A  
+temp16:           N/A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.57 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +65.0 C  (crit = +127.0 C)
+temp2:        +62.0 C  (crit = +100.0 C)
+
