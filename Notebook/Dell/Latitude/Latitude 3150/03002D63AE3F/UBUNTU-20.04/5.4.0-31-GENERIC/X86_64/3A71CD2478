@@ -1,0 +1,35 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +52.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:       +54.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:       +54.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.16 V  
+curr1:       638.00 mA 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+CPU:          +48.0 C  
+Other:        +38.0 C  
+Ambient:      +44.0 C  
+SODIMM:       +40.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

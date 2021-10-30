@@ -1,0 +1,26 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +33.0°C  
+Ambient:        +27.0°C  
+SODIMM:         +25.0°C  
+Other:          +24.0°C  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +26.0°C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +25.0°C  (crit = +107.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +32.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 0:         +30.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 1:         +32.0°C  (high = +100.0°C, crit = +100.0°C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +30.5°C  
+
