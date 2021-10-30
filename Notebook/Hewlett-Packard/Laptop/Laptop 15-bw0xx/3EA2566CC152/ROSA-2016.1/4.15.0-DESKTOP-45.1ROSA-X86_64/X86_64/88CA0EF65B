@@ -1,0 +1,15 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +61.1 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +61.0 C  (crit = +226.8 C)
+temp2:        +20.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       15.47 mW (avg =   1.78 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
