@@ -1,0 +1,21 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +36.0 C  
+temp3:        +34.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +75.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:       1.12 V  (min =  +1.45 V, max =  +1.75 V)
+ +3.3 Voltage:       3.36 V  (min =  +3.00 V, max =  +3.60 V)
+ +5.0 Voltage:       4.89 V  (min =  +4.50 V, max =  +5.50 V)
++12.0 Voltage:      12.03 V  (min = +11.20 V, max = +13.20 V)
+CPU FAN Speed:     3169 RPM  (min =    0 RPM, max = 1800 RPM)
+CHASSIS FAN Speed:    0 RPM  (min =    0 RPM, max = 1800 RPM)
+POWER FAN Speed:      0 RPM  (min =    0 RPM, max = 1800 RPM)
+CPU Temperature:    +37.0 C  (high = +90.0 C, crit = +125.0 C)
+MB Temperature:     +32.0 C  (high = +45.0 C, crit = +90.0 C)
+

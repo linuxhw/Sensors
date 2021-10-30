@@ -1,0 +1,20 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +31.2 C  (high = +70.0 C)
+                       (crit = +99.5 C, hyst = +97.5 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +40.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      +1.18 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:      +3.34 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:        +4.86 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:      +12.10 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:     2335 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed: 2586 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:    +38.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:     +31.0 C  (high = +45.0 C, crit = +95.0 C)
+

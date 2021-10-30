@@ -1,0 +1,25 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+fan1:        1590 RPM
+temp1:        +58.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      +1.30 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:      +3.31 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:        +5.02 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:      +12.35 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:     2721 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed: 450000 RPM  (min =  800 RPM, max = 7200 RPM)
+CPU Temperature:    +41.0°C  (high = +60.0°C, crit = +95.0°C)
+MB Temperature:     +36.0°C  (high = +45.0°C, crit = +95.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +41.0°C  
+Core0 Temp:   +40.0°C  
+Core1 Temp:   +49.0°C  
+Core1 Temp:   +39.0°C  
+
