@@ -1,0 +1,20 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:             N/A
+temp1:            N/A  (crit =  +0.0 C, hyst =  +0.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  (crit = +120.0 C)
+temp2:        +37.0 C  (crit = +120.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       12.71 mW (avg =   2.77 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+fan1:             N/A
+temp1:        +42.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
