@@ -1,0 +1,13 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.16 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +37.0 C  (high = +70.0 C)
+Tctl:         +37.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +36.0 C  (crit = +255.0 C)
+
