@@ -1,0 +1,25 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.5 C  
+Tdie:         +50.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +50.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.61 V  
+curr1:         0.00 A  
+

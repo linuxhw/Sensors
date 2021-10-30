@@ -1,0 +1,25 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +83.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.43 V  
+curr1:       1000.00 uA 
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.30 V  
+Vsoc:          1.10 V  
+Tctl:         +83.0 C  
+Tdie:         +83.0 C  
+Icore:        18.00 A  
+Isoc:          7.50 A  
+

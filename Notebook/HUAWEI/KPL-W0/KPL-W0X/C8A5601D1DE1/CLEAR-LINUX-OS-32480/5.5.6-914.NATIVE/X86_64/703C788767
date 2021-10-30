@@ -1,0 +1,20 @@
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +51.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +51.5 C  (high = +70.0 C)
+Tctl:         +51.5 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.47 V  
+curr1:         4.04 A  
+
