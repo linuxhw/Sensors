@@ -1,0 +1,15 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +48.0°C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +21.8°C  (crit = +96.8°C)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:     +1.30 V  (min =  +1.10 V, max =  +1.30 V)
+temp1:        +53.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +130.0°C, hyst = +10.0°C)
+

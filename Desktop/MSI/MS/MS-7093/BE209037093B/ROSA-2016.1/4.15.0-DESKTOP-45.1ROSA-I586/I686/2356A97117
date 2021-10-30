@@ -1,0 +1,18 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0 C  
+
+smsc47m192-i2c-4-2d
+Adapter: SMBus PIIX4 adapter at 0b00
+in0:          +0.00 V  (min =  +0.00 V, max =  +3.32 V)  ALARM
+Vcore:        +0.00 V  (min =  +0.00 V, max =  +2.99 V)  ALARM
++3.3V:        +0.00 V  (min =  +2.97 V, max =  +3.63 V)  ALARM
++5V:          +0.00 V  (min =  +4.50 V, max =  +5.50 V)  ALARM
+VCC:          +3.32 V  (min =  +2.97 V, max =  +3.63 V)
+in6:          +0.00 V  (min =  +0.00 V, max =  +1.99 V)  ALARM
+in7:          +0.00 V  (min =  +0.00 V, max =  +2.39 V)  ALARM
+SIO Temp:     +32.0 C  (low  = -128.0 C, high = +127.0 C)
+temp2:        +29.0 C  (low  = -128.0 C, high = +60.0 C)
+temp3:       +113.0 C  (low  = -128.0 C, high = +127.0 C)
+cpu0_vid:    +1.550 V
+

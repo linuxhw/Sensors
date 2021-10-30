@@ -1,0 +1,22 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +51.0°C  
+
+w83627thf-isa-0290
+Adapter: ISA adapter
+in0:          +1.61 V  (min =  +0.70 V, max =  +1.87 V)
+in1:          +3.18 V  (min =  +0.51 V, max =  +0.70 V)  ALARM
+in2:          +3.28 V  (min =  +1.02 V, max =  +1.66 V)  ALARM
++5V:          +4.99 V  (min =  +4.51 V, max =  +5.49 V)
+in4:          +0.53 V  (min =  +2.05 V, max =  +2.88 V)  ALARM
+5VSB:         +4.99 V  (min =  +4.51 V, max =  +5.49 V)
+Vbat:         +3.52 V  (min =  +2.45 V, max =  +0.32 V)  ALARM
+fan1:           0 RPM  (min = 13775 RPM, div = 2)  ALARM
+fan2:           0 RPM  (min = 37500 RPM, div = 2)  ALARM
+fan3:           0 RPM  (min = 6428 RPM, div = 2)  ALARM
+temp1:        +41.0°C  (high = +73.0°C, hyst = -120.0°C)  sensor = thermistor
+temp2:        +44.5°C  (high = +70.0°C, hyst = +65.0°C)  sensor = thermistor
+temp3:        +67.0°C  (high = +70.0°C, hyst = +65.0°C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+beep_enable: enabled
+

@@ -1,0 +1,22 @@
+f71882fg-isa-0a10
+Adapter: ISA adapter
++3.3V:        +3.38 V  
+in1:          +1.24 V  (max =  +2.04 V)
+in2:          +0.96 V  
+in3:          +0.97 V  
+in4:          +0.98 V  
+in5:          +1.09 V  
+in6:          +1.25 V  
+3VSB:         +3.36 V  
+Vbat:         +3.28 V  
+fan1:        1551 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +58.0°C  (high = +85.0°C, hyst = +84.0°C)  ALARM (CRIT)
+                       (crit = +51.0°C, hyst = +50.0°C)  sensor = transistor
+temp2:        +31.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp3:          FAULT  (high = +70.0°C, hyst = +68.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = transistor
+

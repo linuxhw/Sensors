@@ -1,0 +1,13 @@
+via686a-isa-0c00
+Adapter: ISA adapter
+Vcore:        +1.46 V  (min =  +3.10 V, max =  +3.10 V)  ALARM
+in1:          +2.54 V  (min =  +3.10 V, max =  +3.10 V)  ALARM
++3.3V:        +3.15 V  (min =  +2.98 V, max =  +3.63 V)
++5V:          +4.91 V  (min =  +4.51 V, max =  +5.50 V)
++12V:        +12.37 V  (min = +10.81 V, max = +13.20 V)
+fan1:        4530 RPM  (min =    0 RPM, div = 2)
+fan2:           0 RPM  (min =    0 RPM, div = 2)
+temp1:        +35.4 C  (high = +146.2 C, hyst = +54.4 C)
+temp2:        +30.9 C  (high = +146.2 C, hyst = +146.2 C)
+temp3:        +23.7 C  (high = +146.2 C, hyst = +37.6 C)
+

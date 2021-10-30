@@ -1,0 +1,17 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   963.00 mV 
+SVI2_SoC:      1.06 V  
+Tdie:         +43.8 C  (high = +95.0 C)
+Tctl:         +43.8 C  
+Tccd1:        +37.8 C  
+SVI2_P_Core:   3.81 W  
+SVI2_P_SoC:   10.01 W  
+SVI2_C_Core:   3.95 A  
+SVI2_C_SoC:    9.12 A  
+

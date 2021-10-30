@@ -1,0 +1,21 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:     +1.30 V  (min =  +1.10 V, max =  +1.40 V)
+temp1:        +52.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +145.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +63.0 C  
+temp2:        +71.0 C  
+temp3:        +61.0 C  
+temp4:        +66.0 C  
+
+lm99-i2c-4-4c
+Adapter: nvkm-0000:04:00.0-bus-0002
+temp1:        +51.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +76.4 C  (low  = +16.0 C, high = +101.2 C)
+                       (crit = +101.0 C, hyst = +91.0 C)
+

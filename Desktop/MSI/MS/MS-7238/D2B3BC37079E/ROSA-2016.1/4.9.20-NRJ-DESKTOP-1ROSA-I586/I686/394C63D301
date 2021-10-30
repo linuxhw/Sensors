@@ -1,0 +1,37 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +68.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 1:       +71.0°C  (high = +84.0°C, crit = +100.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +80.0°C  (crit = +85.0°C)
+
+f71882fg-isa-0a10
+Adapter: ISA adapter
++3.3V:        +3.33 V  
+in1:          +1.27 V  (max =  +2.04 V)
+in2:          +0.94 V  
+in3:          +0.96 V  
+in4:          +0.96 V  
+in5:          +1.14 V  
+in6:          +1.30 V  
+3VSB:         +3.31 V  
+Vbat:         +3.22 V  
+fan1:        2590 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +45.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +38.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp3:       +127.0°C  (high = +70.0°C, hyst = +68.0°C)  ALARM (CRIT)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = thermistor
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +48.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +125.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+

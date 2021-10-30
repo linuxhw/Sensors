@@ -1,0 +1,32 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0 C  
+Core1 Temp:   +45.0 C  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+fan1:           0 RPM
+edge:         +42.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+w83627ehf-isa-0a10
+Adapter: ISA adapter
+Vcore:        +1.28 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.82 V  (min =  +1.90 V, max =  +1.44 V)  ALARM
+AVCC:         +2.86 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
++3.3V:        +2.85 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
+in4:          +1.57 V  (min =  +0.03 V, max =  +1.17 V)  ALARM
+in5:          +1.45 V  (min =  +0.06 V, max =  +0.13 V)  ALARM
+in6:          +1.46 V  (min =  +0.64 V, max =  +0.26 V)  ALARM
+3VSB:         +2.85 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
+Vbat:         +2.54 V  (min =  +2.70 V, max =  +3.63 V)  ALARM
+in9:          +1.29 V  (min =  +0.36 V, max =  +0.61 V)  ALARM
+fan1:           0 RPM  (min =  703 RPM, div = 128)  ALARM
+fan2:        3375 RPM  (min = 4963 RPM, div = 8)  ALARM
+fan3:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+fan5:           0 RPM  (min =  753 RPM, div = 128)  ALARM
+temp1:        +41.0 C  (high =  +0.0 C, hyst = +77.0 C)  sensor = thermistor
+temp2:        +47.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +46.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

@@ -1,0 +1,36 @@
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.39 V  
+in1:          +1.30 V  (max =  +2.04 V)
+in2:          +0.92 V  
+in3:          +0.99 V  
+in4:          +0.97 V  
+in5:          +1.07 V  
+in6:          +0.88 V  
+3VSB:         +3.39 V  
+Vbat:         +3.15 V  
+fan1:        3759 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +35.0 C  (high = +70.0 C, hyst = +66.0 C)
+                       (crit = +70.0 C, hyst = +66.0 C)  sensor = transistor
+temp2:        +37.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp3:          FAULT  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +1.00 V  (min =  +0.95 V, max =  +1.05 V)
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +2.0 C)
+                       (emerg = +110.0 C, hyst =  +2.0 C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +42.0 C  
+Core0 Temp:   +45.0 C  
+Core1 Temp:   +42.0 C  
+Core1 Temp:   +34.0 C  
+

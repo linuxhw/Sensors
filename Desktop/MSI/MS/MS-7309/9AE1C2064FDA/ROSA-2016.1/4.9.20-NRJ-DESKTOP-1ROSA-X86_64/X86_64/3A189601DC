@@ -1,0 +1,26 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +26.0°C  (high = +70.0°C)
+
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.38 V  
+in1:          +1.34 V  (max =  +2.04 V)
+in2:          +1.02 V  
+in3:          +0.97 V  
+in4:          +0.94 V  
+in5:          +1.10 V  
+in6:          +0.91 V  
+3VSB:         +3.39 V  
+Vbat:         +3.10 V  
+fan1:        3198 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +30.0°C  (high = +100.0°C, hyst = +96.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +25.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp3:          FAULT  (high = +70.0°C, hyst = +68.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = transistor
+

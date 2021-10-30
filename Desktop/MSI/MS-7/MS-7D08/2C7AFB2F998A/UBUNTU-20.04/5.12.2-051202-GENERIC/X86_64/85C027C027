@@ -1,0 +1,32 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+enp3s0-pci-0300
+Adapter: PCI adapter
+PHY Temperature:  +40.4 C  
+MAC Temperature:  +42.6 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 6:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 7:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 9:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
