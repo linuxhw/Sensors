@@ -1,0 +1,12 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+fan1:         780 RPM
+temp1:        +43.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +71.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 1:       +61.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 2:       +60.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 3:       +59.0 C  (high = +74.0 C, crit = +100.0 C)
+

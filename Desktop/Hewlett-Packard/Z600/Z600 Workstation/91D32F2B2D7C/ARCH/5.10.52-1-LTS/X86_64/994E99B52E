@@ -1,0 +1,38 @@
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:        1290 RPM
+fan2:        1299 RPM
+fan3:         964 RPM
+fan4:        2759 RPM
+temp1:        +54.0 C  
+temp2:        +44.0 C  
+temp3:        +30.0 C  
+temp4:       -128.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +39.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +36.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +37.0 C  (high = +80.0 C, crit = +96.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +33.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +34.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +39.0 C  (high = +80.0 C, crit = +96.0 C)
+
+nouveau-pci-0f00
+Adapter: PCI adapter
+GPU core:      1.18 V  (min =  +1.05 V, max =  +1.18 V)
+

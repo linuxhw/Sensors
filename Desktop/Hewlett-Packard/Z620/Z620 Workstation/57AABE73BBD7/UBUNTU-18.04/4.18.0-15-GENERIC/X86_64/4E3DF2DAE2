@@ -1,0 +1,32 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +57.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +54.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +56.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +55.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +55.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +55.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +53.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +57.0 C  (high = +90.0 C, crit = +100.0 C)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.78 V, max =  +1.16 V)
+fan1:        3030 RPM
+temp1:        +48.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +57.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +56.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +56.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +59.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +56.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +58.0 C  (high = +90.0 C, crit = +100.0 C)
+

@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 0:        +45.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 1:        +41.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 2:        +40.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 3:        +41.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 4:        +42.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 5:        +41.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 6:        +42.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 7:        +45.0 C  (high = +96.0 C, crit = +102.0 C)
+
+be2net-pci-0500
+Adapter: PCI adapter
+temp1:        +57.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +44.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 0:        +43.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 1:        +41.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 2:        +42.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 3:        +40.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 4:        +42.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 5:        +43.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 6:        +44.0 C  (high = +96.0 C, crit = +102.0 C)
+Core 7:        +42.0 C  (high = +96.0 C, crit = +102.0 C)
+
+be2net-pci-0501
+Adapter: PCI adapter
+temp1:        +57.0 C  
+

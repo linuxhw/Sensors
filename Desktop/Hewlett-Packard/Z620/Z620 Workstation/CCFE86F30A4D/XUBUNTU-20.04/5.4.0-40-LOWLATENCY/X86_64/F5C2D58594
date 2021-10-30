@@ -1,0 +1,29 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+fan1:             N/A
+edge:         +41.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +46.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +46.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +45.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +46.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+

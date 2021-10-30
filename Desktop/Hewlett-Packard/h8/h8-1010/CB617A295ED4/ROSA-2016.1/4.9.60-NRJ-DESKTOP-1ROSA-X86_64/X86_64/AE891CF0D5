@@ -1,0 +1,22 @@
+f71858fg-isa-0200
+Adapter: ISA adapter
++3.3V:        +3.30 V  
+3VSB:         +3.31 V  
+Vbat:         +3.28 V  
+fan1:        1321 RPM
+fan2:         881 RPM
+fan3:           0 RPM  ALARM
+temp1:        +36.0°C  (high = +70.0°C, hyst = +60.0°C)
+temp2:        +48.2°C  (high = +100.0°C, hyst = +85.0°C)
+temp3:        +32.4°C  (high = +100.0°C, hyst = +85.0°C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +42.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +34.0°C  (high = +80.0°C, crit = +85.0°C)
+Core 0:         +31.0°C  (high = +80.0°C, crit = +85.0°C)
+Core 1:         +34.0°C  (high = +80.0°C, crit = +85.0°C)
+

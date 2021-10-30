@@ -1,0 +1,22 @@
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:        2426 RPM
+fan2:           0 RPM
+fan3:           0 RPM
+fan4:        2532 RPM
+temp1:        -45.0 C  
+temp2:        +24.0 C  
+temp3:        +64.0 C  
+temp4:       -128.0 C  
+
+radeon-pci-0f00
+Adapter: PCI adapter
+temp1:        +63.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +43.0 C  (high = +80.0 C, crit = +100.0 C)
+

@@ -1,0 +1,33 @@
+radeon-pci-0f00
+Adapter: PCI adapter
+temp1:        +67.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +43.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +41.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +46.0 C  (high = +80.0 C, crit = +96.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +48.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +46.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +45.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +50.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +50.0 C  (high = +80.0 C, crit = +96.0 C)
+
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:        2002 RPM
+fan2:        1961 RPM
+fan3:           0 RPM
+fan4:        1401 RPM
+temp1:        +43.0 C  
+temp2:        +41.0 C  
+temp3:        +31.0 C  
+temp4:       -128.0 C  
+

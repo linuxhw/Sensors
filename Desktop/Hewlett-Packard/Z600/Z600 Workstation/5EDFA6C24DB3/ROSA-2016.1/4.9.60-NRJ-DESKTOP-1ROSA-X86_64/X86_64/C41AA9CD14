@@ -1,0 +1,25 @@
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:        1300 RPM
+fan2:        1304 RPM
+fan3:         841 RPM
+fan4:        2551 RPM
+temp1:        +37.0°C  
+temp2:        +28.0°C  
+temp3:        +17.0°C  
+temp4:       -128.0°C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +27.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 1:       +29.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 9:       +29.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 10:      +31.0°C  (high = +85.0°C, crit = +95.0°C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +25.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 1:       +26.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 9:       +27.0°C  (high = +85.0°C, crit = +95.0°C)
+Core 10:      +20.0°C  (high = +85.0°C, crit = +95.0°C)
+

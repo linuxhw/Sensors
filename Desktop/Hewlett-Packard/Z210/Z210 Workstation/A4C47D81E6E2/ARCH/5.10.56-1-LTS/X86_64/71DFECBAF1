@@ -1,0 +1,24 @@
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at f000
+temp1:        +41.5 C  (low  =  +0.0 C)
+                       (high = +64.0 C, hyst = +64.0 C)
+                       (crit = +80.0 C, hyst = +80.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +46.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +47.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +46.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +46.0 C  (high = +74.0 C, crit = +94.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at f000
+temp1:        +42.5 C  (low  =  +0.0 C)
+                       (high = +64.0 C, hyst = +64.0 C)
+                       (crit = +80.0 C, hyst = +80.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

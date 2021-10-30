@@ -1,0 +1,23 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +24.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +34.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +27.0 C  (high = +80.0 C, crit = +96.0 C)
+
+amdgpu-pci-2800
+Adapter: PCI adapter
+fan1:        1127 RPM
+temp1:        +30.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +33.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +34.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +32.0 C  (high = +80.0 C, crit = +96.0 C)
+
