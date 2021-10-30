@@ -1,0 +1,32 @@
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.39 V  
+in1:         912.00 mV (max =  +2.04 V)
+in2:           1.13 V  
+in3:         912.00 mV 
+in4:         984.00 mV 
+in5:         800.00 mV 
+in6:         656.00 mV 
+3VSB:          3.38 V  
+Vbat:          3.31 V  
+fan1:        1672 RPM
+fan2:        1191 RPM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +63.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp2:        +31.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:          FAULT  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +36.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +39.0 C  (high = +89.0 C, crit = +105.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:   1672 RPM
+Motherboard Fan: 1191 RPM
+

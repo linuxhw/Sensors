@@ -1,0 +1,35 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 1001 RPM
+Other Fan:          N/A
+Other Fan:     1110 RPM
+CPU:            +59.0 C  
+CPU:                N/A  
+SODIMM:         +39.0 C  
+SODIMM:         +38.0 C  
+Ambient:        +29.0 C  
+Ambient:        +31.0 C  
+CPU:            +36.0 C  
+CPU:            +40.0 C  
+SODIMM:         +43.0 C  
+SODIMM:         +35.0 C  
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +92.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +42.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +48.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +45.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +44.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +50.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +45.0 C  (high = +81.0 C, crit = +91.0 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+fan1:             N/A
+edge:         +55.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

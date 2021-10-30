@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 6:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 8:        +33.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 9:        +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 10:       +32.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 11:       +38.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 12:       +31.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 13:       +31.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 14:       +31.0 C  (high = +81.0 C, crit = +91.0 C)
+
+nouveau-pci-6500
+Adapter: PCI adapter
+fan1:        1090 RPM
+temp1:        +51.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:         996 RPM
+fan2:         699 RPM
+fan3:         611 RPM
+

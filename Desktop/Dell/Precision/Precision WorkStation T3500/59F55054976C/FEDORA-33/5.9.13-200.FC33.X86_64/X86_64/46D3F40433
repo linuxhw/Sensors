@@ -1,0 +1,22 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    814 RPM
+Motherboard Fan:  858 RPM
+Ambient:          +23.0 C  
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:         820 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +29.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.15 W  (cap = 160.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +43.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +40.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +44.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +38.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +45.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +43.0 C  (high = +81.0 C, crit = +101.0 C)
+

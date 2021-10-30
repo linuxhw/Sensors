@@ -1,0 +1,37 @@
+radeon-pci-0400
+Adapter: PCI adapter
+temp1:        +77.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3643 RPM
+Other Fan:     1375 RPM
+Other Fan:     3987 RPM
+CPU:            +89.0 C  
+SODIMM:         +68.0 C  
+Ambient:        +29.0 C  
+Ambient:        +31.0 C  
+CPU:            +66.0 C  
+SODIMM:         +60.0 C  
+SODIMM:         +56.0 C  
+Other:              N/A  
+Other:              N/A  
+Other:              N/A  
+
+nouveau-pci-0300
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.00 V)
+temp1:        +75.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +80.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +75.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +75.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +75.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +80.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +76.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +77.0 C  (high = +81.0 C, crit = +91.0 C)
+

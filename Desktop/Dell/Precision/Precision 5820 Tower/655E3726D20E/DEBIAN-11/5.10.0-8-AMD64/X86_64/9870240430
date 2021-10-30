@@ -1,0 +1,44 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +33.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +33.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +31.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 5:        +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 6:        +31.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 7:        +33.0 C  (high = +92.0 C, crit = +102.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +78.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+amdgpu-pci-6500
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        1968 RPM  (min = 1800 RPM, max = 6000 RPM)
+edge:         +37.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        5.24 W  (cap =  32.00 W)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        1002 RPM
+fan2:         687 RPM
+fan3:         799 RPM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +78.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+

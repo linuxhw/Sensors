@@ -1,0 +1,34 @@
+nouveau-pci-1700
+Adapter: PCI adapter
+fan1:        1001 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        1001 RPM
+fan2:         744 RPM
+fan3:         772 RPM
+
+nouveau-pci-6500
+Adapter: PCI adapter
+fan1:        1133 RPM
+temp1:        +70.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +68.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 0:        +50.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 1:        +69.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 2:        +49.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 3:        +52.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 4:        +51.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 5:        +50.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 10:       +52.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 11:       +51.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 12:       +51.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 13:       +51.0 C  (high = +88.0 C, crit = +98.0 C)
+

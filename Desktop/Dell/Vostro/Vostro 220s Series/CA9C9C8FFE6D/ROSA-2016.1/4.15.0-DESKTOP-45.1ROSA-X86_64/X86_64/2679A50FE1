@@ -1,0 +1,29 @@
+it8720-isa-0290
+Adapter: ISA adapter
+in0:          +1.09 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +3.36 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:          +2.99 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +3.10 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +2.16 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +1.14 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +2.98 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.18 V  
+fan1:        1744 RPM  (min =    0 RPM)
+fan2:        1864 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +45.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+temp2:        +42.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermistor
+temp3:        -62.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = Intel PECI
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +31.0 C  (high = +76.0 C, crit = +100.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:   1757 RPM
+Motherboard Fan: 1878 RPM
+

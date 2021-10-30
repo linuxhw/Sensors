@@ -1,0 +1,27 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +50.0 C  (high = +86.0 C, crit = +100.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +58.5 C  (low  = +94.5 C, high = +124.0 C)
+Ch. 0 DIMM 1:  +53.0 C  (low  = +92.5 C, high = +124.0 C)
+Ch. 1 DIMM 0:  +58.5 C  (low  = +94.5 C, high = +124.0 C)
+Ch. 1 DIMM 1:  +47.5 C  (low  = +92.5 C, high = +124.0 C)
+Ch. 2 DIMM 0:  +53.0 C  (low  = +92.5 C, high = +124.0 C)
+Ch. 3 DIMM 0:  +49.5 C  (low  = +93.0 C, high = +124.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    793 RPM
+Processor Fan:   2596 RPM
+Motherboard Fan: 1502 RPM
+
+nouveau-pci-0700
+Adapter: PCI adapter
+GPU core:      1.20 V  (min =  +1.20 V, max =  +1.20 V)
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +130.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

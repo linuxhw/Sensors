@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +36.0 C  (high = +86.0 C, crit = +100.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +50.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +50.0 C  (low  = +127.5 C, high = +127.5 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +44.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +44.0 C  (high = +86.0 C, crit = +100.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    805 RPM
+Processor Fan:   2576 RPM
+Motherboard Fan: 1528 RPM
+

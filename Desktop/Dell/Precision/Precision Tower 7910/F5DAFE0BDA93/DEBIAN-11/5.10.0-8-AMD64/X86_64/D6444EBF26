@@ -1,0 +1,69 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +41.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 16:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 17:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 18:       +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 19:       +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 20:       +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 21:       +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 24:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 25:       +33.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 26:       +34.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 27:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 28:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 1007 RPM
+Processor Fan: 1001 RPM
+Other Fan:      609 RPM
+CPU:            +35.0 C  
+CPU:            +40.0 C  
+SODIMM:         +24.0 C  
+SODIMM:         +35.0 C  
+SODIMM:         +38.0 C  
+SODIMM:         +35.0 C  
+SODIMM:         +38.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +32.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +31.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +28.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +32.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 16:       +30.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 17:       +28.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 18:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 19:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 20:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 21:       +28.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 24:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 25:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 26:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 27:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 28:       +29.0 C  (high = +83.0 C, crit = +93.0 C)
+

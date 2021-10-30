@@ -1,0 +1,38 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2625 RPM
+fan2:        1717 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +83.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +80.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +78.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +74.0 C  (high = +83.0 C, crit = +99.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         792 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +55.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       30.09 W  (cap = 145.00 W)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:           1.12 V  (min =  +0.00 V, max =  +4.08 V)
+in1:           3.01 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.33 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           3.01 V  (min =  +0.00 V, max =  +4.08 V)
+in4:           3.04 V  (min =  +0.00 V, max =  +4.08 V)
+in5:           2.18 V  (min =  +0.00 V, max =  +4.08 V)
+in6:           2.18 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:          2.99 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.12 V  
+fan1:        2606 RPM  (min =    0 RPM)
+fan2:        1704 RPM  (min =    0 RPM)
+temp1:       +127.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermal diode
+temp2:        +22.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        -17.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = Intel PECI
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

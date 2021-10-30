@@ -1,0 +1,62 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +65.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +64.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +61.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +62.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +61.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +62.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +63.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +62.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +64.0 C  (high = +85.0 C, crit = +95.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +66.8 C  (low  = -273.1 C, high = +87.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +66.8 C  (low  = -273.1 C, high = -273.1 C)
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1092 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +61.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +63.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +70.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       39.00 W  (cap = 190.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +60.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +59.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +59.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +59.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +61.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +62.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +59.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +60.0 C  (high = +85.0 C, crit = +95.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:  994 RPM
+Processor Fan: 1042 RPM
+Other Fan:     1164 RPM
+CPU:            +66.0 C  
+CPU:            +69.0 C  
+SODIMM:         +59.0 C  
+SODIMM:         +53.0 C  
+Ambient:        +28.0 C  
+Ambient:        +28.0 C  
+CPU:            +42.0 C  
+CPU:            +53.0 C  
+SODIMM:         +51.0 C  
+SODIMM:         +47.0 C  
+

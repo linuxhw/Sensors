@@ -1,0 +1,30 @@
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +74.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:  988 RPM
+Other Fan:     1003 RPM
+Other Fan:     1064 RPM
+CPU:            +47.0 C  
+SODIMM:             N/A  
+Ambient:        +18.0 C  
+Ambient:        +14.0 C  
+CPU:            +30.0 C  
+SODIMM:         +31.0 C  
+SODIMM:         +28.0 C  
+Other:              N/A  
+Other:              N/A  
+Other:              N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +36.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +37.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +40.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +38.0 C  (high = +81.0 C, crit = +91.0 C)
+

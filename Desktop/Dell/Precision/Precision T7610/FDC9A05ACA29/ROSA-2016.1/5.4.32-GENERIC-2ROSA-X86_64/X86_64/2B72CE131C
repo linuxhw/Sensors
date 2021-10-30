@@ -1,0 +1,57 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +54.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +49.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +54.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +50.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +53.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 4:        +53.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 5:        +52.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 8:        +54.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 9:        +54.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 10:       +54.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 11:       +49.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 12:       +50.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 13:       +50.0 C  (high = +74.0 C, crit = +94.0 C)
+
+nouveau-pci-0300
+Adapter: PCI adapter
+GPU core:    862.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:        2190 RPM
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       23.18 W  (crit =  87.00 mW)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 1001 RPM
+Processor Fan:  988 RPM
+Other Fan:      595 RPM
+Other:          +72.0 C  
+Other:          +60.0 C  
+SODIMM:         +54.0 C  
+SODIMM:         +40.0 C  
+Ambient:        +26.0 C  
+Ambient:        +26.0 C  
+CPU:            +43.0 C  
+CPU:            +48.0 C  
+Ambient:        +41.0 C  
+Ambient:        +48.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +68.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +69.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +66.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +68.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 4:        +64.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 5:        +68.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 8:        +65.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 9:        +63.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 10:       +67.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 11:       +68.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 12:       +69.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 13:       +67.0 C  (high = +74.0 C, crit = +94.0 C)
+

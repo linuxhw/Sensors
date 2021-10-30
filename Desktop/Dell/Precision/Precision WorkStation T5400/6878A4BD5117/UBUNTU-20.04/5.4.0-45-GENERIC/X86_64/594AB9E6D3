@@ -1,0 +1,36 @@
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:02:00.0-bus-0002
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.37 V  (min =  +2.96 V, max =  +3.63 V)
+fan1:        4817 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +49.2 C  (low  = +72.0 C, high = +92.0 C)  ALARM
+                       (crit = +191.0 C, hyst = +189.0 C)
+Board Temp:   +46.8 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:        +49.2 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +96.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    801 RPM
+Other Fan:       1517 RPM
+Motherboard Fan: 1399 RPM
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:      1.20 V  (min =  +1.20 V, max =  +1.32 V)
+fan1:           0 RPM
+temp1:        +61.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +115.0 C, hyst =  +2.0 C)
+                       (emerg = +130.0 C, hyst = +10.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +62.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +58.0 C  (high = +84.0 C, crit = +100.0 C)
+

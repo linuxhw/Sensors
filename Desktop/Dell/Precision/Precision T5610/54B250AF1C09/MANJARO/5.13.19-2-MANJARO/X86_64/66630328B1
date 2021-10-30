@@ -1,0 +1,40 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +80.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 1:        +63.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 2:        +64.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 3:        +66.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 4:        +70.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 8:        +72.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 9:        +72.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 10:       +71.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 11:       +80.0 C  (high = +77.0 C, crit = +91.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 1594 RPM
+Processor Fan: 1764 RPM
+Other Fan:     1269 RPM
+Other:          +56.0 C  
+Other:          +79.0 C  
+SODIMM:         +60.0 C  
+SODIMM:         +54.0 C  
+Ambient:        +20.0 C  
+Ambient:        +20.0 C  
+CPU:            +32.0 C  
+CPU:            +60.0 C  
+Ambient:        +36.0 C  
+Ambient:        +56.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 1:        +52.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 2:        +48.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 3:        +53.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 4:        +48.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 8:        +49.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 9:        +49.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 10:       +50.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 11:       +45.0 C  (high = +77.0 C, crit = +91.0 C)
+

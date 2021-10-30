@@ -1,0 +1,27 @@
+nouveau-pci-0300
+Adapter: PCI adapter
+fan1:        4260 RPM
+temp1:        +46.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +44.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 0:         +40.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 1:         +36.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 2:         +37.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 3:         +36.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 4:         +36.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 5:         +35.0°C  (high = +75.0°C, crit = +85.0°C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Physical id 1:  +52.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 0:         +43.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 1:         +48.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 2:         +44.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 3:         +45.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 4:         +42.0°C  (high = +75.0°C, crit = +85.0°C)
+Core 5:         +41.0°C  (high = +75.0°C, crit = +85.0°C)
+
