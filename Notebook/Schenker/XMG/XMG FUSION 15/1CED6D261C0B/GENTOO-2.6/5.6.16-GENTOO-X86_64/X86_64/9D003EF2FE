@@ -1,0 +1,40 @@
+qc71_laptop_hwmon-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+nvme-pci-3b00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +44.0 C  (crit = +100.0 C)
+temp2:        +44.0 C  (crit = +119.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.88 V  
+curr1:         0.00 A  
+
