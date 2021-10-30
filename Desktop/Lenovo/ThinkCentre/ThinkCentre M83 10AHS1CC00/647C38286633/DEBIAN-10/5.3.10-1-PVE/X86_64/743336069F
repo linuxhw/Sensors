@@ -1,0 +1,30 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Package:  +44.0 C  (high = +80.0 C, crit = +100.0 C)
+CPU Core 0:   +44.0 C  (high = +80.0 C, crit = +100.0 C)
+CPU Core 1:   +39.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+it8792-isa-0a40
+Adapter: ISA adapter
+CPU Vcore:              +0.41 V  (min =  +1.12 V, max =  +1.92 V)  ALARM
+in1:                    +1.82 V  (min =  +1.27 V, max =  +2.63 V)
+in2:                    +0.01 V  (min =  +1.98 V, max =  +1.98 V)  ALARM
++3.3V:                  +1.62 V  (min =  +0.58 V, max =  +1.72 V)
+in4:                    +1.64 V  (min =  +2.73 V, max =  +1.61 V)  ALARM
+in5:                    +2.51 V  (min =  +2.67 V, max =  +2.78 V)  ALARM
+in6:                    +2.78 V  (min =  +2.02 V, max =  +1.47 V)  ALARM
+3VSB:                   +1.62 V  (min =  +2.62 V, max =  +2.05 V)  ALARM
+Vbat:                   +1.66 V  
+CPU_FAN:                790 RPM  (min =   72 RPM)
+fan2:                     0 RPM  (min =   -1 RPM)  ALARM
+fan3:                     0 RPM  (min =   -1 RPM)  ALARM
+temp1:                  +49.0 C  (low  = +40.0 C, high = +80.0 C)  sensor = thermal diode
+temp2:                  +36.0 C  (low  = +12.0 C, high =  -3.0 C)  ALARM  sensor = disabled
+Front Sensor near HDD:  +22.0 C  (low  = +76.0 C, high = +72.0 C)  sensor = thermal diode
+intrusion0:            ALARM
+
