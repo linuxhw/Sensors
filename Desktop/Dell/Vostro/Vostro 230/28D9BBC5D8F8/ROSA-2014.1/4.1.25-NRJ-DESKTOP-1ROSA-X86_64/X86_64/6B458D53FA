@@ -1,0 +1,29 @@
+i8k-virtual-0
+Adapter: Virtual device
+Processor Fan:   1271 RPM
+Motherboard Fan:  920 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0°C  (high = +76.0°C, crit = +100.0°C)
+Core 1:       +41.0°C  (high = +76.0°C, crit = +100.0°C)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:          +1.22 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +1.10 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +2.78 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:          +3.04 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +3.33 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +2.13 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +2.13 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +2.98 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.15 V  
+fan1:        1271 RPM  (min =    0 RPM)
+fan2:         920 RPM  (min =    0 RPM)
+temp1:        +32.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermal diode
+temp2:        +23.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:        +29.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = Intel PECI
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

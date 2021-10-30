@@ -1,0 +1,36 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +43.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +61.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:       +54.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:       +57.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:       +56.0°C  (high = +80.0°C, crit = +100.0°C)
+
+it8718-isa-0a10
+Adapter: ISA adapter
+in0:          +1.12 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +2.16 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +1.86 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +3.02 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +2.16 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +0.06 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +0.10 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +2.94 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.33 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:        1912 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp2:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp3:        -44.0°C  (low  = +127.0°C, high = +80.0°C)  sensor = Intel PECI
+intrusion0:  OK
+

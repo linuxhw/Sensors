@@ -1,0 +1,30 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +29.0°C  
+Core0 Temp:   +30.0°C  
+Core1 Temp:   +28.0°C  
+Core1 Temp:   +27.0°C  
+
+it8716-isa-0a10
+Adapter: ISA adapter
+in0:          +1.15 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +2.48 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +1.86 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in3:          +3.23 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +1.22 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +1.15 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +2.78 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +2.77 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.09 V  
+fan1:        2089 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +11.0°C  (low  = +127.0°C, high = -53.0°C)  ALARM  sensor = thermal diode
+temp2:        +32.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+intrusion0:  ALARM
+

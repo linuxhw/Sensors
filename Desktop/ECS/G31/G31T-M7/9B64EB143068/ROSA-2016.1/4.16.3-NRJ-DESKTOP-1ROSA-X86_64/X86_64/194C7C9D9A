@@ -1,0 +1,33 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +37.0 C  (high = +78.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  (crit = +110.0 C)
+
+it8718-isa-0a10
+Adapter: ISA adapter
+in0:          +1.07 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +2.14 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +1.86 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.96 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +2.14 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +0.06 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +0.10 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +2.94 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.28 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:        2678 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:       -128.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = disabled
+temp2:       -128.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = disabled
+temp3:        -62.0 C  (low  = +127.0 C, high = +80.0 C)  sensor = Intel PECI
+cpu0_vid:    +1.563 V
+intrusion0:  ALARM
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +61.0 C  
+

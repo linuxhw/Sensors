@@ -1,0 +1,29 @@
+it8718-isa-0a10
+Adapter: ISA adapter
+in0:          +1.36 V  (min =  +2.30 V, max =  +0.82 V)  ALARM
+in1:          +2.13 V  (min =  +2.64 V, max =  +2.30 V)  ALARM
+in2:          +1.86 V  (min =  +2.18 V, max =  +1.06 V)  ALARM
++5V:          +3.04 V  (min =  +0.43 V, max =  +0.34 V)  ALARM
+in4:          +2.13 V  (min =  +1.12 V, max =  +3.36 V)
+in5:          +0.06 V  (min =  +2.34 V, max =  +0.77 V)  ALARM
+in6:          +0.11 V  (min =  +0.00 V, max =  +0.27 V)
+5VSB:         +2.50 V  (min =  +2.14 V, max =  +0.53 V)  ALARM
+Vbat:         +3.33 V  
+fan1:           0 RPM  (min =   29 RPM)  ALARM
+fan2:        1383 RPM  (min =  120 RPM)
+fan3:           0 RPM  (min =  854 RPM)  ALARM
+temp1:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp2:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp3:        +43.0°C  (low  = +127.0°C, high = +80.0°C)  sensor = thermal diode
+intrusion0:  OK
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +72.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +125.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
