@@ -1,0 +1,30 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.65 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+edge:         +48.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       29.80 W  (cap =  21.00 W)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +49.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +52.0 C  (crit = +128.0 C)
+temp2:         +0.0 C  (crit = +128.0 C)
+temp3:         +0.0 C  (crit = +128.0 C)
+temp4:         +0.0 C  (crit = +128.0 C)
+temp5:        +29.0 C  (crit = +128.0 C)
+temp6:         +0.0 C  (crit = +128.0 C)
+
