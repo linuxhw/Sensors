@@ -1,0 +1,24 @@
+jc42-i2c-22-18
+Adapter: SMBus I801 adapter at f040
+temp1:        +37.2*C  (low  =  +0.0*C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0*C, hyst =  +0.0*C)
+                       (crit =  +0.0*C, hyst =  +0.0*C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8*C  (crit = +119.0*C)
+temp2:        +29.8*C  (crit = +119.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0*C  (high = +84.0*C, crit = +100.0*C)
+Core 0:        +44.0*C  (high = +84.0*C, crit = +100.0*C)
+Core 1:        +47.0*C  (high = +84.0*C, crit = +100.0*C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         972 RPM
+temp1:        +43.0*C  (high = +95.0*C, hyst =  +3.0*C)
+                       (crit = +105.0*C, hyst =  +5.0*C)
+                       (emerg = +135.0*C, hyst =  +5.0*C)
+

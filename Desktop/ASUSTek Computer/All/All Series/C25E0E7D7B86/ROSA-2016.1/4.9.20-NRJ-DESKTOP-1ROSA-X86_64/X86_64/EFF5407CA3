@@ -1,0 +1,62 @@
+nct6791-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.89 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.39 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                  +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                    +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +0.16 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +0.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                   +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                   +3.26 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                    +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                   +0.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +0.13 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +0.13 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1025 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +116.0°C  (high =  +0.0°C, hyst =  +0.0°C)  sensor = thermistor
+CPUTIN:                 +30.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN0:                +35.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+AUXTIN1:               +110.0°C    sensor = thermistor
+AUXTIN2:               +107.0°C    sensor = thermistor
+AUXTIN3:               +109.0°C    sensor = thermistor
+PECI Agent 0:           +34.0°C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0°C  
+PCH_CHIP_TEMP:           +0.0°C  
+PCH_CPU_TEMP:            +0.0°C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +34.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:         +34.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:         +33.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:         +34.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:         +31.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +105.0°C)
+temp2:        +29.8°C  (crit = +105.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.85 V  (min =  +0.82 V, max =  +1.21 V)
+fan1:        1140 RPM
+temp1:        +32.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+power1:       11.62 W  
+

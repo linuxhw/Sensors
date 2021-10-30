@@ -1,0 +1,58 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    987.00 mV (min =  +0.84 V, max =  +1.16 V)
+fan1:        1470 RPM
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nct6779-isa-0290
+Adapter: ISA adapter
+Vcore:                 864.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                    3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                   968.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                   664.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.38 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.30 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1407 RPM  (min =    0 RPM)
+SYSTIN:                +119.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +44.5 C    sensor = thermistor
+AUXTIN1:               +110.0 C    sensor = thermistor
+AUXTIN2:               +110.0 C    sensor = thermistor
+AUXTIN3:                +30.0 C    sensor = thermal diode
+PECI Agent 0:           +47.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +46.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+

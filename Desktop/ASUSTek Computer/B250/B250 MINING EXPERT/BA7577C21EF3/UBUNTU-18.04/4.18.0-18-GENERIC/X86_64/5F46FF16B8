@@ -1,0 +1,57 @@
+amdgpu-pci-0f00
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:         781 RPM
+temp1:        +25.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:       36.22 W  (cap = 175.00 W)
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:         815 RPM
+temp1:        +21.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       38.20 W  (cap = 160.00 W)
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:       +0.82 V  
+fan1:         814 RPM
+temp1:        +29.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:        0.00 W  (cap = 183.00 W)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+amdgpu-pci-0e00
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:         819 RPM
+temp1:        +22.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       37.13 W  (cap = 160.00 W)
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:       +0.75 V  
+fan1:         786 RPM
+temp1:        +23.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       38.12 W  (cap = 175.00 W)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.82 V  
+fan1:         765 RPM
+temp1:        +27.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        0.00 W  (cap = 175.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+

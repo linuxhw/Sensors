@@ -1,0 +1,37 @@
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:    973.00 mV (min =  +0.60 V, max =  +1.27 V)
+fan1:         860 RPM
+temp1:        +61.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       37.77 W  (crit = 275.00 mW)
+
+nouveau-pci-0900
+Adapter: PCI adapter
+GPU core:    973.00 mV (min =  +0.60 V, max =  +1.27 V)
+fan1:         707 RPM
+temp1:        +61.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       37.06 W  (crit = 275.00 mW)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +64.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +32.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +33.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +34.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +34.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 4:        +34.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 5:        +33.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 6:        +32.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 7:        +32.0 C  (high = +87.0 C, crit = +105.0 C)
+

@@ -1,0 +1,80 @@
+amdgpu-pci-1a00
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:         794 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +27.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +28.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +32.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       14.00 W  (cap = 160.00 W)
+
+amdgpu-pci-1000
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +28.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +28.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +32.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:        9.00 W  (cap = 170.00 W)
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:        1155 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +27.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +27.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +30.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       10.00 W  (cap = 150.00 W)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      781.00 mV 
+fan1:         955 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +25.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.02 W  (cap = 125.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+amdgpu-pci-1600
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +28.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +29.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +30.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:        9.00 W  (cap = 150.00 W)
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:        1132 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +25.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +25.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +28.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:        9.00 W  (cap = 150.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+

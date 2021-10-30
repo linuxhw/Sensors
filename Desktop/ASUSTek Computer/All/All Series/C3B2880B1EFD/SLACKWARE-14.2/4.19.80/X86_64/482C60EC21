@@ -1,0 +1,56 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.85 V  
+fan1:         922 RPM
+temp1:        +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       12.08 W  (cap =  48.00 W)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+nct6791-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.87 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++3.3V:                  +3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                    +1.00 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +1.95 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+3VSB:                   +3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Vbat:                   +3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                    +1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                   +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                   +0.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +0.50 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +0.18 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +0.37 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1057 RPM  (min =    0 RPM)
+fan2:                   353 RPM  (min =    0 RPM)
+fan3:                  1096 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +29.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +35.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +70.0 C    sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +35.0 C    sensor = thermistor
+AUXTIN3:                +64.0 C    sensor = thermistor
+PECI Agent 0:           +38.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+
