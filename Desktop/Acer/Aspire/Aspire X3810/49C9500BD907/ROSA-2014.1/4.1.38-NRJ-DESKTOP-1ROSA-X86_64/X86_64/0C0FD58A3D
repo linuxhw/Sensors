@@ -1,0 +1,31 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +55.5°C  (crit = +120.0°C, hyst = +90.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0°C  (high = +74.0°C, crit = +100.0°C)
+Core 1:       +36.0°C  (high = +74.0°C, crit = +100.0°C)
+Core 2:       +42.0°C  (high = +74.0°C, crit = +100.0°C)
+Core 3:       +42.0°C  (high = +74.0°C, crit = +100.0°C)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:          +1.12 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +3.04 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +3.04 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.39 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +1.12 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +3.02 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.15 V  
+fan1:        1155 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +36.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermal diode
+temp2:        +48.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+temp3:        +19.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = Intel PECI
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
