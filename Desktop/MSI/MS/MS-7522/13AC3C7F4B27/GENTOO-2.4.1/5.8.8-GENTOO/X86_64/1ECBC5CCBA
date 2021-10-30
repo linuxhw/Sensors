@@ -1,0 +1,30 @@
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.36 V  
++VCORE:        1.26 V  (max =  +1.45 V)
++5V:           5.00 V  
++12V:         12.32 V  
++3.3VSB:       3.31 V  
++BAT:          3.20 V  
+CPU:         2645 RPM
+SYS:         1698 RPM
+CPU:          +30.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +95.0 C, hyst = +91.0 C)  sensor = thermistor
+IOH:          +58.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +95.0 C, hyst = +91.0 C)  sensor = transistor
+SYS:          +41.0 C  (high = +50.0 C, hyst = +48.0 C)
+                       (crit = +55.0 C, hyst = +53.0 C)  sensor = transistor
+
+radeon-pci-0200
+Adapter: PCI adapter
+GPU:          +44.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Kern 1:       +45.0 C  (high = +81.0 C, crit = +101.0 C)
+Kern 2:       +45.0 C  (high = +81.0 C, crit = +101.0 C)
+Kern 3:       +43.0 C  (high = +81.0 C, crit = +101.0 C)
+Kern 4:       +47.0 C  (high = +81.0 C, crit = +101.0 C)
+Kern 5:       +47.0 C  (high = +81.0 C, crit = +101.0 C)
+Kern 6:       +44.0 C  (high = +81.0 C, crit = +101.0 C)
+

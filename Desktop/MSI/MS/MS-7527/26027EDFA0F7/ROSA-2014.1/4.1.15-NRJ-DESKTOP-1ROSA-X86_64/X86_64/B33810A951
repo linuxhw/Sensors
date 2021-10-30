@@ -1,0 +1,33 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +43.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +125.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0°C  (high = +78.0°C, crit = +100.0°C)
+Core 1:       +37.0°C  (high = +78.0°C, crit = +100.0°C)
+
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.39 V  
+in1:          +1.14 V  (max =  +2.04 V)
+in2:          +0.95 V  
+in3:          +0.74 V  
+in4:          +0.95 V  
+in5:          +1.12 V  
+in6:          +0.92 V  
+3VSB:         +3.41 V  
+Vbat:         +3.33 V  
+fan1:        1738 RPM
+fan2:        2803 RPM
+fan3:        2581 RPM
+fan4:           0 RPM  ALARM
+temp1:        +32.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +34.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp3:          FAULT  (high = +70.0°C, hyst = +68.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = transistor
+

@@ -1,0 +1,31 @@
+f71882fg-isa-0500
+Adapter: ISA adapter
++3.3V:        +3.07 V  
+in1:          +1.38 V  (max =  +2.04 V)
+in2:          +1.02 V  
+in3:          +0.81 V  
+in4:          +0.53 V  
+in5:          +0.91 V  
+in6:          +0.74 V  
+3VSB:         +3.07 V  
+Vbat:         +3.15 V  
+fan1:        1800 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +23.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp2:          FAULT  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:        +25.0 C  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +58.0 C  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +20.0 C  
+Core1 Temp:   +32.0 C  
+

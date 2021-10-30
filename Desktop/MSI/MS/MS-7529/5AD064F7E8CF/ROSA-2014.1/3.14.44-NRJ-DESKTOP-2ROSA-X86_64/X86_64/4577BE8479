@@ -1,0 +1,27 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +36.0°C  (high = +76.0°C, crit = +100.0°C)
+Core 1:       +36.0°C  (high = +76.0°C, crit = +100.0°C)
+
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.34 V  
+in1:          +1.27 V  (max =  +2.04 V)
+in2:          +0.08 V  
+in3:          +0.04 V  
+in4:          +0.97 V  
+in5:          +1.11 V  
+in6:          +0.91 V  
+3VSB:         +3.36 V  
+Vbat:         +3.30 V  
+fan1:        2912 RPM
+fan2:        2683 RPM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +23.0°C  (high = +255.0°C, hyst = +251.0°C)
+                       (crit = +255.0°C, hyst = +251.0°C)  sensor = transistor
+temp2:          FAULT  (high = +255.0°C, hyst = +251.0°C)
+                       (crit = +255.0°C, hyst = +251.0°C)  sensor = transistor
+temp3:        +27.0°C  (high = +255.0°C, hyst = +253.0°C)
+                       (crit = +255.0°C, hyst = +253.0°C)  sensor = transistor
+

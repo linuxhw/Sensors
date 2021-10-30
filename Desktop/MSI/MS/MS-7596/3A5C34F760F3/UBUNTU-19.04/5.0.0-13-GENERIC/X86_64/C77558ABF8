@@ -1,0 +1,26 @@
+f71889fg-isa-0e80
+Adapter: ISA adapter
++3.3V:        +3.34 V  
+in1:          +1.47 V  (max =  +2.04 V)
+in2:          +1.10 V  
+in3:          +0.87 V  
+in4:          +0.64 V  
+in5:          +0.42 V  
+in6:          +0.30 V  
+3VSB:         +3.33 V  
+Vbat:         +3.28 V  
+fan1:        4477 RPM
+fan2:           0 RPM  ALARM
+fan3:        2046 RPM
+temp1:        +35.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp2:          FAULT  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:        +36.0 C  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +88.0 C)
+

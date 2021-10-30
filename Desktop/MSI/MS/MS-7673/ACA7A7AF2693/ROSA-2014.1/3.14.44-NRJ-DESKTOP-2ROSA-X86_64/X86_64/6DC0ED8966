@@ -1,0 +1,36 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        4320 RPM
+temp1:        +34.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +38.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 0:         +35.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 1:         +38.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 2:         +37.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 3:         +36.0°C  (high = +80.0°C, crit = +99.0°C)
+
+f71889a-isa-0290
+Adapter: ISA adapter
++3.3V:        +3.36 V  
+in1:          +1.02 V  (max =  +2.04 V)
+in2:          +0.92 V  
+in3:          +0.95 V  
+in4:          +1.08 V  
+in5:          +0.74 V  
+in6:          +1.04 V  
+3VSB:         +3.20 V  
+Vbat:         +3.31 V  
+fan1:        1236 RPM
+fan2:         622 RPM
+fan3:        1397 RPM
+temp1:        +38.0°C  (high = +255.0°C, hyst = +251.0°C)  ALARM (CRIT)
+                       (crit = +255.0°C, hyst = +251.0°C)  sensor = thermistor
+temp2:        +44.0°C  (high = +255.0°C, hyst = +251.0°C)  ALARM (CRIT)
+                       (crit = +255.0°C, hyst = +251.0°C)  sensor = thermistor
+temp3:        +28.0°C  (high = +255.0°C, hyst = +253.0°C)  ALARM (CRIT)
+                       (crit = +255.0°C, hyst = +253.0°C)  sensor = transistor
+

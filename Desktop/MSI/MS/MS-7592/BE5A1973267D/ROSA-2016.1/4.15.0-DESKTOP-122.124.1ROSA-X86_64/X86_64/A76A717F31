@@ -1,0 +1,26 @@
+f71889fg-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.33 V  
+in1:           1.26 V  (max =  +2.04 V)
+in2:           1.13 V  
+in3:         984.00 mV 
+in4:         736.00 mV 
+in5:         576.00 mV 
+in6:         440.00 mV 
+3VSB:          3.33 V  
+Vbat:          3.23 V  
+fan1:        2762 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +43.0 C  (high = +255.0 C, hyst = +249.0 C)
+                       (crit = +255.0 C, hyst = +249.0 C)  sensor = transistor
+temp2:        +41.0 C  (high = +255.0 C, hyst = +249.0 C)
+                       (crit = +64.0 C, hyst = +58.0 C)  sensor = thermistor
+temp3:        +37.0 C  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +45.0 C  (high = +76.0 C, crit = +100.0 C)
+

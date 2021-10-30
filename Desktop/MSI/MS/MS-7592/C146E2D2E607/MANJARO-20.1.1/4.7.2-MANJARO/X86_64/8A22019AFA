@@ -1,0 +1,24 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +64.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +61.0 C  (high = +80.0 C, crit = +100.0 C)
+
+f71889ed-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.17 V  
+Vcore:         1.12 V  (max =  +2.04 V)
+Vdimm:         1.10 V  
+Vchip:       920.00 mV 
++5V:         728.00 mV 
++12V:          1.27 V  
+in6:           1.52 V  
+3VSB:          3.17 V  
+VBat:          3.04 V  
+Cpu Fan:     1698 RPM
+System Temp:  +46.0 C  (high = +80.0 C, hyst = +75.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)  sensor = transistor
+N.Brid Temp:  +46.0 C  (high = +90.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +90.0 C)  sensor = thermistor
+S.Brid Temp:  +34.0 C  (high = +90.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +90.0 C)  sensor = transistor
+

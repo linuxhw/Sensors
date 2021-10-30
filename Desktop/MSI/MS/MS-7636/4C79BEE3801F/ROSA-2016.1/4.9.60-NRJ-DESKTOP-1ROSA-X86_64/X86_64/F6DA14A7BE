@@ -1,0 +1,30 @@
+f71889fg-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.36 V  
+in1:          +1.20 V  (max =  +2.04 V)
+in2:          +0.00 V  
+in3:          +0.96 V  
+in4:          +1.08 V  
+in5:          +0.80 V  
+in6:          +0.60 V  
+3VSB:         +3.17 V  
+Vbat:         +3.20 V  
+fan1:        2555 RPM
+fan2:        1419 RPM
+fan3:        1997 RPM
+temp1:        +32.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp2:        +30.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp3:        +31.0 C  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +35.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +29.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +29.0 C  (high = +89.0 C, crit = +105.0 C)
+

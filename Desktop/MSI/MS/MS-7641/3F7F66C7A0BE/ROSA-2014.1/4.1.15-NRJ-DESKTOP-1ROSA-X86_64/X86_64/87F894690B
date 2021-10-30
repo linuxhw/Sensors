@@ -1,0 +1,36 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +28.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       84.93 W  (crit =  95.04 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +11.8°C  (high = +70.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)
+
+f71869a-isa-0e80
+Adapter: ISA adapter
++3.3V:        +3.34 V  
+in1:          +1.02 V  
+in2:          +0.00 V  
+in3:          +0.00 V  
+in4:          +0.00 V  
+in5:          +0.88 V  
+in6:          +1.10 V  
+3VSB:         +3.22 V  
+Vbat:         +3.22 V  
+fan1:        3198 RPM
+fan2:        1183 RPM
+fan3:           0 RPM  ALARM
+temp1:        +17.0°C  (high = +255.0°C, hyst = +251.0°C)  ALARM (CRIT)
+                       (crit = +255.0°C, hyst = +251.0°C)  sensor = transistor
+temp2:        +35.0°C  (high = +255.0°C, hyst = +247.0°C)  ALARM
+                       (crit = +80.0°C, hyst = +72.0°C)  sensor = thermistor
+temp3:        +24.0°C  (high = +255.0°C, hyst = +253.0°C)  ALARM (CRIT)
+                       (crit = +255.0°C, hyst = +253.0°C)  sensor = transistor
+

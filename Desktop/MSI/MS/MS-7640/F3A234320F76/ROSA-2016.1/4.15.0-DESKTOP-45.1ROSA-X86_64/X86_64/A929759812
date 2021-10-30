@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +48.0 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:        1144 RPM
+temp1:        +30.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+f71889a-isa-0480
+Adapter: ISA adapter
++3.3V:        +3.30 V  
+in1:          +1.46 V  (max =  +2.04 V)
+in2:          +1.65 V  
+in3:          +0.96 V  
+in4:          +1.06 V  
+in5:          +1.08 V  
+in6:          +1.34 V  
+3VSB:         +3.28 V  
+Vbat:         +3.28 V  
+fan1:        3856 RPM
+fan2:        3157 RPM
+fan3:        4360 RPM
+temp1:        +51.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:        +53.0 C  (high = +85.0 C, hyst = +79.0 C)
+                       (crit = +107.0 C, hyst = +101.0 C)  sensor = thermistor
+temp3:        +34.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      132.89 W  (crit = 124.77 W)
+
