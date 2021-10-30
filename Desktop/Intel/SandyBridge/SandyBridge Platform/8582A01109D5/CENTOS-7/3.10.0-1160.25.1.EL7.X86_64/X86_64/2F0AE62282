@@ -1,0 +1,40 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +100.0 C)
+temp2:        +29.8 C  (crit = +100.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 0:        +36.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 1:        +37.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 2:        +33.0 C  (high = +74.0 C, crit = +94.0 C)
+Core 3:        +34.0 C  (high = +74.0 C, crit = +94.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at 4000
+temp1:        +28.8 C  (low  =  +0.0 C)
+                       (high = +78.0 C, hyst = +78.0 C)
+                       (crit = +89.0 C, hyst = +89.0 C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +0.98 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.88 V  (min =  +1.25 V, max =  +0.68 V)  ALARM
+AVCC:         +3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.54 V  (min =  +1.60 V, max =  +1.42 V)  ALARM
+in5:          +1.06 V  (min =  +0.52 V, max =  +0.62 V)  ALARM
+in6:          +1.69 V  (min =  +1.05 V, max =  +1.66 V)  ALARM
+3VSB:         +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+fan2:        1339 RPM  (min = 5273 RPM, div = 8)  ALARM
+fan3:           0 RPM  (min = 5273 RPM, div = 128)  ALARM
+fan4:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+temp1:        +32.0 C  (high = +22.0 C, hyst = -126.0 C)  ALARM  sensor = thermistor
+temp2:        +35.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+temp3:        +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

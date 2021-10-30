@@ -1,0 +1,23 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.00 V  (min =  +0.95 V, max =  +1.05 V)
+temp1:        +51.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +2.0°C)
+                       (emerg = +110.0°C, hyst =  +2.0°C)
+
+lm85-i2c-3-2e
+Adapter: SMBus I801 adapter at c800
+in0:          +1.50 V  (min =  +0.00 V, max =  +3.32 V)
+Vcore:        +1.35 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.35 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.16 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.31 V  (min =  +0.00 V, max = +15.94 V)
+fan1:        1663 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +57.0°C  (low  = -127.0°C, high = +127.0°C)
+M/B Temp:     +50.0°C  (low  = -127.0°C, high = +127.0°C)
+temp3:        +54.0°C  (low  = -127.0°C, high = +127.0°C)
+cpu0_vid:    +1.088 V
+

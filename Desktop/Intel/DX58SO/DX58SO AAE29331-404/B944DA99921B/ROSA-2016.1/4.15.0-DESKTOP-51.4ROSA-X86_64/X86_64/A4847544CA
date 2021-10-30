@@ -1,0 +1,36 @@
+asc7621a-i2c-0-2e
+Adapter: SMBus I801 adapter at 3000
+in0:          +1.08 V  (min =  +0.00 V, max =  +3.32 V)
+in1:          +1.22 V  (min =  +0.00 V, max =  +2.99 V)
+in2:          +3.24 V  (min =  +0.00 V, max =  +4.38 V)
+in3:          +5.04 V  (min =  +0.00 V, max =  +6.64 V)
+in4:         +11.94 V  (min =  +0.00 V, max = +15.94 V)
+fan1:        1945 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:         875 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        -56.2 C  (low  = -127.0 C, high =  +0.0 C)
+                       (crit = -17.0 C)
+temp2:        +39.0 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +65.0 C)
+temp3:        +39.5 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +65.0 C)
+temp4:        +47.8 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = -128.0 C)
+temp5:        -56.2 C  
+temp6:        -84.5 C  
+temp7:        +96.2 C  
+temp8:       +118.5 C  
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +36.5 C  (high = +100.0 C, hyst = +90.0 C)
+                       (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +39.0 C  (high = +80.0 C, crit = +100.0 C)
+

@@ -1,0 +1,32 @@
+lm85-i2c-0-2c
+Adapter: SMBus I801 adapter at 0400
+in0:          +0.03 V  (min =  +0.00 V, max =  +3.32 V)
+Vcore:        +0.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.28 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +0.00 V  (min =  +4.50 V, max =  +5.50 V)  ALARM
++12V:         +0.00 V  (min =  +0.00 V, max = +15.94 V)
+fan1:           0 RPM  (min =  980 RPM)
+fan2:           0 RPM  (min =  980 RPM)
+fan3:           0 RPM  (min =  980 RPM)
+fan4:           0 RPM  (min =  980 RPM)
+temp1:          FAULT  (low  =  +0.0 C, high = +65.0 C)
+M/B Temp:     +38.0 C  (low  =  +0.0 C, high = +65.0 C)
+temp3:       -128.0 C  (low  =  +0.0 C, high = +45.0 C)
+cpu0_vid:    +1.088 V
+
+lm85-i2c-0-2e
+Adapter: SMBus I801 adapter at 0400
+in0:          +1.77 V  (min =  +1.64 V, max =  +1.97 V)
+Vcore:        +1.32 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.33 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.10 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.12 V  (min = +10.75 V, max = +13.50 V)
+fan1:        3270 RPM  (min =  700 RPM)
+fan2:        2658 RPM  (min =  700 RPM)
+fan3:           0 RPM  (min =  350 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +56.0 C  (low  =  +0.0 C, high = +88.0 C)
+M/B Temp:     +49.0 C  (low  =  +0.0 C, high = +65.0 C)
+temp3:        +56.0 C  (low  =  +0.0 C, high = +88.0 C)
+cpu0_vid:    +1.088 V
+

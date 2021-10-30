@@ -1,0 +1,68 @@
+nct6779-isa-0a20
+Adapter: ISA adapter
+Vcore:                   1.82 V  (min =  +0.00 V, max =  +1.74 V)  ALARM
+in1:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+AVCC:                    3.33 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.33 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in5:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.34 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.26 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.21 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  112.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.27 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1304 RPM  (min =    0 RPM)
+fan2:                  1286 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +53.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermal diode
+CPUTIN:                 +24.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermal diode
+AUXTIN0:                +25.5 C    sensor = thermistor
+AUXTIN1:               +115.0 C    sensor = thermistor
+AUXTIN2:               +114.0 C    sensor = thermistor
+AUXTIN3:               +115.0 C    sensor = thermistor
+PECI Agent 0:           +17.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +24.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +25.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 8:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:       +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 11:       +24.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 12:       +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 13:       +27.0 C  (high = +85.0 C, crit = +95.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +31.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +24.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +22.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 8:        +25.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:        +27.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:       +30.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 11:       +24.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 12:       +26.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 13:       +27.0 C  (high = +85.0 C, crit = +95.0 C)
+

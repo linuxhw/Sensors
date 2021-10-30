@@ -1,0 +1,34 @@
+w83627dhg-isa-0a10
+Adapter: ISA adapter
+Vcore:        +1.26 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +0.75 V  (min =  +0.11 V, max =  +1.98 V)
+AVCC:         +3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.07 V  (min =  +0.67 V, max =  +0.92 V)  ALARM
+in5:          +1.77 V  (min =  +0.27 V, max =  +1.78 V)
+in6:          +1.10 V  (min =  +1.32 V, max =  +1.86 V)  ALARM
+3VSB:         +3.38 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =  888 RPM, div = 16)  ALARM
+fan2:        2311 RPM  (min =  937 RPM, div = 8)
+fan3:           0 RPM  (min = 2721 RPM, div = 16)  ALARM
+fan4:           0 RPM  (min = 1240 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min =  969 RPM, div = 16)  ALARM
+temp1:        +40.0°C  (high = +105.0°C, hyst = +57.0°C)  sensor = thermistor
+temp2:        +44.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+temp3:        +32.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +1.15 V  (min =  +1.00 V, max =  +1.15 V)
+temp1:        +60.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +2.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0°C  (high = +89.0°C, crit = +105.0°C)
+Core 2:       +55.0°C  (high = +89.0°C, crit = +105.0°C)
+

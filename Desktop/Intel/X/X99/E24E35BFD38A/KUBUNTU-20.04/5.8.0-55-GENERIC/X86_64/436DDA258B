@@ -1,0 +1,37 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +55.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +55.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +58.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +55.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 8:        +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 9:        +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 10:       +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 11:       +59.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 12:       +55.0 C  (high = +81.0 C, crit = +91.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +59.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +57.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +54.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +57.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +56.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 8:        +57.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 9:        +57.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 10:       +58.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 11:       +59.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 12:       +57.0 C  (high = +81.0 C, crit = +91.0 C)
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +50.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
