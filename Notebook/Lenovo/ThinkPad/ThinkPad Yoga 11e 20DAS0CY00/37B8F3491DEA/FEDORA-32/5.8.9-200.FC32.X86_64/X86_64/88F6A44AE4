@@ -1,0 +1,43 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.24 V  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +42.0 C  
+temp2:         +0.0 C  
+temp3:        +36.0 C  
+temp4:         +6.0 C  
+temp5:         +0.0 C  
+temp6:        +33.0 C  
+temp7:        +29.0 C  
+temp8:         +0.0 C  
+temp9:        +36.0 C  
+temp10:        +0.0 C  
+temp11:        +0.0 C  
+temp12:       +38.0 C  
+temp13:        +0.0 C  
+temp14:        +0.0 C  
+temp15:        +0.0 C  
+temp16:        +0.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.0 C  (crit = +100.0 C)
+
