@@ -24,7 +24,6 @@ Contents
 5. [ All In Ones  ](#all-in-ones)
 6. [ Servers      ](#servers)
 7. [ Mini Pcs     ](#mini-pcs)
-
 8. [ Tablets      ](#tablets)
 
 About
