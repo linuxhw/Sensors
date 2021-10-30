@@ -1,0 +1,41 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:        1388 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +69.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        9.11 W  (cap =  80.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+it8728-isa-0a30
+Adapter: ISA adapter
+in0:           1.06 V  (min =  +1.02 V, max =  +1.08 V)
+in1:           2.00 V  (min =  +1.90 V, max =  +2.10 V)
+in2:           2.05 V  (min =  +1.90 V, max =  +2.10 V)
+in3:           2.05 V  (min =  +1.90 V, max =  +2.10 V)
+in4:           1.01 V  (min =  +0.40 V, max =  +1.40 V)
+in5:         924.00 mV (min =  +0.78 V, max =  +1.50 V)
+in6:           1.50 V  (min =  +1.43 V, max =  +1.57 V)
+3VSB:          3.38 V  (min =  +3.14 V, max =  +3.46 V)
+Vbat:          3.26 V  
+fan1:        1844 RPM  (min =  700 RPM)
+fan2:        1171 RPM  (min =  200 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +50.0 C  (low  = +10.0 C, high = +60.0 C)  sensor = thermistor
+temp2:        +54.0 C  (low  =  +0.0 C, high = +70.0 C)  sensor = thermistor
+temp3:        +43.0 C  (low  = +10.0 C, high = +85.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +59.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +56.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +56.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +59.0 C  (high = +85.0 C, crit = +105.0 C)
+

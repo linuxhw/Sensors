@@ -1,0 +1,24 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +43.0 C  (crit = +85.0 C)
+
+emc2103-i2c-1-2e
+Adapter: SMBus I801 adapter at f040
+fan1:        1009 RPM  (div = 8)
+temp1:        +30.9 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:        +31.1 C  (low  =  +0.0 C, high = +85.0 C)
+temp3:        +31.6 C  (low  =  +0.0 C, high = +85.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
