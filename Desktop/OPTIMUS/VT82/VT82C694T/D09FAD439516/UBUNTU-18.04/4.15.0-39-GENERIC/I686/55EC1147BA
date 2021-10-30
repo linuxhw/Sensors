@@ -1,0 +1,19 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+                       (emerg =  +0.0 C, hyst =  +0.0 C)
+
+via686a-isa-6000
+Adapter: ISA adapter
+Vcore:        +1.82 V  (min =  +0.06 V, max =  +3.10 V)
+in1:          +2.57 V  (min =  +2.36 V, max =  +2.61 V)
++3.3V:        +3.39 V  (min =  +2.98 V, max =  +3.63 V)
++5V:          +5.13 V  (min =  +4.51 V, max =  +5.50 V)
++12V:        +12.54 V  (min = +10.81 V, max = +13.20 V)
+fan1:           0 RPM  (min = 61363 RPM, div = 2)
+fan2:           0 RPM  (min = 56250 RPM, div = 2)
+temp1:        +35.0 C  (high = +146.2 C, hyst = -70.9 C)
+temp2:        +31.2 C  (high = +146.2 C, hyst = -70.9 C)
+temp3:        +21.6 C  (high =  -0.2 C, hyst = -15.9 C)  ALARM
+

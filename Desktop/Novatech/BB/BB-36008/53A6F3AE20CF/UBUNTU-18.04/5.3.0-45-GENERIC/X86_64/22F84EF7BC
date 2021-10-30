@@ -1,0 +1,16 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:      975.00 mV 
+fan1:         458 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +51.0 C  (crit = +104.0 C, hyst = -273.1 C)
+power1:       40.03 W  (cap = 165.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +60.4 C  (high = +70.0 C)
+Tctl:         +60.4 C  
+

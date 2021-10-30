@@ -1,0 +1,31 @@
+kirkwood_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +56.5*C  
+
+adt7473-i2c-0-2e
+Adapter: mv64xxx_i2c adapter
+in1:         996.00 mV (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.33 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:         788 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +31.8*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+Board Temp:   +35.5*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+temp3:        +38.5*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +41.0*C  (low  =  +0.0*C, high = +60.0*C)
+                       (crit low = -41.0*C, crit = +85.0*C)
+                       (lowest = +37.0*C, highest = +42.0*C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +40.0*C  (low  =  +0.0*C, high = +60.0*C)
+                       (crit low = -41.0*C, crit = +85.0*C)
+                       (lowest = +37.0*C, highest = +41.0*C)
+

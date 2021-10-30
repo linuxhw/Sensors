@@ -1,0 +1,17 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+fan1:        1080 RPM
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +36.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:         +30.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:         +36.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:         +31.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:         +28.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:         +34.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:         +36.0 C  (high = +69.0 C, crit = +79.0 C)
+

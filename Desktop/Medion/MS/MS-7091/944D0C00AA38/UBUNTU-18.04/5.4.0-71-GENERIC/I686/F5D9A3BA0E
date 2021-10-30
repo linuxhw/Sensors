@@ -1,0 +1,11 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +69.0 C  (crit = +100.0 C)
+
+lm90-i2c-3-4c
+Adapter: nvkm-0000:01:00.0-bus-0002
+temp1:        +57.0 C  (low  =  +0.0 C, high = +105.0 C)
+                       (crit = +127.0 C, hyst = +117.0 C)
+temp2:        +43.8 C  (low  = -11.0 C, high = +95.0 C)
+                       (crit = +127.0 C, hyst = +117.0 C)
+

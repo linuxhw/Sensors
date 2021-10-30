@@ -1,0 +1,18 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +35.0°C  
+Core0 Temp:   +25.0°C  
+Core1 Temp:   +35.0°C  
+Core1 Temp:   +19.0°C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0°C  (crit = +124.0°C)
+
+nouveau-pci-0600
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +41.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +125.0°C, hyst =  +3.0°C)
+                       (emerg = +135.0°C, hyst = +10.0°C)
+

@@ -1,0 +1,17 @@
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:     +0.96 V  (min =  +0.82 V, max =  +1.16 V)
+fan1:        1620 RPM
+temp1:        +41.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +124.0 C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +42.0 C  
+Core1 Temp:   +43.0 C  
+

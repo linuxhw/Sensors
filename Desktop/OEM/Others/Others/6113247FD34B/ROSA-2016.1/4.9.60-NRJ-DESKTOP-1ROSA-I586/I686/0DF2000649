@@ -1,0 +1,32 @@
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in1:          +2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+AVCC:         +4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
++3.3V:        +4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+in4:          +2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in5:          +2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in6:          +2.04 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+3VSB:         +4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+Vbat:         +4.08 V  (min =  +4.08 V, max =  +4.08 V)  ALARM
+fan1:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan2:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan3:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan4:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+temp1:         -1.0 C  (high =  -1.0 C, hyst =  -1.0 C)  ALARM  sensor = CPU diode
+temp2:         +0.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+temp3:         +0.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +130.0 C, hyst = +10.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +37.0 C  (high = +78.0 C, crit = +100.0 C)
+

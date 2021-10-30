@@ -1,0 +1,30 @@
+nouveau-pci-0300
+Adapter: PCI adapter
+temp1:        +74.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +95.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +94.0°C  (crit = +125.0°C)
+Core 1:       +94.0°C  (crit = +125.0°C)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +2.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +3.02 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.22 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+temp1:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp2:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+

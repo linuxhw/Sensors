@@ -1,0 +1,32 @@
+f71808a-isa-0290
+Adapter: ISA adapter
++3.3V:        +3.38 V  
+in1:          +1.05 V  
+in2:          +0.86 V  
+in3:          +2.04 V  
+3VSB:         +3.33 V  
+Vbat:         +3.36 V  
+fan1:         940 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +37.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +35.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.95 V  (min =  +0.00 V, max =  +1.21 V)
+fan1:        1500 RPM
+temp1:        +46.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +38.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 0:         +36.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 1:         +37.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 2:         +38.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 3:         +34.0°C  (high = +80.0°C, crit = +99.0°C)
+
