@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +47.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +45.0 C  (high = +89.0 C, crit = +105.0 C)
+
+f71858fg-isa-0a00
+Adapter: ISA adapter
+in0:           1.63 V  
+in1:           1.63 V  
+in2:           1.58 V  
+fan1:        1265 RPM
+fan2:         883 RPM
+fan3:           0 RPM  ALARM
+temp1:        +36.5 C  (high = +70.0 C, hyst = +60.0 C)
+temp2:        +27.0 C  (high = +100.0 C, hyst = +85.0 C)
+temp3:        +47.6 C  (high = +100.0 C, hyst = +85.0 C)
+

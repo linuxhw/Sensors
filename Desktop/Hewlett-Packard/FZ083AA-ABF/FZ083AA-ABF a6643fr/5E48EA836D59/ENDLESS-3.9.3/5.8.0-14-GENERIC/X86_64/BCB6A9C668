@@ -1,0 +1,25 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:      1.05 V  (min =  +1.05 V, max =  +1.18 V)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +78.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +78.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +73.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +73.0 C  (high = +84.0 C, crit = +100.0 C)
+
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:04:00.0-bus-0003
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
+in2:           3.29 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:        1669 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +45.0 C  (low  = +58.0 C, high = +78.0 C)  ALARM
+                       (crit = +97.0 C, hyst = +97.0 C)
+temp2:        +45.8 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+temp3:        +45.0 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +107.0 C, hyst = +107.0 C)
+
