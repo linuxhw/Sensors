@@ -1,0 +1,26 @@
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +72.0 C  
+
+radeon-pci-0300
+Adapter: PCI adapter
+temp1:        +44.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      862.00 mV 
+vddnb:       862.00 mV 
+fan1:             N/A
+temp1:        +60.0 C  (crit =  +5.0 C, hyst = -273.1 C)
+power1:           N/A  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       45.36 mW (avg =  31.22 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
