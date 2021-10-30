@@ -1,0 +1,20 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +56.5°C  (crit = +87.0°C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +62.0°C  (crit =  +0.0°C, hyst =  +0.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+
+i8k-virtual-0
+Adapter: Virtual device
+Processor Fan: 3720 RPM
+CPU:            +56.0°C  
+GPU:            +61.0°C  
+Other:          +59.0°C  
+

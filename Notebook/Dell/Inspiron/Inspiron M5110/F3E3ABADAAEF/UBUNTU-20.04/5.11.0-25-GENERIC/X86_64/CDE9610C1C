@@ -1,0 +1,31 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (crit = +120.0 C, hyst = +90.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+in0:         900.00 mV 
+temp1:        +53.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           0.00 V  
+curr1:       1000.00 uA 
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +53.0 C  
+Other:          +46.0 C  
+Other:          +43.0 C  
+GPU:            +52.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +53.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +53.5 C  (crit = +99.0 C)
+

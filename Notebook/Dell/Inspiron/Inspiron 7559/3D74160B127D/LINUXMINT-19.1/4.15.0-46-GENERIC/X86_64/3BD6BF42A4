@@ -1,0 +1,25 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+Processor Fan:    0 RPM
+CPU:            +72.0 C  
+GPU:            +55.0 C  
+SODIMM:         +53.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +58.5 C  
+
