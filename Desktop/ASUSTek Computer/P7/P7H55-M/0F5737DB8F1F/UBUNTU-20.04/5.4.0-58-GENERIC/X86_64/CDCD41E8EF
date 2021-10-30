@@ -1,0 +1,22 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +42.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:        1.31 V  (min =  +0.80 V, max =  +1.60 V)
+ +3.3 Voltage:        3.41 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:          5.18 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:        11.98 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:       639 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS1 FAN Speed: 1394 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:     +34.5 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:      +26.0 C  (high = +45.0 C, crit = +75.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +35.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +35.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +44.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +36.0 C  (high = +83.0 C, crit = +99.0 C)
+
