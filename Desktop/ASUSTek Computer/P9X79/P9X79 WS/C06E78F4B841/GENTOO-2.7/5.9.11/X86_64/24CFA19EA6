@@ -1,0 +1,106 @@
+drivetemp-scsi-8-0
+Adapter: SCSI adapter
+temp1:        +25.0 C  
+
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +36.0 C, highest = +37.0 C)
+
+drivetemp-scsi-1-60
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  =  +1.0 C, high = +61.0 C)
+                       (crit low =  +2.0 C, crit = +60.0 C)
+                       (lowest = +35.0 C, highest = +36.0 C)
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +33.0 C, highest = +34.0 C)
+
+drivetemp-scsi-1-40
+Adapter: SCSI adapter
+temp1:        +42.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +41.0 C, highest = +42.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (low  =  +5.0 C, high = +55.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +29.0 C, highest = +34.0 C)
+
+drivetemp-scsi-1-20
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +40.0 C, highest = +42.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +36.0 C, highest = +38.0 C)
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  
+
+drivetemp-scsi-7-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +34.0 C, highest = +35.0 C)
+
+drivetemp-scsi-1-70
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +1.0 C, high = +61.0 C)
+                       (crit low =  +2.0 C, crit = +60.0 C)
+                       (lowest = +35.0 C, highest = +36.0 C)
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +33.0 C, highest = +35.0 C)
+
+drivetemp-scsi-1-50
+Adapter: SCSI adapter
+temp1:        +33.0 C  (low  =  +1.0 C, high = +61.0 C)
+                       (crit low =  +2.0 C, crit = +60.0 C)
+                       (lowest = +33.0 C, highest = +34.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +31.0 C  (low  =  +5.0 C, high = +55.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +27.0 C, highest = +31.0 C)
+
+drivetemp-scsi-1-30
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +36.0 C, highest = +37.0 C)
+
+drivetemp-scsi-1-10
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +32.0 C, highest = +32.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +27.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +28.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+

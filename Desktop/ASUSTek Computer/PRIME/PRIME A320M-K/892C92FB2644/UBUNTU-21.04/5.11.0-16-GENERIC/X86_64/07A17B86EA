@@ -1,0 +1,20 @@
+radeon-pci-0800
+Adapter: PCI adapter
+temp1:        +46.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.5 C  
+Tdie:         +43.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +39.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

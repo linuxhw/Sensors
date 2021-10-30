@@ -1,0 +1,35 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    875.00 mV (min =  +0.82 V, max =  +1.09 V)
+fan1:        1740 RPM
+temp1:        +70.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +57.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +55.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +53.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +54.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +54.0 C  (high = +85.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:01:00.0-bus-0002
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.37 V  (min =  +2.96 V, max =  +3.63 V)
+fan1:        1748 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +57.8 C  (low  = +66.0 C, high = +96.0 C)  ALARM
+                       (crit = +101.0 C, hyst = +100.0 C)
+Board Temp:   +46.8 C  (low  = -63.0 C, high = +191.0 C)
+                       (crit = +100.0 C, hyst = +100.0 C)
+temp3:        +57.5 C  (low  = -63.0 C, high = +191.0 C)
+                       (crit = +107.0 C, hyst = +107.0 C)
+

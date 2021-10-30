@@ -1,0 +1,35 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +46.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +45.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +44.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +41.0 C  (high = +85.0 C, crit = +105.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +28.0 C  (low  =  -5.0 C, high = +80.0 C)
+                       (crit low = -10.0 C, crit = +85.0 C)
+                       (lowest = +23.0 C, highest = +30.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +25.0 C, highest = +34.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +29.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +65.0 C)
+                       (lowest = +23.0 C, highest = +35.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +30.0 C  
+

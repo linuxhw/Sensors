@@ -1,0 +1,22 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    887.00 mV (min =  +0.84 V, max =  +1.16 V)
+temp1:        +28.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    151.58 J
+Ecore001:     93.23 J
+Esocket0:      1.27 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       856.00 mV 
+Vsoc:          1.05 V  
+Tctl:         +27.5 C  
+Tdie:         +27.5 C  
+Icore:         3.00 A  
+Isoc:          1.50 A  
+

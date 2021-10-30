@@ -1,0 +1,18 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       25.14 mW (avg =   2.04 mW, interval =   0.01 s)
+                       (crit =  65.00 W)
+
+radeon-pci-0700
+Adapter: PCI adapter
+temp1:        +43.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +51.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+

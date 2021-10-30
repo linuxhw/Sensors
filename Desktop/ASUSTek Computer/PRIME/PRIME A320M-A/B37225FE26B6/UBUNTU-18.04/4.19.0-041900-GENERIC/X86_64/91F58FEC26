@@ -1,0 +1,17 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+fan1:             N/A
+temp1:        +42.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+power1:           N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +42.8 C  (high = +70.0 C)
+Tctl:         +42.8 C  
+

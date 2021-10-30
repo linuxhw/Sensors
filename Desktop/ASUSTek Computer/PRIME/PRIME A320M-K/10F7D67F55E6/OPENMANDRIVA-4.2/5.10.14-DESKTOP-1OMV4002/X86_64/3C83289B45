@@ -1,0 +1,23 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +30.0 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    220.72 J
+Ecore001:    158.79 J
+Ecore002:    182.63 J
+Ecore003:    176.39 J
+Esocket0:      2.04 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.23 V  
+Vsoc:          1.09 V  
+Tctl:         +30.0 C  
+Tdie:         +30.0 C  
+Icore:         6.00 A  
+Isoc:          2.25 A  
+

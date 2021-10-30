@@ -1,0 +1,15 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +32.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:        +1.37 V  
+Vsoc:         +1.09 V  
+Tctl:         +43.0 C  
+Tdie:         +43.0 C  
+Icore:       +10.00 A  
+Isoc:         +1.50 A  
+

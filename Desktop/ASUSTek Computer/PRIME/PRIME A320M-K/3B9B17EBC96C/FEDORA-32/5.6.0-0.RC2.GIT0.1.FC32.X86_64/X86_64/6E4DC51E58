@@ -1,0 +1,16 @@
+amdgpu-pci-2500
+Adapter: PCI adapter
+vddgfx:      862.00 mV 
+fan1:        1259 RPM  (min =    0 RPM, max = 2400 RPM)
+edge:         +25.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       30.25 W  (cap = 120.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.43 V  
+Vsoc:        844.00 mV 
+Tdie:         +39.9 C  
+Tctl:         +39.9 C  
+Icore:        20.00 A  
+Isoc:          4.00 A  
+

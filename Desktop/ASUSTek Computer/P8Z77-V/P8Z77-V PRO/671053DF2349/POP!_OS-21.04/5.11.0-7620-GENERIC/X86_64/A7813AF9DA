@@ -1,0 +1,31 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +50.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +46.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +47.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +46.0 C  (high = +85.0 C, crit = +105.0 C)
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +43.0 C  
+case temp:    +35.0 C  
+power total:  68.00 W  
+power +12v:   44.00 W  
+power +5v:    14.00 W  
+power +3.3v:   7.00 W  
+curr in:          N/A  
+curr +12v:     4.00 A  
+curr +5v:      2.00 A  
+curr +3.3v:    2.00 A  
+

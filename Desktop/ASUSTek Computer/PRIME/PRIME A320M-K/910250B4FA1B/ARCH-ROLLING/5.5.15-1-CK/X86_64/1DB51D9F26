@@ -1,0 +1,22 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:           0 RPM
+edge:         +41.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.36 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +53.5 C  (high = +95.0 C)
+Tctl:         +53.5 C  
+SVI2_P_Core:  15.58 W  
+SVI2_P_SoC:    3.97 W  
+SVI2_C_Core:  11.43 A  
+SVI2_C_SoC:    3.61 A  
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +53.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
