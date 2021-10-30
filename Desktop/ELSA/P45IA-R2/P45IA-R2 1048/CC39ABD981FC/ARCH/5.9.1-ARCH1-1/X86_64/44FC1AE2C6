@@ -1,0 +1,43 @@
+adt7473-i2c-4-2e
+Adapter: nvkm-0000:07:00.0-bus-0003
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
+in2:           3.27 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:         864 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +66.8 C  (low  = +65.0 C, high = +85.0 C)
+                       (crit = +97.0 C, hyst = +97.0 C)
+temp2:        +63.0 C  (low  = +20.0 C, high = +60.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +100.0 C)
+temp3:        +67.0 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +107.0 C, hyst = +103.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +56.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 2:       +58.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 3:       +57.0 C  (high = +78.0 C, crit = +100.0 C)
+
+nouveau-pci-0700
+Adapter: PCI adapter
+GPU core:      1.05 V  (min =  +1.05 V, max =  +1.18 V)
+
+adt7490-i2c-0-2e
+Adapter: SMBus I801 adapter at 0400
+in0:           1.13 V  (min =  +0.00 V, max =  +3.31 V)
+in1:           1.10 V  (min =  +0.00 V, max =  +2.99 V)
+in2:           3.31 V  (min =  +0.00 V, max =  +4.39 V)
+in3:           5.12 V  (min =  +0.00 V, max =  +6.68 V)
+in4:          11.98 V  (min =  +0.00 V, max = +15.69 V)
+in5:           2.32 V  (min =  +0.00 V, max =  +4.48 V)
+fan1:        1391 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +53.2 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp2:        +54.0 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:        +39.2 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+

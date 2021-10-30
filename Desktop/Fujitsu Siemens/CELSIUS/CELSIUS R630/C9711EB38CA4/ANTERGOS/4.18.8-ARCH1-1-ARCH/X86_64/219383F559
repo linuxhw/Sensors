@@ -1,0 +1,7 @@
+lm90-i2c-3-4c
+Adapter: nvkm-0000:05:00.0-bus-0002
+temp1:        +79.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +96.9 C  (low  =  +0.0 C, high = +85.2 C)  ALARM (HIGH, CRIT)
+                       (crit = +85.0 C, hyst = +75.0 C)
+

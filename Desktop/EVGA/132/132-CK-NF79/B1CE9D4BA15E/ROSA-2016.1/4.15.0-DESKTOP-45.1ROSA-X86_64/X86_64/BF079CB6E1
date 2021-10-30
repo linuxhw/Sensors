@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +50.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +51.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +54.0 C  (high = +84.0 C, crit = +100.0 C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.06 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.37 V  (min =  +0.17 V, max =  +2.04 V)
+AVCC:         +2.91 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
++3.3V:        +2.93 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
+in4:          +1.32 V  (min =  +1.19 V, max =  +1.88 V)
+in5:          +0.12 V  (min =  +0.12 V, max =  +0.80 V)
+in6:          +0.05 V  (min =  +1.14 V, max =  +1.65 V)  ALARM
+3VSB:         +2.93 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
+Vbat:         +2.90 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min = 8231 RPM, div = 4)  ALARM
+fan2:         942 RPM  (min =  869 RPM, div = 8)
+fan3:           0 RPM  (min = 2678 RPM, div = 4)  ALARM
+fan4:           0 RPM  (min = 1095 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min = 6683 RPM, div = 2)  ALARM
+temp1:        +90.0 C  (high = -57.0 C, hyst = -10.0 C)  ALARM  sensor = thermistor
+temp2:        +37.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+temp3:        +41.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +1.450 V
+intrusion0:  ALARM
+

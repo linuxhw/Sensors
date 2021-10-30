@@ -1,0 +1,28 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +60.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +115.0°C, hyst =  +2.0°C)
+                       (emerg = +130.0°C, hyst = +10.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +35.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:       +33.0°C  (high = +80.0°C, crit = +100.0°C)
+
+fschds-i2c-3-73
+Adapter: SMBus I801 adapter at 1c20
++12V:           +12.06 V  
++5V:             +5.20 V  
+Vbat:            +3.07 V  
+PSU Fan:        1380 RPM  (div = 4)
+CPU Fan:         660 RPM  (div = 4)
+System FAN2:     660 RPM  (div = 4)
+System FAN3:     660 RPM  (div = 4)
+System FAN4:       FAULT  (div = 4)
+CPU Temp:         +9.0°C  (high = +70.0°C)
+Super I/O Temp:  +35.0°C  (high = +52.0°C)
+System Temp:     +39.0°C  (high = +56.0°C)
+temp4:            +8.0°C  (high = +74.0°C)
+temp5:           +37.0°C  (high = +62.0°C)
+

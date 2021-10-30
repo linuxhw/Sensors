@@ -1,0 +1,22 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +46.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+fschmd-i2c-12-73
+Adapter: SMBus I801 adapter at 3000
+in0:         +12.23 V  
+in1:          +5.05 V  
+in2:          +0.00 V  
+fan1:           FAULT  (div = 4)
+fan2:        2040 RPM  (div = 4)
+fan3:           FAULT  (div = 4)
+fan4:           FAULT  (div = 4)
+fan5:           FAULT  (div = 4)
+temp1:        +61.0°C  (high = +76.0°C)
+temp2:        +31.0°C  (high = +60.0°C)
+temp3:        +33.0°C  (high = +60.0°C)
+temp4:        +61.0°C  (high = +76.0°C)
+temp5:        +31.0°C  (high = +62.0°C)
+

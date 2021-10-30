@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+f71889a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.25 V  
+in1:         480.00 mV (max =  +2.04 V)
+in2:         840.00 mV 
+in3:         944.00 mV 
+in4:           1.11 V  
+in5:           1.21 V  
+in6:           1.30 V  
+3VSB:          3.39 V  
+Vbat:          3.20 V  
+fan1:        1137 RPM
+fan2:        1067 RPM
+fan3:        1067 RPM
+temp1:        +44.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:        +39.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp3:        +41.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +50.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +44.9 C  
+

@@ -1,0 +1,60 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+fan1:        1210 RPM  (min =    0 RPM, max = 3600 RPM)
+edge:         +49.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       14.22 W  (cap =  60.00 W)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  (low  = +10.0 C, high = +40.0 C)
+                       (crit low =  +5.0 C, crit = +60.0 C)
+                       (lowest = +30.0 C, highest = +39.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+it8728-isa-0a30
+Adapter: ISA adapter
+in0:           1.02 V  (min =  +0.08 V, max =  +1.63 V)
+in1:          12.00 mV (min =  +0.50 V, max =  +0.98 V)  ALARM
+in2:           2.90 V  (min =  +2.51 V, max =  +1.78 V)  ALARM
++3.3V:         3.31 V  (min =  +2.54 V, max =  +3.12 V)  ALARM
+in4:           1.04 V  (min =  +1.10 V, max =  +1.54 V)  ALARM
+in5:           1.54 V  (min =  +1.75 V, max =  +1.61 V)  ALARM
+in6:           1.07 V  (min =  +1.86 V, max =  +0.14 V)  ALARM
+3VSB:          3.38 V  (min =  +3.74 V, max =  +0.24 V)  ALARM
+Vbat:          3.34 V  
+fan CPU:      782 RPM  (min =   17 RPM)
+fan HDD:     1588 RPM  (min =  101 RPM)
+fan3:           0 RPM  (min =   18 RPM)  ALARM
+temp1:        +41.0 C  (low  = +10.0 C, high = -46.0 C)  ALARM  sensor = thermistor
+temp2:       -128.0 C  (low  = -99.0 C, high = +61.0 C)
+temp3:        -71.0 C  (low  = +84.0 C, high = -62.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +39.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit = +90.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +33.0 C, highest = +35.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +32.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +33.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +34.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +29.0 C  (high = +85.0 C, crit = +105.0 C)
+

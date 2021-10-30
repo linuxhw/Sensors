@@ -1,0 +1,27 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+Core1 Temp:   +31.0°C  
+
+f71882fg-isa-0e80
+Adapter: ISA adapter
++3.3V:        +3.39 V  
+in1:          +1.11 V  (max =  +2.04 V)
+in2:          +0.89 V  
+in3:          +0.73 V  
+in4:          +0.94 V  
+in5:          +1.13 V  
+in6:          +1.65 V  
+3VSB:         +3.38 V  
+Vbat:         +2.99 V  
+fan1:        1443 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +34.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = transistor
+temp2:        +31.0°C  (high = +85.0°C, hyst = +81.0°C)
+                       (crit = +100.0°C, hyst = +96.0°C)  sensor = thermistor
+temp3:          FAULT  (high = +70.0°C, hyst = +68.0°C)
+                       (crit = +85.0°C, hyst = +83.0°C)  sensor = transistor
+
