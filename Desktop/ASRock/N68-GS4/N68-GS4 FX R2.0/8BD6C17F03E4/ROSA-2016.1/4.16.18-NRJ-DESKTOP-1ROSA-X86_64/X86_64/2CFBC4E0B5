@@ -1,0 +1,33 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:          +1.25 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.87 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.25 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.26 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +2.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +1.63 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:            +2.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.09 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:             0 RPM  (min =    0 RPM)
+fan2:          3488 RPM  (min =    0 RPM)
+fan3:             0 RPM  (min =    0 RPM)
+SYSTIN:         +29.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         +33.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         -58.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+intrusion0:    ALARM
+intrusion1:    ALARM
+beep_enable:   disabled
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        3.88 kW (crit =   3.81 kW)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +17.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +97.0 C)
+

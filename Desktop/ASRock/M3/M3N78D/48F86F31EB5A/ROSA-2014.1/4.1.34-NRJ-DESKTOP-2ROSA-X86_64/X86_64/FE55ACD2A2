@@ -1,0 +1,26 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +24.5°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +65.0°C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.14 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +0.07 V  (min =  +0.03 V, max =  +0.07 V)
+AVCC:         +3.26 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.26 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.66 V  (min =  +0.33 V, max =  +0.06 V)  ALARM
+in5:          +1.70 V  (min =  +0.22 V, max =  +0.01 V)  ALARM
+in6:          +1.83 V  (min =  +1.12 V, max =  +0.11 V)  ALARM
+3VSB:         +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.18 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        2445 RPM  (min = 1095 RPM, div = 8)
+fan2:        2678 RPM  (min = 9375 RPM, div = 8)  ALARM
+fan3:           0 RPM  (min =  907 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min = 9375 RPM, div = 16)  ALARM
+temp1:        +37.0°C  (high = -127.0°C, hyst = +20.0°C)  ALARM  sensor = thermistor
+temp2:        +40.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+temp3:        +32.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +0.375 V
+intrusion0:  OK
+

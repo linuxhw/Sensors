@@ -1,0 +1,37 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      202.23 W  (crit = 156.83 W)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.85 V, max =  +1.10 V)
+temp1:        +37.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.42 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +0.13 V  (min =  +0.20 V, max =  +0.14 V)  ALARM
+AVCC:         +2.88 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
++3.3V:        +2.88 V  (min =  +2.98 V, max =  +3.63 V)  ALARM
+in4:          +1.44 V  (min =  +0.41 V, max =  +0.82 V)  ALARM
+in5:          +1.60 V  (min =  +0.22 V, max =  +1.82 V)
+in6:          +1.74 V  (min =  +1.94 V, max =  +0.95 V)  ALARM
+3VSB:         +3.06 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.14 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min = 1125 RPM, div = 16)  ALARM
+fan2:        168750 RPM  (min = 14062 RPM, div = 8)
+fan3:           0 RPM  (min = 1506 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min = 3835 RPM, div = 16)  ALARM
+temp1:        +39.0 C  (high = +61.0 C, hyst = -51.0 C)  sensor = thermistor
+temp2:        +36.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +30.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  OK
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +20.1 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +97.0 C)
+

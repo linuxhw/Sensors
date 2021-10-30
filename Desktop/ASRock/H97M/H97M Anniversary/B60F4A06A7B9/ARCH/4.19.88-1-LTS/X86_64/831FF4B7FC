@@ -1,0 +1,38 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+in0:           872.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:           168.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:             3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in3:             3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           488.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:             1.87 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:             1.69 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:             3.44 V  (min =  +2.98 V, max =  +3.63 V)
+in8:             3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:          1244 RPM  (min =    0 RPM)
+fan2:          1147 RPM  (min =    0 RPM)
+SYSTIN:         +30.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         +41.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         -13.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PECI Agent 0:   +30.0 C  (high = +80.0 C, hyst = +75.0 C)
+                         (crit = +78.0 C)
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+cpu0_vid:      +0.000 V
+intrusion0:    OK
+intrusion1:    OK
+beep_enable:   disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +70.0 C, crit = +78.0 C)
+Core 0:        +34.0 C  (high = +70.0 C, crit = +78.0 C)
+Core 1:        +36.0 C  (high = +70.0 C, crit = +78.0 C)
+Core 2:        +35.0 C  (high = +70.0 C, crit = +78.0 C)
+Core 3:        +38.0 C  (high = +70.0 C, crit = +78.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +27.0 C  
+

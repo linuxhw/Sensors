@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +57.0 C  (crit = +100.0 C)
+Core 1:       +53.0 C  (crit = +100.0 C)
+
+nct6775-isa-0290
+Adapter: ISA adapter
+Vcore:         1.11 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:          3.46 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:         3.46 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           1.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:           1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:           1.71 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:          3.46 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:          3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        18750 RPM  (min =    0 RPM, div = 8)  ALARM
+fan2:         986 RPM  (min =    0 RPM, div = 8)  ALARM
+fan3:           0 RPM  (min =    0 RPM, div = 128)
+fan4:           0 RPM  (div = 128)
+SYSTIN:       +49.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:       +70.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:       -12.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
