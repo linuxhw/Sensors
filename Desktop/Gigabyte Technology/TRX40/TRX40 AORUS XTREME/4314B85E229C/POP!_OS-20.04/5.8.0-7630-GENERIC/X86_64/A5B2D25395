@@ -1,0 +1,79 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    101.23 J
+Ecore001:     66.83 J
+Ecore002:     78.96 J
+Ecore003:     74.23 J
+Ecore004:    109.07 J
+Ecore005:     61.26 J
+Ecore006:     58.37 J
+Ecore007:     66.01 J
+Ecore008:     49.34 J
+Ecore009:     52.89 J
+Ecore010:     45.80 J
+Ecore011:     48.07 J
+Ecore012:     46.80 J
+Ecore013:     51.71 J
+Ecore014:     48.79 J
+Ecore015:     49.78 J
+Ecore016:     51.31 J
+Ecore017:     52.25 J
+Ecore018:     53.53 J
+Ecore019:     53.88 J
+Ecore020:    103.59 J
+Ecore021:     73.29 J
+Ecore022:     94.38 J
+Ecore023:     64.08 J
+Ecore024:     65.65 J
+Ecore025:     51.33 J
+Ecore026:     52.66 J
+Ecore027:     51.66 J
+Ecore028:     50.28 J
+Ecore029:     65.06 J
+Ecore030:     44.79 J
+Ecore031:     44.21 J
+Esocket0:    467.89 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.6 C  
+Tdie:         +51.6 C  
+Tccd1:        +36.5 C  
+Tccd3:        +37.0 C  
+Tccd5:        +36.5 C  
+Tccd7:        +35.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

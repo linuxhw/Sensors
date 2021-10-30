@@ -1,0 +1,62 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +50.0 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+energy1:          N/A
+energy2:          N/A
+energy3:          N/A
+energy4:          N/A
+energy5:          N/A
+energy6:          N/A
+energy7:          N/A
+energy8:          N/A
+energy9:          N/A
+energy10:         N/A
+energy11:         N/A
+energy12:         N/A
+energy13:         N/A
+energy14:         N/A
+energy15:         N/A
+energy16:         N/A
+energy17:         N/A
+energy18:         N/A
+energy19:         N/A
+energy20:         N/A
+energy21:         N/A
+energy22:         N/A
+energy23:         N/A
+energy24:         N/A
+energy25:         N/A
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +52.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +57.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +53.6 C  
+MAC Temperature:  +55.7 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.5 C  
+Tdie:         +66.5 C  
+Tccd1:        +43.0 C  
+Tccd3:        +43.2 C  
+Tccd5:        +41.0 C  
+Tccd7:        +41.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +109.8 C)
+

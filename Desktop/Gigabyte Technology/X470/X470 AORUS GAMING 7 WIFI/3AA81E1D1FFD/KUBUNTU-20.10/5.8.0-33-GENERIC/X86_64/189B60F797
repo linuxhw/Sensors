@@ -1,0 +1,45 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:        +1.35 V  
+Vsoc:         +0.86 V  
+Tctl:         +66.5 C  
+Tdie:         +46.5 C  
+Icore:       +23.00 A  
+Isoc:         +4.50 A  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:       +0.69 V  
+fan1:         912 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +34.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        3.12 W  (cap =  35.00 W)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+DDR Vtt A/B:   +0.60 V  (min =  +0.00 V, max =  +2.78 V)
+Chipset Core:  +1.05 V  (min =  +0.00 V, max =  +2.78 V)
+CPU Vdd18:     +1.79 V  (min =  +0.00 V, max =  +2.78 V)
+DDR Vpp A/B:   +2.50 V  (min =  +0.00 V, max =  +4.63 V)
+3VSB:          +1.68 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          +1.65 V  
+PCIe X8:       +39.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System 2:      +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

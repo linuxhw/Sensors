@@ -1,0 +1,46 @@
+it8686-isa-0a40
+Adapter: ISA adapter
+in0:           1.12 V  (min =  +0.00 V, max =  +3.06 V)
+in1:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.10 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         924.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.43 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.34 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.26 V  
+fan1:        1266 RPM  (min =    0 RPM)
+fan2:         936 RPM  (min =    0 RPM)
+fan3:         792 RPM  (min =    0 RPM)
+fan4:        1726 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +53.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = AMD AMDSI
+temp4:        +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp5:        +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp6:        +49.0 C  (low  = -16.0 C, high = +90.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +53.8 C  (high = +70.0 C)
+Tctl:         +53.8 C  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        1312 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +41.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +42.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +43.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        4.00 W  (cap = 260.00 W)
+

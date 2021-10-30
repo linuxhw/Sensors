@@ -1,0 +1,35 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +51.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +48.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +45.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +48.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +34.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +45.0°C  (high = +80.0°C, crit = +98.0°C)
+
+it8728-isa-0290
+Adapter: ISA adapter
+in0:          +1.06 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +2.93 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.94 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +0.16 V  (min =  +0.00 V, max =  +1.09 V)
+in5:          +0.96 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +1.54 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.36 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.14 V  
+fan1:        1510 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        1021 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +46.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +25.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp3:        +39.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = Intel PECI
+intrusion0:  OK
+

@@ -1,0 +1,95 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.2 C  
+Tdie:         +52.2 C  
+Tccd1:        +48.2 C  
+Tccd3:        +39.8 C  
+Tccd5:        +36.5 C  
+Tccd7:        +40.2 C  
+
+hidpp_battery_4-hid-3-31
+Adapter: HID adapter
+in0:           4.05 V  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4400
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    524.35 kJ
+Ecore001:    524.35 kJ
+Ecore002:    524.37 kJ
+Ecore003:    524.34 kJ
+Ecore004:    524.39 kJ
+Ecore005:    524.32 kJ
+Ecore006:    524.33 kJ
+Ecore007:    524.33 kJ
+Ecore008:    524.35 kJ
+Ecore009:    524.33 kJ
+Ecore010:    524.32 kJ
+Ecore011:    524.32 kJ
+Ecore012:    524.37 kJ
+Ecore013:    524.36 kJ
+Ecore014:    524.37 kJ
+Ecore015:    524.37 kJ
+Ecore016:    524.33 kJ
+Ecore017:    524.31 kJ
+Ecore018:    524.32 kJ
+Ecore019:    524.32 kJ
+Ecore020:    524.35 kJ
+Ecore021:    524.33 kJ
+Ecore022:    524.32 kJ
+Ecore023:    524.33 kJ
+Ecore024:    524.33 kJ
+Ecore025:    524.34 kJ
+Ecore026:    524.33 kJ
+Ecore027:    524.32 kJ
+Ecore028:    524.34 kJ
+Ecore029:    524.34 kJ
+Ecore030:    524.36 kJ
+Ecore031:    524.34 kJ
+Esocket0:      8.73 MJ
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4d00
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

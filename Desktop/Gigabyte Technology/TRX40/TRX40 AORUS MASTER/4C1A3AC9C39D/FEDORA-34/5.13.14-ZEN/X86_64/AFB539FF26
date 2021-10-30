@@ -1,0 +1,58 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           2.70 V  (min =  +0.00 V, max =  +2.78 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in2:         981.00 mV (min =  +0.00 V, max =  +2.78 V)
+in3:          98.00 mV (min =  +0.00 V, max =  +2.78 V)
+in4:           1.78 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.67 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.65 V  
+fan1:        1896 RPM  (min =    0 RPM)
+fan2:        2319 RPM  (min =    0 RPM)
+fan3:        6887 RPM  (min =    0 RPM)
+temp1:        +47.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +51.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.9 C  
+Tdie:         +44.9 C  
+Tccd1:        +47.0 C  
+Tccd3:        +46.8 C  
+Tccd5:        +46.0 C  
+Tccd7:        +43.5 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +69.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +47.0 C  
+MAC Temperature:  +50.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +68.8 C)
+                       (crit = +71.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+

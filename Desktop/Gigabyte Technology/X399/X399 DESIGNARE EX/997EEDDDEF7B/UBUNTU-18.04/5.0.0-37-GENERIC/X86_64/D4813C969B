@@ -1,0 +1,36 @@
+k10temp-pci-00db
+Adapter: PCI adapter
+Tdie:         +56.0 C  (high = +70.0 C)
+Tctl:         +83.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +56.1 C  (high = +70.0 C)
+Tctl:         +83.1 C  
+
+amdgpu-pci-4500
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 4950 RPM)
+edge:             N/A  (crit = +118.0 C, hyst =  +0.0 C)
+                       (emerg = +80000.0 C)
+junction:         N/A  (crit = +80000.0 C, hyst =  +0.0 C)
+                       (emerg = +80000.0 C)
+mem:              N/A  (crit = +80000.0 C, hyst =  +0.0 C)
+                       (emerg = +80000.0 C)
+power1:       11.00 W  (cap = 150.00 W)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tdie:         +62.0 C  (high = +70.0 C)
+Tctl:         +89.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +64.9 C  (high = +70.0 C)
+Tctl:         +91.9 C  
+

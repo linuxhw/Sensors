@@ -1,0 +1,29 @@
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +43.7 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.1 C  
+Tdie:         +53.1 C  
+Tccd1:        +32.8 C  
+Tccd3:        +35.0 C  
+Tccd5:        +36.2 C  
+Tccd7:        +36.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+

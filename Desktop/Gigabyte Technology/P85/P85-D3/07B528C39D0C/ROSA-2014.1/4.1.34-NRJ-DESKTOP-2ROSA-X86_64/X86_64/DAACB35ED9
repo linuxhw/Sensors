@@ -1,0 +1,41 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +105.0°C)
+temp2:        +29.8°C  (crit = +105.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        314730 RPM
+temp1:        +41.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +41.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:         +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:         +38.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:         +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:         +41.0°C  (high = +80.0°C, crit = +100.0°C)
+
+it8728-isa-0a30
+Adapter: ISA adapter
+in0:          +1.12 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +1.98 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +0.01 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +1.75 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +1.34 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.38 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.17 V  
+fan1:        1305 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +32.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +24.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp3:        +32.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = Intel PECI
+intrusion0:  ALARM
+

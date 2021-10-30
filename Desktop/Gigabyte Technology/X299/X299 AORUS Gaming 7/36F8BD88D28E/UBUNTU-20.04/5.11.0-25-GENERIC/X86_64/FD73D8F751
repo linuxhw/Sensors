@@ -1,0 +1,45 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +38.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +37.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +37.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +36.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +37.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +35.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 13:       +36.0 C  (high = +83.0 C, crit = +93.0 C)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:            N/A  
+
+corsairpsu-hid-3-5
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     4.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +52.0 C  
+case temp:    +42.0 C  
+power total: 132.00 W  
+power +12v:  104.00 W  
+power +5v:    23.00 W  
+power +3.3v:   6.00 W  
+curr in:          N/A  
+curr +12v:     8.00 A  
+curr +5v:      4.00 A  
+curr +3.3v:  1000.00 mA 
+

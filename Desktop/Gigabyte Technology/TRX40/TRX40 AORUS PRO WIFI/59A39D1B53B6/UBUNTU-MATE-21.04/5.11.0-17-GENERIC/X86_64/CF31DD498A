@@ -1,0 +1,59 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:      9.33 kJ
+Ecore001:      2.75 kJ
+Ecore002:     31.56 kJ
+Ecore003:      2.80 kJ
+Ecore004:    230.29 kJ
+Ecore005:     72.26 kJ
+Ecore006:      3.11 kJ
+Ecore007:      2.95 kJ
+Ecore008:     27.36 kJ
+Ecore009:      2.41 kJ
+Ecore010:      3.24 kJ
+Ecore011:      3.44 kJ
+Ecore012:    233.46 kJ
+Ecore013:      2.49 kJ
+Ecore014:      2.81 kJ
+Ecore015:      5.05 kJ
+Ecore016:      5.83 kJ
+Ecore017:      6.17 kJ
+Ecore018:      5.71 kJ
+Ecore019:      5.11 kJ
+Ecore020:     32.84 kJ
+Ecore021:      3.43 kJ
+Ecore022:      3.41 kJ
+Ecore023:      3.42 kJ
+Ecore024:      4.19 kJ
+Ecore025:      1.85 kJ
+Ecore026:      1.89 kJ
+Ecore027:      2.02 kJ
+Ecore028:      2.11 kJ
+Ecore029:      2.14 kJ
+Ecore030:      1.99 kJ
+Ecore031:      1.98 kJ
+Esocket0:      5.42 MJ
+
+nouveau-pci-2100
+Adapter: PCI adapter
+temp1:        +27.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.1 C  
+Tdie:         +46.1 C  
+Tccd1:        +32.0 C  
+Tccd3:        +38.2 C  
+Tccd5:        +46.2 C  
+Tccd7:        +34.2 C  
+

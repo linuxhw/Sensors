@@ -1,0 +1,56 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 0:        +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 1:        +27.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 2:        +26.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 3:        +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 4:        +29.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 8:        +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 9:        +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 10:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 11:       +29.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 16:       +27.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 17:       +29.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 18:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 19:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 20:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 24:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 25:       +27.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 26:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+Core 27:       +28.0 C  (high = +76.0 C, crit = +86.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp7s0-pci-0700
+Adapter: PCI adapter
+PHY Temperature:  +55.5 C  
+MAC Temperature:  +60.0 C  
+
+ucsi_source_psy_4_00081-i2c-4-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_3_00081-i2c-3-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-b300
+Adapter: PCI adapter
+Composite:    +59.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

@@ -1,0 +1,37 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +58.4 C  
+Tdie:         +31.4 C  
+
+nouveau-pci-4100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.05 V)
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.42 V  (min =  +0.00 V, max =  +2.78 V)
+in1:           1.49 V  (min =  +0.00 V, max =  +2.78 V)
+in2:           1.02 V  (min =  +0.00 V, max =  +2.78 V)
+in3:           2.01 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.78 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.49 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.67 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.60 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:        1227 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +29.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+temp3:        +25.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +58.5 C  
+Tdie:         +31.5 C  
+Tccd1:        +53.2 C  
+

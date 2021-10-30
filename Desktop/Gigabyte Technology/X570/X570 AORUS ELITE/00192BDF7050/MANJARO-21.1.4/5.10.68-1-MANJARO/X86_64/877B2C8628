@@ -1,0 +1,25 @@
+hidpp_battery_1-hid-3-a
+Adapter: HID adapter
+in0:           4.13 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.5 C  
+Tdie:         +49.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+hidpp_battery_4-hid-3-13
+Adapter: HID adapter
+in0:           4.13 V  
+
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         782 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +58.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.10 W  (cap = 145.00 W)
+

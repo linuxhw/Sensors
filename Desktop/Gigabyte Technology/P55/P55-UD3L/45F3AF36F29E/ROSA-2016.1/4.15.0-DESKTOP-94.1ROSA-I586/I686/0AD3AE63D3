@@ -1,0 +1,33 @@
+it8720-isa-0290
+Adapter: ISA adapter
+in0:         880.00 mV (min =  +0.00 V, max =  +4.08 V)
+in1:           1.58 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.38 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           2.98 V  (min =  +0.00 V, max =  +4.08 V)
+in4:         240.00 mV (min =  +0.00 V, max =  +4.08 V)
+in5:           3.10 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          16.00 mV (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:          2.96 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.30 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:         675 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:        2657 RPM  (min =    0 RPM)
+temp1:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +25.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +25.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+intrusion0:  OK
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    962.00 mV (min =  +0.82 V, max =  +1.16 V)
+fan1:        1350 RPM
+temp1:        +43.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +40.0 C  (high = +89.0 C, crit = +105.0 C)
+

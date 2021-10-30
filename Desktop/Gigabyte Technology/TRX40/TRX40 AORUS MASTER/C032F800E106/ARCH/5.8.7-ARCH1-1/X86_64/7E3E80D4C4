@@ -1,0 +1,62 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +42.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    365.98 J
+Ecore001:    266.80 J
+Ecore002:    224.87 J
+Ecore003:    361.61 J
+Ecore004:    256.00 J
+Ecore005:    214.35 J
+Ecore006:    276.62 J
+Ecore007:    208.44 J
+Ecore008:    208.25 J
+Ecore009:    260.53 J
+Ecore010:    221.30 J
+Ecore011:    273.46 J
+Ecore012:    492.63 J
+Ecore013:    375.11 J
+Ecore014:    519.09 J
+Ecore015:    647.53 J
+Ecore016:    526.88 J
+Ecore017:    641.59 J
+Ecore018:    487.51 J
+Ecore019:    409.44 J
+Ecore020:    301.69 J
+Ecore021:    473.72 J
+Ecore022:    851.29 J
+Ecore023:    487.65 J
+Esocket0:    147.36 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.6 C  
+Tdie:         +52.6 C  
+Tccd1:        +39.0 C  
+Tccd3:        +41.8 C  
+Tccd5:        +42.5 C  
+Tccd7:        +43.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+

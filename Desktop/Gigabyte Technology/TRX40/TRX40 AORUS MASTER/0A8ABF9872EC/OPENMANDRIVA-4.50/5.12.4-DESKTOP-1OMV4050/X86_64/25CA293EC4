@@ -1,0 +1,95 @@
+hidpp_battery_0-hid-3-8
+Adapter: HID adapter
+in0:           4.09 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4b00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +58.2 C  
+MAC Temperature:  +54.3 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.0 C  
+Tdie:         +48.0 C  
+Tccd1:        +36.8 C  
+Tccd3:        +35.8 C  
+Tccd5:        +38.0 C  
+Tccd7:        +36.2 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    345.93 J
+Ecore001:    226.65 J
+Ecore002:    240.04 J
+Ecore003:    239.48 J
+Ecore004:    228.44 J
+Ecore005:    237.67 J
+Ecore006:    231.93 J
+Ecore007:    226.60 J
+Ecore008:    237.31 J
+Ecore009:    249.18 J
+Ecore010:    258.60 J
+Ecore011:    294.40 J
+Ecore012:    296.11 J
+Ecore013:    277.72 J
+Ecore014:    282.78 J
+Ecore015:    279.05 J
+Ecore016:    287.55 J
+Ecore017:    281.40 J
+Ecore018:    256.58 J
+Ecore019:    262.20 J
+Ecore020:    279.58 J
+Ecore021:    283.23 J
+Ecore022:    238.35 J
+Ecore023:    238.17 J
+Esocket0:     41.95 kJ
+
+amdgpu-pci-2300
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +55.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +56.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       35.00 W  (cap = 281.00 W)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4a00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

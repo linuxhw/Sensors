@@ -1,0 +1,37 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-4600
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      1000.00 mV 
+fan1:         817 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       29.16 W  (cap = 127.00 W)
+
+nvme-pci-4500
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +46.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +57.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +45.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +46.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+

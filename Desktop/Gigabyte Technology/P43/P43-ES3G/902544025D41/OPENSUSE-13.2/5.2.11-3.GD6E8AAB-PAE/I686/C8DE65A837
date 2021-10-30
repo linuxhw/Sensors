@@ -1,0 +1,26 @@
+it8718-isa-0290
+Adapter: ISA adapter
+VCore:        +1.22 V  (min =  +1.01 V, max =  +1.34 V)
+VDDR:         +1.89 V  (min =  +1.71 V, max =  +1.89 V)  ALARM
++3.3V:        +3.31 V  (min =  +3.14 V, max =  +3.47 V)
++5V:          +5.05 V  (min =  +4.76 V, max =  +5.24 V)
++12V:        +12.10 V  (min = +11.39 V, max = +12.61 V)
+VBat:         +3.09 V  
+CPU Fan:     1336 RPM  (min = 1000 RPM)
+M/B Temp:     +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU Temp:     +35.0 C  (low  = +127.0 C, high = +80.0 C)  sensor = thermal diode
+cpu0_vid:    +1.100 V
+intrusion0:  ALARM
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:           N/A  
+fan1:           0 RPM
+temp1:        +35.0 C  (crit = +120.0 C, hyst = +90.0 C)
+power1:           N/A  (cap =   0.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +45.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +38.0 C  (high = +76.0 C, crit = +100.0 C)
+

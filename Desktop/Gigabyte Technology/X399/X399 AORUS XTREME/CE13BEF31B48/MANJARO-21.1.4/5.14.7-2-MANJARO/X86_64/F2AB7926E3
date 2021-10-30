@@ -1,0 +1,46 @@
+amdgpu-pci-4400
+Adapter: PCI adapter
+vddgfx:        1.02 V  
+fan1:        2205 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +72.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +84.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +93.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:      165.00 W  (cap = 165.00 W)
+
+enp7s0-pci-0700
+Adapter: PCI adapter
+PHY Temperature:  +66.4 C  
+MAC Temperature:  +65.8 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +75.8 C  
+Tdie:         +48.8 C  
+Tccd1:        +76.2 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -0.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +75.8 C  
+Tdie:         +48.8 C  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+

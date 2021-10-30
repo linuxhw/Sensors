@@ -1,0 +1,71 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.5 C  
+Tdie:         +40.5 C  
+Tccd1:        +40.0 C  
+Tccd3:        +37.8 C  
+Tccd5:        +40.5 C  
+Tccd7:        +44.0 C  
+
+nvme-pci-4a00
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +117.8 C)
+                       (crit = +149.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     54.60 J
+Ecore001:     27.07 J
+Ecore002:     33.30 J
+Ecore003:     33.92 J
+Ecore004:     35.02 J
+Ecore005:     39.79 J
+Ecore006:     37.60 J
+Ecore007:     29.43 J
+Ecore008:     38.79 J
+Ecore009:     31.72 J
+Ecore010:     33.42 J
+Ecore011:     25.31 J
+Ecore012:     32.69 J
+Ecore013:     31.61 J
+Ecore014:     29.63 J
+Ecore015:     24.70 J
+Ecore016:     26.88 J
+Ecore017:     23.05 J
+Ecore018:     29.32 J
+Ecore019:     26.03 J
+Ecore020:     31.64 J
+Ecore021:     30.07 J
+Ecore022:     29.92 J
+Ecore023:     29.60 J
+Esocket0:      9.55 kJ
+Esocket1:      9.55 kJ
+Esocket2:      9.55 kJ
+Esocket3:      9.55 kJ
+Esocket4:      9.55 kJ
+Esocket5:      9.55 kJ
+Esocket6:      9.55 kJ
+Esocket7:      9.55 kJ
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp69s0-pci-4500
+Adapter: PCI adapter
+PHY Temperature:  +43.7 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+

@@ -1,0 +1,85 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:      2.55 kJ
+Ecore001:      1.99 kJ
+Ecore002:      2.77 kJ
+Ecore003:      3.81 kJ
+Ecore004:      2.30 kJ
+Ecore005:      1.54 kJ
+Ecore006:      3.27 kJ
+Ecore007:      1.98 kJ
+Ecore008:      2.23 kJ
+Ecore009:      3.22 kJ
+Ecore010:      2.87 kJ
+Ecore011:      1.70 kJ
+Ecore012:      4.31 kJ
+Ecore013:      2.69 kJ
+Ecore014:      3.42 kJ
+Ecore015:      4.31 kJ
+Ecore016:      2.28 kJ
+Ecore017:      2.49 kJ
+Ecore018:      3.47 kJ
+Ecore019:      2.60 kJ
+Ecore020:      1.86 kJ
+Ecore021:      3.80 kJ
+Ecore022:      2.04 kJ
+Ecore023:      1.55 kJ
+Esocket0:    375.90 kJ
+
+amdgpu-pci-2300
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +50.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +51.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +60.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       34.00 W  (cap = 190.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+hidpp_battery_0-hid-3-a
+Adapter: HID adapter
+in0:           4.05 V  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           2.69 V  (min =  +0.00 V, max =  +2.78 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in2:         981.00 mV (min =  +0.00 V, max =  +2.78 V)
+in3:           2.02 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.78 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.66 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.59 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        7758 RPM  (min =    0 RPM)
+temp1:        +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +41.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.6 C  
+Tdie:         +65.6 C  
+Tccd1:        +54.0 C  
+Tccd3:        +49.5 C  
+Tccd5:        +53.0 C  
+Tccd7:        +48.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

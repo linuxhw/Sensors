@@ -1,0 +1,74 @@
+k10temp-pci-00db
+Adapter: PCI adapter
+Tdie:         +32.8 C  
+Tctl:         +59.8 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tdie:         +32.0 C  
+Tctl:         +59.0 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+amdgpu-pci-4500
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +51.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +51.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +54.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       22.00 W  (cap = 220.00 W)
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+enp7s0-pci-0700
+Adapter: PCI adapter
+PHY Temperature:  +60.0 C  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tdie:         +35.1 C  
+Tctl:         +62.1 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +42.9 C  
+Tctl:         +69.9 C  
+Tccd1:        +59.0 C  
+Tccd2:        +62.2 C  
+Tccd3:        +60.0 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:        1126 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +33.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +34.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +37.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       21.00 W  (cap = 250.00 W)
+
+nvme-pci-4200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
