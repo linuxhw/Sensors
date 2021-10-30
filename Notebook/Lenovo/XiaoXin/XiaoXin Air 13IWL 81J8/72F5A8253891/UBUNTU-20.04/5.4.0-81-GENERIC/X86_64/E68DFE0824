@@ -1,0 +1,16 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +76.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +97.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +83.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +97.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +81.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +85.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.09 V  
+
