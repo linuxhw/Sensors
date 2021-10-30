@@ -1,0 +1,25 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +64.0°C  (crit = +100.0°C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +64.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         598 RPM
+temp1:        +64.0°C  
+temp2:         +0.0°C  
+temp3:        +64.0°C  
+temp4:         +0.0°C  
+temp5:         +0.0°C  
+temp6:         +0.0°C  
+temp7:        +32.0°C  
+temp8:         +0.0°C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +64.8°C  (high = +70.0°C)
+                       (crit = +100.0°C, hyst = +97.0°C)
+

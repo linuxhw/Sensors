@@ -1,0 +1,41 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         585 RPM
+temp1:        +56.0 C  
+temp2:         +0.0 C  
+temp3:        +56.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:        +29.0 C  
+temp8:         +0.0 C  
+temp9:        +40.0 C  
+temp10:        +0.0 C  
+temp11:        +0.0 C  
+temp12:        +0.0 C  
+temp13:        +0.0 C  
+temp14:        +0.0 C  
+temp15:        +0.0 C  
+temp16:        +0.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  15.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.68 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +56.5 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +56.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +56.0 C  (crit = +100.0 C)
+

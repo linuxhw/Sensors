@@ -1,0 +1,34 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.1 C  
+Tdie:         +52.1 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +51.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +52.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.03 V  
+

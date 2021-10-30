@@ -1,0 +1,45 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     70.68 J
+Ecore001:     70.68 J
+Ecore002:     26.30 J
+Ecore003:     26.30 J
+Esocket0:    743.53 J
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +42.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +42.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:     +7.8 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:      +8.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       688.00 mV 
+Vsoc:          1.04 V  
+Tctl:         +42.8 C  
+Tdie:         +42.8 C  
+Icore:         7.00 A  
+Isoc:          8.75 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.79 V  
+

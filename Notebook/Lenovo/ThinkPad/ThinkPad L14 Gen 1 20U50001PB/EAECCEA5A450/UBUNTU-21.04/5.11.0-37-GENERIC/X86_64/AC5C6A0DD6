@@ -1,0 +1,49 @@
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.31 V  
+vddnb:       731.00 mV 
+edge:         +44.0 C  
+power1:        6.00 W  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        4521 RPM
+temp1:        +72.0 C  
+temp2:            N/A  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max = +20.00 V)
+curr1:         3.00 A  (max =  +3.25 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +71.1 C  
+Tdie:         +71.1 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.38 V  
+

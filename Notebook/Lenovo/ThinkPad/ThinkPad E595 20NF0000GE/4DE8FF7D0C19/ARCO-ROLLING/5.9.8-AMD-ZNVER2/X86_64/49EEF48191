@@ -1,0 +1,31 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +83.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        4800 RPM
+temp1:        +83.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.32 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       925.00 mV 
+Vsoc:          1.03 V  
+Tctl:         +83.6 C  
+Tdie:         +83.6 C  
+Icore:        81.00 A  
+Isoc:         17.00 A  
+

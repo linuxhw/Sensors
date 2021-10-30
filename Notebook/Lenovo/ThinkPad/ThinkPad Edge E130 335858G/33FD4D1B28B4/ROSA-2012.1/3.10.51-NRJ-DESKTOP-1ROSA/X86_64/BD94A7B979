@@ -1,0 +1,22 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         598 RPM
+temp1:        +45.0°C  
+temp2:         +0.0°C  
+temp3:        +45.0°C  
+temp4:         +0.0°C  
+temp5:         +0.0°C  
+temp6:         +0.0°C  
+temp7:        +19.0°C  
+temp8:         +0.0°C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +45.0°C  (crit = +99.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +42.0°C  (high = +86.0°C, crit = +100.0°C)
+Core 0:         +42.0°C  (high = +86.0°C, crit = +100.0°C)
+Core 1:         +41.0°C  (high = +86.0°C, crit = +100.0°C)
+
