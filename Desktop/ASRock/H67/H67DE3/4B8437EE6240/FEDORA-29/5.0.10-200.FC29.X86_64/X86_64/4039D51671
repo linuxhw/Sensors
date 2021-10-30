@@ -1,0 +1,26 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+CPUVCORE          -          VCore                      :  +1.02 V  (min =  +0.88 V, max =  +1.26 V)
+AVCC              -  +3.3V - Analog VCC                 :  +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+3VCC              -  +3.3V                              :  +3.30 V  (min =  +2.98 V, max =  +3.63 V)
+                  -  +5.0V                              :  +5.02 V  (min =  +4.25 V, max =  +5.50 V)
+                  - +12.0V                              : +12.67 V  (min = +11.42 V, max = +13.25 V)
+3VSB              -  +3.3V - Voltage standby            :  +3.44 V  (min =  +2.98 V, max =  +3.63 V)
+VBAT              -  +3.3V - CMOS Battery               :  +3.25 V  (min =  +2.70 V, max =  +3.63 V)
+CHA_FAN1          - Chassis FAN 1                       :  778 RPM  (min =  600 RPM)
+POWER_FAN         - Power   FAN 1                       :  780 RPM  (min =  600 RPM)
+CHA_FAN2          - Chassis FAN 2                       :  685 RPM  (min =  600 RPM)
+CHA_FAN3          - Chassis FAN 3                       :  612 RPM  (min =  600 RPM)
+SYSTIN            - M/B Temp                            :  +29.0 C  (high = +35.0 C, hyst = +38.0 C)  sensor = thermistor
+CPUTIN            - CPU Temp                            :  +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN            - Aux Temp                            :  +23.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+Beep Status                                             : disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Processeur 1                                            :  +37.0 C  (high = +80.0 C, crit = +99.0 C)
+Processeur 1      - Coeur 1                             :  +34.0 C  (high = +80.0 C, crit = +99.0 C)
+Processeur 1      - Coeur 2                             :  +32.0 C  (high = +80.0 C, crit = +99.0 C)
+Processeur 1      - Coeur 3                             :  +33.0 C  (high = +80.0 C, crit = +99.0 C)
+Processeur 1      - Coeur 4                             :  +29.0 C  (high = +80.0 C, crit = +99.0 C)
+

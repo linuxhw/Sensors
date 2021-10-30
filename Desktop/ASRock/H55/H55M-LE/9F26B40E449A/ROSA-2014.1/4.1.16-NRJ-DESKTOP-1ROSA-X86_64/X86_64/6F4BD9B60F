@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +33.0°C  (high = +89.0°C, crit = +105.0°C)
+Core 2:       +24.0°C  (high = +89.0°C, crit = +105.0°C)
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +50.5°C  (crit = +120.0°C, hyst = +90.0°C)
+
+w83667hg-isa-0290
+Adapter: ISA adapter
+Vcore:        +0.89 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.80 V  (min =  +1.68 V, max =  +0.14 V)  ALARM
+AVCC:         +3.41 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +0.14 V  (min =  +1.65 V, max =  +1.45 V)  ALARM
+in5:          +1.73 V  (min =  +1.78 V, max =  +0.68 V)  ALARM
+3VSB:         +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.26 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:         878 RPM  (min =  366 RPM, div = 32)
+fan2:        2008 RPM  (min =  463 RPM, div = 32)
+fan3:           0 RPM  (min = 10546 RPM, div = 128)  ALARM
+SYSTIN:       +36.0°C  (high = +117.0°C, hyst = -102.0°C)  sensor = thermistor
+CPUTIN:       +34.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN:      +127.5°C  (high = +80.0°C, hyst = +75.0°C)  ALARM  sensor = thermistor
+cpu0_vid:    +1.150 V
+intrusion0:  ALARM
+
