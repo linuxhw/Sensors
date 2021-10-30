@@ -1,0 +1,21 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  24.99 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.73 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +56.1 C  (high = +70.0 C)
+                       (crit = +96.0 C, hyst = +90.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +54.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +57.0 C  (crit = +255.0 C)
+
