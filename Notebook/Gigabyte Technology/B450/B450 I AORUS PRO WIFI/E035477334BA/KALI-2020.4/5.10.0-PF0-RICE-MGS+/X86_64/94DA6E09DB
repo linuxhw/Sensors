@@ -1,0 +1,27 @@
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  
+
+test_battery-virtual-0
+Adapter: Virtual device
+in0:           3.00 mV 
+temp:          +2.6 C  
+curr1:        -2.00 mA (avg =  -0.00 A)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      812.00 mV 
+fan1:        1947 RPM  (min = 1800 RPM, max = 6000 RPM)
+edge:         +55.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        8.20 W  (cap =  35.00 W)
+
+test_battery-virtual-0
+Adapter: Virtual device
+in0:              N/A  
+temp1:         +2.6 C  
+curr1:            N/A  (avg =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+

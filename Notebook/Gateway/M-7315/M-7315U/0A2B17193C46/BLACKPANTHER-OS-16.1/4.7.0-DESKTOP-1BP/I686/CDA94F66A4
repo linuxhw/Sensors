@@ -1,0 +1,9 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +78.0 C  (high = +85.0 C, crit = +85.0 C)  ALARM (CRIT)
+Core 1:       +78.0 C  (high = +85.0 C, crit = +85.0 C)  ALARM (CRIT)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +78.0 C  (crit = +86.0 C)
+

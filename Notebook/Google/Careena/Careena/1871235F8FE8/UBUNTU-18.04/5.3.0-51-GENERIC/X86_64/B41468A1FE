@@ -1,0 +1,29 @@
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       10.57 mW (avg =  17.30 mW, interval =   0.01 s)
+                       (crit =   6.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.66 V  
+curr1:         2.62 A  
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:          15.07 V  
+curr1:            N/A  (max =  +3.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +65.6 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +84.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +64.8 C  (crit = +94.0 C)
+
