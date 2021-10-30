@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +46.0 C  (high = +86.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.52 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2178 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +37.0 C  (crit = +98.0 C)
+
