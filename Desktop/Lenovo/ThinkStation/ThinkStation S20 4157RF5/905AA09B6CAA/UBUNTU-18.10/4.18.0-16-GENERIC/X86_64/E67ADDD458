@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +60.0 C  (high = +68.0 C, crit = +88.0 C)
+Core 2:       +57.0 C  (high = +68.0 C, crit = +88.0 C)
+
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:02:00.0-bus-0003
+in1:          +3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.29 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:         802 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +64.5 C  (low  = +70.0 C, high = +85.0 C)  ALARM
+                       (crit = +88.0 C, hyst = +88.0 C)
+Board Temp:   +54.2 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +100.0 C)
+temp3:        +64.2 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +107.0 C, hyst = +103.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +1.05 V  (min =  +1.05 V, max =  +1.18 V)
+

@@ -1,0 +1,21 @@
+nouveau-pci-b300
+Adapter: PCI adapter
+temp1:         +1.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +32.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+
+nouveau-pci-6500
+Adapter: PCI adapter
+fan1:         989 RPM
+temp1:        +52.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

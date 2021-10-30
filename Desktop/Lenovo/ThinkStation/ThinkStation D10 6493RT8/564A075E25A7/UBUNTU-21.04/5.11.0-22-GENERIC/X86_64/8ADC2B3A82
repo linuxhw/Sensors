@@ -1,0 +1,27 @@
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +58.5 C  (low  = +100.0 C, high = +124.0 C)
+Ch. 0 DIMM 1:  +53.5 C  (low  = +102.5 C, high = +124.0 C)
+Ch. 1 DIMM 0:  +63.5 C  (low  = +99.0 C, high = +124.0 C)
+Ch. 1 DIMM 1:  +50.5 C  (low  = +102.5 C, high = +124.0 C)
+Ch. 2 DIMM 0:  +53.0 C  (low  = +103.5 C, high = +124.0 C)
+Ch. 3 DIMM 0:  +50.5 C  (low  = +104.5 C, high = +124.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +40.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +47.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +46.0 C  (high = +84.0 C, crit = +100.0 C)
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +40.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +40.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +43.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +40.0 C  (high = +84.0 C, crit = +100.0 C)
+

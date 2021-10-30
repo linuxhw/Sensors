@@ -1,0 +1,18 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +35.2 C  
+Tdie:         +35.2 C  
+
+nvme-pci-1b00
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -20.1 C, high = +84.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +49.9 C  (low  = -20.1 C, high = +84.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +77.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

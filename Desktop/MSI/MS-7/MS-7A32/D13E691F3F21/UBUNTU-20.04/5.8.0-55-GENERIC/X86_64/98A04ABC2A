@@ -1,0 +1,16 @@
+amdgpu-pci-2700
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1060 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +28.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       31.19 W  (cap = 190.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.36 V  
+Vsoc:          1.13 V  
+Tctl:         +56.4 C  
+Tdie:         +36.4 C  
+Icore:        22.00 A  
+Isoc:          7.75 A  
+

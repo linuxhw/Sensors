@@ -1,0 +1,20 @@
+it8718-isa-0290
+Adapter: ISA adapter
+in0:           1.17 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:           2.03 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:           3.06 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:           2.90 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:           3.01 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:           2.90 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:           2.90 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in7:         960.00 mV (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:          4.08 V  
+fan1:        1336 RPM  (min =    0 RPM)
+fan2:        1610 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +37.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+temp2:        +41.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermal diode
+temp3:       -128.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = disabled
+cpu0_vid:    +1.313 V
+intrusion0:  OK
+

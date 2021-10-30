@@ -1,0 +1,83 @@
+jc42-i2c-0-1c
+Adapter: SMBus I801 adapter at 1100
+temp1:        +37.2 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  -1.5 C)
+                       (crit = +75.5 C, hyst = +74.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at 1100
+temp1:        +37.8 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  -1.5 C)
+                       (crit = +75.2 C, hyst = +73.8 C)
+
+adt7490-i2c-0-2c
+Adapter: SMBus I801 adapter at 1100
+in0:           2.42 V  (min =  +0.00 V, max =  +3.31 V)
+in1:         917.00 mV (min =  +0.00 V, max =  +2.99 V)
+in2:           3.34 V  (min =  +2.96 V, max =  +3.63 V)
+in3:           5.07 V  (min =  +4.50 V, max =  +5.50 V)
+in4:          11.95 V  (min =  +0.00 V, max = +15.69 V)
+in5:           2.30 V  (min =  +0.00 V, max =  +4.48 V)
+fan1:           0 RPM  (min =    0 RPM)
+fan2:        3600 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +71.5 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp2:        +48.8 C  (low  = -127.0 C, high = +127.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:          FAULT  (low  = -127.0 C, high = +127.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +96.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +32.0 C  (high = +80.0 C, crit = +96.0 C)
+
+w83627dhg-isa-0290
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           0.00 V  (min =  +1.10 V, max =  +1.96 V)  ALARM
+in2:           3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in3:           3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           0.00 V  (min =  +0.67 V, max =  +0.65 V)  ALARM
+in5:           0.00 V  (min =  +1.06 V, max =  +0.63 V)  ALARM
+in6:           0.00 V  (min =  +1.72 V, max =  +0.88 V)  ALARM
+in7:           3.46 V  (min =  +2.98 V, max =  +3.63 V)
+in8:           3.34 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        1061 RPM  (min =    0 RPM, div = 8)
+fan2:         847 RPM  (min =    0 RPM, div = 8)
+fan3:         975 RPM  (min =    0 RPM, div = 8)
+fan4:        1534 RPM  (min =    0 RPM, div = 16)
+fan5:           0 RPM  (min = 1360 RPM, div = 16)  ALARM
+temp1:        +18.0 C  (high =  -5.0 C, hyst = +41.0 C)  sensor = CPU diode
+temp2:        +24.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +24.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 1100
+temp1:        +38.2 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  -1.5 C)
+                       (crit = +75.5 C, hyst = +74.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 1100
+temp1:        +37.5 C  (low  =  +0.0 C)                  ALARM (HIGH)
+                       (high =  +0.0 C, hyst =  -1.5 C)
+                       (crit = +74.8 C, hyst = +73.2 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +27.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +24.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +27.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +27.0 C  (high = +80.0 C, crit = +96.0 C)
+

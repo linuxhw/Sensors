@@ -1,0 +1,35 @@
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.11 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.30 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +44.8 C  (crit = +70.0 C)
+case temp:    +39.5 C  (crit = +70.0 C)
+power total:  56.00 W  
+power +12v:   42.00 W  
+power +5v:    11.50 W  
+power +3.3v:   2.50 W  
+curr +12v:     3.75 A  (crit max = +85.00 A)
+curr +5v:      2.31 A  (crit max = +40.00 A)
+curr +3.3v:  875.00 mA (crit max = +40.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.9 C  
+Tdie:         +28.9 C  
+
+amdgpu-pci-2000
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+fan1:        1388 RPM  (min =    0 RPM, max = 4100 RPM)
+edge:         +44.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:        7.13 W  (cap = 180.00 W)
+
+kraken2-hid-3-3
+Adapter: HID adapter
+Fan:          738 RPM
+Pump:        1992 RPM
+Coolant:      +30.8 C  
+

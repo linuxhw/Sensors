@@ -1,0 +1,18 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.23 V  
+Vsoc:          1.13 V  
+Tdie:         +51.9 C  
+Tctl:         +51.9 C  
+Icore:        16.00 A  
+Isoc:          8.00 A  
+
+nouveau-pci-2000
+Adapter: PCI adapter
+GPU core:    987.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:        1110 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       27.92 W  (crit = 250.00 mW)
+

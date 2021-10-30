@@ -1,0 +1,21 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +59.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.33 V  
+Vsoc:        813.00 mV 
+Tctl:         +65.5 C  
+Tdie:         +55.5 C  
+Icore:        36.00 A  
+Isoc:          6.25 A  
+

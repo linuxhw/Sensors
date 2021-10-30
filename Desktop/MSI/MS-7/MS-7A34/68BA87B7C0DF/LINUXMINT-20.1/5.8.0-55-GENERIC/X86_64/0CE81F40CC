@@ -1,0 +1,16 @@
+amdgpu-pci-2000
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+fan1:         884 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       39.10 W  (cap = 138.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       869.00 mV 
+Vsoc:        819.00 mV 
+Tctl:         +47.8 C  
+Tdie:         +47.8 C  
+Icore:        16.00 A  
+Isoc:          6.50 A  
+

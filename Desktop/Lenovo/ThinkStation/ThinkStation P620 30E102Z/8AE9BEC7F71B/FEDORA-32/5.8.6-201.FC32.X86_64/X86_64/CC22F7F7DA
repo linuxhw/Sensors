@@ -1,0 +1,59 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +67.1 C  
+Tdie:         +67.1 C  
+Tccd1:        +52.8 C  
+Tccd3:        +54.2 C  
+Tccd5:        +64.0 C  
+Tccd7:        +53.5 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    248.72 J
+Ecore001:    131.04 J
+Ecore002:    171.60 J
+Ecore003:    181.96 J
+Ecore004:    118.08 J
+Ecore005:    107.22 J
+Ecore006:     70.06 J
+Ecore007:     88.07 J
+Ecore008:    179.96 J
+Ecore009:    114.13 J
+Ecore010:     91.51 J
+Ecore011:     82.56 J
+Ecore012:    223.25 J
+Ecore013:    125.32 J
+Ecore014:    114.67 J
+Ecore015:    103.01 J
+Ecore016:    144.89 J
+Ecore017:    109.44 J
+Ecore018:    120.30 J
+Ecore019:    113.03 J
+Ecore020:    216.62 J
+Ecore021:     96.18 J
+Ecore022:     90.28 J
+Ecore023:     95.93 J
+Ecore024:     95.68 J
+Ecore025:    100.97 J
+Ecore026:    106.45 J
+Ecore027:     86.00 J
+Ecore028:     95.25 J
+Ecore029:     94.77 J
+Ecore030:     96.89 J
+Ecore031:     87.27 J
+Esocket0:     64.01 kJ
+
+nouveau-pci-6100
+Adapter: PCI adapter
+fan1:        1254 RPM
+temp1:        +30.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

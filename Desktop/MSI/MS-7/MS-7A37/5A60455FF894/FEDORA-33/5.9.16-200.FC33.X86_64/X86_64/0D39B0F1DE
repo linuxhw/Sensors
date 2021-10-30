@@ -1,0 +1,64 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.43 V  
+Vsoc:          1.09 V  
+Tctl:         +51.5 C  
+Tdie:         +51.5 C  
+Tccd1:        +40.2 C  
+Icore:        36.00 A  
+Isoc:          9.25 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +61.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +61.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6795-isa-0a20
+Adapter: ISA adapter
+in0:                     1.45 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     3.33 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   704.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     3.31 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  704.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.10 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  672.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.52 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1220 RPM  (min =    0 RPM)
+fan3:                  1065 RPM  (min =    0 RPM)
+fan4:                   713 RPM  (min =    0 RPM)
+fan5:                   436 RPM  (min =    0 RPM)
+SYSTIN:                 +42.5 C  (high = +127.0 C, hyst = +105.0 C)  sensor = CPU diode
+CPUTIN:                 +32.0 C  (high = +127.0 C, hyst = +105.0 C)  sensor = thermistor
+AUXTIN0:                +42.0 C  (high = +127.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +43.0 C    sensor = thermistor
+AUXTIN3:                 -2.0 C    sensor = thermistor
+SMBUSMASTER 0:          +51.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+amdgpu-pci-2800
+Adapter: PCI adapter
+vddgfx:        1.05 V  
+fan1:        1281 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +40.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +41.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +39.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:       20.00 W  (cap = 244.00 W)
+
