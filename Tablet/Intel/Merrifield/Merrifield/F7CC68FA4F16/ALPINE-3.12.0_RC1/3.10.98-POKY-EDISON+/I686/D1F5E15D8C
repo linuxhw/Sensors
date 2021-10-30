@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +51.0*C  (high = +90.0*C, crit = +90.0*C)
+Core 1:       +51.0*C  (high = +90.0*C, crit = +90.0*C)
+
+skin0-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+skin1-virtual-0
+Adapter: Virtual device
+temp1:        +16.7*C  
+
+msicdie-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+SoC_DTS0-virtual-0
+Adapter: Virtual device
+temp1:        +48.0*C  
+
+SoC_DTS1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0*C  
+

@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.62 V  
+curr1:       1000.00 uA 
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +48.5 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           7.09 V  
+curr1:         3.59 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:       -267.1 C  (crit = +107.0 C)
+
