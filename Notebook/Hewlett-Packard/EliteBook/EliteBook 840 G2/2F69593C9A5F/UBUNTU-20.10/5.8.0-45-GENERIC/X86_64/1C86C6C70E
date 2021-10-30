@@ -1,0 +1,24 @@
+radeon-pci-0400
+Adapter: PCI adapter
+temp1:        +38.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.15 V  
+curr1:       479.00 mA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +48.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +46.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +37.0 C  (crit = +128.0 C)
+temp2:         +0.0 C  (crit = +128.0 C)
+temp3:        +33.0 C  (crit = +128.0 C)
+temp4:        +36.0 C  (crit = +128.0 C)
+temp5:        +25.0 C  (crit = +128.0 C)
+temp6:        +84.0 C  (crit = +128.0 C)
+

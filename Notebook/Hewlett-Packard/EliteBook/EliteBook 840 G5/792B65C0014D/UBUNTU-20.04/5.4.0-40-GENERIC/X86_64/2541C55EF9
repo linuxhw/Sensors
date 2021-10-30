@@ -1,0 +1,39 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +41.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        4.05 W  (cap =  20.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.35 V  
+curr1:            N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  
+temp2:        +45.0 C  (crit = +128.0 C)
+temp3:         +0.0 C  (crit = +128.0 C)
+temp4:        +39.0 C  (crit = +128.0 C)
+temp5:        +40.0 C  (crit = +128.0 C)
+temp6:        +34.0 C  (crit = +128.0 C)
+temp7:        +39.0 C  (crit = +128.0 C)
+temp8:         +0.0 C  (crit = +128.0 C)
+

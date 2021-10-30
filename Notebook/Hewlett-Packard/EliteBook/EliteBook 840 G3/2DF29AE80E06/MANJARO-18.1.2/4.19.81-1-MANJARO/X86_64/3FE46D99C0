@@ -1,0 +1,23 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +39.0 C  (crit = +128.0 C)
+temp2:         +0.0 C  (crit = +128.0 C)
+temp3:        +36.0 C  (crit = +128.0 C)
+temp4:        +30.0 C  (crit = +128.0 C)
+temp5:        +28.0 C  (crit = +128.0 C)
+temp6:       +127.0 C  (crit = +128.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
