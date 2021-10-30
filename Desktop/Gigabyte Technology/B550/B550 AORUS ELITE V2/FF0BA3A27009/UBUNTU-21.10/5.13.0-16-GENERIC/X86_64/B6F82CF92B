@@ -1,0 +1,20 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.46 V  
+vddnb:         1.09 V  
+edge:         +33.0 C  
+power1:      1000.00 uW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +27.0 C  
+temp2:        +27.0 C  
+temp3:        +42.0 C  
+temp4:        +27.0 C  
+temp5:        +32.0 C  
+temp6:        +33.0 C  
+

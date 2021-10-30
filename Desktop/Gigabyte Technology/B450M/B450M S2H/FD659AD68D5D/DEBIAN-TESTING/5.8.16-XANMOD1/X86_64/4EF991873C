@@ -1,0 +1,17 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +80.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.32 V  
+Vsoc:          1.09 V  
+Tctl:         +68.4 C  
+Tdie:         +68.4 C  
+Icore:        47.00 A  
+Isoc:          4.00 A  
+

@@ -1,0 +1,33 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +50.0 C  (high = +70.0 C)
+Tctl:         +50.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+it8688-isa-0a40
+Adapter: ISA adapter
+in0:           1.06 V  (min =  +0.00 V, max =  +3.06 V)
+in1:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.10 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         912.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.36 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.29 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.12 V  
+fan1:         852 RPM  (min =    0 RPM)
+fan2:         250 RPM  (min =    0 RPM)
+fan3:         668 RPM  (min =    0 RPM)
+fan4:         938 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +47.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +48.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = AMD AMDSI
+temp4:        +45.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp5:        +42.0 C  (low  =  +0.0 C, high = -125.0 C)  sensor = thermistor
+temp6:        +58.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+

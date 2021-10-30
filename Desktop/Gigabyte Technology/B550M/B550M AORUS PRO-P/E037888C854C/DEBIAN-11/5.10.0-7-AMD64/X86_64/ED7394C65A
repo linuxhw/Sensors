@@ -1,0 +1,55 @@
+it8628-isa-0a40
+Adapter: ISA adapter
+in0:         804.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.19 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         888.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.37 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.26 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.22 V  
+fan1:         842 RPM  (min =    0 RPM)
+fan2:         726 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +45.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +41.0 C  (low  = +127.0 C, high = +127.0 C)
+temp4:        +43.0 C  (low  = +127.0 C, high = +127.0 C)
+temp5:        +40.0 C  (low  =  +0.0 C, high = -125.0 C)
+temp6:        +54.0 C  (low  = +127.0 C, high = +127.0 C)
+intrusion0:  ALARM
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +40.0 C, highest = +40.0 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      943.00 mV 
+fan1:         612 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +65.0 C  (crit = +104.0 C, hyst = -273.1 C)
+power1:        0.00 W  (cap = 165.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.4 C  
+Tdie:         +40.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

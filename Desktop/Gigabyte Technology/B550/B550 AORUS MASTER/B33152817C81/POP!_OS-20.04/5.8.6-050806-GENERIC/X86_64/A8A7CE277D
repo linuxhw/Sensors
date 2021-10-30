@@ -1,0 +1,53 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         600.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.06 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.68 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.51 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.68 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.57 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +32.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.45 V  
+Vsoc:          1.01 V  
+Tctl:         +52.9 C  
+Tdie:         +52.9 C  
+Tccd1:        +39.5 C  
+Tccd2:        +41.8 C  
+Icore:        20.00 A  
+Isoc:          7.25 A  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +58.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +58.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +64.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       36.00 W  (cap = 190.00 W)
+

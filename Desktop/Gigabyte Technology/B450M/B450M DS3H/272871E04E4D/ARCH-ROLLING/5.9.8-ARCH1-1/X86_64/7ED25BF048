@@ -1,0 +1,23 @@
+amdgpu-pci-0600
+Adapter: PCI adapter
+fan1:             N/A
+edge:         +37.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.09 V  
+Vsoc:        875.00 mV 
+Tctl:         +33.2 C  
+Tdie:         +33.2 C  
+Icore:        13.00 A  
+Isoc:          6.50 A  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

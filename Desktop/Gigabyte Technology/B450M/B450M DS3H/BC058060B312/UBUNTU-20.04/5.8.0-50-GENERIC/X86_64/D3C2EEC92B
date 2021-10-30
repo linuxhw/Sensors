@@ -1,0 +1,21 @@
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:        1264 RPM  (min = 1000 RPM, max = 3800 RPM)
+edge:         +44.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.10 W  (cap = 145.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       950.00 mV 
+Vsoc:          1.01 V  
+Tctl:         +57.6 C  
+Tdie:         +57.6 C  
+Tccd1:        +40.0 C  
+Icore:         7.00 A  
+Isoc:          7.75 A  
+

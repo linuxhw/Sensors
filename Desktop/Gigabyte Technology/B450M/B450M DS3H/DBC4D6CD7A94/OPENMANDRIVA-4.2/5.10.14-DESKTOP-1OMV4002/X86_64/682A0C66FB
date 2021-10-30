@@ -1,0 +1,37 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    167.54 J
+Ecore001:    122.88 J
+Ecore002:    112.63 J
+Ecore003:    196.25 J
+Esocket0:      3.07 kJ
+
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +28.0 C  
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.16 V  
+Vsoc:          1.09 V  
+Tctl:         +28.6 C  
+Tdie:         +28.6 C  
+Icore:        15.00 A  
+Isoc:          5.75 A  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+

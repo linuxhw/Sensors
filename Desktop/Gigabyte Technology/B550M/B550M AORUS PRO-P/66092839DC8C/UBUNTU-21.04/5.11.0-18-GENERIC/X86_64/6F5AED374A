@@ -1,0 +1,24 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.9 C  
+Tdie:         +51.9 C  
+Tccd1:        +44.8 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      700.00 mV 
+fan1:        1092 RPM  (min =  900 RPM, max = 4200 RPM)
+edge:         +38.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        4.04 W  (cap =  35.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
