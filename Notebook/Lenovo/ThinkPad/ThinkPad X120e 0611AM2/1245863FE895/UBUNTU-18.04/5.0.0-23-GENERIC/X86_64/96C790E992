@@ -1,0 +1,21 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         440 RPM
+temp1:        +73.0 C  
+temp2:         +0.0 C  
+temp3:        +73.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:        +37.0 C  
+temp8:         +0.0 C  
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +74.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +73.4 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +97.0 C)
+
