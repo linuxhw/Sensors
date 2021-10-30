@@ -1,0 +1,25 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+edge:         +46.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        3.91 kW (cap =  30.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           7.44 V  
+curr1:         1.73 A  
+

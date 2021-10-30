@@ -1,0 +1,14 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +46.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +52.0 C  (high = +87.0 C, crit = +105.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +43.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2800 RPM
+

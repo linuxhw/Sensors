@@ -1,0 +1,31 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +41.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2600 RPM
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+vddnb:       850.00 mV 
+edge:         +41.0 C  (crit =  +1.0 C, hyst = -273.1 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       36.44 mW (avg =   4.89 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+edge:         +46.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:      572.15 W  (cap =  30.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.79 V  
+curr1:         1.70 A  
+

@@ -1,0 +1,18 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       11.52 mW (avg =   1.71 mW, interval =   0.01 s)
+                       (crit =  10.00 W)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (crit = +120.0 C, hyst = +90.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2600 RPM
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+fan1:             N/A
+temp1:        +43.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+

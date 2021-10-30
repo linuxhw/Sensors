@@ -1,0 +1,21 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:             N/A  (min =    0 RPM, max =    0 RPM)
+temp1:        +47.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        2.09 kW (cap =  30.00 W)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2700 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +51.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +56.0 C  (high = +105.0 C, crit = +105.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
