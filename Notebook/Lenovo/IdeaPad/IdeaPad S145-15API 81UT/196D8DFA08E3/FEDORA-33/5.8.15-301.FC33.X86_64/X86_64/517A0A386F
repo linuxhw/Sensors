@@ -1,0 +1,19 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       825.00 mV 
+Vsoc:          1.04 V  
+Tctl:         +41.5 C  
+Tdie:         +41.5 C  
+Icore:         8.00 A  
+Isoc:          7.75 A  
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +41.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.69 V  
+
