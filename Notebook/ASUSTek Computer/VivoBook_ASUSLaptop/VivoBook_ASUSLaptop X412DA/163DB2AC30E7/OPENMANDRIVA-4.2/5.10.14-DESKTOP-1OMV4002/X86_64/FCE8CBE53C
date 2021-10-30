@@ -1,0 +1,37 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    142.33 J
+Ecore001:    142.33 J
+Esocket0:    801.50 J
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.07 V  
+Vsoc:        906.00 mV 
+Tctl:         +49.5 C  
+Tdie:         +49.5 C  
+Icore:        14.00 A  
+Isoc:          4.25 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.85 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2000 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +49.0 C  (crit = +103.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +49.0 C  
+

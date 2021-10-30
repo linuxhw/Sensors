@@ -1,0 +1,26 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     5100 RPM
+temp1:        +79.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +79.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          +7.60 V  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       16.13 W  (interval =   0.01 s, crit =  15.01 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +80.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +79.0 C  (crit = +100.0 C)
+

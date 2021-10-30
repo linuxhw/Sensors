@@ -1,0 +1,29 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +63.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1700 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.62 V  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +63.6 C  (high = +70.0 C)
+Tctl:         +63.6 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +65.0 C  (crit = +103.0 C)
+

@@ -1,0 +1,18 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1100 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.10 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +55.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +55.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +45.0 C  (crit = +103.0 C)
+
