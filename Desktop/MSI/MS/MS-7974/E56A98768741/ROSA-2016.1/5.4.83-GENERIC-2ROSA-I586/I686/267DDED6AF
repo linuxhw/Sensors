@@ -1,0 +1,30 @@
+f71889ed-isa-0480
+Adapter: ISA adapter
++3.3V:         3.18 V  
+in1:           1.28 V  (max =  +2.04 V)
+in2:           1.09 V  
+in3:         848.00 mV 
+in4:         552.00 mV 
+in5:           1.20 V  
+in6:           1.50 V  
+3VSB:          3.18 V  
+Vbat:          3.18 V  
+fan1:        1945 RPM
+fan2:           0 RPM  ALARM
+fan3:        3311 RPM
+temp1:        +48.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +80.0 C, hyst = +76.0 C)  sensor = transistor
+temp2:        +51.0 C  (high = +85.0 C, hyst = +77.0 C)
+                       (crit = +125.0 C, hyst = +117.0 C)  sensor = thermistor
+temp3:        +32.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +72.6 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      114.44 W  (crit = 125.18 W)
+

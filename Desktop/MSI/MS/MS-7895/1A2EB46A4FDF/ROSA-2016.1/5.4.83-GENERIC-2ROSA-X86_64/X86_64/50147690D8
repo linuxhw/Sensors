@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +10.6 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +17.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+f71868a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.28 V  
+in1:           1.05 V  
+in2:           1.50 V  
+in3:         960.00 mV 
+in4:           1.12 V  
+in5:           1.10 V  
+in6:           1.12 V  
+3VSB:          3.28 V  
+Vbat:          3.25 V  
+5VSB:          4.99 V  
+fan1:         860 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +40.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +39.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +114.0 C, hyst = +110.0 C)  sensor = thermistor
+temp3:        +36.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  64.99 W)
+

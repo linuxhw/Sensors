@@ -1,0 +1,53 @@
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +32.5*C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8*C  (crit = +119.0*C)
+temp2:        +29.8*C  (crit = +119.0*C)
+
+nct6793-isa-0a20
+Adapter: ISA adapter
+in0:                   672.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.09 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in13:                  112.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.53 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1582 RPM  (min =    0 RPM)
+fan2:                  2093 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +112.0*C  (high =  +0.0*C, hyst =  +0.0*C)  ALARM  sensor = thermistor
+CPUTIN:                +127.5*C  (high = +80.0*C, hyst = +75.0*C)  ALARM  sensor = CPU diode
+AUXTIN0:                +30.5*C    sensor = CPU diode
+AUXTIN1:               +120.0*C    sensor = thermistor
+AUXTIN2:               +112.0*C    sensor = thermistor
+AUXTIN3:                 -2.0*C    sensor = thermistor
+PECI Agent 0:           +30.0*C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0*C  
+PCH_CHIP_TEMP:           +0.0*C  
+PCH_CPU_TEMP:            +0.0*C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 0:        +34.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 1:        +33.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 2:        +37.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 3:        +33.0*C  (high = +80.0*C, crit = +100.0*C)
+

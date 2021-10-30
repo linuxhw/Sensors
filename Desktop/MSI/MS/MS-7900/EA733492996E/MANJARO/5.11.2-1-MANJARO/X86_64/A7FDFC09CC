@@ -1,0 +1,26 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +14.4 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+adt7473-i2c-8-2e
+Adapter: nvkm-0000:01:00.0-bus-0003
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
+in2:           3.25 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +48.5 C  (low  = +72.0 C, high = +92.0 C)  ALARM
+                       (crit = +191.0 C, hyst = +189.0 C)
+temp2:        +43.8 C  (low  = +20.0 C, high = +60.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:        +48.5 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +96.0 C)
+

@@ -1,0 +1,29 @@
+corsaircpro-hid-3-7
+Adapter: HID adapter
+in0:          12.06 V  
+in1:           5.02 V  
+in2:           3.42 V  
+fan1 4pin:      0 RPM
+fan2 4pin:      0 RPM
+fan3 3pin:      0 RPM
+fan4 4pin:      0 RPM
+temp1:        +28.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
