@@ -1,0 +1,21 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    153.08 J
+Ecore001:    134.32 J
+Esocket0:      2.05 kJ
+
+amdgpu-pci-2900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +34.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       988.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +34.0 C  
+Tdie:         +34.0 C  
+Icore:         6.00 A  
+Isoc:          2.75 A  
+

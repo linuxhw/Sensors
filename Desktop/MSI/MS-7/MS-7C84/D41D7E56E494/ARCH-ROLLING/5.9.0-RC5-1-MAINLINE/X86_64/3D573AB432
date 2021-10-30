@@ -1,0 +1,41 @@
+corsairpsu-hid-3-1a
+Adapter: HID adapter
+voltage supply: 230.00 V  
+voltage 12v:     12.06 V  
+voltage 5v:       5.03 V  
+voltage 3.3v:     3.33 V  
+fan rpm:           0 RPM
+temp1:           +50.0 C  
+temp2:           +40.2 C  
+power total:     12.00 W  
+power 12v:        2.00 W  
+power 5v:         8.50 W  
+power 3.3v:       3.00 W  
+current 12v:    250.00 mA 
+current 5v:       1.75 A  
+current 3.3v:   937.00 mA 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-2d00
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+amdgpu-pci-2e00
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +49.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       856.00 mV 
+Vsoc:        894.00 mV 
+Tctl:         +49.8 C  
+Tdie:         +49.8 C  
+Icore:         6.00 A  
+Isoc:          1.50 A  
+

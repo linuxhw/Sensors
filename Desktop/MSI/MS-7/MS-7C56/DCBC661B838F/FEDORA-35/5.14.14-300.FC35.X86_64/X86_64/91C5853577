@@ -1,0 +1,69 @@
+amdgpu-pci-2d00
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:        1330 RPM  (min =  400 RPM, max = 3300 RPM)
+edge:         +34.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +35.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +34.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        6.00 W  (cap = 165.00 W)
+
+nct6687-isa-0a20
+Adapter: ISA adapter
+VIN0:               1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN1:               1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN2:               1.06 V  (min =  +0.00 V, max =  +0.00 V)
+VIN3:             672.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN4:               1.28 V  (min =  +0.00 V, max =  +0.00 V)
+VIN5:             912.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN6:             912.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN7:               1.54 V  (min =  +0.00 V, max =  +0.00 V)
+VCC:                3.38 V  (min =  +0.00 V, max =  +0.00 V)
+VTT:                1.82 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:              658 RPM  (min =    0 RPM)
+fan2:                0 RPM  (min =    0 RPM)
+fan3:              820 RPM  (min =    0 RPM)
+fan4:              726 RPM  (min =    0 RPM)
+fan5:                0 RPM  (min =    0 RPM)
+fan6:              713 RPM  (min =    0 RPM)
+fan7:                0 RPM  (min =    0 RPM)
+fan8:              753 RPM  (min =    0 RPM)
+fan9:                0 RPM  (min =    0 RPM)
+fan10:               0 RPM  (min =    0 RPM)
+AMD TSI Addr 98h:  +49.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = AMD AMDSI
+Diode 0 (curr):    +32.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermal diode
+Thermistor 15:     +36.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 1:      +30.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 16:     +30.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 0:      +30.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 15:     +36.0 C  (low  =  +0.0 C)
+                            (high = +126.0 C, hyst = +30.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+intrusion0:       ALARM
+beep_enable:      disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.9 C  
+Tdie:         +48.9 C  
+Tccd1:        +34.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +114.8 C)
+                       (crit = +119.8 C)
+

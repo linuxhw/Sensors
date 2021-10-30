@@ -1,0 +1,33 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 6:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 7:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +59.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +52.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

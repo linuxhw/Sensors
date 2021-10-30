@@ -1,0 +1,17 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +66.9 C  (high = +70.0 C)
+Tctl:         +66.9 C  
+
+amdgpu-pci-2f00
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        1354 RPM  (min =  300 RPM, max = 3300 RPM)
+edge:         +49.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +50.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +48.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:       11.00 W  (cap = 240.00 W)
+

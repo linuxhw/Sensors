@@ -1,0 +1,78 @@
+corsaircpro-hid-3-6
+Adapter: HID adapter
++12V:         12.02 V  
++5V:           5.01 V  
++3.3V:         3.34 V  
+Pump_D5:     3438 RPM
+Exhaust:     1443 RPM
+Intake:         0 RPM
+T_Water:      +38.1 C  
+T_In:         +39.6 C  
+T_PSUex:      +36.6 C  
+T_RAMcase:    +41.8 C  
+
+nct6687-isa-0a20
+Adapter: ISA adapter
+System +12V:   12.10 V  (min =  +0.00 V, max =  +0.00 V)
+System +5V:     4.96 V  (min =  +0.00 V, max =  +0.00 V)
+CPU NB/SOC:     1.10 V  (min =  +0.00 V, max =  +0.00 V)
+DRAM:           1.31 V  (min =  +0.00 V, max =  +0.00 V)
+CPU VCore:      1.33 V  (min =  +0.00 V, max =  +0.00 V)
+Chipset:      720.00 mV (min =  +0.00 V, max =  +0.00 V)
+CPU VDDP:       1.50 V  (min =  +0.00 V, max =  +0.00 V)
+System +3.3V:   3.28 V  (min =  +0.00 V, max =  +0.00 V)
+CPU 1P8:        1.82 V  (min =  +0.00 V, max =  +0.00 V)
+CPU:           +60.0 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = AMD AMDSI
+System:        +44.5 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = thermal diode
+VRM MOS:       +44.5 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = thermistor
+PCM:           +44.5 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = thermistor
+CPU Socket:    +43.5 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = thermistor
+PCIe x1:       +41.0 C  (low  =  +0.0 C)
+                        (high =  +0.0 C, hyst =  +0.0 C)
+                        (crit =  +0.0 C)  sensor = thermistor
+M2_1:          +44.5 C  (low  =  +0.0 C)
+                        (high = +120.0 C, hyst = +33.0 C)
+                        (crit =  +0.0 C)  sensor = thermistor
+intrusion0:   ALARM
+beep_enable:  disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+hidpp_battery_0-hid-3-8
+Adapter: HID adapter
+in0:           4.18 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +60.8 C  
+Tdie:         +60.8 C  
+Tccd1:        +47.5 C  
+Tccd2:        +47.2 C  
+
+amdgpu-pci-2d00
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+fan1:           0 RPM  (min =  400 RPM, max = 4900 RPM)
+GPU:          +45.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +79.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +46.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:      175.00 W  (cap = 220.00 W)
+

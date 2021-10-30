@@ -1,0 +1,16 @@
+amdgpu-pci-2900
+Adapter: PCI adapter
+vddgfx:        1.14 V  
+fan1:        1685 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +68.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       87.13 W  (cap = 125.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       975.00 mV 
+Vsoc:        813.00 mV 
+Tctl:         +52.4 C  
+Tdie:         +52.4 C  
+Icore:        20.00 A  
+Isoc:          5.50 A  
+

@@ -1,0 +1,23 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+Pump:           933 RPM  (min =    0 RPM)
+CPU Fan:       1125 RPM  (min =    0 RPM)
+System FAN1:      0 RPM  (min =    0 RPM)
+System FAN2:      0 RPM  (min =    0 RPM)
+System FAN3:      0 RPM  (min =    0 RPM)
+system FAN4:      0 RPM  (min =    0 RPM)
+system FAN5:      0 RPM  (min =    0 RPM)
+SYSTIN:         +34.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:         +30.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+MOS:            +37.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+Chipset:        +57.0 C    sensor = thermistor
+SMBUSMASTER 0:  +42.0 C  
+intrusion0:    ALARM
+intrusion1:    ALARM
+beep_enable:   disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +42.6 C  (high = +70.0 C)
+Tctl:         +42.6 C  
+

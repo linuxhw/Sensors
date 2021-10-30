@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       931.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +42.2 C  
+Tdie:         +42.2 C  
+Tccd1:        +35.5 C  
+Icore:        19.00 A  
+Isoc:          8.50 A  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+Pump:           937 RPM  (min =    0 RPM)
+CPU Fan:       1080 RPM  (min =    0 RPM)
+System FAN1:      0 RPM  (min =    0 RPM)
+System FAN2:      0 RPM  (min =    0 RPM)
+System FAN3:      0 RPM  (min =    0 RPM)
+system FAN4:      0 RPM  (min =    0 RPM)
+system FAN5:      0 RPM  (min =    0 RPM)
+SYSTIN:         +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:         +29.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+MOS:            +37.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+Chipset:        +55.0 C    sensor = thermistor
+SMBUSMASTER 0:  +42.5 C  
+intrusion0:    ALARM
+intrusion1:    ALARM
+beep_enable:   disabled
+

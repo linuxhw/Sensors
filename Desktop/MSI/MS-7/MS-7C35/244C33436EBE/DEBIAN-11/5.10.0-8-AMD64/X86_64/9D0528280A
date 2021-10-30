@@ -1,0 +1,66 @@
+drivetemp-scsi-10-0
+Adapter: SCSI adapter
+temp1:        +25.0 C  
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +25.0 C, highest = +31.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +43.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +27.0 C, highest = +49.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +44.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +27.0 C, highest = +51.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +45.9 C  
+Tdie:         +45.9 C  
+Tccd1:        +40.2 C  
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +25.0 C, highest = +30.0 C)
+
+hidpp_battery_8-hid-3-34
+Adapter: HID adapter
+in0:           3.83 V  
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +26.0 C, highest = +44.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +27.0 C, highest = +44.0 C)
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+

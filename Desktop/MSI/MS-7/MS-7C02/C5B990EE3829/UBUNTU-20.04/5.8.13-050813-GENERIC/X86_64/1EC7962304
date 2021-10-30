@@ -1,0 +1,20 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +45.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +30.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +30.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       938.00 mV 
+Vsoc:          1.09 V  
+Tctl:         +52.4 C  
+Tdie:         +52.4 C  
+Tccd1:        +34.5 C  
+Icore:         7.00 A  
+Isoc:          6.75 A  
+

@@ -1,0 +1,11 @@
+amdgpu-pci-2600
+Adapter: PCI adapter
+vddgfx:       +0.90 V  
+fan1:         824 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +32.0*C  (crit = +94.0*C, hyst = -273.1*C)
+power1:       37.23 W  (cap = 160.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +40.9*C  (high = +70.0*C)
+

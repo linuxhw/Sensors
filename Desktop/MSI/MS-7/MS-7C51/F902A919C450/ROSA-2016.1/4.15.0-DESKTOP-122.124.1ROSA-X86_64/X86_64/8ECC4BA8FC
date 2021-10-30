@@ -1,0 +1,17 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       24.54 mW (avg =  11.75 mW, interval =   0.01 s)
+                       (crit =  65.00 W)
+
+nouveau-pci-2a00
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +43.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +24.4 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+

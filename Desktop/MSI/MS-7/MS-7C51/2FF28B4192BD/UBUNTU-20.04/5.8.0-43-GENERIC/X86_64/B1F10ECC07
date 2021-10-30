@@ -1,0 +1,16 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       950.00 mV 
+Vsoc:          1.02 V  
+Tctl:         +48.0 C  
+Tdie:         +48.0 C  
+Icore:        16.00 A  
+Isoc:          7.00 A  
+
+nouveau-pci-2900
+Adapter: PCI adapter
+fan1:         740 RPM
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
