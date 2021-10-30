@@ -1,0 +1,29 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  (crit = +127.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:       +1.17 V  
+fan1:             N/A
+temp1:        +56.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        1.13 kW (cap =  25.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+

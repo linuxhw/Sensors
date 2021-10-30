@@ -1,0 +1,38 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +34.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.93 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        12288 RPM
+temp1:        +40.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +32.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        3.22 W  (cap =  25.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +127.0 C)
+

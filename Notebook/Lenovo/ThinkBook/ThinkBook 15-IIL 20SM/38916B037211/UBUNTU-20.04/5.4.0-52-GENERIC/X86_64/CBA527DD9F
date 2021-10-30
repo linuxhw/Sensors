@@ -1,0 +1,18 @@
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        3.15 W  (cap =  25.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.52 V  
+

@@ -1,0 +1,54 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         3.25 A  (max =  +3.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +59.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = +109.8 C, high = +109.8 C)
+Sensor 1:     +57.9 C  (low  = +109.8 C, high = +109.8 C)
+Sensor 2:     +45.9 C  (low  = +109.8 C, high = +109.8 C)
+Sensor 3:     +41.9 C  (low  = +109.8 C, high = +109.8 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +45.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        4.17 W  (cap =  25.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +48.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.36 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +48.0 C  (crit = +127.0 C)
+

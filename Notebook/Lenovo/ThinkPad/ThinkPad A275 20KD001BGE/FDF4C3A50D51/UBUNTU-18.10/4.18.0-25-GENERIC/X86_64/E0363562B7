@@ -1,0 +1,22 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +0.0 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        4500 RPM
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+vddnb:       950.00 mV 
+fan1:             N/A
+temp1:        +56.0 C  (crit =  +1.0 C, hyst = -273.1 C)
+power1:           N/A  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       23.15 mW (avg =   7.55 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
