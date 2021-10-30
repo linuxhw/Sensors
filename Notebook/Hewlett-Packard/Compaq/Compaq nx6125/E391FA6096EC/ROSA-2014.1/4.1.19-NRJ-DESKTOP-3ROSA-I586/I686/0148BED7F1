@@ -1,0 +1,18 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +53.0°C  (crit = +94.8°C)
+temp2:        +48.0°C  (crit = +100.0°C)
+temp3:        +31.1°C  (crit = +100.0°C)
+temp4:        +50.0°C  (crit = +110.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +59.0°C  
+
+g781-i2c-0-4c
+Adapter: SMBus PIIX4 adapter at 8200
+temp1:        +48.0°C  (low  = -128.0°C, high = +90.0°C)
+                       (crit = +101.0°C, hyst = +91.0°C)
+temp2:        +69.9°C  (low  = -128.0°C, high = +74.0°C)
+                       (crit = +99.0°C, hyst = +89.0°C)
+

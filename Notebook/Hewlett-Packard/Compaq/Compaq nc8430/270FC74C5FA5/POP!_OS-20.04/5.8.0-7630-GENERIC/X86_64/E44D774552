@@ -1,0 +1,19 @@
+C1BE-acpi-0
+Adapter: ACPI interface
+in0:          16.51 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +66.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +65.0 C  (crit = +256.0 C)
+temp2:        +58.0 C  (crit = +105.0 C)
+temp3:        +67.0 C  (crit = +110.0 C)
+temp4:        +45.0 C  (crit = +80.0 C)
+temp5:        +27.1 C  (crit = +105.0 C)
+temp6:        +80.0 C  (crit = +110.0 C)
+

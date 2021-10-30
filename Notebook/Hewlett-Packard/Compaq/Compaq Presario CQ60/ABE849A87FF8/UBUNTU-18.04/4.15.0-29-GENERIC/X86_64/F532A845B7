@@ -1,0 +1,16 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:       +106.4 C  (high = +70.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +92.0 C  (crit = +103.0 C)
+temp2:        +92.0 C  (crit = +120.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +1.10 V  (min =  +0.92 V, max =  +1.10 V)
+temp1:        +73.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
