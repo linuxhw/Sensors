@@ -4,7 +4,7 @@ Coolest Computers
 WARNING: This report is not ready yet. The data is still processed. The report represents only last month of user probes.
 
 This is a project to find coolest computers with minimal operation
-CPU temperature reached and share lm_sensors reports collected by
+CPU temperature reached and share [lm_sensors](https://github.com/lm-sensors/lm-sensors) reports collected by
 Linux users at https://linux-hardware.org.
 
 Everyone can contribute to this repository by uploading probes of their computers
