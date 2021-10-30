@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.90 V  
+curr1:         0.00 A  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +36.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +37.0 C  
+

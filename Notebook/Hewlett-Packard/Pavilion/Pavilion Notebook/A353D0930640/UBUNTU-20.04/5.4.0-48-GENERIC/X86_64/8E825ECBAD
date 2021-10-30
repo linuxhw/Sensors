@@ -1,0 +1,16 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +34.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +33.0 C  (high = +105.0 C, crit = +105.0 C)
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+edge:         +31.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        2.77 kW (cap =  35.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +33.0 C  
+
