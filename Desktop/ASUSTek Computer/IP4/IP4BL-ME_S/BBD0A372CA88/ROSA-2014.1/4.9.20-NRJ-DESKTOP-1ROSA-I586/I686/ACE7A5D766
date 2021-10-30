@@ -1,0 +1,31 @@
+it8718-isa-0a10
+Adapter: ISA adapter
+in0:          +1.15 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +3.36 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:          +2.98 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +2.99 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +3.18 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +2.98 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.26 V  
+fan1:        1790 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =   -1 RPM)  ALARM
+temp1:        +33.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermal diode
+temp2:        +45.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+cpu0_vid:    +0.813 V
+intrusion0:  ALARM
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +74.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +122.0°C, hyst =  +2.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0°C  (high = +86.0°C, crit = +100.0°C)
+Core 1:       +51.0°C  (high = +86.0°C, crit = +100.0°C)
+

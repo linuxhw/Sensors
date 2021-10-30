@@ -1,0 +1,20 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +24.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +26.0 C  (high = +84.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:         880 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +27.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        8.24 W  (cap = 150.00 W)
+

@@ -1,0 +1,48 @@
+nct6793-isa-0290
+Adapter: ISA adapter
+Vcore:                     +0.35 V  (min =  +0.80 V, max =  +1.35 V)  ALARM
++12V:                     +11.90 V  (min = +10.85 V, max = +13.25 V)
+AVCC:                      +3.41 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                     +3.41 V  (min =  +2.98 V, max =  +3.63 V)
++5V:                       +5.04 V  (min =  +4.52 V, max =  +5.52 V)
+in5:                       +0.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                       +1.00 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                      +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                      +3.14 V  (min =  +2.98 V, max =  +3.63 V)
+in9:                       +0.99 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                      +0.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                      +0.13 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                      +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                      +0.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                      +0.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU Lüfter:               787 RPM  (min =    0 RPM)
+Chassis1:                    0 RPM  (min =    0 RPM)
+Chassis2:                    0 RPM  (min =    0 RPM)
+SYSTIN:                   +118.0°C  (high = +98.0°C, hyst = +95.0°C)  sensor = thermistor
+CPUTIN:                    +29.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN0:                   +26.0°C    sensor = thermistor
+AUXTIN1:                  +111.0°C    sensor = thermistor
+AUXTIN2:                  +111.0°C    sensor = thermistor
+AUXTIN3:                  +111.0°C    sensor = thermistor
+PECI Agent 0:              +29.0°C  (high = +98.0°C, hyst = +95.0°C)
+                                    (crit = +100.0°C)
+PECI Agent 0 Calibration:  +29.5°C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0°C  
+PCH_CHIP_TEMP:              +0.0°C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+acpitz-virtual-0
+Adapter: Virtual device
+Motherboard:  +27.8°C  (crit = +119.0°C)
+Unknown:      +29.8°C  (crit = +119.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 0:        +27.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 1:        +26.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 2:        +25.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 3:        +25.0°C  (high = +84.0°C, crit = +100.0°C)
+

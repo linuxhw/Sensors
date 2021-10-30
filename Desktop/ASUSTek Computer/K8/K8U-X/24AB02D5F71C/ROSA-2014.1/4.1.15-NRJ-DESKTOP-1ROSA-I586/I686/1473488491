@@ -1,0 +1,24 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +39.0°C  
+
+it8712-isa-0d00
+Adapter: ISA adapter
+in0:          +1.39 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +3.28 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.98 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.18 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +4.08 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.17 V  
+fan1:        2922 RPM  (min =    0 RPM, div = 2)
+fan2:           0 RPM  (min =    0 RPM, div = 128)
+fan3:           0 RPM  (min =    0 RPM, div = 8)
+temp1:        +36.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +40.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+cpu0_vid:    +1.550 V
+intrusion0:  ALARM
+
