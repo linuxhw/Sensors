@@ -1,0 +1,22 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +61.0 C  (crit = +128.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+

@@ -1,0 +1,37 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +61.0 C  
+temp2:        +62.0 C  
+temp3:         +0.0 C  
+temp4:         +1.0 C  
+temp5:        +40.0 C  
+temp6:        +54.0 C  
+temp7:        +46.0 C  
+temp8:            N/A  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +61.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +56.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +56.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
