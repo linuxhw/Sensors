@@ -1,0 +1,18 @@
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +49.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +48.0 C  (crit = +128.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +53.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +55.0 C  (high = +105.0 C, crit = +105.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2409 RPM
+
