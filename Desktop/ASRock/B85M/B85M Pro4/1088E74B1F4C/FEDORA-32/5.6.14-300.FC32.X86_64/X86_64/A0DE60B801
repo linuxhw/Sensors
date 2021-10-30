@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.15 V  
+fan1:         833 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       30.16 W  (cap =  72.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+

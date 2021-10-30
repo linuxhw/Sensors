@@ -1,0 +1,16 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.32 V  
+Vsoc:        863.00 mV 
+Tctl:         +53.4 C  
+Tdie:         +53.4 C  
+Icore:        31.00 A  
+Isoc:          7.25 A  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:        1006 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +38.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       35.19 W  (cap = 135.00 W)
+

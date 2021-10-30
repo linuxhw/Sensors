@@ -1,0 +1,41 @@
+ucsi_source_psy_3_00081-i2c-3-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in Vcore:                      568.00 mV (min =  +0.00 V, max =  +1.74 V)
+in AVcc:                         3.44 V  (min =  +2.98 V, max =  +3.63 V)
+in 3Vcc (normal 3.3V rail):      3.34 V  (min =  +2.98 V, max =  +3.63 V)
+in DRAM Voltage:                 1.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in 3Vsb (stand-by 3.3V input):   3.44 V  (min =  +2.98 V, max =  +3.63 V)
+in Vbat (CMOS battery):          3.25 V  (min =  +2.70 V, max =  +3.63 V)
+in Vtt (Proc. memory cont?):   904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+cha_fan3:                       584 RPM  (min =  450 RPM)
+cpu_fan1:                       835 RPM  (min =  250 RPM)
+cpu_fan2:                       865 RPM  (min =  250 RPM)
+cha_fan1:                       612 RPM  (min =  450 RPM)
+cha_fan2:                         0 RPM  (min =  450 RPM)  ALARM
+cha_fan5:                       692 RPM  (min =  220 RPM)
+cha_fan4:                       699 RPM  (min =  220 RPM)
+temp_cmsys:                     +29.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp_cmcpu:                     +30.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp_dproc:                     +44.5 C  
+beep_enable:                   disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+temp_nvme_980:  +30.9 C  (low  = -273.1 C, high = +81.8 C)
+                         (crit = +84.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tccd1:        +34.8 C  
+Tccd2:        +37.8 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+temp_nvme_970:  +36.9 C  (low  = -273.1 C, high = +84.8 C)
+                         (crit = +84.8 C)
+

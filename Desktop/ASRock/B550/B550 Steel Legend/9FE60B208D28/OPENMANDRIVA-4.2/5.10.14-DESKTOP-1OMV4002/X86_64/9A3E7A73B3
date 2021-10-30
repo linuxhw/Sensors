@@ -1,0 +1,27 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.42 V  
+Vsoc:          1.02 V  
+Tctl:         +45.6 C  
+Tdie:         +45.6 C  
+Tccd1:        +43.5 C  
+Icore:         9.00 A  
+Isoc:          2.79 A  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      781.00 mV 
+fan1:        1451 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +39.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        5.17 W  (cap =  35.00 W)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    264.67 J
+Ecore001:    144.74 J
+Ecore002:    138.69 J
+Ecore003:    183.27 J
+Ecore004:    150.41 J
+Ecore005:    149.21 J
+Esocket0:      7.84 kJ
+

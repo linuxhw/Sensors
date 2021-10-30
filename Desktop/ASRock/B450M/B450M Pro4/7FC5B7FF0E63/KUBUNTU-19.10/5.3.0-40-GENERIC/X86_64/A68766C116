@@ -1,0 +1,41 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+in0:                   416.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   352.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.31 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     3.31 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.86 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   816.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   312.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.47 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     3.30 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                  224.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                    1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                    1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   651 RPM  (min =    0 RPM)
+fan2:                  1620 RPM  (min =    0 RPM)
+fan3:                   651 RPM  (min =    0 RPM)
+fan4:                   733 RPM  (min =    0 RPM)
+fan5:                   739 RPM  (min =    0 RPM)
+SYSTIN:                 +35.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +33.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +78.0 C    sensor = thermistor
+AUXTIN1:                +95.0 C    sensor = thermistor
+AUXTIN2:                +23.0 C    sensor = thermistor
+AUXTIN3:                -24.0 C    sensor = thermistor
+SMBUSMASTER 0:          +37.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +37.9 C  (high = +70.0 C)
+Tctl:         +37.9 C  
+
