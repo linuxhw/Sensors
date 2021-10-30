@@ -1,0 +1,15 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +31.0 C  (high = +80.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
