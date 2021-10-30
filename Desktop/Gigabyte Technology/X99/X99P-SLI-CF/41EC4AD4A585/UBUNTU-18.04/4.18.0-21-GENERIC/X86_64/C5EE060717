@@ -1,0 +1,53 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:          +1.88 V  (min =  +0.00 V, max =  +2.78 V)
+in1:          +1.48 V  (min =  +0.00 V, max =  +2.78 V)
+in2:          +2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
++3.3V:        +1.66 V  (min =  +0.00 V, max =  +2.78 V)
+in4:          +1.20 V  (min =  +0.00 V, max =  +2.78 V)
+in5:          +1.20 V  (min =  +0.00 V, max =  +2.78 V)
+in6:          +2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:         +1.65 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:         +1.56 V  
+fan1:        2136 RPM  (min =   10 RPM)
+fan2:        2934 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +31.0 C  (low  =  +0.0 C, high = +80.0 C)  sensor = Intel PECI
+temp2:        +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +29.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +29.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +29.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +31.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +30.0 C  (high = +90.0 C, crit = +100.0 C)
+
+it8620-isa-0a40
+Adapter: ISA adapter
+in0:          +0.23 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +2.50 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +1.06 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +0.95 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +2.50 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.34 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +2.95 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp4:        +38.0 C  
+temp5:        +45.0 C  
+temp6:        +45.0 C  
+intrusion0:  ALARM
+

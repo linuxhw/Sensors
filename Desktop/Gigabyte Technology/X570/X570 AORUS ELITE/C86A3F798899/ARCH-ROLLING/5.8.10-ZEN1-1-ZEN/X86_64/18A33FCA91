@@ -1,0 +1,31 @@
+hidpp_battery_0-hid-3-11
+Adapter: HID adapter
+in0:           3.72 V  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.41 V  
+SVI2_SoC:      1.08 V  
+Tdie:         +52.6 C  (high = +95.0 C)
+Tctl:         +52.6 C  
+Tccd1:        +58.2 C  
+SVI2_P_Core:  20.48 W  
+SVI2_P_SoC:    8.60 W  
+SVI2_C_Core:  14.49 A  
+SVI2_C_SoC:    7.95 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

@@ -1,0 +1,44 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       938.00 mV 
+Vsoc:          1.07 V  
+Tctl:         +66.5 C  
+Tdie:         +66.5 C  
+Tccd1:        +63.8 C  
+Tccd2:        +54.5 C  
+Icore:        12.00 A  
+Isoc:         10.50 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      856.00 mV 
+fan1:         212 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +42.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +45.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +44.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        6.00 W  (cap = 220.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

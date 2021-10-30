@@ -1,0 +1,29 @@
+hidpp_battery_0-hid-3-9
+Adapter: HID adapter
+in0:           4.19 V  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.08 V  
+Tctl:         +58.0 C  
+Tdie:         +58.0 C  
+Tccd1:        +49.8 C  
+Tccd2:        +38.2 C  
+Icore:        31.00 A  
+Isoc:          9.25 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

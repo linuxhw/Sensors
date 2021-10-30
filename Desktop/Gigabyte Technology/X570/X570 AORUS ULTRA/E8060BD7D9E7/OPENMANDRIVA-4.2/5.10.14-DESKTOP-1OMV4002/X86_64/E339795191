@@ -1,0 +1,46 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    239.48 J
+Ecore001:    154.02 J
+Ecore002:    148.54 J
+Ecore003:    146.09 J
+Ecore004:    102.19 J
+Ecore005:     91.30 J
+Ecore006:    100.36 J
+Ecore007:    176.68 J
+Ecore008:     96.88 J
+Ecore009:     96.72 J
+Ecore010:    110.26 J
+Ecore011:    108.94 J
+Ecore012:    106.49 J
+Ecore013:     93.70 J
+Ecore014:     95.13 J
+Ecore015:     94.26 J
+Esocket0:     11.07 kJ
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       988.00 mV 
+Vsoc:        969.00 mV 
+Tctl:         +64.0 C  
+Tdie:         +64.0 C  
+Tccd1:        +55.5 C  
+Tccd2:        +46.2 C  
+Icore:        37.00 A  
+Isoc:          3.10 A  
+
+radeon-pci-0900
+Adapter: PCI adapter
+temp1:        +45.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

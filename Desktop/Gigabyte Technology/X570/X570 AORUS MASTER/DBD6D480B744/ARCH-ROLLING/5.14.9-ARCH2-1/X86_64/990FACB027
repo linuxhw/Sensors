@@ -1,0 +1,88 @@
+it8688-isa-0a40
+Adapter: ISA adapter
+CPU Vcore:       1.02 V  (min =  +0.35 V, max =  +1.45 V)
++3.3V:           3.31 V  (min =  +5.05 V, max =  +5.05 V)  ALARM
++12V:           12.10 V  (min = +18.36 V, max = +18.36 V)  ALARM
++5V:             5.07 V  (min =  +7.65 V, max =  +7.65 V)  ALARM
+CPU Vcore SOC:   1.19 V  (min =  +0.90 V, max =  +1.26 V)
+CPU Vddp:      912.00 mV (min =  +0.85 V, max =  +0.95 V)
+DRAM A/B:        1.37 V  (min =  +1.10 V, max =  +1.60 V)
+3VSB:            3.29 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:            3.17 V  
+CPU_FAN:        974 RPM  (min =  300 RPM)
+SYS_FAN1:      1566 RPM  (min =  300 RPM)
+SYS_FAN2:         0 RPM  (min =  300 RPM)  ALARM
+PCH_FAN:       2647 RPM  (min =  300 RPM)
+CPU_OPT:        922 RPM  (min =  300 RPM)
+SYS1 (rear):    +32.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+SYS2 (front):   +29.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU:            +41.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = AMD AMDSI
+PCIe:           +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+VRM:            +40.0 C  (low  =  +0.0 C, high = -125.0 C)  sensor = thermistor
+PCH:            +49.0 C  (low  = -16.0 C, high = +90.0 C)  sensor = thermistor
+intrusion0:    OK
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+fan1:        1056 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +34.0 C  (crit = +90.0 C, hyst = -273.1 C)
+                       (emerg = +95.0 C)
+junction:     +37.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+mem:          +40.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       50.00 W  (cap = 311.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+CPU Vcore:       1.80 V  (min =  +0.35 V, max =  +1.45 V)  ALARM
+DDR VTT:       665.00 mV (min =  +0.55 V, max =  +0.80 V)
+Chipset Core:  992.00 mV (min =  +0.99 V, max =  +1.10 V)  ALARM
++3.3V:           3.36 V  (min =  +0.00 V, max =  +5.56 V)
+VIN3:            1.80 V  (min =  +1.74 V, max =  +1.85 V)
+CPU Vdd18:       1.19 V  (min =  +2.38 V, max =  +2.63 V)  ALARM
+DDR Vpp A/B:     4.63 V  (min =  +0.00 V, max =  +4.63 V)  ALARM
+3VSB:            3.36 V  (min =  +0.00 V, max =  +5.56 V)
+Vbat:            3.23 V  
+SYS_FAN5_PUMP:    0 RPM  (min =    0 RPM)
+SYS_FAN6_PUMP:    0 RPM  (min =    0 RPM)
+SYS_FAN4:         0 RPM  (min =    0 RPM)
+PCIEX8:         +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+EC_TEMP:        +27.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System 2:       +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:    OK
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.02 V  
+SVI2_SoC:      1.18 V  
+Tdie:         +41.8 C  (high = +95.0 C)
+Tctl:         +41.8 C  
+Tccd1:        +43.0 C  
+Tccd2:        +40.2 C  
+SVI2_P_Core:  14.77 W  
+SVI2_P_SoC:   14.87 W  
+SVI2_C_Core:  14.49 A  
+SVI2_C_SoC:   12.65 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+

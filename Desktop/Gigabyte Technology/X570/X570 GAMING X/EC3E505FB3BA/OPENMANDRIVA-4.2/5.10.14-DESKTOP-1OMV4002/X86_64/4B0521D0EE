@@ -1,0 +1,42 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       988.00 mV 
+Vsoc:          1.01 V  
+Tctl:         +47.5 C  
+Tdie:         +47.5 C  
+Tccd1:        +32.5 C  
+Icore:         9.00 A  
+Isoc:          6.20 A  
+
+nouveau-pci-0900
+Adapter: PCI adapter
+fan1:         849 RPM
+temp1:        +30.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    237.16 J
+Ecore001:     90.50 J
+Ecore002:     97.67 J
+Ecore003:    135.96 J
+Ecore004:     75.66 J
+Ecore005:    316.80 J
+Esocket0:      9.26 kJ
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

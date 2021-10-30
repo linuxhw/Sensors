@@ -1,0 +1,37 @@
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.90 V, max =  +1.11 V)
+temp1:        +48.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+sfc-pci-0400
+Adapter: PCI adapter
+1.2V supply:              1.35 V  (min =  +1.32 V, max =  +1.40 V)
+3.3V supply:              3.34 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.23 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +54.0 C  (low  =  +5.0 C, high = +60.0 C)
+                                  (crit = +75.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +40.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +35.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +36.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +36.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +35.0 C  (high = +80.0 C, crit = +90.0 C)
+
+sfc-pci-0401
+Adapter: PCI adapter
+1.2V supply:              1.35 V  (min =  +1.32 V, max =  +1.40 V)
+3.3V supply:              3.34 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.23 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +54.0 C  (low  =  +5.0 C, high = +60.0 C)
+                                  (crit = +75.0 C)
+

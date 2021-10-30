@@ -1,0 +1,15 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.07 V  
+Vsoc:          1.09 V  
+Tctl:         +40.0 C  
+Tdie:         +40.0 C  
+Tccd1:        +44.2 C  
+Icore:         6.00 A  
+Isoc:          6.25 A  
+

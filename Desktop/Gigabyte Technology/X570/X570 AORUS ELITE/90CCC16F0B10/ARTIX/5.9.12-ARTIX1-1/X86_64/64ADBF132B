@@ -1,0 +1,49 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+Tdie:         +32.2 C  (high = +95.0 C)
+Tctl:         +32.2 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+corsairpsu-hid-3-2
+Adapter: HID adapter
+voltage supply: 230.00 V  
+voltage 12v:     12.05 V  
+voltage 5v:       5.03 V  
+voltage 3.3v:     3.33 V  
+fan rpm:           0 RPM
+temp1:           +42.2 C  
+temp2:           +35.0 C  
+power total:     70.00 W  
+power 12v:       38.00 W  
+power 5v:        27.50 W  
+power 3.3v:       6.00 W  
+current 12v:      3.25 A  
+current 5v:       5.50 A  
+current 3.3v:     1.88 A  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3450 RPM)
+edge:         +38.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +38.0 C  (crit = +107.0 C, hyst = -273.1 C)
+                       (emerg = +112.0 C)
+mem:          +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:        9.00 W  (cap = 195.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

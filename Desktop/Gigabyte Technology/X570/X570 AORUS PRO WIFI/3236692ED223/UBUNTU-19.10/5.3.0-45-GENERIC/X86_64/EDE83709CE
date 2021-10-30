@@ -1,0 +1,20 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +65.6 C  (high = +70.0 C)
+Tctl:         +65.6 C  
+
+nouveau-pci-0800
+Adapter: PCI adapter
+GPU core:    931.00 mV (min =  +0.70 V, max =  +1.20 V)
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

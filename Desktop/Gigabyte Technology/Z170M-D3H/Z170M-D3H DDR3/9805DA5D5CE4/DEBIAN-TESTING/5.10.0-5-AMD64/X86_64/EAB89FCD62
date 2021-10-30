@@ -1,0 +1,30 @@
+it8628-isa-0a40
+Adapter: ISA adapter
+Vcore:              1.15 V  (min =  +0.00 V, max =  +1.50 V)
+in1:                2.02 V  (min =  +0.00 V, max =  +3.06 V)
++12V:              12.31 V  (min = +11.38 V, max = +12.82 V)
++5V:                5.10 V  (min =  +4.74 V, max =  +5.49 V)
+VCCSA:              1.07 V  (min =  +1.00 V, max =  +1.15 V)
+DRAM:               1.66 V  (min =  +1.52 V, max =  +1.76 V)
+3VSB:               3.34 V  (min =  +3.14 V, max =  +3.62 V)
+Vbat:               3.10 V  
+CPU Fan:          1717 RPM  (min =    0 RPM)
+System Fan Rear:  2008 RPM  (min =    0 RPM)
+System Fan Front: 1298 RPM  (min =    0 RPM)
+System Temp:       +41.0 C  (low  = +10.0 C, high = +75.0 C)  sensor = thermistor
+CPU Temp:          +42.0 C  (low  = +10.0 C, high = +110.0 C)  sensor = Intel PECI
+temp4:             +41.0 C  
+temp5:             +41.0 C  
+temp6:             +36.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+
