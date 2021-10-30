@@ -1,0 +1,24 @@
+radeon-pci-0600
+Adapter: PCI adapter
+temp1:        +43.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +52.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+vddnb:       875.00 mV 
+edge:         +52.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       19.81 mW (avg =   2.29 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          14.04 V  
+
