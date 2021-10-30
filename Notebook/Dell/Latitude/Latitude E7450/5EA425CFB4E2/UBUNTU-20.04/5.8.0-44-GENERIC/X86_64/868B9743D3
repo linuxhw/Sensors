@@ -1,0 +1,29 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           6.98 V  
+curr1:         3.14 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3271 RPM
+CPU:            +69.0 C  
+Ambient:        +41.0 C  
+SODIMM:         +28.0 C  
+Other:          +29.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +70.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +69.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +70.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+temp2:        +27.8 C  (crit = +105.0 C)
+temp3:        +29.8 C  (crit = +105.0 C)
+

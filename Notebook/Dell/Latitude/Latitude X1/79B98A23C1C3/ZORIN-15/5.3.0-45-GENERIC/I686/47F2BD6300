@@ -1,0 +1,14 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.69 V  
+curr1:       1000.00 uA 
+
+dell_smm-virtual-0
+Adapter: Virtual device
+CPU:          +54.0 C  
+CPU:          +51.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +54.5 C  (crit = +95.0 C)
+

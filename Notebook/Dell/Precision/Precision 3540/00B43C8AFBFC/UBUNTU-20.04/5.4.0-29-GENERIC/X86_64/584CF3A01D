@@ -1,0 +1,35 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.90 V  
+curr1:         4.04 A  
+
+ath10k_hwmon-pci-3c00
+Adapter: PCI adapter
+temp1:        +47.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+
+amdgpu-pci-3b00
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+edge:         +37.0 C  (crit = +99.0 C, hyst = -273.1 C)
+power1:        3.17 W  (cap =  25.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
