@@ -1,0 +1,32 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:        +1.20 V  
+Vsoc:         +0.93 V  
+Tctl:         +65.4 C  
+Tdie:         +65.4 C  
+Icore:       +87.00 A  
+Isoc:        +15.25 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:         +11.86 V  
+curr1:        +1.03 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3562 RPM
+CPU:            +66.0 C  
+Ambient:        +50.0 C  
+Ambient:        +47.0 C  
+SODIMM:         +34.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +66.0 C  (crit = +102.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +65.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+

@@ -1,0 +1,33 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   819.00 mV 
+SVI2_SoC:      1.11 V  
+Tdie:         +70.1 C  (high = +95.0 C)
+Tctl:         +70.1 C  
+SVI2_P_Core:  12.86 W  
+SVI2_P_SoC:   22.36 W  
+SVI2_C_Core:  15.59 A  
+SVI2_C_SoC:   20.20 A  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.95 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +70.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        5500 RPM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+

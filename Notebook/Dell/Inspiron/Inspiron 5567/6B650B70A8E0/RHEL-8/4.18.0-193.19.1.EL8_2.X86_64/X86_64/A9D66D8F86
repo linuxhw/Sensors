@@ -1,0 +1,26 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 5597 RPM
+CPU:            +74.0 C  
+Ambient:        +49.0 C  
+SODIMM:         +45.0 C  
+GPU:            +64.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +25.0 C  (crit = +107.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +81.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +81.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +76.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +63.0 C  
+

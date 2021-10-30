@@ -1,0 +1,46 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2644 RPM
+CPU:            +57.0 C  
+Ambient:        +49.0 C  
+SODIMM:         +43.0 C  
+GPU:            +54.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +59.9 C  (low  =  +0.0 C, high = +84.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +59.9 C  (low  =  +0.0 C, high = +65261.8 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+edge:         +55.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        1.07 kW (cap =  37.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.68 V  
+curr1:         3.54 A  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +50.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+

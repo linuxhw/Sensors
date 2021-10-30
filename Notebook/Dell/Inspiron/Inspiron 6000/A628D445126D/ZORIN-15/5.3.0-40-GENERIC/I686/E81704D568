@@ -1,0 +1,17 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.61 V  
+curr1:       1000.00 uA 
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3812 RPM
+CPU:            +42.0 C  
+CPU:            +37.0 C  
+GPU:            +60.0 C  
+SODIMM:         +41.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.5 C  (crit = +84.0 C)
+
