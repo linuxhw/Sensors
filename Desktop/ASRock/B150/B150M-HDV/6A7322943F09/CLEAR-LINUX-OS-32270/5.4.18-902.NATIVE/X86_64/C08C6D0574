@@ -1,0 +1,19 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         716 RPM
+temp1:        +22.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +21.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +17.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +21.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +18.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +18.0 C  (high = +84.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +23.5 C  
+

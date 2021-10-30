@@ -1,0 +1,51 @@
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:       +1.00 V  
+fan1:         678 RPM
+temp1:        +35.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       20.00 W  (cap = 130.00 W)
+
+nct6779-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.42 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.29 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.36 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                  +3.36 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                    +1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +0.90 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +1.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                   +3.49 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                   +3.30 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                   +0.94 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +1.69 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +0.29 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +1.86 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1950 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                   981 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +30.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +15.0 C    sensor = thermistor
+AUXTIN1:                +29.0 C    sensor = thermistor
+AUXTIN2:                +22.0 C    sensor = thermistor
+AUXTIN3:                -29.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +41.9 C  (high = +70.0 C)
+

@@ -1,0 +1,17 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +56.8 C  (high = +70.0 C)
+Tctl:         +56.8 C  
+
+amdgpu-pci-1200
+Adapter: PCI adapter
+vddgfx:      887.00 mV 
+fan1:         407 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +70.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +73.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +74.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:       16.00 W  (cap = 150.00 W)
+

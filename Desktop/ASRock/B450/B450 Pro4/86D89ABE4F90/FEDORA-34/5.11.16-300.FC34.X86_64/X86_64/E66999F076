@@ -1,0 +1,67 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+in0:                     0.00 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                     0.00 V  (min =  +1.13 V, max =  +1.38 V)
+in2:                     0.00 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     0.00 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     0.00 V  (min =  +1.62 V, max =  +1.98 V)
+in5:                     0.00 V  (min =  +0.90 V, max =  +1.10 V)
+in6:                     0.00 V  (min =  +1.20 V, max =  +1.46 V)
+in7:                     0.00 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     0.00 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                    0.00 V  (min =  +0.81 V, max =  +0.99 V)
+in11:                    0.00 V  (min =  +0.90 V, max =  +1.10 V)
+in12:                    0.00 V  (min =  +1.53 V, max =  +1.87 V)
+in13:                    0.00 V  (min =  +0.29 V, max =  +0.35 V)
+in14:                    0.00 V  (min =  +1.62 V, max =  +1.98 V)
+fan1:                   960 RPM  (min =    0 RPM)
+fan2:                  1666 RPM  (min = 1000 RPM)
+fan3:                  1679 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =  600 RPM)  ALARM
+fan5:                   712 RPM  (min =    0 RPM)
+SYSTIN:                  +0.0 C  (high = +45.0 C, hyst = +40.0 C)  sensor = thermistor
+CPUTIN:                  +0.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                 +0.0 C    sensor = thermistor
+AUXTIN1:                 +0.0 C    sensor = thermistor
+AUXTIN2:                 +0.0 C    sensor = thermistor
+AUXTIN3:                 +0.0 C    sensor = thermistor
+SMBUSMASTER 0:          +62.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      706.00 mV 
+fan1:        1282 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +32.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +32.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:        5.00 W  (cap = 125.00 W)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.0 C  
+Tdie:         +62.0 C  
+Tccd1:        +58.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 1:    -239.2 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 2:    -246.2 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:    -244.2 C  (low  =  +0.0 C, high =  +0.0 C)
+

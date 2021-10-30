@@ -1,0 +1,28 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    255.66 J
+Ecore001:    255.66 J
+Ecore002:    170.80 J
+Ecore003:    170.80 J
+Ecore004:    141.27 J
+Ecore005:    141.27 J
+Ecore006:    148.53 J
+Ecore007:    148.53 J
+Esocket0:      6.82 kJ
+
+nouveau-pci-2600
+Adapter: PCI adapter
+fan1:         935 RPM
+temp1:        +43.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       838.00 mV 
+Vsoc:        863.00 mV 
+Tctl:         +40.0 C  
+Tdie:         +40.0 C  
+Icore:         7.00 A  
+Isoc:          5.75 A  
+

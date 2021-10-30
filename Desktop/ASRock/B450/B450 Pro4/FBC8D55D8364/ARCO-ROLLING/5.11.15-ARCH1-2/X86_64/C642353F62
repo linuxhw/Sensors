@@ -1,0 +1,45 @@
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +46.0 C  
+case temp:    +40.0 C  
+power total:  68.00 W  
+power +12v:   48.00 W  
+power +5v:    14.00 W  
+power +3.3v:   7.00 W  
+curr in:          N/A  
+curr +12v:     4.00 A  
+curr +5v:      2.00 A  
+curr +3.3v:    2.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.0 C  
+Tdie:         +47.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:         900 RPM  (min =    0 RPM, max = 3850 RPM)
+edge:         +37.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +39.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       25.00 W  (cap = 250.00 W)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

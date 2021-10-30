@@ -1,0 +1,16 @@
+nouveau-pci-0900
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.90 V, max =  +1.11 V)
+temp1:        +47.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:        819.00 mV 
+Tctl:         +51.9 C  
+Tdie:         +51.9 C  
+Icore:        19.00 A  
+Isoc:          4.00 A  
+

@@ -1,0 +1,55 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.14 V  
+Vsoc:        900.00 mV 
+Tctl:         +35.9 C  
+Tdie:         +35.9 C  
+Icore:        23.00 A  
+Isoc:          7.25 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6779-isa-0290
+Adapter: ISA adapter
+VRM VCore:                 1.14 V  (min =  +0.54 V, max =  +1.46 V)
+VPPM:                    816.00 mV (min =  +2.37 V, max =  +2.62 V)  ALARM
+AVCC:                      3.31 V  (min =  +2.98 V, max =  +3.63 V)
+3VCC:                      3.31 V  (min =  +2.98 V, max =  +3.63 V)
++12V:                     12.25 V  (min = +11.40 V, max = +12.62 V)
+VDDCR_SOC (Data Fabric): 904.00 mV (min =  +0.80 V, max =  +1.20 V)
+DRAM (VDDIO):            312.00 mV (min =  +1.10 V, max =  +1.50 V)  ALARM
+3VSB:                      3.42 V  (min =  +2.98 V, max =  +3.63 V)
+VBat:                      3.25 V  (min =  +2.70 V, max =  +3.63 V)
+Null:                      0.00 V  (min =  +0.00 V, max =  +0.00 V)
+Mem_VTT (VDDIO/2):       232.00 mV (min =  +0.60 V, max =  +0.75 V)  ALARM
+Chipset 1.05V:             1.03 V  (min =  +0.90 V, max =  +1.20 V)
++5V:                       5.06 V  (min =  +4.75 V, max =  +5.26 V)
+VDDP:                      1.04 V  (min =  +0.91 V, max =  +1.07 V)
+1.8V+:                     1.78 V  (min =  +1.77 V, max =  +1.84 V)
+Chassis Fan 3 Speed:     1032 RPM  (min =  700 RPM)
+CPU Fan 1 Speed:          934 RPM  (min =  700 RPM)
+CPU Fan 2 Speed:            0 RPM  (min =  700 RPM)  ALARM
+Chassis Fan 1 Speed:        0 RPM  (min =  700 RPM)  ALARM
+Chassis Fan 2 Speed:        0 RPM  (min =  700 RPM)  ALARM
+Motherboard:              +40.0 C  (high = +60.0 C, hyst = +55.0 C)  sensor = thermistor
+CPU MB:                   +36.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+Auxillary:                +78.5 C    sensor = thermistor
+AUXTIN2:                  +24.0 C    sensor = thermistor
+CPU (PECI):               -21.0 C    sensor = thermistor
+PCH_CHIP_TEMP:             +0.0 C  
+PCH_CPU_TEMP:              +0.0 C  
+PCH_MCH_TEMP:              +0.0 C  
+beep_enable:             disabled
+
+amdgpu-pci-2200
+Adapter: PCI adapter
+vddgfx:      962.00 mV 
+fan1:        1334 RPM  (min =    0 RPM, max = 3600 RPM)
+edge:         +54.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       16.05 W  (cap =  70.00 W)
+

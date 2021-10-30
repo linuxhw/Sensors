@@ -1,0 +1,23 @@
+amdgpu-pci-2600
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:         814 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +27.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       31.17 W  (cap = 155.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.48 V  
+Vsoc:        813.00 mV 
+Tctl:         +43.8 C  
+Tdie:         +43.8 C  
+Icore:        23.00 A  
+Isoc:          5.75 A  
+

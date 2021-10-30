@@ -1,0 +1,15 @@
+radeon-pci-0008
+Adapter: PCI adapter
+in0:         1000.00 mV 
+temp1:        +21.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +18.8 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +79.0 C)
+
