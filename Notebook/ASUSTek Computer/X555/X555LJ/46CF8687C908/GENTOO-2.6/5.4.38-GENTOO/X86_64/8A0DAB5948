@@ -1,0 +1,14 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.50 V  
+
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +54.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +69.0 C  (crit = +108.0 C)
+temp2:        +27.8 C  (crit = +105.0 C)
+temp3:        +29.8 C  (crit = +105.0 C)
+

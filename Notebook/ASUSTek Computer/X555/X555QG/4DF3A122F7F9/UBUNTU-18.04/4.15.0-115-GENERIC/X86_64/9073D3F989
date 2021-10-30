@@ -1,0 +1,28 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2800 RPM
+temp1:        +46.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       34.18 mW (avg =  11.62 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  (crit = +77.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+fan1:             N/A
+temp1:        +69.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+radeon-pci-0300
+Adapter: PCI adapter
+temp1:            N/A  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +69.4 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
