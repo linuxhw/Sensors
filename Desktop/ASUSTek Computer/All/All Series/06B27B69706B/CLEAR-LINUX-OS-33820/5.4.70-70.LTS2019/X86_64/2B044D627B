@@ -1,0 +1,57 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.06 V  
+fan1:        1957 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +39.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       36.10 W  (cap = 150.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nct6791-isa-0290
+Adapter: ISA adapter
+in0:                   856.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     1.99 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  920.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  592.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  560.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  560.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   661 RPM  (min =    0 RPM)
+fan2:                   817 RPM  (min =    0 RPM)
+fan3:                  1028 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                   838 RPM  (min =    0 RPM)
+fan6:                  1062 RPM  (min =    0 RPM)
+SYSTIN:                 +63.0 C  (high =  +0.0 C, hyst =  +0.0 C)  sensor = thermistor
+CPUTIN:                 +63.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +62.0 C    sensor = thermistor
+AUXTIN1:               +127.0 C    sensor = thermistor
+AUXTIN2:                +30.0 C    sensor = thermistor
+AUXTIN3:                +63.0 C    sensor = thermistor
+PECI Agent 0:           +35.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+

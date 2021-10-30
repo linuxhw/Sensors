@@ -1,0 +1,11 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.9°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +69.0°C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +27.0°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+

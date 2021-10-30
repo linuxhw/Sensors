@@ -1,0 +1,22 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +25.4°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +69.0°C)
+
+it8603-isa-0290
+Adapter: ISA adapter
+in0:          +1.08 V  (min =  +2.04 V, max =  +1.50 V)  ALARM
+in1:          +1.62 V  (min =  +1.32 V, max =  +1.18 V)  ALARM
+in2:          +2.04 V  (min =  +1.33 V, max =  +2.22 V)
+in3:          +2.08 V  (min =  +2.23 V, max =  +0.17 V)  ALARM
+in4:          +1.07 V  (min =  +1.04 V, max =  +1.93 V)
+3VSB:         +3.31 V  (min =  +1.30 V, max =  +5.33 V)
+Vbat:         +3.19 V  
++3.3V:        +3.29 V  
+fan1:        2272 RPM  (min =  200 RPM)
+fan2:        2616 RPM  (min =  600 RPM)
+temp1:        +40.0°C  (low  = -115.0°C, high = -107.0°C)  ALARM  sensor = thermistor
+temp2:        +36.0°C  (low  = +92.0°C, high = -48.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  = +80.0°C, high = +114.0°C)  sensor = thermistor
+intrusion0:  ALARM
+

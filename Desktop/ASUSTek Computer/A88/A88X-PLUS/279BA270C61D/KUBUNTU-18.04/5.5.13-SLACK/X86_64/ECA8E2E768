@@ -1,0 +1,39 @@
+f81768d-isa-0290
+Adapter: ISA adapter
+in0:          +1.65 V  
+in1:          +1.30 V  (max =  +2.04 V)                  ALARM
+in2:          +1.06 V  
+in3:          +0.00 V  
+in4:          +1.60 V  
+in5:          +1.37 V  
+in6:          +1.32 V  
+in7:          +1.64 V  
+in8:          +1.62 V  
+in9:          +1.66 V  
+in10:         +2.04 V  
+fan1:        1486 RPM
+fan2:           0 RPM  ALARM
+fan3:        1564 RPM
+temp1:        +36.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +28.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp3:       +255.0 C  (high = +255.0 C, hyst = +255.0 C)
+                       (crit = +255.0 C, hyst = +255.0 C)  sensor = thermistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Temp:     +21.8 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.97 V  
+fan1:        1207 RPM  (min =    0 RPM, max = 4100 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.01 W  (cap = 130.00 W)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  95.09 W)
+

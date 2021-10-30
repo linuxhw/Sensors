@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +33.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +36.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +105.0°C)
+temp2:        +29.8°C  (crit = +105.0°C)
+
+nct6791-isa-0290
+Adapter: ISA adapter
+Vcore:                  +0.87 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                   +3.42 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                  +3.42 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                    +1.00 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                    +2.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                    +1.62 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                   +3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                   +3.31 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                    +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                   +0.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +0.18 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +0.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1229 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +35.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+CPUTIN:                 +33.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+AUXTIN0:                +23.0°C    sensor = thermistor
+AUXTIN1:               +100.0°C    sensor = thermistor
+AUXTIN2:               +103.0°C    sensor = thermistor
+AUXTIN3:               +103.0°C    sensor = thermistor
+PECI Agent 0:           +36.5°C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0°C  
+PCH_CHIP_TEMP:           +0.0°C  
+PCH_CPU_TEMP:            +0.0°C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

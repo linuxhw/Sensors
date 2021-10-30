@@ -1,0 +1,60 @@
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+temp1:        +29.0 C  
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +29.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +26.0 C, highest = +40.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +52.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +49.0 C, highest = +58.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +76.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 0:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 1:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 2:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 3:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 4:        +23.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 8:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 9:        +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 10:       +23.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 11:       +23.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 16:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 17:       +23.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 18:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 19:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 20:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 24:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 25:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 26:       +23.0 C  (high = +88.0 C, crit = +98.0 C)
+Core 27:       +24.0 C  (high = +88.0 C, crit = +98.0 C)
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +27.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +25.0 C, highest = +40.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +53.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +50.0 C, highest = +59.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +76.8 C)
+

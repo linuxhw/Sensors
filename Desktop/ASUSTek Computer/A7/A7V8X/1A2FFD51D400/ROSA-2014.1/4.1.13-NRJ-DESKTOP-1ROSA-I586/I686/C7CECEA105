@@ -1,0 +1,22 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +63.0°C  
+
+asb100-i2c-5-2d
+Adapter: SMBus Via Pro adapter at e800
+in0:          +1.65 V  (min =  +1.26 V, max =  +1.90 V)
+in1:          +1.63 V  (min =  +1.26 V, max =  +1.90 V)
+in2:          +3.26 V  (min =  +2.96 V, max =  +3.63 V)
+in3:          +2.98 V  (min =  +2.67 V, max =  +3.28 V)
+in4:          +3.18 V  (min =  +2.51 V, max =  +3.79 V)
+in5:          +3.17 V  (min =  +0.00 V, max =  +0.00 V)
+in6:          +3.18 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:        2220 RPM  (min =   -1 RPM, div = 4)  ALARM
+fan2:           0 RPM  (min =   -1 RPM, div = 2)  ALARM
+fan3:           0 RPM  (min =   -1 RPM, div = 2)
+temp1:        +34.0°C  (high = +80.0°C, hyst = +75.0°C)
+temp2:        +55.5°C  (high = +80.0°C, hyst = +70.0°C)
+temp3:        +14.0°C  (high = +80.0°C, hyst = +75.0°C)
+temp4:        +38.0°C  (high = +80.0°C, hyst = +75.0°C)
+cpu0_vid:    +1.600 V
+
