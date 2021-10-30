@@ -1,0 +1,31 @@
+bq27542_0-virtual-0
+Adapter: Virtual device
+in0:            3.82 V  
+temp ambient:  +34.9 C  
+curr1:        682.00 mA 
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +52.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +52.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+
+bq27542_0-virtual-0
+Adapter: Virtual device
+in0:              N/A  
+temp1:        +34.9 C  
+curr1:            N/A  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+
