@@ -1,0 +1,14 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +61.4 C  (high = +70.0 C)
+                       (crit = +115.5 C, hyst = +108.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       19.45 W  (interval =   0.01 s, crit =  15.01 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.07 V  
+curr1:         1.32 A  
+

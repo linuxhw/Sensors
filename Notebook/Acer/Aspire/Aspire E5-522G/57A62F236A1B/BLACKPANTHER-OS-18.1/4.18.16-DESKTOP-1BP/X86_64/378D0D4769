@@ -1,0 +1,25 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       33.78 W  (interval =   0.01 s, crit =  14.96 W)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +60.0 C  (crit = +98.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +62.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +61.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +60.4 C  (high = +70.0 C)
+                       (crit = +105.0 C, hyst = +104.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +49.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
