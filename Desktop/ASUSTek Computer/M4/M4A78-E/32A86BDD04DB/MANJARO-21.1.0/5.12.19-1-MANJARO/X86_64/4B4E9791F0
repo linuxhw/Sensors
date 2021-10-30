@@ -1,0 +1,21 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:         1.37 V  (min =  +0.85 V, max =  +1.70 V)
+ +3.3 Voltage:         3.41 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:           5.03 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:         12.44 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:       3276 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed:   1271 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN 2 Speed: 1310 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:      +51.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:       +34.0 C  (high = +45.0 C, crit = +75.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +50.5 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +85.0 C)
+

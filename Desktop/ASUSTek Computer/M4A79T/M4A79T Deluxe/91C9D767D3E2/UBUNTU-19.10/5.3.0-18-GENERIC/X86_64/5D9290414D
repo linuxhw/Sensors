@@ -1,0 +1,35 @@
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:04:00.0-bus-0003
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.35 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:        1465 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +46.0 C  (low  = +74.0 C, high = +94.0 C)  ALARM
+                       (crit = +97.0 C, hyst = +97.0 C)
+Board Temp:   +44.0 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+temp3:        +46.0 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +107.0 C, hyst = +107.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:         1.38 V  (min =  +0.85 V, max =  +1.70 V)
+ +3.3 Voltage:         3.49 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:           4.65 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:         12.52 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:       1757 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed:   1097 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN 2 Speed: 1814 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:      +33.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:       +29.0 C  (high = +45.0 C, crit = +75.0 C)
+
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:      1.05 V  (min =  +1.05 V, max =  +1.18 V)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +33.9 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +88.0 C)
+

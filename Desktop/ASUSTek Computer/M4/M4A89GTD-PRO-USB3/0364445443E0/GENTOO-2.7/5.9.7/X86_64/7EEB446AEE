@@ -1,0 +1,22 @@
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  
+
+nouveau-pci-0300
+Adapter: PCI adapter
+GPU core:      1.01 V  (min =  +0.60 V, max =  +1.20 V)
+temp1:        +32.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +78.9 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +88.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +36.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +24.0 C, highest = +42.0 C)
+
