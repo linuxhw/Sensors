@@ -1,0 +1,31 @@
+it8718-isa-0290
+Adapter: ISA adapter
+in0:           1.17 V  (min =  +0.00 V, max =  +4.08 V)
+in1:           1.89 V  (min =  +0.00 V, max =  +4.08 V)
+in2:           3.36 V  (min =  +0.00 V, max =  +4.08 V)
++5V:           2.99 V  (min =  +0.00 V, max =  +4.08 V)
+in4:           1.04 V  (min =  +0.00 V, max =  +4.08 V)
+in5:         240.00 mV (min =  +0.00 V, max =  +4.08 V)
+in6:          96.00 mV (min =  +0.00 V, max =  +4.08 V)
+in7:           3.10 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:          3.26 V  
+fan1:        1781 RPM  (min =    0 RPM)
+fan2:         979 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +42.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +41.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:         -2.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:        1001 RPM
+temp1:        +36.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +56.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +58.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +58.0 C  (high = +84.0 C, crit = +100.0 C)
+

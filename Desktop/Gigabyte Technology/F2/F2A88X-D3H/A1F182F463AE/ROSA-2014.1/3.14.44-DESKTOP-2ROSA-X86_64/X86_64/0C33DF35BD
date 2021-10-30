@@ -1,0 +1,24 @@
+it8728-isa-0228
+Adapter: ISA adapter
+Vcore:          +1.34 V  (min =  +0.83 V, max =  +1.48 V)
+Dram Voltage:   +1.33 V  (min =  +1.43 V, max =  +1.57 V)
+in2:            +2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in3:            +2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:            +2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in5:            +2.23 V  (min =  +0.00 V, max =  +3.06 V)
+in6:            +2.23 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:           +3.31 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:           +0.14 V  
+CPU fan:       2213 RPM  (min =   10 RPM)
+Chassis fan 1: 1548 RPM  (min =    0 RPM)
+Chassis fan 2:    0 RPM  (min =    0 RPM)
+Chassis fan 3:    0 RPM  (min =    0 RPM)
+System temp:    +43.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+CPU temp:       +38.0°C  (low  =  +0.0°C, high = +70.0°C)  sensor = Intel PECI
+intrusion0:    ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +25.4°C  (high = +70.0°C)
+                       (crit = +80.0°C, hyst = +79.0°C)
+

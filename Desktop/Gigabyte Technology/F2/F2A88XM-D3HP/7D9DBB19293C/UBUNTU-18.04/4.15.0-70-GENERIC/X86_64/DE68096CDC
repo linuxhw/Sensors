@@ -1,0 +1,37 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +18.4 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +79.0 C)
+
+it8620-isa-0228
+Adapter: ISA adapter
+in0:           1.46 V  (min =  +0.00 V, max =  +3.06 V)
+in1:           1.61 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in5:           2.23 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           2.23 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.34 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          1.25 V  
+fan1:        1577 RPM  (min =    0 RPM)
+fan2:         760 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:         -8.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +31.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+temp4:        +44.0 C  
+temp5:        +45.0 C  
+temp6:        +45.0 C  
+intrusion0:  ALARM
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  95.05 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:         +6.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
