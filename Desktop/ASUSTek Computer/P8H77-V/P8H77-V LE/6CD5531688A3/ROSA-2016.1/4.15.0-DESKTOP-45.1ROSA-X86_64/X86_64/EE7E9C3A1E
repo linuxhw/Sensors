@@ -1,0 +1,43 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:          +0.95 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +2.23 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +2.23 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +1.55 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.17 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.31 V  
+fan1:        1421 RPM  (min =  466 RPM)
+fan2:        1928 RPM  (min =   16 RPM)
+temp1:        +29.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +28.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +31.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = Intel PECI
+intrusion0:  OK
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +99.0 C)
+temp2:        +29.8 C  (crit = +99.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +29.0 C  (high = +80.0 C, crit = +98.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.95 V  (min =  +0.95 V, max =  +1.14 V)
+fan1:         960 RPM
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

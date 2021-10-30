@@ -1,0 +1,31 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+it8771-isa-0290
+Adapter: ISA adapter
+in0:         984.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           2.22 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.08 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.98 V  (min =  +0.00 V, max =  +3.06 V)
+in5:           2.22 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          6.07 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.34 V  
+fan1:        1194 RPM  (min =   21 RPM)
+fan2:           0 RPM  (min =  135 RPM)  ALARM
+temp1:        +35.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +30.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +42.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = Intel PECI
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +42.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +37.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +43.0 C  (high = +85.0 C, crit = +105.0 C)
+

@@ -1,0 +1,28 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:          +1.09 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +2.23 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +2.98 V  (min =  +0.00 V, max =  +3.06 V)
++3.3V:        +3.36 V  (min =  +0.00 V, max =  +6.12 V)
+in4:          +0.78 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +2.88 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +2.54 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +2.16 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.34 V  
+fan1:        1917 RPM  (min =   44 RPM)
+fan2:           0 RPM  (min =   13 RPM)  ALARM
+temp1:        +34.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +31.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:         -8.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +40.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 0:         +39.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 1:         +40.0 C  (high = +82.0 C, crit = +102.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

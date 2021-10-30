@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +46.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 0:         +39.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 1:         +41.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 2:         +46.0°C  (high = +80.0°C, crit = +99.0°C)
+Core 3:         +41.0°C  (high = +80.0°C, crit = +99.0°C)
+
+it8728-isa-0290
+Adapter: ISA adapter
+in0:          +1.21 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in1:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in2:          +2.90 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in3:          +2.86 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in4:          +1.84 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:          +1.82 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in6:          +0.59 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+3VSB:         +5.04 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+Vbat:         +3.26 V  
+fan1:        2033 RPM  (min =   23 RPM)
+fan2:           0 RPM  (min =   14 RPM)  ALARM
+temp1:        +37.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp2:        +29.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:         -8.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+intrusion0:  OK
+

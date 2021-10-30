@@ -1,0 +1,33 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.02 V  
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +44.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        8.16 W  (cap =  47.00 W)
+
+it8771-isa-0290
+Adapter: ISA adapter
+in0:           1.16 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in1:           2.23 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in2:           2.92 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
++3.3V:         3.24 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+in4:           2.54 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:           2.87 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in6:           1.82 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+3VSB:          5.33 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+Vbat:          3.31 V  
+fan1:        3000 RPM  (min =   24 RPM)
+fan2:           0 RPM  (min =   10 RPM)  ALARM
+temp1:        +45.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermistor
+temp2:        +41.0 C  (low  =  -1.0 C, high = +127.0 C)  ALARM  sensor = thermistor
+temp3:         -8.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 0:        +51.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 1:        +51.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 2:        +51.0 C  (high = +80.0 C, crit = +99.0 C)
+Core 3:        +51.0 C  (high = +80.0 C, crit = +99.0 C)
+

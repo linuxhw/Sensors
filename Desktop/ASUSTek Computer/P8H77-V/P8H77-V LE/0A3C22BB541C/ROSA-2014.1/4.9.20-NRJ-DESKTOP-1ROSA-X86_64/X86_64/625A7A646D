@@ -1,0 +1,39 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:          +0.89 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in1:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in2:          +1.98 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in3:          +2.02 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in4:          +1.99 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in6:          +3.02 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+3VSB:         +4.56 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+Vbat:         +3.29 V  
+fan1:        1527 RPM  (min =   11 RPM)
+fan2:         975 RPM  (min =   10 RPM)
+temp1:        +26.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp2:        +24.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:        +36.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = Intel PECI
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +35.0°C  (high = +85.0°C, crit = +105.0°C)
+Core 0:         +34.0°C  (high = +85.0°C, crit = +105.0°C)
+Core 1:         +29.0°C  (high = +85.0°C, crit = +105.0°C)
+Core 2:         +31.0°C  (high = +85.0°C, crit = +105.0°C)
+Core 3:         +34.0°C  (high = +85.0°C, crit = +105.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8°C  (crit = +106.0°C)
+temp2:        +29.8°C  (crit = +106.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +37.0°C  (crit = +120.0°C, hyst = +90.0°C)
+

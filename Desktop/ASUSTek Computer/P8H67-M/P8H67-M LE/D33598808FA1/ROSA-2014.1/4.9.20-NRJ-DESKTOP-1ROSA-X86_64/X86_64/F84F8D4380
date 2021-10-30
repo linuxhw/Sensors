@@ -1,0 +1,30 @@
+it8771-isa-0290
+Adapter: ISA adapter
+in0:          +1.04 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in1:          +2.22 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in2:          +2.90 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
++3.3V:        +3.31 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+in4:          +1.78 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:          +2.93 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in6:          +2.56 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+3VSB:         +5.69 V  (min =  +0.00 V, max =  +6.12 V)  ALARM
+Vbat:         +3.26 V  
+fan1:        1278 RPM  (min =   31 RPM)
+fan2:        1094 RPM  (min =   14 RPM)
+temp1:        +27.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp2:        +26.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:         -7.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+intrusion0:  OK
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +34.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +23.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +32.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +28.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +34.0°C  (high = +80.0°C, crit = +98.0°C)
+
