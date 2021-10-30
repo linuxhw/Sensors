@@ -1,0 +1,14 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +87.0 C, crit = +91.0 C)
+Core 0:        +43.0 C  (high = +87.0 C, crit = +91.0 C)
+Core 1:        +41.0 C  (high = +87.0 C, crit = +91.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +8.3 C  (crit = +31.3 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval = 300.00 s)
+

@@ -1,0 +1,28 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +53.6 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +37.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+w83795adg-i2c-1-2f
+Adapter: SMBus PIIX4 adapter port 2 at 0b00
+in0:         720.00 mV (min =  +0.00 V, max =  +2.05 V)
+in1:           1.52 V  (min =  +0.00 V, max =  +2.05 V)
+in2:           1.10 V  (min =  +0.00 V, max =  +2.05 V)
+in3:         994.00 mV (min =  +0.00 V, max =  +2.05 V)
++3.3V:         3.31 V  (min =  +2.96 V, max =  +3.63 V)
+3VSB:          3.26 V  (min =  +2.96 V, max =  +3.63 V)
+fan1:         550 RPM  (min =  329 RPM)
+temp1:        +53.0 C  (high = +109.0 C, hyst = +109.0 C)
+                       (crit = +109.0 C, hyst = +109.0 C)  sensor = thermal diode
+temp2:        +53.5 C  (high = +105.0 C, hyst = +105.0 C)
+                       (crit = +105.0 C, hyst = +105.0 C)  sensor = thermal diode
+temp5:        +27.5 C  (high = +39.0 C, hyst = +39.0 C)
+                       (crit = +44.0 C, hyst = +44.0 C)  sensor = thermistor
+intrusion0:  OK
+

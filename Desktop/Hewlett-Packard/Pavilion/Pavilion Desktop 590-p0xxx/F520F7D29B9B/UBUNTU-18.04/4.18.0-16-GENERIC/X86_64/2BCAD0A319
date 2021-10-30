@@ -1,0 +1,16 @@
+amdgpu-pci-1000
+Adapter: PCI adapter
+vddgfx:       +0.88 V  
+fan1:        2371 RPM
+temp1:        +38.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        6.22 W  (cap =  35.00 W)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  (crit = +105.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +54.8 C  (high = +70.0 C)
+Tctl:         +54.8 C  
+

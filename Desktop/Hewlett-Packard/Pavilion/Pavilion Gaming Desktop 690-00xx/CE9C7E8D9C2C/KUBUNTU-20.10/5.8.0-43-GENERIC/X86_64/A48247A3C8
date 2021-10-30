@@ -1,0 +1,26 @@
+amdgpu-pci-3800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +35.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +36.0 C  (crit = +105.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.10 V  
+Tctl:         +35.9 C  
+Tdie:         +35.9 C  
+Icore:        13.00 A  
+Isoc:          3.75 A  
+
+amdgpu-pci-1000
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:        2148 RPM  (min = 1800 RPM, max = 7000 RPM)
+edge:         +33.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        5.17 W  (cap =  35.00 W)
+

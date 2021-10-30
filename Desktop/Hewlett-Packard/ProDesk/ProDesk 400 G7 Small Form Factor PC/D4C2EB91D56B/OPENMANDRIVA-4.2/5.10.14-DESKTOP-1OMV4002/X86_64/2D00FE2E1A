@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +26.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +24.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +26.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +28.0 C  (high = +84.0 C, crit = +100.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +21.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+

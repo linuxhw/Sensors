@@ -1,0 +1,18 @@
+amdgpu-pci-1000
+Adapter: PCI adapter
+vddgfx:       +0.92 V  
+fan1:        2315 RPM  (min = 1800 RPM, max = 7000 RPM)
+temp1:        +36.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        7.14 W  (cap =  35.00 W)
+
+amdgpu-pci-3800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+temp1:        +43.0 C  (crit = +80.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +43.4 C  (high = +70.0 C)
+Tctl:         +43.4 C  
+

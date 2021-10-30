@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:         +8.3 C  (crit = +31.3 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +34.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +41.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +41.0 C  (high = +84.0 C, crit = +100.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +70.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 1:  +73.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 2:  +76.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 3:  +69.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +79.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 1:  +84.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 2:  +83.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 3:  +82.5 C  (low  = +127.5 C, high = +127.5 C)
+
