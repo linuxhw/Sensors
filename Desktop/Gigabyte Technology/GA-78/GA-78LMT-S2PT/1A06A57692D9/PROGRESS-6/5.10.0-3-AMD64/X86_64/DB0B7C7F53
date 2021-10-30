@@ -1,0 +1,35 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       82.43 W  (crit =  95.06 W)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:        1724 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +34.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       11.17 W  (cap =  48.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.9 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+it8728-isa-0228
+Adapter: ISA adapter
+in0:           1.25 V  (min =  +0.00 V, max =  +3.06 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
++3.3V:         3.26 V  (min =  +0.00 V, max =  +6.12 V)
+in4:           1.96 V  (min =  +0.00 V, max =  +3.06 V)
+in5:           2.22 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           2.22 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.31 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          2.90 V  
+fan1:        1513 RPM  (min =   10 RPM)
+fan2:        2163 RPM  (min =   10 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +49.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +46.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:        +36.0 C  (low  = +127.0 C, high = +60.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
