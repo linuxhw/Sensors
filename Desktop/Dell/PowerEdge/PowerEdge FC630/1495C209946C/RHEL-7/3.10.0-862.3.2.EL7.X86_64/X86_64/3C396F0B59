@@ -1,0 +1,24 @@
+i350bb-pci-0700
+Adapter: PCI adapter
+loc1:         +62.0*C  (high = +120.0*C, crit = +110.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +60.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 0:         +50.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 1:         +51.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 2:         +50.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 3:         +50.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 4:         +51.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 5:         +50.0*C  (high = +75.0*C, crit = +85.0*C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Physical id 1:  +49.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 0:         +44.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 1:         +42.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 2:         +46.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 3:         +41.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 4:         +43.0*C  (high = +75.0*C, crit = +85.0*C)
+Core 5:         +40.0*C  (high = +75.0*C, crit = +85.0*C)
+
