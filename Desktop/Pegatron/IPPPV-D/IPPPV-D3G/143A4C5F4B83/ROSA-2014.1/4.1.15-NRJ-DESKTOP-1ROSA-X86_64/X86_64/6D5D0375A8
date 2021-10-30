@@ -1,0 +1,29 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+temp1:        +66.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0°C  (crit = +100.0°C)
+Core 1:       +59.0°C  (crit = +100.0°C)
+
+it8721-isa-0a10
+Adapter: ISA adapter
+in0:          +3.06 V  (min =  +2.96 V, max =  +2.88 V)  ALARM
+in1:          +2.96 V  (min =  +1.46 V, max =  +2.38 V)  ALARM
+in2:          +2.22 V  (min =  +1.09 V, max =  +2.84 V)
++3.3V:        +3.31 V  (min =  +3.02 V, max =  +5.71 V)
+in4:          +2.21 V  (min =  +2.53 V, max =  +2.57 V)  ALARM
+in5:          +1.13 V  (min =  +1.08 V, max =  +1.38 V)
+in6:          +1.67 V  (min =  +2.75 V, max =  +3.04 V)  ALARM
+3VSB:         +3.31 V  (min =  +0.00 V, max =  +0.84 V)  ALARM
+Vbat:         +3.36 V  
+fan1:        4272 RPM  (min =   13 RPM)
+fan2:           0 RPM  (min =   12 RPM)  ALARM
+temp1:        +59.0°C  (low  = +30.0°C, high = -22.0°C)  ALARM  sensor = thermal diode
+temp2:       -128.0°C  (low  = +114.0°C, high = +124.0°C)  sensor = disabled
+temp3:       -128.0°C  (low  = -89.0°C, high = -51.0°C)  sensor = disabled
+intrusion0:  ALARM
+

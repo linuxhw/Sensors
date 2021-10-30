@@ -1,0 +1,30 @@
+it8728-isa-0a30
+Adapter: ISA adapter
+Vtt:            1.10 V  (min =  +1.80 V, max =  +1.81 V)  ALARM
++3.3V:          3.34 V  (min =  +4.34 V, max =  +1.00 V)  ALARM
++12V:          11.74 V  (min =  +3.74 V, max =  +5.69 V)  ALARM
++5V:            5.04 V  (min =  +3.81 V, max =  +2.76 V)  ALARM
+Vaxg IGD:       2.22 V  (min =  +2.56 V, max =  +2.72 V)  ALARM
+CPU Vcore:      2.94 V  (min =  +0.56 V, max =  +2.86 V)  ALARM
+Dram Voltage:   2.22 V  (min =  +1.07 V, max =  +1.86 V)  ALARM
+3.3 VSB:        3.38 V  (min =  +3.00 V, max =  +1.42 V)  ALARM
+Vbat:           3.41 V  
+CPU-Fan:      2235 RPM  (min =   20 RPM)
+SYS-Fan:         0 RPM  (min =   10 RPM)  ALARM
+SYS Temp:      +37.0 C  (low  =  -6.0 C, high = -49.0 C)  ALARM  sensor = thermal diode
+CPU Temp:      +54.0 C  (low  = +61.0 C, high =  +6.0 C)  ALARM  sensor = Intel PECI
+Chassis Open: OK
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Chip Temperature:    +58.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 1 Temperature:  +56.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 2 Temperature:  +51.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 3 Temperature:  +58.0 C  (high = +85.0 C, crit = +105.0 C)
+CPU Core 4 Temperature:  +48.0 C  (high = +85.0 C, crit = +105.0 C)
+

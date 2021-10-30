@@ -1,0 +1,29 @@
+it8728-isa-0a30
+Adapter: ISA adapter
+in0:          +1.16 V  (min =  +2.10 V, max =  +1.18 V)  ALARM
+in1:          +1.48 V  (min =  +1.32 V, max =  +0.58 V)  ALARM
+in2:          +3.02 V  (min =  +2.89 V, max =  +1.10 V)  ALARM
+in3:          +3.06 V  (min =  +1.20 V, max =  +2.58 V)  ALARM
+in4:          +2.22 V  (min =  +0.64 V, max =  +0.37 V)  ALARM
+in5:          +1.60 V  (min =  +2.48 V, max =  +2.36 V)  ALARM
+in6:          +2.22 V  (min =  +1.42 V, max =  +2.77 V)
+3VSB:         +3.34 V  (min =  +2.06 V, max =  +5.52 V)
+Vbat:         +3.26 V  
+fan1:        2402 RPM  (min =   41 RPM)
+fan2:           0 RPM  (min =   23 RPM)  ALARM
+fan3:           0 RPM  (min =   24 RPM)  ALARM
+temp1:        +35.0°C  (low  = +111.0°C, high = -67.0°C)  ALARM  sensor = thermal diode
+temp2:        -70.0°C  (low  = -37.0°C, high = -69.0°C)  sensor = thermal diode
+temp3:        +43.0°C  (low  =  -8.0°C, high = -81.0°C)  ALARM  sensor = Intel PECI
+intrusion0:  OK
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +45.5°C  (crit = +120.0°C, hyst = +90.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +44.0°C  (high = +82.0°C, crit = +102.0°C)
+Core 0:         +44.0°C  (high = +82.0°C, crit = +102.0°C)
+Core 1:         +43.0°C  (high = +82.0°C, crit = +102.0°C)
+

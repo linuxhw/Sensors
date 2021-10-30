@@ -1,0 +1,33 @@
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+
+it8772-isa-0a30
+Adapter: ISA adapter
+in0:         948.00 mV (min =  +0.00 V, max =  +2.90 V)
+in1:           1.38 V  (min =  +0.43 V, max =  +2.34 V)
+in2:           2.92 V  (min =  +0.16 V, max =  +1.32 V)  ALARM
+in3:           2.87 V  (min =  +2.26 V, max =  +1.90 V)  ALARM
+in4:         972.00 mV (min =  +0.64 V, max =  +0.22 V)  ALARM
+in5:           2.22 V  (min =  +2.76 V, max =  +1.94 V)  ALARM
+in6:           2.22 V  (min =  +0.44 V, max =  +0.40 V)  ALARM
+3VSB:          3.31 V  (min =  +1.27 V, max =  +4.94 V)
+Vbat:          3.24 V  
+fan2:        2198 RPM  (min =   38 RPM)
+fan3:        2288 RPM  (min =   58 RPM)
+temp1:        +41.0 C  (low  = -38.0 C, high = +36.0 C)  sensor = thermistor
+temp2:        +36.0 C  (low  = -70.0 C, high = +66.0 C)  sensor = Intel PECI
+temp3:       -128.0 C  (low  = -77.0 C, high = +37.0 C)  sensor = disabled
+intrusion0:  ALARM
+
