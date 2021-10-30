@@ -1,0 +1,24 @@
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at f040
+temp1:        +29.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0e00
+Adapter: PCI adapter
+Composite:    +31.9 C  
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at f040
+temp1:        +28.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +29.0 C  (high = +80.0 C, crit = +100.0 C)
+

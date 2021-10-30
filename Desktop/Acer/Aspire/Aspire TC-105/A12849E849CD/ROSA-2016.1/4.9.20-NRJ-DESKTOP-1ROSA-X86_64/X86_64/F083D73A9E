@@ -1,0 +1,28 @@
+it8772-isa-0a00
+Adapter: ISA adapter
+in0:          +1.33 V  (min =  +2.29 V, max =  +2.59 V)  ALARM
+in1:          +1.51 V  (min =  +2.17 V, max =  +2.94 V)  ALARM
+in2:          +1.97 V  (min =  +2.36 V, max =  +3.04 V)  ALARM
+in3:          +2.03 V  (min =  +1.00 V, max =  +2.98 V)
+in4:          +1.21 V  (min =  +1.14 V, max =  +1.14 V)  ALARM
+in5:          +1.21 V  (min =  +2.93 V, max =  +2.29 V)  ALARM
+in6:          +2.23 V  (min =  +1.30 V, max =  +1.52 V)  ALARM
+3VSB:         +3.29 V  (min =  +4.97 V, max =  +2.38 V)  ALARM
+Vbat:         +3.26 V  
+fan1:           0 RPM  (min =   12 RPM)  ALARM
+fan2:           0 RPM  (min =   14 RPM)  ALARM
+fan3:        1642 RPM  (min =   13 RPM)
+temp1:        +35.0°C  (low  = -18.0°C, high = +92.0°C)  sensor = thermal diode
+temp2:        +33.0°C  (low  = -16.0°C, high = -65.0°C)  ALARM  sensor = thermal diode
+temp3:        +12.0°C  (low  = +126.0°C, high = +58.0°C)  sensor = disabled
+intrusion0:  ALARM
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +40.0°C  (crit = +120.0°C, hyst = +90.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +12.6°C  (high = +70.0°C)
+                       (crit = +70.0°C, hyst = +69.0°C)
+

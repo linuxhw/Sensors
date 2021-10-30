@@ -1,0 +1,24 @@
+ath10k_hwmon-pci-0500
+Adapter: PCI adapter
+temp1:        +54.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      906.00 mV 
+fan1:         851 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +52.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       37.16 W  (cap = 148.00 W)
+

@@ -1,0 +1,61 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                   736.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     2.99 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.05 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  160.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.51 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   932 RPM  (min =    0 RPM)
+fan2:                   514 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +112.0 C  (high = +80.0 C, hyst = +75.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +29.0 C  (high = +111.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:               +127.5 C    sensor = CPU diode
+AUXTIN1:               +111.0 C    sensor = thermistor
+AUXTIN2:               +117.0 C    sensor = thermistor
+AUXTIN3:                 -1.0 C    sensor = thermistor
+PECI Agent 0:           +34.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +31.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         898 RPM
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

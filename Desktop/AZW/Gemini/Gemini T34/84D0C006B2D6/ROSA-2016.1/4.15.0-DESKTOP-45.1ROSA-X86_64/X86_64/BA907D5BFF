@@ -1,0 +1,35 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +43.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +43.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:        +43.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:        +43.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  (crit = +100.0 C)
+
+it8772-isa-0a30
+Adapter: ISA adapter
+in0:          +1.06 V  (min =  +1.91 V, max =  +2.18 V)  ALARM
+in1:          +1.09 V  (min =  +1.45 V, max =  +2.02 V)  ALARM
+in2:          +2.87 V  (min =  +0.11 V, max =  +2.12 V)  ALARM
++3.3V:        +3.31 V  (min =  +5.21 V, max =  +3.62 V)  ALARM
+in4:          +2.77 V  (min =  +1.61 V, max =  +2.64 V)  ALARM
+in5:          +2.77 V  (min =  +1.51 V, max =  +2.58 V)  ALARM
+in6:          +2.22 V  (min =  +0.44 V, max =  +1.38 V)  ALARM
+3VSB:         +3.29 V  (min =  +0.79 V, max =  +4.22 V)
+Vbat:         +3.24 V  
+fan1:           0 RPM  (min =   10 RPM)  ALARM
+fan2:           0 RPM  (min =   10 RPM)  ALARM
+fan3:           0 RPM  (min =   21 RPM)  ALARM
+temp1:        -70.0 C  (low  = -20.0 C, high = -26.0 C)  sensor = thermal diode
+temp2:        +32.0 C  (low  = +120.0 C, high = +104.0 C)  sensor = thermal diode
+temp3:        +50.0 C  (low  =  -7.0 C, high =  -7.0 C)  ALARM  sensor = thermal diode
+intrusion0:  ALARM
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+

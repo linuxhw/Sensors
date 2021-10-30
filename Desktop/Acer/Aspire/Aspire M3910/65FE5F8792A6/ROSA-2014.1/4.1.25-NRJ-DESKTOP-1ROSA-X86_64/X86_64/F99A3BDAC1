@@ -1,0 +1,33 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +30.0°C  (crit = +110.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +50.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +32.0°C  (high = +89.0°C, crit = +105.0°C)
+Core 2:       +28.0°C  (high = +89.0°C, crit = +105.0°C)
+
+it8721-isa-0a10
+Adapter: ISA adapter
+in0:          +2.89 V  (min =  +2.12 V, max =  +2.95 V)
+in1:          +2.48 V  (min =  +0.64 V, max =  +1.52 V)  ALARM
+in2:          +2.92 V  (min =  +2.90 V, max =  +1.91 V)  ALARM
++3.3V:        +3.31 V  (min =  +2.95 V, max =  +5.16 V)
+in4:          +1.21 V  (min =  +1.31 V, max =  +0.74 V)  ALARM
+in5:          +1.07 V  (min =  +1.98 V, max =  +2.99 V)  ALARM
+in6:          +2.00 V  (min =  +1.52 V, max =  +2.96 V)
+3VSB:         +3.29 V  (min =  +5.42 V, max =  +5.71 V)  ALARM
+Vbat:         +3.34 V  
+fan1:        1163 RPM  (min =   10 RPM)
+fan2:           0 RPM  (min =   24 RPM)  ALARM
+temp1:        +37.0°C  (low  = +127.0°C, high = +80.0°C)  sensor = thermistor
+temp2:        +59.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = Intel PECI
+temp3:        +19.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = Intel PECI
+intrusion0:  ALARM
+
