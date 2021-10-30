@@ -1,0 +1,46 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+in0:                   864.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.33 V  (min =  +2.98 V, max =  +3.63 V)
+in3:                     3.33 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                   688.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in8:                     3.33 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  120.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1331 RPM  (min =    0 RPM)
+SYSTIN:                +118.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +44.0 C    sensor = thermistor
+AUXTIN1:               +111.0 C    sensor = thermistor
+AUXTIN2:               +111.0 C    sensor = thermistor
+AUXTIN3:                +30.0 C    sensor = thermal diode
+PECI Agent 0:           +40.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+

@@ -1,0 +1,15 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 0:        +38.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 1:        +41.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 2:        +42.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 3:        +42.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 4:        +37.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 5:        +37.0 C  (high = +93.0 C, crit = +103.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +87.8 C)
+

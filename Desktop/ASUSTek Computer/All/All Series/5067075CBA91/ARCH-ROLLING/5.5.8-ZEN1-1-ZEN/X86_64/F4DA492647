@@ -1,0 +1,53 @@
+nct6791-isa-0290
+Adapter: ISA adapter
+Vrin:                1.86 V  (min =  +0.00 V, max =  +3.49 V)
++5V:                 5.00 V  (min =  +4.76 V, max =  +5.24 V)
+AVCC:                3.28 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:               3.28 V  (min =  +2.98 V, max =  +3.63 V)
++12V:               12.10 V  (min = +11.42 V, max = +12.58 V)
+3VSB:                3.42 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                3.30 V  (min =  +2.70 V, max =  +3.63 V)
+Pump(Phoenix):     1666 RPM  (min =  550 RPM)
+Exhaust:            371 RPM  (min =  300 RPM)
+Pump(D5):          2504 RPM  (min =  650 RPM)
+Intake Rad:        1634 RPM  (min =    0 RPM)
+Intake Aux:         358 RPM  (min =    0 RPM)
+MB:                 +47.0 C  (high = +55.0 C, hyst = +50.0 C)  sensor = thermistor
+chipset:            +45.0 C  (high = +55.0 C, hyst = +50.0 C)  sensor = thermistor
+AUXTIN2:            +37.0 C    sensor = thermistor
+Water temperature:  +37.0 C  
+PECI Agent 0:       +46.5 C  
+beep_enable:       disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+fan1:           0 RPM  (min =  400 RPM, max = 4900 RPM)
+GPU:          +47.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +73.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +49.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:      172.00 W  (cap = 220.00 W)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+
