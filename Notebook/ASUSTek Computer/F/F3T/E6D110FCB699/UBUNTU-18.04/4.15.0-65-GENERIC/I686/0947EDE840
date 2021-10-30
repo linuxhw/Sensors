@@ -1,0 +1,23 @@
+lm90-i2c-3-4c
+Adapter: nvkm-0000:04:00.0-bus-0002
+temp1:        +51.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +62.1 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +60.0 C  (crit = +127.0 C)
+
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:     +1.10 V  (min =  +1.00 V, max =  +1.10 V)
+temp1:        +58.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +68.0 C  
+Core1 Temp:   +63.0 C  
+

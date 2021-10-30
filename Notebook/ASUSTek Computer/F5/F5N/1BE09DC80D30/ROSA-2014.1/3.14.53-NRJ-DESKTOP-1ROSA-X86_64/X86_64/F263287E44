@@ -1,0 +1,18 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +48.0°C  (crit = +95.0°C)
+
+g781-i2c-0-4c
+Adapter: SMBus nForce2 adapter at 0600
+temp1:        +44.0°C  (low  =  +0.0°C, high = +85.0°C)
+                       (crit = +85.0°C, hyst = +75.0°C)
+temp2:        +48.9°C  (low  =  +0.0°C, high = +85.0°C)
+                       (crit = +85.0°C, hyst = +75.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +47.0°C  
+Core0 Temp:   +46.0°C  
+Core1 Temp:   +44.0°C  
+Core1 Temp:   +43.0°C  
+

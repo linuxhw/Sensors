@@ -1,0 +1,15 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +62.0°C  (crit = +90.0°C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +66.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +115.0°C, hyst =  +5.0°C)
+                       (emerg = +115.0°C, hyst =  +5.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +64.0°C  (high = +85.0°C, crit = +85.0°C)
+Core 1:       +64.0°C  (high = +85.0°C, crit = +85.0°C)
+

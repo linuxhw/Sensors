@@ -1,0 +1,26 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +56.0°C  (crit = +95.0°C)
+temp2:        +56.0°C  (crit = +94.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+temp1:       +6280.0°C  
+
+STR3-virtual-0
+Adapter: Virtual device
+temp1:       -273.2°C  
+
+STR2-virtual-0
+Adapter: Virtual device
+temp1:         +0.0°C  
+
+STR4-virtual-0
+Adapter: Virtual device
+temp1:       -273.2°C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +56.0°C  (high = +90.0°C, crit = +90.0°C)
+Core 2:       +53.0°C  (high = +90.0°C, crit = +90.0°C)
+
