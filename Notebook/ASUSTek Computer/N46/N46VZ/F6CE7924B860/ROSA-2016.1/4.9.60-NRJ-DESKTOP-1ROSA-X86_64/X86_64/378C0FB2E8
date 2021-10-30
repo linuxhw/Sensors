@@ -1,0 +1,24 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +57.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 0:         +57.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 1:         +54.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 2:         +55.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 3:         +56.0°C  (high = +87.0°C, crit = +105.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +57.0°C  (crit = +108.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2500 RPM
+temp1:        +57.0°C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:         N/A  (min =  +0.85 V, max =  +1.10 V)
+temp1:            N/A  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
