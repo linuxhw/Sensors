@@ -1,0 +1,52 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +63.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +65.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.75 V  
+temp:         +35.6 C  
+curr1:         2.42 A  (avg =  +1.98 A)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    810.00 mV (min =  +0.81 V, max =  +0.90 V)
+temp1:        +73.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Exhaust  :   2003 RPM  (min = 2000 RPM, max = 6500 RPM)
+TB0T:         +35.2 C  
+TB1T:         +35.2 C  
+TB2T:         +33.2 C  
+TC0D:         +67.2 C  
+TC0E:         +65.8 C  
+TC0P:         +56.2 C  
+TC1E:         +66.5 C  
+TCZ3:          -0.2 C  
+TCZ4:          +0.0 C  
+TCZ5:          +1.2 C  
+TG0E:         +73.0 C  
+TG1E:         +73.0 C  
+TG2E:         +73.2 C  
+TGZ3:          -0.2 C  
+TGZ4:          +0.0 C  
+TGZ5:          +0.0 C  
+TH0F:          -6.5 C  
+TH0O:          -7.0 C  
+TM0P:         +54.0 C  
+TN0D:         +64.0 C  
+TN0P:         +58.8 C  
+TN1D:         +73.0 C  
+Th1H:         +37.2 C  
+Tp0P:         +42.8 C  
+Ts0P:         +32.2 C  
+Ts0S:         +38.2 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +35.6 C  
+

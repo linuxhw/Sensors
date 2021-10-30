@@ -1,0 +1,61 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +67.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +62.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +67.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.03 V  
+temp:         +30.7 C  
+curr1:         3.12 A  (avg =  +3.45 A)
+
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +62.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +51.9 C  
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Exhaust  :   1192 RPM  (min = 1200 RPM, max = 6500 RPM)
+TB0T:         +30.5 C  
+TB1T:         +30.5 C  
+TB2T:         +29.0 C  
+TBXT:         +30.5 C  
+TC0E:         +64.8 C  
+TC0F:         +66.2 C  
+TC0P:         +54.8 C  
+TC1C:         +67.0 C  
+TC2C:         +63.0 C  
+TCGC:         +61.0 C  
+TCHP:         +55.8 C  
+TCMX:         +67.0 C  
+TCSA:         +62.0 C  
+TCXC:         +64.2 C  
+TH0A:         +52.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:         -39.5 C  
+TH0R:         -40.0 C  
+TH0V:         +57.0 C  
+TH0a:         +52.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+THSP:         +44.8 C  
+TM0P:         +52.2 C  
+TPCD:         +62.0 C  
+TS2P:         +49.0 C  
+TW0P:         +47.5 C  
+Ta0P:         +52.8 C  
+Th1H:         +37.8 C  
+Tm0P:         +46.5 C  
+Ts0P:         +27.2 C  
+Ts0S:         +35.8 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +30.7 C  
+

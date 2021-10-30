@@ -1,0 +1,21 @@
+ath10k_hwmon-pci-3e00
+Adapter: PCI adapter
+temp1:        +56.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          13.16 V  
+curr1:       616.00 mA 
+
