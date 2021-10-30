@@ -1,0 +1,32 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +48.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +38.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +48.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +39.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +38.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +35.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +33.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +67.0 C  (crit = +100.0 C)
+temp2:        +27.8 C  (crit = +119.0 C)
+temp3:        +29.8 C  (crit = +119.0 C)
+

@@ -1,0 +1,23 @@
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.96 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +88.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +86.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +77.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +76.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +77.0 C  (high = +84.0 C, crit = +100.0 C)
+
+hidpp_battery_0-hid-3-2
+Adapter: HID adapter
+in0:           4.18 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+temp3:        +90.0 C  (crit = +100.0 C)
+
