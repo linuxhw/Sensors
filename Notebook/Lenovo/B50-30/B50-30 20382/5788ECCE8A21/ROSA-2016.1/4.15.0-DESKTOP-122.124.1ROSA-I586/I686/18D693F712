@@ -1,0 +1,25 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +48.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +48.0 C  (high = +105.0 C, crit = +105.0 C)
+
+emc1403-i2c-8-4d
+Adapter: SMBus I801 adapter at 2000
+temp1:        +35.0 C  (low  =  +0.0 C, hyst = +10.0 C)
+                       (high = +85.0 C, hyst = +75.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +35.0 C  (low  =  +0.0 C, hyst = +10.0 C)
+                       (high = +85.0 C, hyst = +75.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp3:        +33.0 C  (low  =  +0.0 C, hyst = +10.0 C)
+                       (high = +85.0 C, hyst = +75.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
