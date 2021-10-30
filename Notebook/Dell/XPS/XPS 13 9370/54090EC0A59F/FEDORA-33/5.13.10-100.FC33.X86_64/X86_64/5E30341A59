@@ -1,0 +1,60 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +51.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +31.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.15 V  
+curr1:       862.00 mA 
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+Video Fan:        0 RPM
+CPU:            +37.0 C  
+SODIMM:         +30.0 C  
+Other:          +31.0 C  
+Ambient:        +27.0 C  
+Other:          +29.0 C  
+Ambient:        +31.0 C  
+Ambient:        +30.0 C  
+
+nvme-pci-6e00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

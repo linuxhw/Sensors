@@ -1,0 +1,23 @@
+ath11k_hwmon-pci-7200
+Adapter: PCI adapter
+temp1:         +0.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -20.1 C, high = +81.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +30.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +33.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +30.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.82 V  
+curr1:       838.00 mA 
+

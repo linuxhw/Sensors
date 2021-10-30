@@ -1,0 +1,57 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +1.50 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.49 V  
+curr1:         1.31 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +45.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+Video Fan:        0 RPM
+CPU:            +34.0 C  
+SODIMM:         +28.0 C  
+Other:          +29.0 C  
+Ambient:        +28.0 C  
+Other:          +27.0 C  
+Ambient:        +30.0 C  
+Ambient:        +28.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+nvme-pci-6e00
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
