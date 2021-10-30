@@ -1,0 +1,18 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.99 V  (min =  +0.82 V, max =  +1.21 V)
+fan1:        1590 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       30.60 W  (crit = 300.00 mW)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       71.49 W  (crit =  94.99 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +61.9 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+

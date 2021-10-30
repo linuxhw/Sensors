@@ -1,0 +1,35 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+Power Usage:  73.06 W  (crit = 125.02 W)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +1.00 V  
+fan1:         777 RPM
+GPU Temp:     +41.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       41.00 W  (cap = 145.00 W)
+
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:          +0.94 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.87 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.39 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.39 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +1.70 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:            +2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.46 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.38 V  (min =  +2.70 V, max =  +3.63 V)
+Case Fan:       697 RPM  (min =    0 RPM)
+CPU Fan:       450000 RPM  (min =    0 RPM)
+SYSTIN:         +35.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         +36.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         -62.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+beep_enable:   disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+

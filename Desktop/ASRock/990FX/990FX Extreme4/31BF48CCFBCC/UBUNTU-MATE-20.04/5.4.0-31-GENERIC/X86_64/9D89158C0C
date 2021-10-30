@@ -1,0 +1,45 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +49.2 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +40.1 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +53.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       71.10 W  (crit = 125.19 W)
+
+nct6775-isa-0290
+Adapter: ISA adapter
+Vcore:         1.12 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           1.86 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:          3.30 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:         3.30 V  (min =  +2.98 V, max =  +3.63 V)
+in4:         248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:           1.71 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:         248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:          3.46 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:          3.42 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =    0 RPM, div = 128)
+fan2:         390 RPM  (min =    0 RPM, div = 32)  ALARM
+fan3:           0 RPM  (min =    0 RPM, div = 128)
+SYSTIN:       +46.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:       +48.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:       +58.0 C  (high = +114.0 C, hyst = +114.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +39.4 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

@@ -1,0 +1,28 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       781.00 mV 
+Vsoc:          1.11 V  
+Tctl:         +32.0 C  
+Tdie:         +32.0 C  
+Icore:         3.00 A  
+Isoc:          2.50 A  
+
+amdgpu-pci-3800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +32.0 C  
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    177.75 J
+Ecore001:    177.75 J
+Esocket0:      3.68 kJ
+
+nouveau-pci-1000
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.00 V)
+temp1:        +38.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
