@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:       +37.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:       +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:       +34.0 C  (high = +82.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +75.0 C)
+
+radeon-pci-0300
+Adapter: PCI adapter
+temp1:        +30.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:        1.28 V  (min =  +0.85 V, max =  +1.60 V)
++12V Voltage:        11.84 V  (min = +10.20 V, max = +13.80 V)
++5V Voltage:          5.00 V  (min =  +4.50 V, max =  +5.50 V)
++3.3V Voltage:        3.26 V  (min =  +2.97 V, max =  +3.63 V)
+CPU_FAN FAN Speed:   698 RPM  (min =  800 RPM, max = 7200 RPM)
+CHA_FAN1 FAN Speed:    0 RPM  (min =  800 RPM, max = 7200 RPM)
+CHA_FAN2 FAN Speed:    0 RPM  (min =  800 RPM, max = 7200 RPM)
+PWR FAN FAN Speed:     0 RPM  (min =  800 RPM, max = 7200 RPM)
+CPU Temperature:     +31.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:      +38.0 C  (high = +45.0 C, crit = +95.0 C)
+
