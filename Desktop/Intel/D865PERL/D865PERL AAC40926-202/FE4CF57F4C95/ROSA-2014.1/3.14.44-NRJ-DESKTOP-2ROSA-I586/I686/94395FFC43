@@ -1,0 +1,16 @@
+adm1027-i2c-0-2e
+Adapter: SMBus I801 adapter at c800
+in0:          +1.44 V  (min =  +0.00 V, max =  +3.32 V)
+Vcore:        +1.48 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:        +3.30 V  (min =  +2.97 V, max =  +3.63 V)
++5V:          +5.01 V  (min =  +4.50 V, max =  +5.50 V)
++12V:        +12.22 V  (min =  +0.00 V, max = +15.94 V)
+fan1:        2735 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:        5584 RPM  (min =    0 RPM)
+temp1:        +53.2°C  (low  = -127.0°C, high = +127.0°C)
+M/B Temp:     +41.8°C  (low  = -127.0°C, high = +127.0°C)
+temp3:        +46.5°C  (low  = -127.0°C, high = +127.0°C)
+cpu0_vid:    +1.525 V
+

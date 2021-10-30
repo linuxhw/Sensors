@@ -1,0 +1,22 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (crit = +100.0 C)
+Core 1:       +36.0 C  (crit = +100.0 C)
+
+w83627thf-isa-0290
+Adapter: ISA adapter
+in0:          +1.07 V  (min =  +0.00 V, max =  +3.84 V)
+in1:          +1.04 V  (min =  +1.01 V, max =  +1.39 V)
+in2:          +1.90 V  (min =  +1.15 V, max =  +0.61 V)  ALARM
++5V:          +4.99 V  (min =  +4.51 V, max =  +5.49 V)
+in4:          +3.36 V  (min =  +0.19 V, max =  +1.30 V)  ALARM
+5VSB:         +5.01 V  (min =  +4.51 V, max =  +5.49 V)
+Vbat:         +3.33 V  (min =  +2.56 V, max =  +0.14 V)  ALARM
+fan1:           0 RPM  (min =   -1 RPM, div = 32)  ALARM
+fan2:           0 RPM  (min =   -1 RPM, div = 32)  ALARM
+fan3:           0 RPM  (min = 19852 RPM, div = 2)  ALARM
+temp1:        +52.0 C  (high = +32.0 C, hyst = -124.0 C)  ALARM  sensor = thermistor
+temp2:        +32.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+temp3:        +32.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+beep_enable: enabled
+
