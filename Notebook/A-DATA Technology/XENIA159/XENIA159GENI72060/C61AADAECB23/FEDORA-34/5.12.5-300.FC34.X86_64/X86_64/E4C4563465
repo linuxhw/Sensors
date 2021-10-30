@@ -1,0 +1,56 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+nvme-pci-3b00
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +114.8 C)
+                       (crit = +119.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.82 V  
+curr1:         3.72 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+
+qc71_laptop.hwmon.fan-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+fan1_temp:    +38.0 C  
+fan2_temp:    +39.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-3c00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  (crit = +100.0 C)
+temp2:        +38.0 C  (crit = +119.0 C)
+

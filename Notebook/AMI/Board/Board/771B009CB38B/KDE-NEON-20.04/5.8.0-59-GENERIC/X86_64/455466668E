@@ -1,0 +1,38 @@
+max170xx_battery-virtual-0
+Adapter: Virtual device
+in0:           3.69 V  (min =  +3.36 V, max =  +4.38 V)
+                       (avg =  +3.70 V)
+temp:          +0.0 C  (low  =  +0.0 C, high = +70.0 C)  ALARM (LOW)
+curr1:        -1.08 A  (avg =  -0.96 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +41.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +48.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +48.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +90.0 C)
+
+tcpm_source_psy_i2c_fusb302-virtual-0
+Adapter: Virtual device
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+max170xx_battery-virtual-0
+Adapter: Virtual device
+in0:              N/A  (min =  +0.00 V, max =  +0.00 V)
+                       (avg =  +0.00 V)
+temp1:         +0.0 C  (low  =  +0.0 C, high =  +0.0 C)
+curr1:            N/A  (avg =  +0.00 A)
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +50.0 C  
+

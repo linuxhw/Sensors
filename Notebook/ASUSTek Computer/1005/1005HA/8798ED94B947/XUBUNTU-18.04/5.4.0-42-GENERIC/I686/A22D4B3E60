@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +33.0 C  (crit = +90.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.48 V  
+curr1:         1.01 A  
+
+eeepc-isa-0000
+Adapter: ISA adapter
+fan1:        3958 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +61.0 C  (crit = +88.0 C)
+

@@ -1,0 +1,25 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:       31.00 W  (interval =   1.00 s)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +22.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +22.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +22.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +21.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +20.0 C  (high = +80.0 C, crit = +100.0 C)
+
+i350bb-pci-0100
+Adapter: PCI adapter
+loc1:         +49.0 C  (high = +120.0 C, crit = +110.0 C)
+

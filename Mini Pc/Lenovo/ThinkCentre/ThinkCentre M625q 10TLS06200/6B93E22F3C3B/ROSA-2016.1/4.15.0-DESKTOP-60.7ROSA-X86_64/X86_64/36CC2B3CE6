@@ -1,0 +1,15 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       10.89 mW (avg =  32.41 mW, interval =   0.01 s)
+                       (crit =   6.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+fan1:             N/A
+temp1:        +19.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.8 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +84.0 C)
+
