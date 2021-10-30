@@ -1,0 +1,37 @@
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.29 V  (min =  +0.00 V, max =  +1.74 V)
+in1:          +1.86 V  (min =  +0.02 V, max =  +0.06 V)  ALARM
+AVCC:         +3.33 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.33 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.45 V  (min =  +0.81 V, max =  +0.28 V)  ALARM
+in5:          +1.58 V  (min =  +0.82 V, max =  +0.29 V)  ALARM
+in6:          +1.39 V  (min =  +0.33 V, max =  +0.83 V)  ALARM
+3VSB:         +3.33 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.26 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =   72 RPM, div = 128)  ALARM
+fan2:        2235 RPM  (min = 84375 RPM, div = 4)  ALARM
+fan3:           0 RPM  (min = 3245 RPM, div = 4)  ALARM
+fan4:           0 RPM  (min = 8437 RPM, div = 2)  ALARM
+fan5:           0 RPM  (min = 7500 RPM, div = 2)  ALARM
+temp1:        +30.0 C  (high =  +0.0 C, hyst = -85.0 C)  ALARM  sensor = thermistor
+temp2:        +24.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+temp3:        +18.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +0.000 V
+intrusion0:  ALARM
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      +1.29 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:      +3.33 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:        +5.07 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:      +12.30 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:     2235 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed:    0 RPM  (min =  800 RPM, max = 7200 RPM)
+CPU Temperature:    +24.0 C  (high = +60.0 C, crit = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +46.0 C  (high = +86.0 C, crit = +100.0 C)
+

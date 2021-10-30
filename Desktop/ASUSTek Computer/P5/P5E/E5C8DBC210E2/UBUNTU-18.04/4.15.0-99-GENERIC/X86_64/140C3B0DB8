@@ -1,0 +1,26 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +1.00 V, max =  +1.10 V)
+fan1:           0 RPM
+temp1:        +53.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +2.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:        1.21 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:        3.25 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:          5.02 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:        12.10 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:       544 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS1 FAN Speed:    0 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS2 FAN Speed:    0 RPM  (min =  600 RPM, max = 7200 RPM)
+POWER FAN Speed:       0 RPM  (min =  600 RPM, max = 7200 RPM)
+CPU Temperature:     +40.0 C  (high = +35.0 C, crit = +90.0 C)
+MB Temperature:      +32.0 C  (high = +30.0 C, crit = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +35.0 C  (high = +76.0 C, crit = +100.0 C)
+
