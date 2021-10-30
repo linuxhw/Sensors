@@ -1,0 +1,27 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:        1055 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +31.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        4.18 W  (cap =  36.00 W)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:      976.00 mV (min =  +0.80 V, max =  +1.60 V)
+ +3.3 Voltage:        3.26 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:          5.12 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:        12.25 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:      1454 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS1 FAN Speed:  620 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS2 FAN Speed:    0 RPM  (min =  600 RPM, max = 7200 RPM)
+POWER FAN Speed:       0 RPM  (min =    0 RPM, max = 7200 RPM)
+CPU Temperature:     +35.5 C  (high = +60.0 C, crit = +75.0 C)
+MB Temperature:      +33.0 C  (high = +45.0 C, crit = +75.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+

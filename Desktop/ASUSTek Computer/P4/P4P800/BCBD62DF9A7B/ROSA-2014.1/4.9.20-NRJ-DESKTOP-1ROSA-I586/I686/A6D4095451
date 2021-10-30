@@ -1,0 +1,22 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +64.0°C  
+
+w83627thf-isa-0290
+Adapter: ISA adapter
+in0:          +1.36 V  (min =  +0.00 V, max =  +3.84 V)
+in1:          +3.12 V  (min =  +2.42 V, max =  +2.77 V)  ALARM
+in2:          +3.25 V  (min =  +3.06 V, max =  +3.95 V)
++5V:          +5.12 V  (min =  +4.51 V, max =  +5.49 V)
+in4:          +4.08 V  (min =  +1.06 V, max =  +0.62 V)  ALARM
+5VSB:         +4.88 V  (min =  +4.51 V, max =  +5.49 V)
+Vbat:         +3.25 V  (min =  +1.84 V, max =  +1.25 V)  ALARM
+fan1:        2481 RPM  (min = 4272 RPM, div = 4)  ALARM
+fan2:        2596 RPM  (min = 8881 RPM, div = 4)  ALARM
+fan3:           0 RPM  (min =  108 RPM, div = 128)  ALARM
+temp1:        +38.0°C  (high = +59.0°C, hyst = +10.0°C)  sensor = thermistor
+temp2:        +64.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+temp3:        -48.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +1.388 V
+beep_enable: enabled
+

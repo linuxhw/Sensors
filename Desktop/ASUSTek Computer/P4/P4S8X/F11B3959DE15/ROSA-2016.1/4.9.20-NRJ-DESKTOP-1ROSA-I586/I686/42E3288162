@@ -1,0 +1,18 @@
+asb100-i2c-0-2d
+Adapter: SiS96x SMBus adapter at 0xe600
+in0:          +1.78 V  (min =  +1.39 V, max =  +2.08 V)
+in1:          +1.78 V  (min =  +1.39 V, max =  +2.08 V)
+in2:          +3.28 V  (min =  +2.96 V, max =  +3.63 V)
+in3:          +2.98 V  (min =  +2.67 V, max =  +3.28 V)
+in4:          +2.91 V  (min =  +2.51 V, max =  +3.79 V)
+in5:          +2.90 V  (min =  +0.00 V, max =  +0.00 V)
+in6:          +2.91 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:        3708 RPM  (min =   -1 RPM, div = 2)  ALARM
+fan2:           0 RPM  (min = 8231 RPM, div = 2)  ALARM
+fan3:           0 RPM  (min = 3515 RPM, div = 2)
+temp1:        +45.0°C  (high = +80.0°C, hyst = +75.0°C)
+temp2:        +35.0°C  (high = +100.0°C, hyst =  +3.0°C)
+temp3:        +34.5°C  (high = +60.0°C, hyst =  +3.0°C)
+temp4:        +25.0°C  (high = +80.0°C, hyst = +75.0°C)
+cpu0_vid:    +1.750 V
+

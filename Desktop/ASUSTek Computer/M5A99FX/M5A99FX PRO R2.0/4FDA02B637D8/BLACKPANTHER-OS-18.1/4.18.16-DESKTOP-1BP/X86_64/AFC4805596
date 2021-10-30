@@ -1,0 +1,22 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +20.1 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.88 V  (min =  +0.82 V, max =  +1.21 V)
+fan1:        1140 RPM
+temp1:        +38.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       24.67 W  (crit = 200.00 mW)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       83.26 W  (crit = 125.02 W)
+

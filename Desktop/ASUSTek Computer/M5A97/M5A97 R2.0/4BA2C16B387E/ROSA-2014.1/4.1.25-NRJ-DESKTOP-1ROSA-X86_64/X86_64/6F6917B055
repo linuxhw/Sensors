@@ -1,0 +1,35 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        1260 RPM
+temp1:        +39.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       63.29 W  (crit = 125.19 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +22.8°C  (high = +70.0°C)
+                       (crit = +90.0°C, hyst = +87.0°C)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:          +2.82 V  (min =  +1.37 V, max =  +0.24 V)  ALARM
+in1:          +2.81 V  (min =  +2.36 V, max =  +0.06 V)  ALARM
+in2:          +1.40 V  (min =  +0.43 V, max =  +2.50 V)
++3.3V:        +3.26 V  (min =  +3.10 V, max =  +5.57 V)
+in4:          +0.96 V  (min =  +1.02 V, max =  +0.07 V)  ALARM
+in5:          +2.51 V  (min =  +2.34 V, max =  +0.58 V)  ALARM
+in6:          +1.66 V  (min =  +1.26 V, max =  +0.88 V)  ALARM
+3VSB:         +3.10 V  (min =  +2.33 V, max =  +2.45 V)  ALARM
+Vbat:         +3.31 V  
+fan1:         882 RPM  (min =   10 RPM)
+fan2:           0 RPM  (min =   19 RPM)  ALARM
+fan3:           0 RPM  (min =   13 RPM)  ALARM
+temp1:        +31.0°C  (low  = -35.0°C, high = +15.0°C)  ALARM  sensor = thermistor
+temp2:        +33.0°C  (low  =  +4.0°C, high = +16.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  = -57.0°C, high = +68.0°C)  sensor = disabled
+intrusion0:  OK
+

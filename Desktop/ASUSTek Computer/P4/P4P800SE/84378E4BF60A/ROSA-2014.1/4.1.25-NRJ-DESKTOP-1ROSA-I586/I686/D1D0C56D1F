@@ -1,0 +1,24 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +44.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +130.0°C, hyst = +10.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+w83627thf-isa-0290
+Adapter: ISA adapter
+in0:          +1.42 V  (min =  +0.00 V, max =  +3.84 V)
+in1:          +3.18 V  (min =  +3.70 V, max =  +2.61 V)  ALARM
+in2:          +3.23 V  (min =  +2.56 V, max =  +2.18 V)  ALARM
++5V:          +5.04 V  (min =  +4.51 V, max =  +5.49 V)
+in4:          +4.08 V  (min =  +1.31 V, max =  +0.78 V)  ALARM
+5VSB:         +4.88 V  (min =  +4.51 V, max =  +5.49 V)
+Vbat:         +3.25 V  (min =  +1.66 V, max =  +0.02 V)  ALARM
+fan1:        2410 RPM  (min = 67500 RPM, div = 4)  ALARM
+fan2:        2934 RPM  (min = 13775 RPM, div = 2)  ALARM
+fan3:        1534 RPM  (min = 3668 RPM, div = 4)  ALARM
+temp1:        +41.0°C  (high =  +5.0°C, hyst = -112.0°C)  ALARM  sensor = thermistor
+temp2:        +50.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+temp3:        -48.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +1.388 V
+beep_enable: enabled
+

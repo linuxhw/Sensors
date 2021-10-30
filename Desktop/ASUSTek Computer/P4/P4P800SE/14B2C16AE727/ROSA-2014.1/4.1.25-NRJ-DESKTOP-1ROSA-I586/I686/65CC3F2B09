@@ -1,0 +1,18 @@
+w83627thf-isa-0290
+Adapter: ISA adapter
+in0:          +1.36 V  (min =  +0.00 V, max =  +3.84 V)
+in1:          +3.10 V  (min =  +0.00 V, max =  +3.36 V)
+in2:          +2.98 V  (min =  +0.61 V, max =  +0.78 V)  ALARM
++5V:          +4.77 V  (min =  +4.51 V, max =  +5.49 V)
+in4:          +4.08 V  (min =  +0.10 V, max =  +0.51 V)  ALARM
+5VSB:         +4.67 V  (min =  +4.51 V, max =  +5.49 V)
+Vbat:         +3.14 V  (min =  +0.70 V, max =  +1.63 V)  ALARM
+fan1:           0 RPM  (min =  257 RPM, div = 128)  ALARM
+fan2:        1854 RPM  (min = 5273 RPM, div = 4)  ALARM
+fan3:           0 RPM  (min = 1171 RPM, div = 128)  ALARM
+temp1:        +28.0°C  (high = +18.0°C, hyst =  +0.0°C)  ALARM  sensor = thermistor
+temp2:        +55.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+temp3:        -47.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+cpu0_vid:    +1.388 V
+beep_enable: enabled
+

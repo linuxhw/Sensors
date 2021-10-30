@@ -1,0 +1,24 @@
+it8721-isa-0290
+Adapter: ISA adapter
+in0:           2.84 V  (min =  +0.66 V, max =  +2.05 V)  ALARM
+in1:           2.78 V  (min =  +0.65 V, max =  +2.08 V)  ALARM
+in2:           1.36 V  (min =  +2.22 V, max =  +2.29 V)  ALARM
++3.3V:         3.26 V  (min =  +5.62 V, max =  +5.71 V)  ALARM
+in4:           2.24 V  (min =  +0.55 V, max =  +1.90 V)  ALARM
+in5:           2.52 V  (min =  +2.29 V, max =  +2.82 V)
+in6:           3.00 V  (min =  +3.01 V, max =  +2.96 V)  ALARM
+3VSB:        504.00 mV (min =  +6.02 V, max =  +4.51 V)  ALARM
+Vbat:          3.38 V  
+fan1:        1227 RPM  (min =   11 RPM)
+fan2:           0 RPM  (min =   10 RPM)  ALARM
+fan3:        2129 RPM  (min =   22 RPM)
+temp1:        +45.0 C  (low  = -81.0 C, high = -33.0 C)  ALARM  sensor = thermistor
+temp2:        +34.0 C  (low  = +45.0 C, high =  -5.0 C)  ALARM  sensor = thermistor
+temp3:       -128.0 C  (low  = -65.0 C, high = -29.0 C)  sensor = disabled
+intrusion0:  OK
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +37.5 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +85.0 C)
+

@@ -1,0 +1,17 @@
+nvme-pci-1200
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+ath10k_hwmon-pci-0700
+Adapter: PCI adapter
+temp1:        +58.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +22.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +24.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +21.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +21.0 C  (high = +80.0 C, crit = +100.0 C)
+

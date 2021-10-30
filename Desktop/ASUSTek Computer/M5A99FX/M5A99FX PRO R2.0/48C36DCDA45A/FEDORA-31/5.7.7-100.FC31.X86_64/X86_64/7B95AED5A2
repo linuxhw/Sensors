@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Temp:     +36.1 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+it8721-isa-0290
+Adapter: ISA adapter
++12V:        +11.45 V  (min = +11.40 V, max = +12.60 V)  ALARM
++5V:          +4.80 V  (min =  +4.76 V, max =  +5.23 V)  ALARM
+Vcore:        +0.89 V  (min =  +0.80 V, max =  +1.60 V)
++3.3V:        +3.26 V  (min =  +3.19 V, max =  +3.60 V)
+VDDA:         +2.53 V  (min =  +2.20 V, max =  +2.80 V)
+Vbat:         +3.36 V  
+CPU Fan:     1496 RPM  (min =    0 RPM)
+CPU Temp:     +41.0 C  (low  =  +0.0 C, high = +55.0 C)  sensor = thermistor
+M/B Temp:     +33.0 C  (low  =  +0.0 C, high = +60.0 C)  sensor = thermistor
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      126.86 W  (crit = 219.76 W)
+
