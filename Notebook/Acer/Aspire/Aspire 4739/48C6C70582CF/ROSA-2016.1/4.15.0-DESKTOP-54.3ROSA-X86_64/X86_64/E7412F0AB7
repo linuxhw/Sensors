@@ -1,0 +1,15 @@
+jc42-i2c-6-1a
+Adapter: SMBus I801 adapter at 3000
+temp1:        +41.1 C  (low  = +88.5 C)                  ALARM (LOW)
+                       (high = +88.5 C, hyst = +87.0 C)
+                       (crit = +78.5 C, hyst = +77.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  (crit = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:       +49.0 C  (high = +80.0 C, crit = +90.0 C)
+

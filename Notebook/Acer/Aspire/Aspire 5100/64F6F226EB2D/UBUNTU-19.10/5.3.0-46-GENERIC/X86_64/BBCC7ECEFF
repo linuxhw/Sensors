@@ -1,0 +1,14 @@
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          10.88 V  
+curr1:         3.32 A  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +48.0 C  
+Core1 Temp:   +49.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +55.0 C  (crit = +100.0 C)
+
