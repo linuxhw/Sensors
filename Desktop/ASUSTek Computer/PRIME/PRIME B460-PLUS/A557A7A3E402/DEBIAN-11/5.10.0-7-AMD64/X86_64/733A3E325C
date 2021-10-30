@@ -1,0 +1,31 @@
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           3.81 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +60.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +60.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 6:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 7:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+hidpp_battery_1-hid-3-9
+Adapter: HID adapter
+in0:           3.81 V  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,16 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1567 RPM  (min =  900 RPM, max = 4500 RPM)
+edge:         +36.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       34.08 W  (cap = 130.00 W)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +32.4 C  (high = +70.0 C)
+Tctl:         +32.4 C  
+

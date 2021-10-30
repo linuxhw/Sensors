@@ -1,0 +1,45 @@
+it8655-isa-0290
+Adapter: ISA adapter
+in0:         927.00 mV (min =  +0.15 V, max =  +2.22 V)
+in1:           2.53 V  (min =  +2.67 V, max =  +0.46 V)  ALARM
+in2:           2.01 V  (min =  +1.02 V, max =  +1.23 V)  ALARM
+in3:           2.02 V  (min =  +2.13 V, max =  +0.73 V)  ALARM
+in4:           2.02 V  (min =  +0.58 V, max =  +0.28 V)  ALARM
+in5:           1.93 V  (min =  +1.11 V, max =  +1.30 V)  ALARM
+in6:           2.02 V  (min =  +2.08 V, max =  +2.30 V)  ALARM
+3VSB:          3.33 V  (min =  +2.48 V, max =  +2.22 V)  ALARM
+Vbat:          3.18 V  
++3.3V:         3.36 V  
+fan1:        1186 RPM  (min =   20 RPM)
+fan2:        1032 RPM  (min =   32 RPM)
+fan3:           0 RPM  (min =   33 RPM)  ALARM
+temp1:        +53.0 C  (low  = +93.0 C, high = -128.0 C)  ALARM
+temp2:        +38.0 C  (low  = -86.0 C, high =  +5.0 C)  ALARM  sensor = thermistor
+temp3:        +35.0 C  (low  = +45.0 C, high = +87.0 C)  sensor = thermistor
+temp4:        +35.0 C  (low  = +95.0 C, high = -78.0 C)  ALARM  sensor = thermistor
+temp5:        +35.0 C  (low  = -105.0 C, high = +36.0 C)  sensor = thermistor
+temp6:        +35.0 C  (low  = +127.0 C, high = -49.0 C)  ALARM  sensor = thermistor
+intrusion0:  ALARM
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:         351 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +57.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +60.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +57.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:        3.00 W  (cap = 165.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.36 V  
+Vsoc:          1.02 V  
+Tctl:         +53.1 C  
+Tdie:         +53.1 C  
+Tccd1:        +40.8 C  
+Icore:         0.00 A  
+Isoc:          5.25 A  
+

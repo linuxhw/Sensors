@@ -1,0 +1,50 @@
+corsaircpro-hid-3-4
+Adapter: HID adapter
+in0:          12.00 V  
+in1:           5.05 V  
+in2:         967.00 mV 
+fan1 4pin:    609 RPM
+fan4 4pin:    608 RPM
+fan6 4pin:    161 RPM
+temp3:        +36.9 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.07 V  
+Vsoc:          1.02 V  
+Tctl:         +60.0 C  
+Tdie:         +60.0 C  
+Tccd1:        +43.0 C  
+Icore:         6.00 A  
+Isoc:          4.75 A  
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:         750 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +44.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       35.09 W  (cap = 122.00 W)
+
+it8655-isa-0290
+Adapter: ISA adapter
+in0:              1.44 V  (min =  +1.50 V, max =  +1.19 V)  ALARM
+in1:              2.53 V  (min =  +1.31 V, max =  +0.21 V)  ALARM
+in2:              2.00 V  (min =  +1.22 V, max =  +2.34 V)
+in3:              2.03 V  (min =  +0.60 V, max =  +2.50 V)
+in4:              2.03 V  (min =  +0.67 V, max =  +2.76 V)
+in5:              1.94 V  (min =  +0.98 V, max =  +2.39 V)
+in6:              2.02 V  (min =  +2.21 V, max =  +0.69 V)  ALARM
+3VSB:             3.31 V  (min =  +1.20 V, max =  +2.14 V)  ALARM
+Vbat:             3.18 V  
++3.3V:            3.31 V  
+Cpu Fan:         310 RPM  (min =   30 RPM)
+Side Fan:          0 RPM  (min =   15 RPM)  ALARM
+Front-Back Fan:    0 RPM  (min =   15 RPM)  ALARM
+Cpu Temp:        +60.0 C  (low  = -106.0 C, high = -65.0 C)  ALARM
+Mainboard Temp:  +40.0 C  (low  = +109.0 C, high = +30.0 C)  ALARM  sensor = thermistor
+temp3:           +40.0 C  (low  = +124.0 C, high = -53.0 C)  ALARM  sensor = thermistor
+temp4:           +40.0 C  (low  =  -5.0 C, high = +127.0 C)  sensor = thermistor
+temp5:           +40.0 C  (low  =  -2.0 C, high = +75.0 C)  sensor = thermistor
+temp6:           +40.0 C  (low  = +117.0 C, high = -104.0 C)  ALARM  sensor = thermistor
+intrusion0:     ALARM
+

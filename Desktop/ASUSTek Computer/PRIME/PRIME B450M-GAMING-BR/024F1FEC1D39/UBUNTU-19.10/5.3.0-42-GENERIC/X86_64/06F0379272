@@ -1,0 +1,16 @@
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      756.00 mV 
+fan1:         753 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +42.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.20 W  (cap = 145.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +43.1 C  (high = +70.0 C)
+Tctl:         +43.1 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

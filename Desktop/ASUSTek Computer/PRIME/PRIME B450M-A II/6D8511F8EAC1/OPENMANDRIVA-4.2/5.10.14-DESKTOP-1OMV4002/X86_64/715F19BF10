@@ -1,0 +1,30 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    166.26 J
+Ecore001:     72.34 J
+Ecore002:     85.65 J
+Ecore003:     74.37 J
+Esocket0:      2.33 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.36 V  
+Vsoc:          1.09 V  
+Tctl:         +37.6 C  
+Tdie:         +37.6 C  
+Icore:        18.00 A  
+Isoc:          2.75 A  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +37.0 C  
+

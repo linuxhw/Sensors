@@ -1,0 +1,38 @@
+it8665-isa-0290
+Adapter: ISA adapter
+in0:         981.00 mV (min =  +1.04 V, max =  +0.39 V)  ALARM
+in1:           2.51 V  (min =  +2.63 V, max =  +2.78 V)  ALARM
+in2:           2.07 V  (min =  +0.62 V, max =  +1.23 V)  ALARM
+in3:           2.00 V  (min =  +2.56 V, max =  +2.58 V)  ALARM
+in4:          33.00 mV (min =  +0.69 V, max =  +1.23 V)  ALARM
+in5:          33.00 mV (min =  +2.03 V, max =  +1.91 V)  ALARM
+in6:          33.00 mV (min =  +1.47 V, max =  +2.06 V)  ALARM
+3VSB:          3.36 V  (min =  +4.84 V, max =  +4.16 V)  ALARM
+Vbat:          3.27 V  
++3.3V:         3.36 V  
+fan1:         651 RPM  (min =   45 RPM)
+fan2:         619 RPM  (min =   65 RPM)
+fan3:         605 RPM  (min =   20 RPM)
+fan4:         673 RPM  (min =   -1 RPM)
+fan6:           0 RPM  (min =   -1 RPM)
+temp1:        +35.0 C  (low  = +37.0 C, high = +42.0 C)
+temp2:        +25.0 C  (low  = +127.0 C, high =  +1.0 C)  ALARM  sensor = thermistor
+temp3:        +30.0 C  (low  = +82.0 C, high = +88.0 C)  sensor = thermistor
+temp4:        +30.0 C  (low  = +102.0 C, high = +101.0 C)  sensor = thermistor
+temp5:        +30.0 C  (low  = -23.0 C, high = -32.0 C)  ALARM  sensor = thermistor
+temp6:        +30.0 C  (low  = +60.0 C, high = -82.0 C)  ALARM  sensor = thermistor
+intrusion0:  OK
+
+nouveau-pci-0800
+Adapter: PCI adapter
+fan1:         971 RPM
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +36.0 C  
+Tdie:         +36.0 C  
+Tccd1:        +33.0 C  
+
