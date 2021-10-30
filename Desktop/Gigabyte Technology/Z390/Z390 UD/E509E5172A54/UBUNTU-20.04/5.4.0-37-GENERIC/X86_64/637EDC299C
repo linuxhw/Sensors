@@ -1,0 +1,48 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 0:        +32.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 1:        +31.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 2:        +30.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 3:        +30.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 4:        +34.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 5:        +32.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 6:        +31.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 7:        +34.0 C  (high = +81.0 C, crit = +95.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +27.8 C  (crit = +119.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+it8686-isa-0a40
+Adapter: ISA adapter
+in0:         624.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           2.06 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.04 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.04 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           0.00 V  (min =  +0.00 V, max =  +3.06 V)  ALARM
+in5:           1.21 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           1.30 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.41 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.19 V  
+fan1:         569 RPM  (min =    0 RPM)
+fan2:         700 RPM  (min =    0 RPM)
+fan3:         901 RPM  (min =    0 RPM)
+fan4:         728 RPM  (min =    0 RPM)
+temp1:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +34.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +23.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = Intel PECI
+temp4:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp5:        +35.0 C  (low  =  +0.0 C, high = -119.0 C)  sensor = thermistor
+temp6:        +31.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+

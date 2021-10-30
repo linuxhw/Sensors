@@ -1,0 +1,61 @@
+enp61s0-pci-3d00
+Adapter: PCI adapter
+PHY Temperature:  +34.1 C  
+MAC Temperature:  +34.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +24.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +25.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +25.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +23.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +26.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +23.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 6:        +25.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 7:        +27.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 8:        +26.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 9:        +25.0 C  (high = +82.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +27.8 C  (crit = +119.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:         785.00 mV (min =  +0.00 V, max =  +2.78 V)
+in1:         589.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.05 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.68 V  (min =  +0.00 V, max =  +2.78 V)
+in4:         948.00 mV (min =  +0.00 V, max =  +2.78 V)
+in5:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.67 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.64 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +28.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +21.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +27.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +26.0 C  
+
+nvme-pci-3f00
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

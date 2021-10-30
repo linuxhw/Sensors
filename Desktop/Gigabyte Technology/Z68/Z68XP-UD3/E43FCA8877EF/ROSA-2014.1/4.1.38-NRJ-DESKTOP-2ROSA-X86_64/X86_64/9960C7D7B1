@@ -1,0 +1,28 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +41.0°C  (high = +80.0°C, crit = +101.0°C)
+Core 0:         +37.0°C  (high = +80.0°C, crit = +101.0°C)
+Core 1:         +38.0°C  (high = +80.0°C, crit = +101.0°C)
+Core 2:         +37.0°C  (high = +80.0°C, crit = +101.0°C)
+Core 3:         +41.0°C  (high = +80.0°C, crit = +101.0°C)
+
+it8728-isa-0290
+Adapter: ISA adapter
+in0:          +1.04 V  (min =  +0.00 V, max =  +3.06 V)
+in1:          +2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in2:          +2.95 V  (min =  +0.00 V, max =  +3.06 V)
+in3:          +2.93 V  (min =  +0.00 V, max =  +3.06 V)
+in4:          +0.31 V  (min =  +0.00 V, max =  +3.06 V)
+in5:          +1.13 V  (min =  +0.00 V, max =  +3.06 V)
+in6:          +1.50 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:         +3.34 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:         +3.17 V  
+fan1:        1320 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +30.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp2:        +25.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+temp3:        +31.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = Intel PECI
+intrusion0:  ALARM
+

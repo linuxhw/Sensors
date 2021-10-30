@@ -1,0 +1,27 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +34.0 C  (high = +80.0 C, crit = +98.0 C)
+
+it8728-isa-0290
+Adapter: ISA adapter
+Vtt:                   1.20 V  (min =  +1.02 V, max =  +1.30 V)
++3.3V:                 3.02 V  (min =  +3.14 V, max =  +3.47 V)
++12V:                 11.66 V  (min = +11.38 V, max = +12.24 V)
++5V:                   4.80 V  (min =  +4.76 V, max =  +5.14 V)
+Vaxg IGD:            780.00 mV (min =  +0.80 V, max =  +1.00 V)
+CPU Vcore:             1.46 V  (min =  +0.76 V, max =  +1.15 V)
+Dram Voltage:          1.55 V  (min =  +1.45 V, max =  +1.55 V)
+3.3 VSB:               3.41 V  (min =  +3.14 V, max =  +3.46 V)
+Vbat:                  3.26 V  
+CPU-Fan:             1566 RPM  (min = 1000 RPM)
+System Fan 1:           0 RPM  (min =  450 RPM)
+System Fan 2:        2122 RPM  (min =  450 RPM)
+System Fan 3:        1400 RPM  (min =  450 RPM)
+System Temperature:   +35.0 C  (low  = +10.0 C, high = +60.0 C)  sensor = thermistor
+Chipset Temperature:  +31.0 C  (low  = +10.0 C, high = +55.0 C)  sensor = Intel PECI
+Chassis Open:        ALARM
+
