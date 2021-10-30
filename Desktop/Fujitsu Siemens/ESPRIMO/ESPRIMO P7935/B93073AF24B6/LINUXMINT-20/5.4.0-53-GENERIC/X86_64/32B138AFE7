@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +48.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +48.0 C  (high = +78.0 C, crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +48.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+fscsyl-i2c-0-73
+Adapter: SMBus I801 adapter at 1100
+in0:          11.93 V  
+in1:           5.12 V  
+in2:           1.41 V  
+in3:           3.36 V  
+in4:           0.00 V  
+in5:           3.35 V  
+fan1:         660 RPM  (div = 4)
+fan2:        2460 RPM  (div = 4)
+fan7:           FAULT  (div = 4)
+temp1:        +26.0 C  (high = +68.0 C)
+temp2:        +26.0 C  (high = +68.0 C)
+temp4:        +35.0 C  (high = +55.0 C)
+temp5:        +30.0 C  (high = +55.0 C)
+temp7:        +42.0 C  (high = +62.0 C)
+

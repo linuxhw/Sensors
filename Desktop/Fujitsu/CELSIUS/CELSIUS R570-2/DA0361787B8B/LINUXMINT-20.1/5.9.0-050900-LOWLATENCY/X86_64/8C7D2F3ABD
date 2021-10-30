@@ -1,0 +1,45 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +43.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:       +40.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:       +47.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:      +49.0 C  (high = +85.0 C, crit = +95.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      993.00 mV 
+fan1:         751 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       49.08 W  (cap = 160.00 W)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +31.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:       +36.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 9:       +37.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 10:      +36.0 C  (high = +85.0 C, crit = +95.0 C)
+
+fscsyl-i2c-0-73
+Adapter: SMBus I801 adapter at 1c00
+in0:          12.00 V  
+in1:           5.04 V  
+in2:           3.21 V  
+in3:           3.35 V  
+in4:           5.75 V  
+in5:           3.40 V  
+fan1:        1500 RPM  (div = 4)
+fan2:         840 RPM  (div = 4)
+fan3:           FAULT  (div = 4)
+fan4:        1020 RPM  (div = 4)
+fan5:           FAULT  (div = 4)
+fan6:        1560 RPM  (div = 4)
+fan7:        1440 RPM  (div = 4)
+temp1:        +22.0 C  (high = +80.0 C)
+temp3:        +30.0 C  (high = +127.0 C)
+temp4:        +35.0 C  (high = +60.0 C)
+temp5:        +38.0 C  (high = +60.0 C)
+temp6:        +68.0 C  (high = +127.0 C)
+temp7:        +26.0 C  (high = +62.0 C)
+temp8:        +47.0 C  (high = +87.0 C)
+temp10:       +51.0 C  (high = +87.0 C)
+

@@ -1,0 +1,51 @@
+theseus-isa-0640
+Adapter: ISA adapter
+3.3V:          3.30 V  
+VREF:          1.07 V  
+VBAT:          3.12 V  
+3.3AUX:        3.31 V  
+12V:          11.98 V  
+fan1:           FAULT
+fan2:           FAULT
+fan3:           FAULT
+fan4:           FAULT
+fan5:        2528 RPM
+fan6:           FAULT
+fan7:        3676 RPM
+temp1:        +81.0 C  
+temp2:        +53.0 C  
+temp3:        +36.0 C  
+temp4:        +39.0 C  
+temp5:        +33.0 C  
+temp6:        +80.0 C  
+temp7:        +80.0 C  
+temp9:        +53.0 C  
+temp10:       +60.0 C  
+temp11:       +70.0 C  
+temp12:       +60.0 C  
+temp13:       +81.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +81.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +76.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +81.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +80.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +79.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +78.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +79.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +76.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +80.0 C  (high = +85.0 C, crit = +95.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +81.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +77.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +80.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +81.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +81.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +77.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +79.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 6:        +77.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 7:        +80.0 C  (high = +85.0 C, crit = +95.0 C)
+

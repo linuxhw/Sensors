@@ -1,0 +1,41 @@
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +52.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+sch5627-isa-0640
+Adapter: ISA adapter
+VCC:           3.36 V  
+VTT:           1.06 V  
+VBAT:          3.14 V  
+VTR:           3.36 V  
+in4:           1.11 V  
+fan1:        1079 RPM  (min =  400 RPM)
+fan2:         644 RPM  (min =  400 RPM)
+fan3:           FAULT  (min =  400 RPM)
+fan4:           FAULT  (min =  400 RPM)
+temp1:        +36.0 C  (high = +97.0 C, crit = +99.0 C)
+temp2:        +32.6 C  (high = +54.0 C, crit = +56.0 C)
+temp3:        +34.6 C  (high = +54.0 C, crit = +56.0 C)
+temp4:        +52.0 C  (high = +92.0 C, crit = +94.0 C)
+temp5:        +27.4 C  (high = +53.0 C, crit = +55.0 C)
+temp6:        +40.6 C  (high = +92.0 C, crit = +95.0 C)
+temp7:        +99.0 C  (high = +100.0 C, crit = +191.0 C)
+temp8:        +36.0 C  (high = +97.0 C, crit = +99.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +51.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

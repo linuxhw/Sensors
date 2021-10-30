@@ -1,0 +1,42 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:       +35.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:       +37.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 8:       +33.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 9:       +38.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 10:      +30.0 C  (high = +69.0 C, crit = +79.0 C)
+
+fscsyl-i2c-0-73
+Adapter: SMBus I801 adapter at 1c00
+in0:          11.93 V  
+in1:           5.12 V  
+in2:           3.02 V  
+in3:           3.38 V  
+in4:           5.73 V  
+in5:           3.38 V  
+fan1:         780 RPM  (div = 4)
+fan2:         840 RPM  (div = 4)
+fan3:         840 RPM  (div = 4)
+fan4:        1140 RPM  (div = 4)
+fan5:           FAULT  (div = 4)
+fan6:         780 RPM  (div = 4)
+fan7:        1500 RPM  (div = 4)
+temp1:        +42.0 C  (high = +80.0 C)
+temp3:        +49.0 C  (high = +80.0 C)
+temp4:        +31.0 C  (high = +60.0 C)
+temp5:        +34.0 C  (high = +60.0 C)
+temp6:        +66.0 C  (high = +127.0 C)
+temp7:        +22.0 C  (high = +62.0 C)
+temp8:        +46.0 C  (high = +87.0 C)
+temp10:       +47.0 C  (high = +87.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +34.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:       +41.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:       +40.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 8:       +39.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 9:       +45.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 10:      +48.0 C  (high = +69.0 C, crit = +79.0 C)
+

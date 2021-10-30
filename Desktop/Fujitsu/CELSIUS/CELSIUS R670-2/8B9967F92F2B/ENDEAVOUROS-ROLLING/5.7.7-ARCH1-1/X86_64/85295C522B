@@ -1,0 +1,59 @@
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at 1c00
+temp1:        +38.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +66.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 1:       +64.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 2:       +68.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 3:       +63.0 C  (high = +77.0 C, crit = +97.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +67.8 C)
+                       (crit = +70.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at 1c00
+temp1:        +38.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+fscsyl-i2c-0-73
+Adapter: SMBus I801 adapter at 1c00
++12V:              12.00 V  
++5V:                4.99 V  
+Vbat:               3.09 V  
++3.3V:              3.29 V  
+in4:                5.62 V  
++3.3V-Aux:          3.33 V  
+CPU Fan:          1140 RPM  (div = 4)
+System FAN2:      1080 RPM  (div = 4)
+System FAN3:      1140 RPM  (div = 4)
+System FAN4:      1140 RPM  (div = 4)
+fan5:              780 RPM  (div = 4)
+fan6:              840 RPM  (div = 4)
+PSU Fan:          1380 RPM  (div = 4)
+CPU Temp:          +37.0 C  (high = +70.0 C)
+temp2:             +37.0 C  (high = +70.0 C)
+Super I/O Temp:    +39.0 C  (high = +75.0 C)
+Northbridge Temp:  +42.0 C  (high = +75.0 C)
+temp6:             +79.0 C  (high = +95.0 C)
+temp7:             +32.0 C  (high = +62.0 C)
+temp8:             +47.0 C  (high = +98.0 C)
+temp9:             +49.0 C  (high = +98.0 C)
+temp10:            +48.0 C  (high = +98.0 C)
+temp11:            +47.0 C  (high = +98.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 1:       +53.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 2:       +53.0 C  (high = +77.0 C, crit = +97.0 C)
+Core 3:       +53.0 C  (high = +77.0 C, crit = +97.0 C)
+

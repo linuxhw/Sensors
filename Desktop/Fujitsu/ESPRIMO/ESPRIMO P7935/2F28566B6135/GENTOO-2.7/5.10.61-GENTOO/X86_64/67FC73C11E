@@ -1,0 +1,22 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +36.0 C  (high = +76.0 C, crit = +100.0 C)
+
+fscsyl-i2c-6-73
+Adapter: SMBus I801 adapter at 1100
++12V:              12.31 V  
++5V:                5.02 V  
+Vbat:               2.98 V  
++3.3V:              3.40 V  
+in4:                0.00 V  
++3.3V-Aux:          3.38 V  
+CPU Fan:             FAULT  (div = 4)
+System FAN2:       600 RPM  (div = 4)
+PSU Fan:             FAULT  (div = 4)
+CPU Temp:          +19.0 C  (high = +66.0 C)
+temp2:             +19.0 C  (high = +66.0 C)
+Super I/O Temp:    +37.0 C  (high = +55.0 C)
+Northbridge Temp:  +27.0 C  (high = +55.0 C)
+temp7:             +44.0 C  (high = +62.0 C)
+

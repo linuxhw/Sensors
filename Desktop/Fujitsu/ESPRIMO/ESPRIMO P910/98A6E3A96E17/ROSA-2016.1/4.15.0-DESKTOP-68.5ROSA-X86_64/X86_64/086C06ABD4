@@ -1,0 +1,38 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +71.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +71.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +62.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +63.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +61.0 C  (high = +85.0 C, crit = +105.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+theseus-isa-0640
+Adapter: ISA adapter
+3.3V:         +3.31 V  
+VREF:         +1.06 V  
+VBAT:         +3.17 V  
+3.3AUX:       +3.31 V  
+12V:         +12.05 V  
+fan1:           0 RPM
+fan2:           0 RPM
+fan4:           FAULT
+temp1:        +67.0 C  
+temp2:        +35.0 C  
+temp3:        +40.0 C  
+temp4:        +60.0 C  
+temp5:        +45.0 C  
+temp6:        +41.0 C  
+temp8:        +67.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.90 V, max =  +0.90 V)
+temp1:        +63.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

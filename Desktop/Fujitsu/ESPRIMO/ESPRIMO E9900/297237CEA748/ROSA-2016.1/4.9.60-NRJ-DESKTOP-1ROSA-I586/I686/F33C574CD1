@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +30.0°C  (high = +89.0°C, crit = +105.0°C)
+Core 2:       +35.0°C  (high = +89.0°C, crit = +105.0°C)
+
+sch5627-isa-0580
+Adapter: ISA adapter
+VCC:          +3.38 V  
+VTT:          +1.12 V  
+VBAT:         +2.46 V  
+VTR:          +3.35 V  
+in4:          +1.12 V  
+fan1:        1266 RPM  (min =    0 RPM)
+fan2:        2227 RPM  (min =    0 RPM)
+fan3:           FAULT  (min =    0 RPM)
+fan4:           FAULT  (min =    0 RPM)
+temp1:        +34.0°C  (high = +36.0°C, crit = +191.0°C)
+temp2:        +31.5°C  (high = +36.0°C, crit = +191.0°C)
+temp3:        +30.2°C  (high = +36.0°C, crit = +191.0°C)
+temp4:          FAULT  (high = +36.0°C, crit = +191.0°C)
+temp5:        +39.0°C  (high = +36.0°C, crit = +191.0°C)
+temp6:        +29.9°C  (high = +36.0°C, crit = +191.0°C)
+temp7:          FAULT  (high = +36.0°C, crit = +191.0°C)
+temp8:          FAULT  (high = +36.0°C, crit = +191.0°C)
+

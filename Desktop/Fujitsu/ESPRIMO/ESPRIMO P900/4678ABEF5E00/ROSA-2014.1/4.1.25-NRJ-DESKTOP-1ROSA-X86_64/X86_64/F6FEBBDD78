@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +44.0°C  (high = +82.0°C, crit = +102.0°C)
+Core 0:         +41.0°C  (high = +82.0°C, crit = +102.0°C)
+Core 1:         +44.0°C  (high = +82.0°C, crit = +102.0°C)
+
+theseus-isa-0640
+Adapter: ISA adapter
+3.3V:         +3.31 V  
+VREF:         +1.05 V  
+VBAT:         +3.25 V  
+3.3AUX:       +3.31 V  
+12V:         +11.98 V  
+fan1:         961 RPM
+fan2:           FAULT
+fan3:         596 RPM
+fan4:           FAULT
+temp1:        +41.0°C  
+temp2:        +34.0°C  
+temp3:        +32.0°C  
+temp4:        +63.0°C  
+temp5:        +38.0°C  
+temp6:        +34.0°C  
+temp8:        +41.0°C  
+

@@ -1,0 +1,16 @@
+fscher-i2c-3-73
+Adapter: SMBus Via Pro adapter at f400
++12V:        +12.94 V  
++5V:          +5.30 V  
+Vbat:         +3.21 V  
+fan1:           FAULT  (div = 2)
+fan2:        1260 RPM  (div = 2)
+fan3:           FAULT  (div = 2)
+CPU Temp:     +48.0°C  (high = +72.0°C)
+M/B Temp:     +45.0°C  (high = +60.0°C)
+Aux Temp:       FAULT  (high = +49.0°C)
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+

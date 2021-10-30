@@ -1,0 +1,31 @@
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +60.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+fscsyl-i2c-0-73
+Adapter: SMBus I801 adapter at 1c00
++12V:             +12.37 V  
++5V:               +5.12 V  
+Vbat:              +3.21 V  
++3.3V:             +3.36 V  
+in4:               +5.65 V  
++3.3V-Aux:         +3.33 V  
+CPU Fan:             FAULT  (div = 4)
+System FAN2:      1380 RPM  (div = 4)
+System FAN3:      2640 RPM  (div = 4)
+System FAN4:      1620 RPM  (div = 4)
+PSU Fan:             FAULT  (div = 4)
+CPU Temp:          +32.0 C  (high = +127.0 C)
+temp2:             +32.0 C  (high = +127.0 C)
+Super I/O Temp:    +39.0 C  (high = +70.0 C)
+Northbridge Temp:  +39.0 C  (high = +70.0 C)
+temp6:             +48.0 C  (high = +110.0 C)
+temp7:             +29.0 C  (high = +65.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +46.0 C  (high = +80.0 C, crit = +100.0 C)
+

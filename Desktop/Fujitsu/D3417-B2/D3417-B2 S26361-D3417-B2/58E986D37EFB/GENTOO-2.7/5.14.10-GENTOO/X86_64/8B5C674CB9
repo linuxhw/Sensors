@@ -1,0 +1,79 @@
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +31.0 C  (low  = +10.0 C, high = +40.0 C)
+                       (crit low =  +5.0 C, crit = +60.0 C)
+                       (lowest = +30.0 C, highest = +37.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +27.5 C  
+
+jc42-i2c-6-1a
+Adapter: SMBus I801 adapter at f040
+RAM:          +29.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-6-18
+Adapter: SMBus I801 adapter at f040
+RAM:          +31.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Kern 1:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Kern 2:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Kern 3:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Kern 4:        +42.0 C  (high = +80.0 C, crit = +100.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +31.0 C  (low  = +10.0 C, high = +40.0 C)
+                       (crit low =  +5.0 C, crit = +60.0 C)
+                       (lowest = +30.0 C, highest = +37.0 C)
+
+jc42-i2c-6-1b
+Adapter: SMBus I801 adapter at f040
+RAM:          +28.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-6-19
+Adapter: SMBus I801 adapter at f040
+RAM:          +29.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+ftsteutates-i2c-6-73
+Adapter: SMBus I801 adapter at f040
+in1:         239.00 mV 
+in2:         234.00 mV 
+in3:         234.00 mV 
+in4:         220.00 mV 
+fan1:          25 RPM
+fan2:           0 RPM
+fan3:           0 RPM
+fan4:           0 RPM
+fan5:           0 RPM
+fan6:           0 RPM
+fan7:           0 RPM
+fan8:           0 RPM
+temp1:         +0.1 C  
+temp2:         +0.1 C  
+temp3:         +0.1 C  
+temp4:         +0.1 C  
+temp5:         +0.1 C  
+temp6:         +0.1 C  
+temp7:          FAULT  
+temp8:          FAULT  
+temp9:          FAULT  
+temp10:         FAULT  
+temp11:         FAULT  
+temp12:         FAULT  
+temp13:         FAULT  
+temp14:         FAULT  
+temp15:         FAULT  
+temp16:         FAULT  
+

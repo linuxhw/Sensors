@@ -1,0 +1,21 @@
+fschds-i2c-0-73
+Adapter: SMBus I801 adapter at 1c20
+in0:          12.06 V  
+in1:           4.96 V  
+in2:           3.07 V  
+fan1:        1140 RPM  (div = 4)
+fan2:           FAULT  (div = 4)
+fan3:         660 RPM  (div = 4)
+fan4:           FAULT  (div = 4)
+fan5:           FAULT  (div = 4)
+temp1:        +39.0 C  (high = +76.0 C)
+temp2:        +41.0 C  (high = +55.0 C)
+temp3:        +32.0 C  (high = +57.0 C)
+temp4:        +38.0 C  (high = +76.0 C)
+temp5:        +48.0 C  (high = +62.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:       +52.0 C  (high = +86.0 C, crit = +100.0 C)
+

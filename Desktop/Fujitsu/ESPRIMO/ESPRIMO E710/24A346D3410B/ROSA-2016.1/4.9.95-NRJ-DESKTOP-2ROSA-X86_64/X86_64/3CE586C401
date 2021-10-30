@@ -1,0 +1,33 @@
+sch5627-isa-0640
+Adapter: ISA adapter
+VCC:          +3.29 V  
+VTT:          +1.05 V  
+VBAT:         +2.77 V  
+VTR:          +3.28 V  
+in4:          +1.13 V  
+fan1:        1055 RPM  (min =  400 RPM)
+fan2:         626 RPM  (min =  400 RPM)
+fan3:           FAULT  (min =  400 RPM)
+fan4:           FAULT  (min =  400 RPM)
+temp1:        +42.0 C  (high = +100.0 C, crit = +90.0 C)
+temp2:        +31.8 C  (high = +52.0 C, crit = +55.0 C)
+temp3:        +32.2 C  (high = +52.0 C, crit = +55.0 C)
+temp4:        +67.0 C  (high = +91.0 C, crit = +94.0 C)
+temp5:        +37.4 C  (high = +92.0 C, crit = +95.0 C)
+temp6:        +37.5 C  (high = +53.0 C, crit = +56.0 C)
+temp7:         +0.0 C  (high = +100.0 C, crit = +191.0 C)
+temp8:        +42.0 C  (high = +100.0 C, crit = +191.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +43.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:         +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:         +31.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:         +37.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:         +42.0 C  (high = +85.0 C, crit = +105.0 C)
+

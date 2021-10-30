@@ -1,0 +1,15 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +37.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +39.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +36.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +37.0 C  (high = +92.0 C, crit = +102.0 C)
+
+amdgpu-pci-6500
+Adapter: PCI adapter
+vddgfx:       +0.85 V  
+fan1:        1964 RPM
+temp1:        +49.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        6.01 W  (cap =  25.00 W)
+

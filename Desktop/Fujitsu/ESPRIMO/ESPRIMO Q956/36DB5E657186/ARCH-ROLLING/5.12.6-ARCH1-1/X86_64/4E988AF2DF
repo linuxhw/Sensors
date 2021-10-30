@@ -1,0 +1,47 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +47.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +84.0 C, crit = +100.0 C)
+
+ftsteutates-i2c-0-73
+Adapter: SMBus I801 adapter at f040
+in1:         238.00 mV 
+in2:         238.00 mV 
+in3:         236.00 mV 
+in4:         243.00 mV 
+fan1:           0 RPM
+fan2:          16 RPM
+fan3:           0 RPM
+fan4:           0 RPM
+fan5:           0 RPM
+fan6:           0 RPM
+fan7:           0 RPM
+fan8:           0 RPM
+temp1:         +0.1 C  
+temp2:         +0.1 C  
+temp3:         +0.1 C  
+temp4:         +0.1 C  
+temp5:         +0.1 C  
+temp6:         +0.1 C  
+temp7:          FAULT  
+temp8:          FAULT  
+temp9:          FAULT  
+temp10:         FAULT  
+temp11:         FAULT  
+temp12:         FAULT  
+temp13:         FAULT  
+temp14:         FAULT  
+temp15:         FAULT  
+temp16:         FAULT  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +74.0 C  
+
