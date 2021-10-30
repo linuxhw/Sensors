@@ -1,0 +1,16 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +52.5 C  (crit = +99.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 5652 RPM
+CPU:            +52.0 C  
+Other:          +54.0 C  
+SODIMM:         +47.0 C  
+

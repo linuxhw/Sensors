@@ -1,0 +1,17 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+                       (emerg =  +0.0 C, hyst =  +0.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.5 C  (crit = +94.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    230 RPM
+Motherboard Fan:  226 RPM
+CPU:              +55.0 C  
+CPU:              +60.0 C  
+
