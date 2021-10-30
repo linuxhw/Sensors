@@ -1,0 +1,26 @@
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +49.0 C  
+Ambient:        +31.0 C  
+SODIMM:         +28.0 C  
+Other:          +29.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +25.0 C  (crit = +107.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +38.5 C  
+

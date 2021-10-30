@@ -1,0 +1,19 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3084 RPM
+CPU:            +68.0 C  
+SODIMM:         +46.0 C  
+Other:          +53.0 C  
+Other:          +70.0 C  
+Other:          +62.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.05 V  
+curr1:       1000.00 uA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +69.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 2:       +72.0 C  (high = +95.0 C, crit = +105.0 C)
+
