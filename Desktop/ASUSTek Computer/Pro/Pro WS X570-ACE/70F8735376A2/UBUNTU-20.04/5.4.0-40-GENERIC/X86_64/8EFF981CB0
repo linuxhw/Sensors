@@ -1,0 +1,16 @@
+i350bb-pci-0400
+Adapter: PCI adapter
+loc1:         +52.0 C  (high = +120.0 C, crit = +110.0 C)
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      718.00 mV 
+fan1:        2013 RPM  (min = 1600 RPM, max = 6000 RPM)
+edge:         +29.0 C  (crit = +99.0 C, hyst = -273.1 C)
+power1:        6.02 W  (cap =  35.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +58.5 C  (high = +70.0 C)
+Tctl:         +58.5 C  
+

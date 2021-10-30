@@ -1,0 +1,40 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +27.9 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +29.1 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:       +0.90 V  
+fan1:        1117 RPM  (min =    0 RPM, max = 5500 RPM)
+temp1:        +44.0 C  (crit = +99.0 C, hyst = -273.1 C)
+power1:       20.04 W  (cap =  47.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +29.5 C  (high = +70.0 C)
+Tctl:         +39.5 C  
+
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +28.4 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +28.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

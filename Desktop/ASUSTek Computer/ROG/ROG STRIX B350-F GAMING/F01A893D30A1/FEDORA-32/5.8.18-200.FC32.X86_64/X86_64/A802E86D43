@@ -1,0 +1,16 @@
+nouveau-pci-0800
+Adapter: PCI adapter
+fan1:         896 RPM
+temp1:        +34.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       888.00 mV 
+Vsoc:        919.00 mV 
+Tctl:         +61.4 C  
+Tdie:         +41.4 C  
+Icore:         3.00 A  
+Isoc:          4.00 A  
+

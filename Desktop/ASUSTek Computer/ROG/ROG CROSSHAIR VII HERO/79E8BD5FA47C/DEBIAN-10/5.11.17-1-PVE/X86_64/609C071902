@@ -1,0 +1,45 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +72.0 C  
+Tdie:         +72.0 C  
+Tccd1:        +71.8 C  
+
+i350bb-pci-0800
+Adapter: PCI adapter
+loc1:         +56.0 C  (high = +120.0 C, crit = +110.0 C)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.35 V  
+CPU SOC Voltage:           1.07 V  
+DRAM Voltage:              1.38 V  
+VDDP Voltage:            610.00 mV 
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             11.94 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.29 V  
+VBAT Voltage:              3.14 V  
+AVCC3 Voltage:             3.29 V  
+SB 1.05V Voltage:          1.07 V  
+CPU Core Voltage:          1.39 V  
+CPU SOC Voltage:           1.08 V  
+DRAM Voltage:              1.41 V  
+CPU Fan:                 2824 RPM
+Chassis Fan 1:           1436 RPM
+Chassis Fan 2:           1264 RPM
+Chassis Fan 3:           1483 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                 1323 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +72.0 C  
+CPU Socket Temperature:   +44.0 C  
+Motherboard Temperature:  +30.0 C  
+Chipset Temperature:      +48.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +39.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:   33.00 A  
+

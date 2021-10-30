@@ -1,0 +1,27 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   994.00 mV 
+SVI2_SoC:      1.07 V  
+Tdie:         +48.8 C  (high = +95.0 C)
+Tctl:         +48.8 C  
+Tccd1:        +36.0 C  
+Tccd2:        +30.5 C  
+SVI2_P_Core:   4.58 W  
+SVI2_P_SoC:   15.50 W  
+SVI2_C_Core:   4.61 A  
+SVI2_C_SoC:   14.42 A  
+

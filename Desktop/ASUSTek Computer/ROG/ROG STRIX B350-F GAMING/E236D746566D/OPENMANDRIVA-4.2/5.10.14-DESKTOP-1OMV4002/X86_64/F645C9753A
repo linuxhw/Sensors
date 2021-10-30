@@ -1,0 +1,26 @@
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:        1168 RPM  (min =    0 RPM, max = 5500 RPM)
+edge:         +37.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.09 W  (cap =  48.00 W)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    519.76 J
+Ecore001:    200.43 J
+Ecore002:    203.71 J
+Ecore003:    260.76 J
+Ecore004:    192.18 J
+Ecore005:    238.63 J
+Esocket0:      7.45 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.51 V  
+Vsoc:        844.00 mV 
+Tctl:         +57.0 C  
+Tdie:         +37.0 C  
+Icore:        28.00 A  
+Isoc:          3.75 A  
+

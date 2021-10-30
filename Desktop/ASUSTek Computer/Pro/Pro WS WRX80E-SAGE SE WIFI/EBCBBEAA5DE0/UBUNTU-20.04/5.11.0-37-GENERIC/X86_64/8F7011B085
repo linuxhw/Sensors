@@ -1,0 +1,109 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+energy1:          N/A
+energy2:          N/A
+energy3:          N/A
+energy4:          N/A
+energy5:          N/A
+energy6:          N/A
+energy7:          N/A
+energy8:          N/A
+energy9:          N/A
+energy10:         N/A
+energy11:         N/A
+energy12:         N/A
+energy13:         N/A
+energy14:         N/A
+energy15:         N/A
+energy16:         N/A
+energy17:         N/A
+energy18:         N/A
+energy19:         N/A
+energy20:         N/A
+energy21:         N/A
+energy22:         N/A
+energy23:         N/A
+energy24:         N/A
+energy25:         N/A
+energy26:         N/A
+energy27:         N/A
+energy28:         N/A
+energy29:         N/A
+energy30:         N/A
+energy31:         N/A
+energy32:         N/A
+energy33:         N/A
+energy34:         N/A
+energy35:         N/A
+energy36:         N/A
+energy37:         N/A
+energy38:         N/A
+energy39:         N/A
+energy40:         N/A
+energy41:         N/A
+energy42:         N/A
+energy43:         N/A
+energy44:         N/A
+energy45:         N/A
+energy46:         N/A
+energy47:         N/A
+energy48:         N/A
+energy49:         N/A
+energy50:         N/A
+energy51:         N/A
+energy52:         N/A
+energy53:         N/A
+energy54:         N/A
+energy55:         N/A
+energy56:         N/A
+energy57:         N/A
+energy58:         N/A
+energy59:         N/A
+energy60:         N/A
+energy61:         N/A
+energy62:         N/A
+energy63:         N/A
+energy64:         N/A
+energy65:         N/A
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+nvme-pci-2c00
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nouveau-pci-4100
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +42.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.0 C  
+Tdie:         +52.0 C  
+Tccd1:        +37.2 C  
+Tccd2:        +38.2 C  
+Tccd3:        +35.2 C  
+Tccd4:        +38.8 C  
+Tccd5:        +41.0 C  
+Tccd6:        +38.8 C  
+Tccd7:        +37.2 C  
+Tccd8:        +38.2 C  
+
+nvme-pci-2d00
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

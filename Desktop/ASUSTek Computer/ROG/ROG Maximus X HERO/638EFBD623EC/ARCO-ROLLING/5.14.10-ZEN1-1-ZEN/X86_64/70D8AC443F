@@ -1,0 +1,47 @@
+sfc-pci-0501
+Adapter: PCI adapter
+1.2V supply:              1.20 V  (min =  +1.16 V, max =  +1.24 V)
+3.3V supply:              3.30 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.23 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +43.0 C  (low  =  +5.0 C, high = +65.0 C)
+                                  (crit = +90.0 C)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +31.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +32.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:        5.00 W  (cap = 272.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+
+sfc-pci-0500
+Adapter: PCI adapter
+1.2V supply:              1.20 V  (min =  +1.16 V, max =  +1.24 V)
+3.3V supply:              3.30 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.23 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +43.0 C  (low  =  +5.0 C, high = +65.0 C)
+                                  (crit = +90.0 C)
+

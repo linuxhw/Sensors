@@ -1,0 +1,35 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +29.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +31.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +28.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +28.0 C  (high = +82.0 C, crit = +100.0 C)
+
+corsairpsu-hid-3-2
+Adapter: HID adapter
+v_in:             N/A  
+v_out +12v:       N/A  
+v_out +5v:        N/A  
+v_out +3.3v:      N/A  
+psu fan:          N/A
+vrm temp:         N/A  
+case temp:        N/A  
+power total:      N/A  
+power +12v:       N/A  
+power +5v:        N/A  
+power +3.3v:      N/A  
+curr in:          N/A  
+curr +12v:        N/A  
+curr +5v:         N/A  
+curr +3.3v:       N/A  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,62 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0*C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.09 V  
+Tctl:         +66.4*C  
+Tdie:         +66.4*C  
+Tccd1:        +53.5*C  
+Icore:        21.00 A  
+Isoc:          5.75 A  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:        1231 RPM  (min =    0 RPM, max = 2400 RPM)
+edge:         +39.0*C  (crit = +94.0*C, hyst = -273.1*C)
+power1:       33.04 W  (cap = 145.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9*C  (low  = -273.1*C, high = +84.8*C)
+                       (crit = +84.8*C)
+Sensor 1:     +42.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +49.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.41 V  
+VPP MEM Voltage:           2.51 V  
++12V Voltage:             10.08 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.29 V  
+VBAT Voltage:              3.23 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Core Voltage:          0.00 V  
+CPU SOC Voltage:           0.00 V  
+CPU Fan:                 1218 RPM
+Chassis Fan 1:           1010 RPM
+Chassis Fan 2:           1266 RPM
+Chassis Fan 3:           1192 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +66.0*C  
+CPU Socket Temperature:   +39.0*C  
+Motherboard Temperature:  +41.0*C  
+Chipset Temperature:      +45.0*C  
+Tsensor 1 Temperature:   +216.0*C  
+CPU VRM Temperature:       +0.0*C  
+CPU VRM Output Current:    0.00 A  
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +40.9*C  (low  = -273.1*C, high = +84.8*C)
+                       (crit = +84.8*C)
+Sensor 1:     +40.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +44.9*C  (low  = -273.1*C, high = +65261.8*C)
+

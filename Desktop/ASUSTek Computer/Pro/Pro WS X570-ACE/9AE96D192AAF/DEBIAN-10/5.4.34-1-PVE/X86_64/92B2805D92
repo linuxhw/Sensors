@@ -1,0 +1,88 @@
+nouveau-pci-0a00
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +59.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +45.5 C  (high = +70.0 C)
+Tctl:         +45.5 C  
+
+sfc-pci-0300
+Adapter: PCI adapter
+1.2V supply:                             N/A  (min =  +1.15 V, max =  +1.25 V)
+                                              (crit max =  +1.27 V)
+0.9V supply:                             N/A  (min =  +0.85 V, max =  +1.20 V)
+                                              (crit max =  +1.20 V)
+0.9V supply (ext. ADC):                  N/A  (min =  +0.85 V, max =  +1.20 V)
+                                              (crit max =  +1.20 V)
+Controller PTAT voltage (ext. ADC):      N/A  (min =  +0.00 V, max =  +0.60 V)
+                                              (crit max =  +1.00 V)
+Air flow raw:                            N/A  (min =  +0.00 V, max =  +0.03 V)
+                                              (crit max =  +0.04 V)
+0.9V die (ext. ADC):                     N/A  (min =  +0.96 V, max =  +1.02 V)
+                                              (crit max =  +1.20 V)
+in6:                                     N/A  
+in7:                                     N/A  
+in8:                                     N/A  (min =  +1.10 V, max =  +1.30 V)
+                                              (crit max =  +1.40 V)
+in9:                                     N/A  (min =  +1.70 V, max =  +1.90 V)
+                                              (crit max =  +2.00 V)
+Controller heat sink:                    N/A
+Controller board temp.:                  N/A  (low  =  +0.0 C, high = +70.0 C)
+                                              (crit = +85.0 C)
+Regulator die temp.:                     N/A  (low  =  +0.0 C, high = +90.0 C)
+                                              (crit = +105.0 C)
+0.9V regulator temp.:                    N/A  (low  =  +0.0 C, high = +85.0 C)
+                                              (crit = +95.0 C)
+1.2V regulator temp.:                    N/A  (low  =  +0.0 C, high = +70.0 C)
+                                              (crit = +85.0 C)
+Controller die temp. (ext. ADC):         N/A  (low  =  +0.0 C, high = +100.0 C)
+                                              (crit = +115.0 C)
+Ambient temp.:                           N/A  (low  =  +5.0 C, high = +120.0 C)
+                                              (crit = +120.0 C)
+0.9V supply current:                     N/A  (min =  +0.00 A, max =  +9.00 A)
+                                              (crit max = +10.00 A)
+1.2V supply current:                     N/A  (min =  +0.00 A, max =  +1.60 A)
+                                              (crit max =  +2.00 A)
+
+sfc-pci-0301
+Adapter: PCI adapter
+1.2V supply:                             N/A  (min =  +1.15 V, max =  +1.25 V)
+                                              (crit max =  +1.27 V)
+0.9V supply:                             N/A  (min =  +0.85 V, max =  +1.20 V)
+                                              (crit max =  +1.20 V)
+0.9V supply (ext. ADC):                  N/A  (min =  +0.85 V, max =  +1.20 V)
+                                              (crit max =  +1.20 V)
+Controller PTAT voltage (ext. ADC):      N/A  (min =  +0.00 V, max =  +0.60 V)
+                                              (crit max =  +1.00 V)
+Air flow raw:                            N/A  (min =  +0.00 V, max =  +0.03 V)
+                                              (crit max =  +0.04 V)
+0.9V die (ext. ADC):                     N/A  (min =  +0.96 V, max =  +1.02 V)
+                                              (crit max =  +1.20 V)
+in6:                                     N/A  
+in7:                                     N/A  
+in8:                                     N/A  (min =  +1.10 V, max =  +1.30 V)
+                                              (crit max =  +1.40 V)
+in9:                                     N/A  (min =  +1.70 V, max =  +1.90 V)
+                                              (crit max =  +2.00 V)
+Controller heat sink:                    N/A
+Controller board temp.:                  N/A  (low  =  +0.0 C, high = +70.0 C)
+                                              (crit = +85.0 C)
+Regulator die temp.:                     N/A  (low  =  +0.0 C, high = +90.0 C)
+                                              (crit = +105.0 C)
+0.9V regulator temp.:                    N/A  (low  =  +0.0 C, high = +85.0 C)
+                                              (crit = +95.0 C)
+1.2V regulator temp.:                    N/A  (low  =  +0.0 C, high = +70.0 C)
+                                              (crit = +85.0 C)
+Controller die temp. (ext. ADC):         N/A  (low  =  +0.0 C, high = +100.0 C)
+                                              (crit = +115.0 C)
+Ambient temp.:                           N/A  (low  =  +5.0 C, high = +120.0 C)
+                                              (crit = +120.0 C)
+0.9V supply current:                     N/A  (min =  +0.00 A, max =  +9.00 A)
+                                              (crit max = +10.00 A)
+1.2V supply current:                     N/A  (min =  +0.00 A, max =  +1.60 A)
+                                              (crit max =  +2.00 A)
+

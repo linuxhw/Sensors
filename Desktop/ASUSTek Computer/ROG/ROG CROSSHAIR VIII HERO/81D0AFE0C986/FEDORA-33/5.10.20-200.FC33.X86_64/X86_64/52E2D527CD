@@ -1,0 +1,31 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+corsaircpro-hid-3-1
+Adapter: HID adapter
+in0:          12.18 V  
+in1:           4.95 V  
+in2:           3.34 V  
+fan1 4pin:   1087 RPM
+fan2 4pin:   1083 RPM
+fan3 4pin:   1089 RPM
+fan4 4pin:   1077 RPM
+fan5 4pin:   1083 RPM
+temp1:        +34.4 C  
+temp2:        +36.6 C  
+temp3:        +35.3 C  
+temp4:        +31.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.1 C  
+Tdie:         +55.1 C  
+Tccd1:        +46.2 C  
+Tccd2:        +41.2 C  
+

@@ -1,0 +1,56 @@
+nct6793-isa-0290
+Adapter: ISA adapter
+CPU Core Voltage:           1.36 V  (min =  +0.00 V, max =  +1.42 V)
+ATX +5 V Voltage:           4.96 V  (min =  +4.76 V, max =  +5.24 V)
+AVCC Analog Voltage:        3.38 V  (min =  +3.14 V, max =  +3.47 V)
+ATX +3.3 V Voltage:         3.31 V  (min =  +3.14 V, max =  +3.47 V)
+ATX +12 V Voltage:         12.00 V  (min = +11.42 V, max = +12.58 V)
+CPU Graphics Voltage:       0.00 V  (min =  +0.00 V, max =  +1.42 V)
+3VSB Standby Voltage:       3.38 V  (min =  +3.14 V, max =  +3.47 V)
+RTC Battery Voltage:        3.09 V  (min =  +2.00 V, max =  +3.41 V)
+CPU Sustain Voltage:        1.01 V  (min =  +0.95 V, max =  +1.05 V)
+DRAM Voltage:               1.34 V  (min =  +0.00 V, max =  +1.50 V)
+CPU System Agent Voltage:   1.06 V  (min =  +1.00 V, max =  +1.35 V)
+PCH Core Voltage:           1.02 V  (min =  +0.95 V, max =  +1.05 V)
+CPU IO Voltage:             1.06 V  (min =  +0.90 V, max =  +1.25 V)
+AIO Pump Speed (bkp):     2142 RPM  (min = 1800 RPM)
+Board Temperature:         +29.0 C  (high = +98.0 C, hyst = +95.0 C)  sensor = thermistor
+CPU Temperature:           +31.0 C  (high = +98.0 C, hyst = +95.0 C)
+                                    (crit = +100.0 C)
+CPU VCC VR Temperature:    +35.0 C  
+UEFI CPU Temperature:      +30.5 C  
+beep_enable:              disabled
+
+smart_device-hid-3-5
+Adapter: HID adapter
+Exhaust Fan Voltage:  11.91 V  
+Test Cooler Voltage:  11.91 V  
+Intake Fan Voltage:   11.77 V  
+Exhaust Fan Speed:    507 RPM
+Test Cooler Speed:      0 RPM
+Intake Fan Speed:    1741 RPM
+Exhaust Fan Current:  10.00 mA 
+Test Cooler Current:   0.00 A  
+Intake Fan Current:  110.00 mA 
+
+nvme-pci-0200
+Adapter: PCI adapter
+Samsung 970 EVO NAND:        +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Samsung 970 EVO Controller:  +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+krakenx-hid-3-4
+Adapter: HID adapter
+AIO Fan Speed:           882 RPM
+AIO Pump Speed:         2161 RPM
+AIO Liquid Temperature:  +28.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Package DTS:  +35.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 1 DTS:   +32.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 2 DTS:   +31.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 3 DTS:   +34.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 4 DTS:   +31.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 5 DTS:   +31.0 C  (high = +82.0 C, crit = +100.0 C)
+CPU Core 6 DTS:   +31.0 C  (high = +82.0 C, crit = +100.0 C)
+

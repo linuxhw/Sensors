@@ -1,0 +1,29 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    553.32 J
+Ecore001:    123.13 J
+Ecore002:    145.29 J
+Ecore003:    134.87 J
+Ecore004:    109.96 J
+Ecore005:    132.53 J
+Ecore006:    115.81 J
+Ecore007:    191.80 J
+Esocket0:      5.47 kJ
+
+radeon-pci-0900
+Adapter: PCI adapter
+temp1:        +53.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.38 V  
+Vsoc:        813.00 mV 
+Tctl:         +43.5 C  
+Tdie:         +43.5 C  
+Icore:        25.00 A  
+Isoc:          4.00 A  
+

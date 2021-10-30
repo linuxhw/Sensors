@@ -1,0 +1,51 @@
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +45.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       906.00 mV 
+Vsoc:          1.07 V  
+Tctl:         +47.2 C  
+Tdie:         +47.2 C  
+Tccd1:        +34.5 C  
+Icore:         0.00 A  
+Isoc:          7.25 A  
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +37.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +38.9 C  (low  = -40.1 C, high = +83.8 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +45.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       17.19 W  (cap = 110.00 W)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +41.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +39.0 C, highest = +43.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +42.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +40.0 C, highest = +43.0 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:        +37.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

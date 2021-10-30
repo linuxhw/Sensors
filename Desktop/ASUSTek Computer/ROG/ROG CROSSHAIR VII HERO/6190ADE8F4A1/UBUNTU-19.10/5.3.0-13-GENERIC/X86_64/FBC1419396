@@ -1,0 +1,44 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:         +0.91 V  
+CPU SOC Voltage:          +1.08 V  
+DRAM Voltage:             +1.35 V  
+VDDP Voltage:             +0.53 V  
+1.8V PLL Voltage:         +1.79 V  
++12V Voltage:            +12.04 V  
++5V Voltage:              +4.96 V  
+3VSB Voltage:             +3.33 V  
+VBAT Voltage:             +3.18 V  
+AVCC3 Voltage:            +3.31 V  
+SB 1.05V Voltage:         +1.07 V  
+CPU Core Voltage:         +0.92 V  
+CPU SOC Voltage:          +1.09 V  
+DRAM Voltage:             +1.37 V  
+CPU Fan:                 2008 RPM
+Chassis Fan 1:            494 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:            514 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +51.0 C  
+CPU Socket Temperature:   +32.0 C  
+Motherboard Temperature:  +32.0 C  
+Chipset Temperature:      +54.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +37.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:   +4.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +51.0 C  (high = +70.0 C)
+Tctl:         +51.0 C  
+

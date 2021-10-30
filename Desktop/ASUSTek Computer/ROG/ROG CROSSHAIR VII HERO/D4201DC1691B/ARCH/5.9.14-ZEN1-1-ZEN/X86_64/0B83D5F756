@@ -1,0 +1,63 @@
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.37 V  
+CPU SOC Voltage:         796.00 mV 
+DRAM Voltage:              1.19 V  
+VDDP Voltage:            534.00 mV 
+1.8V PLL Voltage:          1.77 V  
++12V Voltage:             11.94 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              3.23 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.07 V  
+CPU Core Voltage:        947.00 mV 
+CPU SOC Voltage:         816.00 mV 
+DRAM Voltage:              1.20 V  
+CPU Fan:                 1490 RPM
+Chassis Fan 1:            975 RPM
+Chassis Fan 2:            570 RPM
+Chassis Fan 3:            342 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +45.0 C  
+CPU Socket Temperature:   +30.0 C  
+Motherboard Temperature:  +28.0 C  
+Chipset Temperature:      +43.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +30.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:    4.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:        1.10 V  
+fan1:         796 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +51.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +52.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +51.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:       22.00 W  (cap = 220.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       950.00 mV 
+Vsoc:        819.00 mV 
+Tctl:         +45.0 C  
+Tdie:         +45.0 C  
+Icore:         4.00 A  
+Isoc:          4.25 A  
+

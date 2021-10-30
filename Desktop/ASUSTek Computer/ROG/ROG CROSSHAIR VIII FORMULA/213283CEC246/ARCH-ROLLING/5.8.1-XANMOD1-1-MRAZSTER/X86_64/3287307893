@@ -1,0 +1,37 @@
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        65535 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +32.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +32.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +38.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       10.00 W  (cap = 180.00 W)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.38 V  
+SVI2_SoC:      1.08 V  
+Tdie:         +51.9 C  (high = +95.0 C)
+Tctl:         +51.9 C  
+Tccd1:        +42.2 C  
+SVI2_P_Core:  11.84 W  
+SVI2_P_SoC:    8.60 W  
+SVI2_C_Core:   8.56 A  
+SVI2_C_SoC:    7.95 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +40.7 C  
+
+hidpp_battery_0-hid-3-4
+Adapter: HID adapter
+in0:           4.19 V  
+

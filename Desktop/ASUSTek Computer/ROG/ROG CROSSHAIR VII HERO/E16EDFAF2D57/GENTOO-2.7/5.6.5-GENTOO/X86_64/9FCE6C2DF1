@@ -1,0 +1,47 @@
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +56.0 C  (crit = +118.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+junction:     +56.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+mem:          +60.0 C  (crit = +99.0 C, hyst = -273.1 C)
+                       (emerg = +99.0 C)
+power1:       24.00 W  (cap = 220.00 W)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +35.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +20.0 C, highest = +35.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.13 V  
+Tdie:         +61.8 C  
+Tctl:         +71.8 C  
+Icore:        83.00 A  
+Isoc:         10.50 A  
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +20.0 C, highest = +37.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +26.0 C, highest = +40.0 C)
+

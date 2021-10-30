@@ -1,0 +1,33 @@
+asus-wmi-ec-sensors-isa-0000
+Adapter: ISA adapter
+CPU_Opt:     1555 RPM
+Water_Flow:     0 RPM
+Chipset:      +44.0 C  
+CPU:          +32.0 C  
+Motherboard:  +25.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +34.0 C  
+Water_In:     +23.0 C  
+Water_Out:   +216.0 C  
+CPU:          33.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +39.9 C  
+Tccd1:        +49.0 C  
+Tccd2:        +31.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

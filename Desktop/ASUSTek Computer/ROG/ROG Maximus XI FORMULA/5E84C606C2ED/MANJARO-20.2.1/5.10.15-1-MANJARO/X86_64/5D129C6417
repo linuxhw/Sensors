@@ -1,0 +1,23 @@
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +74.0 C  
+MAC Temperature:  +83.3 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +48.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +56.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +48.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +48.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +49.0 C  (high = +82.0 C, crit = +100.0 C)
+

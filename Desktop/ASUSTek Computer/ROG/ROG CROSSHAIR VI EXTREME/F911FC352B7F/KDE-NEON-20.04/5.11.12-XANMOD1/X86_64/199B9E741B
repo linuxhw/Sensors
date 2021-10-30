@@ -1,0 +1,64 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.07 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +38.0 C  (high = +95.0 C)
+Tctl:         +38.0 C  
+Tccd1:        +39.5 C  
+Tccd2:        +35.8 C  
+SVI2_P_Core:   4.99 W  
+SVI2_P_SoC:   12.49 W  
+SVI2_C_Core:   4.61 A  
+SVI2_C_SoC:   11.48 A  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:         913 RPM  (min =    0 RPM, max = 4600 RPM)
+edge:         +43.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +44.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +52.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       35.00 W  (cap = 270.00 W)
+
+asuswmisensors-isa-0000
+Adapter: ISA adapter
+CPU Core Voltage:          1.09 V  
+CPU SOC Voltage:           1.09 V  
+DRAM AB Voltage:           1.35 V  
+VDDP Voltage:             65.00 mV 
+1.8V PLL Voltage:          1.81 V  
++12V Voltage:             12.10 V  
++5V Voltage:               5.04 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.18 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.05 V  
+CPU Fan:                 1721 RPM
+Chassis Fan:             1436 RPM
+Radiator Fan 1:             0 RPM
+Radiator Fan 2:             0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+Waterblock Flow:            0 RPM
+EXT Fan 1:                  0 RPM
+EXT Fan 2:                  0 RPM
+EXT Fan 3:                  0 RPM
+CPU Temperature:          +38.0 C  
+CPU Socket Temperature:   +32.0 C  
+Motherboard Temperature:  +22.0 C  
+Chipset Temperature:      +44.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +32.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+Waterblock In:           +216.0 C  
+Waterblock Out:          +216.0 C  
+EXT Tsensor 1:             +0.0 C  
+EXT Tsensor 2:             +0.0 C  
+EXT Tsensor 3:             +0.0 C  
+CPU VRM Output Current:    8.00 A  
+

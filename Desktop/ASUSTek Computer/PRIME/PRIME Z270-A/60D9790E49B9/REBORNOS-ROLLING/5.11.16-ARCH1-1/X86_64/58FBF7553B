@@ -1,0 +1,24 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+jc42-i2c-7-19
+Adapter: SMBus I801 adapter at f000
+temp1:        +41.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-7-1b
+Adapter: SMBus I801 adapter at f000
+temp1:        +40.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +34.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +34.0 C  (high = +84.0 C, crit = +100.0 C)
+
