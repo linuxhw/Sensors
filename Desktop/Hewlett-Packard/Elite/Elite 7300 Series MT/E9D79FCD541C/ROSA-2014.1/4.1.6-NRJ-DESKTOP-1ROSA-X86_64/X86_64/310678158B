@@ -1,0 +1,20 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +32.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +31.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +33.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +29.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +30.0°C  (high = +80.0°C, crit = +98.0°C)
+
+f71858fg-isa-0200
+Adapter: ISA adapter
++3.3V:        +3.33 V  
+3VSB:         +3.31 V  
+Vbat:         +3.28 V  
+fan1:        1228 RPM
+fan2:         912 RPM
+fan3:           0 RPM  ALARM
+temp1:        +35.1°C  (high = +70.0°C, hyst = +60.0°C)
+temp2:        +35.4°C  (high = +100.0°C, hyst = +85.0°C)
+temp3:        +32.1°C  (high = +100.0°C, hyst = +85.0°C)
+

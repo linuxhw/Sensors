@@ -1,0 +1,18 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +39.0 C  (high = +76.0 C, crit = +100.0 C)
+
+f8000-isa-0a00
+Adapter: ISA adapter
++3.3V:        +3.34 V  
+3VSB:         +3.38 V  
+Vbat:         +3.26 V  
+fan1:        1551 RPM
+fan2:        1039 RPM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM
+temp1:        +55.0 C  (high = +70.0 C, hyst = +60.0 C)
+temp2:        +32.0 C  (high = +100.0 C, hyst = +85.0 C)
+temp3:        +38.0 C  (high = +100.0 C, hyst = +85.0 C)
+

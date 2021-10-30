@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +49.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 0:         +49.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 1:         +47.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 2:         +46.0°C  (high = +80.0°C, crit = +98.0°C)
+Core 3:         +43.0°C  (high = +80.0°C, crit = +98.0°C)
+
+f71858fg-isa-0200
+Adapter: ISA adapter
++3.3V:        +3.33 V  
+3VSB:         +3.31 V  
+Vbat:         +3.28 V  
+fan1:        1377 RPM
+fan2:         988 RPM
+fan3:           0 RPM  ALARM
+temp1:        +39.1°C  (high = +70.0°C, hyst = +60.0°C)
+temp2:        +49.4°C  (high = +100.0°C, hyst = +85.0°C)
+temp3:        +36.5°C  (high = +100.0°C, hyst = +85.0°C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at f000
+temp1:        +36.2°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at f000
+temp1:        +37.1°C  (low  =  +0.0°C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0°C, hyst =  +0.0°C)
+                       (crit =  +0.0°C, hyst =  +0.0°C)
+
