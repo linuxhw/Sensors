@@ -1,0 +1,14 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (crit = +120.0°C, hyst = +90.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +44.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 0:         +43.0°C  (high = +87.0°C, crit = +105.0°C)
+Core 1:         +45.0°C  (high = +87.0°C, crit = +105.0°C)
+

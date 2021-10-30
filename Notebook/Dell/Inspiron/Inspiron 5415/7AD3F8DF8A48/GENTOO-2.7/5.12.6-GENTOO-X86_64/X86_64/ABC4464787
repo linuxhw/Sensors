@@ -1,0 +1,26 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+Other:          +45.0 C  
+CPU:            +37.0 C  
+Ambient:        +38.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        1.16 V  
+vddnb:       781.00 mV 
+edge:         +42.0 C  
+power1:        3.00 mW 
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +25.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.44 V  
+curr1:       1000.00 uA 
+

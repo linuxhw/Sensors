@@ -1,0 +1,25 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+Other:          +51.0 C  
+CPU:            +45.0 C  
+Ambient:        +39.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.23 V  
+curr1:       775.00 mA 
+
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +54.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +51.0 C  (high = +70.0 C)
+Tctl:         +51.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +51.0 C  (crit = +115.0 C)
+
