@@ -1,0 +1,22 @@
+vt1211-isa-1100
+Adapter: ISA adapter
+in2:           1.29 V  (min =  +2.42 V, max =  +2.54 V)  ALARM
+in3:           1.29 V  (min =  +1.21 V, max =  +2.61 V)
+in4:           1.29 V  (min =  +0.42 V, max =  +1.30 V)
++3.3V:         3.25 V  (min =  +1.54 V, max =  +2.62 V)  ALARM
+fan1:           0 RPM  (min = 15603 RPM, div = 4)
+fan2:           0 RPM  (min = 7992 RPM, div = 1)
+temp1:       +109.0 C  (high = +39.0 C, hyst = +137.0 C)
+SIO Temp:     +52.0 C  (high = +80.0 C, hyst = +121.0 C)
+temp3:         +1.3 C  (high =  +2.4 C, hyst =  +1.6 C)
+temp4:         +1.3 C  (high =  +1.3 C, hyst =  +2.1 C)
+cpu0_vid:    +0.000 V
+
+via_cputemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +48.0 C  
+
+via_cputemp-isa-0001
+Adapter: ISA adapter
+Core 1:       +48.0 C  
+

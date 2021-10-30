@@ -1,0 +1,17 @@
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +66.5 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +101.0 C)
+temp2:        +29.8 C  (crit = +101.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +41.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +49.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +43.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +42.0 C  (high = +86.0 C, crit = +96.0 C)
+
