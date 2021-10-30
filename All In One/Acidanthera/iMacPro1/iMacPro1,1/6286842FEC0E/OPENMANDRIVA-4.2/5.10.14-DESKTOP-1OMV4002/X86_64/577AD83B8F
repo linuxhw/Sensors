@@ -1,0 +1,47 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           4.10 V  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    285.72 J
+Ecore001:    230.51 J
+Ecore002:    228.98 J
+Ecore003:    261.09 J
+Ecore004:    238.28 J
+Ecore005:    249.89 J
+Ecore006:    143.55 J
+Ecore007:    143.52 J
+Ecore008:    148.69 J
+Ecore009:    180.94 J
+Ecore010:    179.27 J
+Ecore011:    173.67 J
+Esocket0:     14.84 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.20 V  
+Vsoc:          1.09 V  
+Tctl:         +39.2 C  
+Tdie:         +39.2 C  
+Tccd1:        +37.2 C  
+Tccd2:        +33.0 C  
+Icore:        15.00 A  
+Isoc:         10.54 A  
+
+nouveau-pci-0b00
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

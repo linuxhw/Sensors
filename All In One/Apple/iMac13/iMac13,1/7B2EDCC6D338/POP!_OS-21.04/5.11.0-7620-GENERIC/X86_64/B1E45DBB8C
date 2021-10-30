@@ -1,0 +1,76 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1398 RPM  (min = 1400 RPM, max = 2800 RPM)
+TA0P:          +5.8 C  
+TA0V:         +19.5 C  
+TA0p:         +25.8 C  
+TC0E:         -57.8 C  
+TC0F:         -56.2 C  
+TC0J:          +1.5 C  
+TC0P:         +42.8 C  
+TC0T:          +0.2 C  
+TC0c:         +43.0 C  
+TC0p:         +42.8 C  
+TC1c:         +49.0 C  
+TC2c:         +39.0 C  
+TC3c:         +42.0 C  
+TCGc:         +49.0 C  
+TCSc:         +43.0 C  
+TCXR:         -55.5 C  
+TCXc:         +47.5 C  
+TCXr:         -55.5 C  
+TG0D:         +46.0 C  
+TG0E:         +45.5 C  
+TG0F:         +46.5 C  
+TG0J:          +1.0 C  
+TG0T:          +0.0 C  
+TG0d:         +40.0 C  
+TG0p:         +40.5 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          -7.0 C  
+TH0P:          -7.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH1A:        -127.0 C  
+TH1B:        -127.0 C  
+TH1C:        -127.0 C  
+TH1F:        -127.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:        -127.0 C  
+TH1a:        -127.0 C  
+TH1b:        -127.0 C  
+TH1c:        -127.0 C  
+TL0P:         +17.5 C  
+TL0p:         +33.2 C  
+TL1P:         +33.0 C  
+TL1V:         +30.2 C  
+TL1p:         +33.0 C  
+TL1v:         +30.2 C  
+TM0P:         +39.5 C  
+TM0V:         +42.8 C  
+TM0p:         +39.5 C  
+TMXP:         +39.5 C  
+TPCD:         +50.0 C  
+TS0V:         +31.2 C  
+Tb0P:         +44.8 C  
+Tb0p:         +44.8 C  
+Tm0P:         +39.5 C  
+Tm0p:         +39.5 C  
+Tp2F:         +35.8 C  
+Tp2H:         +35.8 C  
+Tp2h:         +35.8 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 0:        +42.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 1:        +45.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 2:        +36.0 C  (high = +93.0 C, crit = +103.0 C)
+Core 3:        +43.0 C  (high = +93.0 C, crit = +103.0 C)
+

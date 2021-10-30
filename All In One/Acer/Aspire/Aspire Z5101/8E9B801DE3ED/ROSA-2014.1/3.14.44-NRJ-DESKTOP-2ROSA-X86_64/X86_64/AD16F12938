@@ -1,0 +1,27 @@
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +50.5°C  (crit = +120.0°C, hyst = +90.0°C)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:          +0.94 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +3.02 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.31 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +1.12 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +3.02 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.07 V  
+fan1:        1271 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +38.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermal diode
+temp2:        +46.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = thermistor
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +20.5°C  (high = +70.0°C)
+

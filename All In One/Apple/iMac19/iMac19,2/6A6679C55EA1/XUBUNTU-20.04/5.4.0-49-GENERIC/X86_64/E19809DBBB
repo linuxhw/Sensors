@@ -1,0 +1,101 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1199 RPM  (min = 1200 RPM, max = 2850 RPM)
+TA0P:          +9.8 C  
+TA0V:         +17.2 C  
+TA0p:         +29.8 C  
+TC0E:         -58.5 C  
+TC0F:         -56.2 C  
+TC0J:          +2.0 C  
+TC0P:         +35.2 C  
+TC0T:          +0.2 C  
+TC0c:         +47.0 C  
+TC0p:         +35.2 C  
+TC1c:         +41.0 C  
+TC2c:         +41.0 C  
+TC3c:         +40.0 C  
+TCGc:         +40.0 C  
+TCSc:         +41.0 C  
+TCXR:         -55.5 C  
+TCXc:         +44.5 C  
+TCXr:         -55.5 C  
+TG0D:         +41.0 C  
+TG0E:         +41.8 C  
+TG0F:         +42.5 C  
+TG0J:          +0.8 C  
+TG0P:         +41.5 C  
+TG0T:          +0.0 C  
+TG0d:         +41.0 C  
+TG0p:         +41.5 C  
+TG1D:        -127.0 C  
+TG1E:        -127.0 C  
+TG1F:        -127.0 C  
+TG1J:          +0.0 C  
+TG1P:         +37.2 C  
+TG1T:        -127.0 C  
+TG1d:        -127.0 C  
+TG1p:         +37.2 C  
+TG2d:        -127.0 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          +9.0 C  
+TH0P:        -127.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH1A:         +31.0 C  
+TH1B:         +31.2 C  
+TH1C:         +32.8 C  
+TH1F:         -48.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:         -48.0 C  
+TH1a:         +31.0 C  
+TH1b:         +31.2 C  
+TH1c:         +32.8 C  
+TL0P:         +31.5 C  
+TL0V:         +28.0 C  
+TL0p:         +31.5 C  
+TL1P:         +31.0 C  
+TL1V:         +26.0 C  
+TL1p:         +31.0 C  
+TL1v:         +26.0 C  
+TM0P:         +34.8 C  
+TM0V:         +35.8 C  
+TM0p:         +34.8 C  
+TMXP:         +34.8 C  
+TPCD:         +56.0 C  
+TS0V:         +29.0 C  
+Tb0P:         +34.5 C  
+Tb0p:         +34.5 C  
+Tm0P:         +36.2 C  
+Tm0p:         +36.2 C  
+Tm2P:         +41.2 C  
+Tm2p:         +41.2 C  
+Tp2F:         +25.5 C  
+Tp2H:         +25.5 C  
+Tp2h:         +25.5 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      718.00 mV 
+edge:         +41.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:        7.18 W  (cap =  40.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +42.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +39.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +39.0 C  (high = +82.0 C, crit = +100.0 C)
+

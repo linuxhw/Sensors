@@ -1,0 +1,70 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +41.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +43.0 C  (high = +80.0 C, crit = +98.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    890.00 mV (min =  +0.84 V, max =  +0.96 V)
+temp1:        +41.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+ODD :        3391 RPM  (min = 1150 RPM, max = 3800 RPM)
+HDD :        1099 RPM  (min = 1100 RPM, max = 5500 RPM)
+CPU :         939 RPM  (min =  940 RPM, max = 2100 RPM)
+TA0P:         +22.0 C  
+TA0V:         +22.5 C  
+TA0p:         +27.5 C  
+TC0H:         +36.0 C  
+TC0P:         +38.5 C  
+TC0c:         +42.0 C  
+TC0h:         +36.0 C  
+TC0p:         +38.5 C  
+TC1c:         +39.0 C  
+TC2c:         +39.0 C  
+TC3c:         +44.0 C  
+TCGc:         +43.0 C  
+TCSc:         +41.0 C  
+TCXc:         +43.0 C  
+TG0D:        -127.0 C  
+TG0H:        -128.0 C  
+TG0d:        -127.0 C  
+TG0h:        -128.0 C  
+TG0p:        -127.0 C  
+TH0O:          +3.0 C  
+TH1O:          +3.0 C  
+TL0P:         +26.8 C  
+TL0V:        -128.0 C  
+TL0p:         +40.2 C  
+TL1P:         +41.5 C  
+TL1V:         +35.0 C  
+TL1p:         +41.5 C  
+TL1v:         +35.0 C  
+TL2V:         +41.2 C  
+TLAV:         +41.2 C  
+TLBV:         +34.8 C  
+TLCV:        -128.0 C  
+TO0P:         +35.0 C  
+TO0p:         +36.0 C  
+TPCD:         +47.0 C  
+TS0P:         +36.5 C  
+TS0V:        -128.0 C  
+TS0p:         +36.5 C  
+TS2P:         +36.8 C  
+TS2V:         +34.0 C  
+TS2p:         +36.8 C  
+Tm0P:         +40.0 C  
+Tm0p:         +40.0 C  
+Tp1P:         +45.8 C  
+Tp1p:         +45.8 C  
+Tp2H:         +57.0 C  
+Tp2h:         +57.0 C  
+Tp3H:         +47.0 C  
+Tp3h:         +47.0 C  
+

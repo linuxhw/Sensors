@@ -1,0 +1,29 @@
+nouveau-pci-0200
+Adapter: PCI adapter
+temp1:        +76.0°C  (high = +95.0°C, hyst =  +3.0°C)
+                       (crit = +105.0°C, hyst =  +5.0°C)
+                       (emerg = +135.0°C, hyst =  +5.0°C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +31.6°C  (high = +70.0°C)
+
+it8720-isa-0a10
+Adapter: ISA adapter
+in0:          +1.04 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:          +3.06 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:          +3.09 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
++5V:          +3.01 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:          +3.31 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:          +1.12 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:          +2.99 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+5VSB:         +3.01 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:         +3.04 V  
+fan1:        1541 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +41.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermal diode
+temp2:        +46.0°C  (low  =  -1.0°C, high = +127.0°C)  ALARM  sensor = thermistor
+temp3:       -128.0°C  (low  =  -1.0°C, high = +127.0°C)  sensor = disabled
+intrusion0:  ALARM
+

@@ -1,0 +1,106 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    875.00 mV (min = +4294967.28 V, max =  +1.05 V)
+temp1:        +41.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1204 RPM  (min = 1200 RPM, max = 2640 RPM)
+TA0P:          +6.8 C  
+TA0V:         +15.8 C  
+TA0p:         +26.8 C  
+TC0E:         -59.0 C  
+TC0F:         -57.5 C  
+TC0J:          +1.5 C  
+TC0P:         +38.0 C  
+TC0T:          +0.0 C  
+TC0c:         +40.0 C  
+TC0p:         +38.0 C  
+TC1c:         +38.0 C  
+TC2c:         +40.0 C  
+TC3c:         +39.0 C  
+TCGc:         +41.0 C  
+TCSc:         +38.0 C  
+TCXR:         -59.0 C  
+TCXc:         +41.0 C  
+TCXr:         -59.0 C  
+TG0D:         +50.0 C  
+TG0E:         +50.0 C  
+TG0F:         +50.5 C  
+TG0J:          +0.5 C  
+TG0P:         +40.0 C  
+TG0T:          -0.2 C  
+TG0d:         +41.0 C  
+TG0p:         +40.0 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          -7.0 C  
+TH0P:          -7.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH0e:          +0.0 C  
+TH1A:        -127.0 C  
+TH1B:        -127.0 C  
+TH1C:        -127.0 C  
+TH1F:        -127.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:        -127.0 C  
+TH1a:        -127.0 C  
+TH1b:        -127.0 C  
+TH1c:        -127.0 C  
+TL0P:         +32.2 C  
+TL0V:         +29.8 C  
+TL0p:         +32.2 C  
+TL1P:         +34.0 C  
+TL1V:         +28.5 C  
+TL1p:         +34.0 C  
+TL1v:         +28.5 C  
+TM0P:         +32.8 C  
+TM0V:         +37.5 C  
+TM0p:         +32.8 C  
+TM1P:         +25.5 C  
+TM1a:         +42.0 C  
+TM1p:         +25.5 C  
+TM2P:         +29.0 C  
+TM2a:         +41.0 C  
+TM2b:         +44.0 C  
+TM2c:         +41.0 C  
+TM2d:         +44.0 C  
+TM2p:         +29.0 C  
+TM3P:         +30.5 C  
+TM3a:         +38.0 C  
+TM3b:         +36.0 C  
+TM3c:         +36.2 C  
+TM3d:         +38.0 C  
+TM3p:         +30.5 C  
+TM4a:         +37.5 C  
+TMXP:         +32.8 C  
+TPCD:         +45.0 C  
+TS0V:         +29.2 C  
+Tb0P:         +49.5 C  
+Tb0p:         +49.5 C  
+Tm0P:         +33.5 C  
+Tm0p:         +33.5 C  
+Tm1P:         +38.2 C  
+Tm1p:         +38.2 C  
+Tm2P:         +36.2 C  
+Tm2p:         +36.2 C  
+Tp2F:         +34.2 C  
+Tp2H:         +34.2 C  
+Tp2h:         +34.2 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+

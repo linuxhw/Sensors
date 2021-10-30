@@ -1,0 +1,88 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1683 RPM  (min = 1200 RPM, max = 2850 RPM)
+TA0P:         +17.8 C  
+TA0V:         +26.5 C  
+TA0p:         +37.8 C  
+TC0E:         -24.8 C  
+TC0F:         -24.2 C  
+TC0J:          +0.5 C  
+TC0P:         +64.5 C  
+TC0T:          +0.0 C  
+TC0c:         +68.0 C  
+TC0p:         +64.5 C  
+TC1c:         +68.0 C  
+TC2c:         +75.0 C  
+TC3c:         +68.0 C  
+TCGc:         +69.0 C  
+TCSc:         +68.0 C  
+TCXR:         -24.2 C  
+TCXc:         +75.8 C  
+TCXr:         -24.2 C  
+TG0D:         +68.0 C  
+TG0E:         +68.0 C  
+TG0F:         +68.0 C  
+TG0J:          +0.0 C  
+TG0P:         +68.2 C  
+TG0T:          +0.0 C  
+TG0d:         +68.0 C  
+TG0p:         +68.2 C  
+TG1P:         +62.2 C  
+TG1p:         +62.2 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          -7.0 C  
+TH0P:          -6.5 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH1A:        -127.0 C  
+TH1B:        -127.0 C  
+TH1C:        -127.0 C  
+TH1F:        -127.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:        -127.0 C  
+TH1a:         +35.0 C  
+TH1b:         +35.0 C  
+TH1c:         +35.0 C  
+TL0P:         +44.8 C  
+TL0V:         +39.5 C  
+TL0p:         +44.8 C  
+TL1P:         +42.5 C  
+TL1V:         +37.8 C  
+TL1p:         +42.5 C  
+TL1v:         +38.0 C  
+TM0P:         +58.0 C  
+TM0V:         +59.0 C  
+TM0p:         +58.0 C  
+TMXP:         +58.0 C  
+TPCD:         +53.0 C  
+TS0V:         +47.8 C  
+Tb0P:         +63.5 C  
+Tb0p:         +63.5 C  
+Tm0P:         +56.2 C  
+Tm0p:         +56.2 C  
+Tm2P:         +69.5 C  
+Tm2p:         +69.5 C  
+Tp2F:         +46.0 C  
+Tp2H:         +46.0 C  
+Tp2h:         +46.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      787.00 mV 
+edge:         +68.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:       16.22 W  (cap =  35.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +76.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +70.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +76.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +68.0 C  (high = +80.0 C, crit = +100.0 C)
+

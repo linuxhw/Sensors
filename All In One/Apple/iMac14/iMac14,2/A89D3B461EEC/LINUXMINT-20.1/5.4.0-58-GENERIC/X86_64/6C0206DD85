@@ -1,0 +1,106 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +89.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +89.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +89.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +83.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +81.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    875.00 mV (min = +4294967.28 V, max =  +1.05 V)
+temp1:        +68.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1305 RPM  (min = 1200 RPM, max = 3143 RPM)
+TA0P:         +25.2 C  
+TA0V:         +31.0 C  
+TA0p:         +45.2 C  
+TC0E:         -12.2 C  
+TC0F:         -11.0 C  
+TC0J:          +1.2 C  
+TC0P:         +68.8 C  
+TC0T:          +0.0 C  
+TC0c:         +86.0 C  
+TC0p:         +68.8 C  
+TC1c:         +89.0 C  
+TC2c:         +84.0 C  
+TC3c:         +82.0 C  
+TCGc:         +77.0 C  
+TCSc:         +78.0 C  
+TCXR:         -11.0 C  
+TCXc:         +89.0 C  
+TCXr:         -11.0 C  
+TG0D:         +77.0 C  
+TG0E:         +76.5 C  
+TG0F:         +77.2 C  
+TG0J:          +0.8 C  
+TG0P:         +63.0 C  
+TG0T:          +0.0 C  
+TG0d:         +68.0 C  
+TG0p:         +63.0 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          +9.0 C  
+TH0P:        -127.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH0e:          +1.0 C  
+TH1A:         +43.0 C  
+TH1B:         +43.0 C  
+TH1C:        -127.0 C  
+TH1F:         -38.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:         -38.0 C  
+TH1a:         +43.0 C  
+TH1b:         +43.0 C  
+TH1c:        -127.0 C  
+TL0P:         +44.8 C  
+TL0V:         +42.2 C  
+TL0p:         +44.8 C  
+TL1P:         +45.5 C  
+TL1V:         +38.8 C  
+TL1p:         +45.5 C  
+TL1v:         +38.8 C  
+TM0P:         +54.8 C  
+TM0V:         +59.0 C  
+TM0p:         +54.8 C  
+TM1P:         +43.8 C  
+TM1a:         +64.2 C  
+TM1p:         +43.8 C  
+TM2P:         +49.2 C  
+TM2a:         +59.8 C  
+TM2b:         +62.8 C  
+TM2c:         +59.8 C  
+TM2d:         +62.8 C  
+TM2p:         +49.2 C  
+TM3P:         +51.0 C  
+TM3a:         +56.8 C  
+TM3b:         +54.8 C  
+TM3c:         +58.0 C  
+TM3d:         +56.8 C  
+TM3p:         +51.0 C  
+TM4a:         +59.0 C  
+TMXP:         +54.8 C  
+TPCD:         +65.0 C  
+TS0V:         +47.2 C  
+Tb0P:         +66.2 C  
+Tb0p:         +66.2 C  
+Tm0P:         +56.5 C  
+Tm0p:         +56.5 C  
+Tm1P:         +60.2 C  
+Tm1p:         +60.2 C  
+Tm2P:         +66.5 C  
+Tm2p:         +66.5 C  
+Tp2F:         +48.5 C  
+Tp2H:         +48.8 C  
+Tp2h:         +48.8 C  
+

@@ -1,0 +1,41 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+nct6683-isa-0a20
+Adapter: ISA adapter
+VIN0:             1.04 V  
+VIN1:             1.04 V  
+VCC:              3.36 V  
+VSB:              3.36 V  
+VIN14:            1.18 V  
+VIN3:             1.07 V  
+VIN7:             1.01 V  
+fan1:            646 RPM
+fan2:            505 RPM
+fan3:            558 RPM
+PECI 0.0:        +45.5 C  (high = +80.0 C, crit = +88.0 C)  sensor = Intel PECI
+PCH CHIP:        +50.0 C  (high = +104.0 C, crit = +108.0 C)
+Local:           +52.0 C  (high = +70.0 C, crit = +78.0 C)
+Diode 1 (curr):  +42.5 C  (high = +70.0 C, crit = +78.0 C)  sensor = thermal diode
+Diode 2 (curr):  +45.5 C  (high = +80.0 C, crit = +88.0 C)  sensor = thermal diode
+DIMM 0:           +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+DIMM 1:           +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+DIMM 2:           +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+DIMM 3:           +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+Virtual 0:        +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+Virtual 1:        +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+Virtual 2:        +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+Virtual 3:        +0.0 C  (high =  +0.0 C, crit =  +0.0 C)
+intrusion0:     OK
+beep_enable:    disabled
+

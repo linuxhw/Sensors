@@ -1,0 +1,32 @@
+it8728-isa-0a30
+Adapter: ISA adapter
+in0:          +2.22 V  (min =  +1.36 V, max =  +1.27 V)  ALARM
+in1:          +2.22 V  (min =  +0.98 V, max =  +0.82 V)  ALARM
+in2:          +3.06 V  (min =  +1.38 V, max =  +0.86 V)  ALARM
++3.3V:        +3.29 V  (min =  +1.75 V, max =  +1.63 V)  ALARM
+in4:          +2.22 V  (min =  +0.77 V, max =  +1.10 V)  ALARM
+in5:          +2.22 V  (min =  +1.75 V, max =  +2.38 V)
+in6:          +2.22 V  (min =  +1.75 V, max =  +1.19 V)  ALARM
+3VSB:         +3.26 V  (min =  +2.40 V, max =  +1.66 V)  ALARM
+Vbat:         +0.12 V  
+fan1:           0 RPM  (min =  161 RPM)  ALARM
+fan2:        2419 RPM  (min =  464 RPM)
+fan3:           0 RPM  (min =  160 RPM)  ALARM
+temp1:         -8.0 C  (low  =  +1.0 C, high =  +6.0 C)  sensor = thermistor
+temp2:       -128.0 C  (low  = -47.0 C, high = -108.0 C)  sensor = disabled
+temp3:        -66.0 C  (low  = -127.0 C, high = +97.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +37.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +35.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +36.0 C  (high = +85.0 C, crit = +105.0 C)
+

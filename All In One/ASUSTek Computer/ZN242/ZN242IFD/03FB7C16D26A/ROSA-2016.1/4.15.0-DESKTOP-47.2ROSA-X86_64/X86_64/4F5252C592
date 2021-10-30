@@ -1,0 +1,43 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:          +1.09 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            +1.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:           +3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:          +3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:            +0.92 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:            +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:            +0.29 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:           +3.28 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:           +3.26 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:             0 RPM  (min =    0 RPM)
+fan2:          2030 RPM  (min =    0 RPM)
+SYSTIN:        +123.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+CPUTIN:         +45.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         +75.5 C  (high = +80.0 C, hyst = +75.0 C)  ALARM  sensor = thermistor
+PECI Agent 0:   +36.0 C  (high = +80.0 C, hyst = +75.0 C)
+                         (crit = +81.0 C)
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+cpu0_vid:      +0.000 V
+intrusion0:    ALARM
+intrusion1:    OK
+beep_enable:   disabled
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+

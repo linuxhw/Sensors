@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +67.0 C  (high = +100.0 C, crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +39.0 C  
+
+applesmc-isa-0300
+Adapter: ISA adapter
+ODD :         697 RPM  (min =  700 RPM, max = 4400 RPM)
+HDD :        1340 RPM  (min = 1200 RPM, max = 5500 RPM)
+CPU :        1718 RPM  (min = 1200 RPM, max = 3300 RPM)
+TA0P:         +32.8 C  
+TC0D:        -127.0 C  
+TC0H:         +52.8 C  
+TC0P:        -127.0 C  
+TG0D:         +67.8 C  
+TG0H:         +63.8 C  
+TG0P:         +64.0 C  
+TG1D:        -127.0 C  
+TH0P:         +52.5 C  
+TL0P:         +56.8 C  
+TO0P:         +49.5 C  
+TW0P:         +64.5 C  
+Tm0P:         +55.5 C  
+Tp0P:         +83.0 C  
+
