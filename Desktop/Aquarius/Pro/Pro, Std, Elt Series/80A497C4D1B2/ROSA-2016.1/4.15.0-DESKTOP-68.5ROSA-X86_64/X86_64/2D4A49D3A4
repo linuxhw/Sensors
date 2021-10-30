@@ -1,0 +1,56 @@
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:            N/A  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:            N/A  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +19.1 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:            N/A  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus PIIX4 adapter port 0 at 0b00
+temp1:            N/A  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+it8721-isa-0290
+Adapter: ISA adapter
+in0:           2.86 V  (min =  +2.08 V, max =  +2.81 V)  ALARM
+in1:           2.86 V  (min =  +2.89 V, max =  +2.24 V)  ALARM
+in2:         924.00 mV (min =  +1.54 V, max =  +1.51 V)  ALARM
++3.3V:         3.29 V  (min =  +3.22 V, max =  +0.43 V)  ALARM
+in4:         720.00 mV (min =  +2.48 V, max =  +1.39 V)  ALARM
+in5:           2.52 V  (min =  +0.47 V, max =  +0.84 V)  ALARM
+in6:           2.11 V  (min =  +2.80 V, max =  +2.95 V)  ALARM
+3VSB:          2.45 V  (min =  +1.56 V, max =  +4.80 V)
+Vbat:          3.36 V  
+fan1:        1580 RPM  (min =   11 RPM)
+fan2:        1102 RPM  (min =   88 RPM)
+fan3:           0 RPM  (min =   12 RPM)  ALARM
+temp1:        +35.0 C  (low  = -112.0 C, high = -27.0 C)  ALARM  sensor = thermistor
+temp2:        +31.0 C  (low  = -87.0 C, high = +10.0 C)  ALARM  sensor = thermistor
+temp3:       -128.0 C  (low  =  -1.0 C, high = +90.0 C)  sensor = disabled
+intrusion0:  OK
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       55.42 W  (crit = 125.02 W)
+

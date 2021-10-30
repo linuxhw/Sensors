@@ -1,0 +1,18 @@
+it8665-isa-0290
+Adapter: ISA adapter
+in0:                1.19 V  (min =  +1.24 V, max =  +1.06 V)
+3VSB:               3.33 V  (min =  +4.45 V, max =  +1.09 V)
+Vbat:               3.27 V  
++3.3V:              3.33 V  
+Back Case Fan(3): 1182 RPM  (min =    0 RPM)
+AIO Water Pump:   1991 RPM  (min = 1901 RPM)
+CPU Temp(1):       +45.0 C  (low  =  +0.0 C, high = +70.0 C)
+MB Temp(2):        +44.0 C  (low  =  +0.0 C, high = +60.0 C)  sensor = thermistor
+PCH Temp(3):       +43.0 C  (low  =  +0.0 C, high = +60.0 C)  sensor = thermistor
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +46.9 C  (low  = -40.1 C, high = +83.8 C)
+

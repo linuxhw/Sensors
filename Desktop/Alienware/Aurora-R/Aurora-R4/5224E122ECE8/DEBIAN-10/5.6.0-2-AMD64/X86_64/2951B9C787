@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +36.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +42.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +39.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +41.0 C  (high = +81.0 C, crit = +91.0 C)
+
+f71889a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.31 V  
+in1:           1.38 V  (max =  +2.04 V)
+in2:           1.16 V  
+in3:         896.00 mV 
+in4:         736.00 mV 
+in5:           1.47 V  
+in6:           1.68 V  
+3VSB:          3.31 V  
+Vbat:          3.20 V  
+fan1:        1187 RPM
+fan2:        3529 RPM
+fan3:        3512 RPM
+temp1:        +56.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:        +38.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp3:        +37.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+

@@ -1,0 +1,21 @@
+w83627ehf-isa-0290
+Adapter: ISA adapter
+Vcore:        +1.41 V  (min =  +0.00 V, max =  +1.85 V)
+in1:          +1.77 V  (min =  +1.02 V, max =  +0.51 V)  ALARM
+AVCC:         +3.26 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.25 V  (min =  +2.98 V, max =  +3.63 V)
+in4:          +1.92 V  (min =  +0.06 V, max =  +1.04 V)  ALARM
+in5:          +1.65 V  (min =  +0.13 V, max =  +1.02 V)  ALARM
+in6:          +0.05 V  (min =  +1.57 V, max =  +0.01 V)  ALARM
+3VSB:         +3.26 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:         +3.22 V  (min =  +2.70 V, max =  +3.63 V)
+in9:          +0.05 V  (min =  +0.77 V, max =  +0.29 V)  ALARM
+fan1:           0 RPM  (min =    0 RPM, div = 128)  ALARM
+fan2:        2636 RPM  (min = 67500 RPM, div = 4)  ALARM
+fan3:           0 RPM  (min =  164 RPM, div = 128)  ALARM
+fan5:           0 RPM  (min =    0 RPM, div = 128)
+temp1:        +34.0°C  (high = -128.0°C, hyst =  +9.0°C)  ALARM  sensor = thermistor
+temp2:        +48.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+temp3:         +6.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = thermistor
+intrusion0:  ALARM
+

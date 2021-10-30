@@ -1,0 +1,62 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+CPU_MEM :     499 RPM  (min =  500 RPM, max = 2900 RPM)
+IO :          499 RPM  (min =  500 RPM, max = 2900 RPM)
+EXHAUST :     599 RPM  (min =  500 RPM, max = 2900 RPM)
+PS   :        779 RPM  (min =  780 RPM, max = 2800 RPM)
+TA0P:         +29.5 C  
+TC0C:         +34.0 C  
+TC0P:         +55.0 C  
+TC1C:          +0.0 C  
+TC2C:         +18.0 C  
+TC3C:          +0.0 C  
+TCAH:         +47.0 C  
+TCBH:         +60.8 C  
+TH0P:         +35.0 C  
+TH1P:         +35.0 C  
+TH2P:         +36.5 C  
+TH3P:         +35.0 C  
+THTG:         +45.0 C  
+TM0P:         +55.0 C  
+TM0S:         +84.5 C  
+TM1P:         +60.0 C  
+TM1S:         +86.0 C  
+TM2P:         +57.0 C  
+TM2S:         +74.5 C  
+TM3S:         +70.0 C  
+TM8P:         +55.0 C  
+TM8S:          +0.0 C  
+TM9P:         +57.0 C  
+TM9S:          +0.0 C  
+TMAP:         +62.0 C  
+TMAS:        +127.5 C  
+TMBS:          +0.0 C  
+TN0H:         +69.5 C  
+TS0C:         +48.0 C  
+Tp0C:         +45.0 C  
+Tp1C:         +48.5 C  
+Tv0S:         +39.0 C  
+Tv1S:         +40.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +79.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +79.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +79.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +78.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nouveau-pci-0800
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +0.95 V, max =  +1.00 V)
+fan1:        2027 RPM
+temp1:        +62.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +125.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst = +10.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +62.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +61.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +57.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +59.0 C  (high = +80.0 C, crit = +100.0 C)
+

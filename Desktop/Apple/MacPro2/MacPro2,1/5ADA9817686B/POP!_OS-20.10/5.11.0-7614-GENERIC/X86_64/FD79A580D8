@@ -1,0 +1,64 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +79.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +75.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +75.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +75.0 C  (high = +80.0 C, crit = +100.0 C)
+
+radeon-pci-0800
+Adapter: PCI adapter
+temp1:        +91.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +61.0 C  (high = +80.0 C, crit = +100.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+CPU_MEM :     619 RPM  (min =  500 RPM, max = 2900 RPM)
+IO :          500 RPM  (min =  500 RPM, max = 2900 RPM)
+EXHAUST :     720 RPM  (min =  500 RPM, max = 2900 RPM)
+PS   :        599 RPM  (min =  600 RPM, max = 2800 RPM)
+TA0P:         +24.2 C  
+TC0C:         +38.0 C  
+TC0D:         +55.5 C  
+TC0P:         +47.5 C  
+TC1C:          +0.0 C  
+TC1D:         +55.8 C  
+TC2C:         +20.0 C  
+TC2D:         +72.8 C  
+TC3C:          +0.0 C  
+TC3D:         +74.8 C  
+TCAG:         +80.0 C  
+TCAH:         +40.5 C  
+TCBG:         +80.0 C  
+TCBH:         +50.5 C  
+TH0P:         +31.5 C  
+TH1P:         +31.5 C  
+TH2P:         +30.0 C  
+TH3P:         +30.0 C  
+THTG:         +45.0 C  
+TM0P:         +47.0 C  
+TM0S:         +78.0 C  
+TM1P:         +55.0 C  
+TM1S:         +80.5 C  
+TM2P:         +51.0 C  
+TM2S:         +73.5 C  
+TM3S:         +66.0 C  
+TM8P:         +47.0 C  
+TM8S:        -127.0 C  
+TM9P:         +53.0 C  
+TM9S:        -127.0 C  
+TMAP:         +55.0 C  
+TMAS:        -127.0 C  
+TMBS:        -127.0 C  
+TN0H:         +71.5 C  
+TS0C:         +42.5 C  
+Tp0C:         +51.0 C  
+Tp1C:         +56.2 C  
+Tv0S:         +43.8 C  
+Tv1S:         +45.5 C  
+

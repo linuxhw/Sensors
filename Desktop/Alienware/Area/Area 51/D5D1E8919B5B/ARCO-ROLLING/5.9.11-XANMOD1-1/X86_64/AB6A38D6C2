@@ -1,0 +1,38 @@
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      937.00 mV 
+fan1:         906 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +47.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       14.01 W  (cap =  35.00 W)
+
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.31 V  
+in1:           1.22 V  (max =  +2.04 V)
+in2:           1.01 V  
+in3:         840.00 mV 
+in4:         968.00 mV 
+in5:           1.10 V  
+in6:         888.00 mV 
+3VSB:          3.31 V  
+Vbat:          3.25 V  
+fan1:        1133 RPM
+fan2:           0 RPM  ALARM
+fan3:         940 RPM
+fan4:           0 RPM  ALARM
+temp1:        +37.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp2:        +53.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp3:        +41.0 C  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +48.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +48.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +49.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +53.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +56.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +52.0 C  (high = +81.0 C, crit = +101.0 C)
+
