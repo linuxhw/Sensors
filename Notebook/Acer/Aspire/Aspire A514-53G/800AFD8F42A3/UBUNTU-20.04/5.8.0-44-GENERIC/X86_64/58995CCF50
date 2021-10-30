@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.51 V  
+
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +47.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  
+

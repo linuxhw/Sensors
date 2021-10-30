@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +64.0 C  
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.11 V  
+curr1:         1.53 A  
+

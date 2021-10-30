@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.32 V  
+curr1:         0.00 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.60 V, max =  +1.20 V)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+

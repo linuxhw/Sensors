@@ -1,0 +1,23 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +73.1 C  
+Tdie:         +73.1 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.93 V  
+curr1:         0.00 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +73.0 C  (crit = +103.0 C)
+
+ath10k_hwmon-pci-0400
+Adapter: PCI adapter
+temp1:        +57.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+

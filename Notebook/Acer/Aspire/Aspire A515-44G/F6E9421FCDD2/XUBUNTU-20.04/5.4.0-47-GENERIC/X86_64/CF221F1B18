@@ -1,0 +1,18 @@
+ath10k_hwmon-pci-0400
+Adapter: PCI adapter
+temp1:        +38.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.17 V  
+curr1:         1.50 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +40.9 C  (high = +70.0 C)
+Tctl:         +40.9 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +103.0 C)
+
