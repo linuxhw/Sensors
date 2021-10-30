@@ -1,0 +1,54 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.2 C  
+Tdie:         +49.2 C  
+
+it8686-isa-0a40
+Adapter: ISA adapter
+Vcore:       780.00 mV (min =  +0.00 V, max =  +3.06 V)
++3.3V:         3.37 V  (min =  +0.00 V, max =  +5.05 V)
++12.0V:       12.31 V  (min =  +0.00 V, max = +18.36 V)
++5.0V:         5.04 V  (min =  +0.00 V, max =  +7.65 V)
+VSOC:          1.20 V  (min =  +0.00 V, max =  +3.06 V)
+VDDP:        900.00 mV (min =  +0.00 V, max =  +3.06 V)
+DRAM:          1.38 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.29 V  (min =  +0.00 V, max =  +6.12 V)
+VBAT:          3.26 V  
+CPU_FAN:     1548 RPM  (min =    0 RPM)
+SYS_FAN1:       0 RPM  (min =    0 RPM)
+System:       +46.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+Chipset:      +54.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU:          +50.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = AMD AMDSI
+PCIe x16:     +18.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = thermistor
+VRM:          +42.0 C  (low  =  +0.0 C, high = -120.0 C)  sensor = thermistor
+VSoC:         +44.0 C  (low  =  +0.0 C, high = -120.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+VCore:        948.00 mV (min =  +0.00 V, max =  +2.78 V)
+DDR VTT:      872.00 mV (min =  +0.00 V, max =  +2.78 V)
+Chipset Core: 861.00 mV (min =  +0.00 V, max =  +2.78 V)
+CPU VDD18:      1.10 V  (min =  +0.00 V, max =  +2.78 V)
+DDR VPP:      927.00 mV (min =  +0.00 V, max =  +2.78 V)
+3VSB:           3.36 V  (min =  +0.00 V, max =  +5.56 V)
+Vbat:           3.31 V  
+PCIe x8:       +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System 2:      +48.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:   ALARM
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +49.0 C  
+

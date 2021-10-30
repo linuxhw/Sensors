@@ -1,0 +1,42 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.42 V  
+Vsoc:          1.19 V  
+Tctl:         +68.6 C  
+Tdie:         +48.6 C  
+Icore:        27.00 A  
+Isoc:         10.50 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.41 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         665.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.05 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.69 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.78 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.68 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.62 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+fan1:        1001 RPM  (min = 1000 RPM, max = 3000 RPM)
+edge:         +57.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       51.21 W  (cap = 216.00 W)
+

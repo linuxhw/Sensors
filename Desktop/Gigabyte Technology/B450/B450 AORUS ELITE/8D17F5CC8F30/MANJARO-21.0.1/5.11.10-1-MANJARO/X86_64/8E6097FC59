@@ -1,0 +1,25 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:      912.00 mV 
+fan1:        1236 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +32.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       26.24 W  (cap = 125.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.46 V  
+SVI2_SoC:    838.00 mV 
+Tdie:         +41.4 C  (high = +95.0 C)
+Tctl:         +51.4 C  
+SVI2_P_Core:  36.49 W  
+SVI2_P_SoC:    9.37 W  
+SVI2_C_Core:  24.94 A  
+SVI2_C_SoC:   11.18 A  
+

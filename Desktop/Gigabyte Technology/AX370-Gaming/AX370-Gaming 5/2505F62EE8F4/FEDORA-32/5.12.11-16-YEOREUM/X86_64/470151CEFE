@@ -1,0 +1,53 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+DDR Vtt A/B:   589.00 mV (min =  +0.00 V, max =  +2.78 V)
+Chipset Core:    1.05 V  (min =  +0.00 V, max =  +2.78 V)
+CPU Vdd18:       1.79 V  (min =  +0.00 V, max =  +2.78 V)
+DDR Vpp A/B:     2.50 V  (min =  +0.00 V, max =  +4.63 V)
+3VSB:            3.31 V  (min =  +0.00 V, max =  +5.56 V)
+Vbat:            3.29 V  
+SYS5 fan/pump:    0 RPM  (min =    0 RPM)
+SYS6 fan/pump:    0 RPM  (min =    0 RPM)
+SYS4 fan:         0 RPM  (min =    0 RPM)
+PCIe X8:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+EC_temp 2:      -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System 2:       +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU temp:     +67.2 C  
+Tdie:         +47.2 C  
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:        1.04 V  
+GPU fan:     1233 RPM  (min =    0 RPM, max = 4500 RPM)
+GPU temp:     +50.0 C  (crit = +94.0 C, hyst = -273.1 C)
+GPU power:    45.15 W  (cap = 120.00 W)
+
+it8686-isa-0a40
+Adapter: ISA adapter
+CPU Vcore:     1.31 V  (min =  +0.00 V, max =  +3.06 V)
++3.3V:         3.33 V  (min =  +0.00 V, max =  +5.05 V)
++12V:         12.24 V  (min =  +0.00 V, max = +18.36 V)
++5V:           5.01 V  (min =  +0.00 V, max =  +7.65 V)
+Vcore SOC:   960.00 mV (min =  +0.00 V, max =  +3.06 V)
+CPU Vddp:    924.00 mV (min =  +0.00 V, max =  +3.06 V)
+DRAM A/B:      1.24 V  (min =  +0.00 V, max =  +3.06 V)
+CPU fan:     1371 RPM  (min =    0 RPM)
+SYS1 fan:    1169 RPM  (min =    0 RPM)
+SYS2 fan:     513 RPM  (min =    0 RPM)
+SYS3 fan:    1288 RPM  (min =    0 RPM)
+CPUOPT fan:     0 RPM  (min =    0 RPM)
+System 1:     +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = disabled
+Chipset:      +44.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = disabled
+CPU:          +54.0 C  (low  = +137.0 C, high = +137.0 C)  sensor = AMD AMDSI
+PCIe X16:     +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+VRM MOS:      +47.0 C  (low  =  +0.0 C, high = -117.0 C)  sensor = thermistor
+EC_temp 1:    -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
