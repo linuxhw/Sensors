@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +75.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +71.0 C  (high = +105.0 C, crit = +105.0 C)
+
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +68.0 C  
+
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.60 V, max =  +1.20 V)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +75.0 C  (crit = +99.0 C)
+temp2:        +50.0 C  (crit = +92.0 C)
+
