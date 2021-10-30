@@ -1,0 +1,32 @@
+ath10k_hwmon-pci-3b00
+Adapter: PCI adapter
+temp1:        +35.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.84 V  
+curr1:         2.97 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2491 RPM
+fan2:        2483 RPM
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

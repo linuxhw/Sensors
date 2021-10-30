@@ -1,0 +1,36 @@
+ath11k_hwmon-pci-0400
+Adapter: PCI adapter
+temp1:         +0.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        1686 RPM
+fan2:        1689 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.07 V  
+curr1:       1000.00 uA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +81.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +28.9 C  (low  = -273.1 C, high = +65261.8 C)
+
