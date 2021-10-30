@@ -1,0 +1,13 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:           N/A  
+fan1:             N/A
+temp1:            N/A  (crit = +104000.0 C, hyst = -273.1 C)
+power1:           N/A  (cap =  25.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +48.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+
