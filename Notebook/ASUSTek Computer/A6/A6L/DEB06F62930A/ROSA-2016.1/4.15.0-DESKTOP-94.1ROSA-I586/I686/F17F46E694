@@ -1,0 +1,30 @@
+max6657-i2c-6-4c
+Adapter: SMBus I801 adapter at e800
+temp1:        +47.9 C  (low  = -55.0 C, high = +127.0 C)
+                       (crit = +127.0 C, hyst = +117.0 C)
+temp2:        +61.0 C  (low  = +55.0 C, high = +70.0 C)
+                       (crit = +127.0 C, hyst = +117.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +61.0 C  (crit = +110.0 C)
+
+it87-isa-0290
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in1:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in2:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in3:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in4:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in5:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in6:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+in7:           0.00 V  (min =  +0.00 V, max =  +4.08 V)  ALARM
+Vbat:          3.06 V  
+fan1:           0 RPM  (min =    0 RPM, div = 8)
+fan2:           0 RPM  (min =    0 RPM, div = 8)
+fan3:           0 RPM  (min =    0 RPM, div = 8)
+temp1:       +127.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +86.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermal diode
+temp3:       +127.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+

@@ -1,0 +1,15 @@
+max6657-i2c-5-4c
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +53.0 C  (low  = -55.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +65.8 C  (low  = -55.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +53.0 C  (crit = +100.0 C)
+

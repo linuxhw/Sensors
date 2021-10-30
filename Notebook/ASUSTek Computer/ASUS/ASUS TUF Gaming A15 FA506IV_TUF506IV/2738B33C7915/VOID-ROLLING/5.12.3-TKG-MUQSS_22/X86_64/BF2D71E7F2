@@ -1,0 +1,38 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2500 RPM
+gpu_fan:     2500 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.04 V  
+curr1:         0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.4 C  
+Tdie:         +55.4 C  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.32 V  
+vddnb:       893.00 mV 
+edge:         +44.0 C  
+power1:        2.00 mW 
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +55.0 C  (crit = +115.0 C)
+

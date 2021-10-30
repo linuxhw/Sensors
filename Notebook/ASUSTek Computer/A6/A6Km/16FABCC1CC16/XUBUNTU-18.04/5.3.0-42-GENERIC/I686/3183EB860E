@@ -1,0 +1,18 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +68.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.36 V  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +71.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +63.0 C  (crit = +105.0 C)
+

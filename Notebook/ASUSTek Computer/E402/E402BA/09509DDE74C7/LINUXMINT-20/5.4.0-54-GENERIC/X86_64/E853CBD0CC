@@ -1,0 +1,28 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3900 RPM
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       39.72 mW (avg =  66.55 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.70 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +79.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       975.00 mV 
+edge:         +79.0 C  (crit =  +1.0 C, hyst = -273.1 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +69.0 C  (crit = +103.0 C)
+
