@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.8 C  
+Tdie:         +37.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+corsaircpro-hid-3-c
+Adapter: HID adapter
+in0:          12.16 V  
+in1:           4.98 V  
+in2:           3.37 V  
+fan2 3pin:   1498 RPM
+fan4 3pin:   1500 RPM
+fan6 3pin:   1498 RPM
+

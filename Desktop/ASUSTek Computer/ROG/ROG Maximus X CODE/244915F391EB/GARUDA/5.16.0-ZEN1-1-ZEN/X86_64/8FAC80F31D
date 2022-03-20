@@ -1,0 +1,39 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+corsaircpro-hid-3-b
+Adapter: HID adapter
+in0:          12.07 V  
+in1:           5.02 V  
+in2:           3.34 V  
+fan1 4pin:   1595 RPM
+fan2 4pin:   1616 RPM
+fan3 4pin:   1630 RPM
+temp1:        +26.0 C  
+temp2:        +39.3 C  
+
+nvme-pci-0008
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +52.0 C  (high = +82.0 C, crit = +100.0 C)
+
+nvme-pci-0010
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+

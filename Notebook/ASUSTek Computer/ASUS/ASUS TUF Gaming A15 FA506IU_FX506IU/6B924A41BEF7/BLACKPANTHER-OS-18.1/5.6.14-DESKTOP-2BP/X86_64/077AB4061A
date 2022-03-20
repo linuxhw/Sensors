@@ -1,0 +1,43 @@
+hidpp_battery_0-hid-3-5
+Adapter: HID adapter
+in0:          +3.80 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.4 C  
+Tdie:         +38.4 C  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +33.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:         +12.09 V  
+curr1:        +0.00 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  (crit = +115.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +86.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+

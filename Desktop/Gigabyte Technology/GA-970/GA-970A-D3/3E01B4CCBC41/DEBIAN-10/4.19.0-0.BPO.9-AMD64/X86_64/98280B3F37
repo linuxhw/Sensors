@@ -1,0 +1,25 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +34.5 C  (high = +70.0 C)
+                       (crit = +81.0 C, hyst = +76.0 C)
+
+it8720-isa-0228
+Adapter: ISA adapter
+in0:          +1.30 V  (min =  +0.00 V, max =  +4.08 V)
+in1:          +1.47 V  (min =  +0.00 V, max =  +4.08 V)
+in2:          +3.17 V  (min =  +0.00 V, max =  +4.08 V)
++5V:          +2.91 V  (min =  +0.00 V, max =  +4.08 V)
+in4:          +3.02 V  (min =  +0.00 V, max =  +4.08 V)
+in5:          +2.06 V  (min =  +0.00 V, max =  +4.08 V)
+in6:          +4.08 V  (min =  +0.00 V, max =  +4.08 V)
+5VSB:         +2.91 V  (min =  +0.00 V, max =  +4.08 V)
+Vbat:         +3.28 V  
+cpu fan:      607 RPM  (min =    0 RPM)
+front fan:    844 RPM  (min =    0 RPM)
+rear fan:     854 RPM  (min =    0 RPM)
+power fan:    820 RPM  (min =    0 RPM)
+temp1:        +42.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +42.0 C  (low  = +127.0 C, high = +70.0 C)  sensor = thermal diode
+temp3:        +46.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+intrusion0:  ALARM
+

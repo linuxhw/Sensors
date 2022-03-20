@@ -1,0 +1,40 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    981.00 mV (min =  +0.60 V, max =  +1.27 V)
+fan1:        1003 RPM
+temp1:        +28.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       17.24 W  (crit = 141.00 mW)
+
+it8771-isa-0290
+Adapter: ISA adapter
+in0:         912.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           1.49 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in5:           2.22 V  (min =  +0.00 V, max =  +3.06 V)
+in6:           1.20 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          4.01 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.34 V  
+fan1:        1421 RPM  (min =   14 RPM)
+fan2:        1386 RPM  (min =  294 RPM)
+temp1:        +35.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +31.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+temp3:         -7.0 C  (low  =  -1.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +48.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +42.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +39.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +37.0 C  (high = +85.0 C, crit = +105.0 C)
+

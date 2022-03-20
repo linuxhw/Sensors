@@ -1,0 +1,15 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 0:        +35.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 1:        +32.0 C  (high = +82.0 C, crit = +102.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    476 RPM
+Motherboard Fan: 1034 RPM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+

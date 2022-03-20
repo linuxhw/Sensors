@@ -1,0 +1,50 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  94.74 W)
+
+nct6791-isa-0290
+Adapter: ISA adapter
+in0:                     1.38 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     2.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   288.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                  168.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  176.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                    1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  216.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1166 RPM  (min =    0 RPM)
+fan2:                  1814 RPM  (min =    0 RPM)
+fan3:                   623 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +25.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:               +103.0 C    sensor = thermistor
+AUXTIN1:               +103.0 C    sensor = thermistor
+AUXTIN2:               +103.0 C    sensor = thermistor
+AUXTIN3:               +104.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +18.9 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +79.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+fan1:             N/A
+edge:         +32.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

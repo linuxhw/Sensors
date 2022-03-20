@@ -1,0 +1,16 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:         786 RPM
+fan2:         842 RPM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +38.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +40.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +36.0 C  (high = +83.0 C, crit = +99.0 C)
+

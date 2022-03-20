@@ -1,0 +1,30 @@
+amdgpu-pci-4300
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+fan1:           0 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +23.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +26.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +28.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+power1:       25.00 W  (cap = 220.00 W)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +61.9 C  
+Tdie:         +34.9 C  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +109.8 C)
+                       (crit = +129.8 C)
+Sensor 2:     +71.8 C  (low  = -273.1 C, high = -273.1 C)
+Sensor 3:     +41.9 C  (low  = -273.1 C, high = -273.1 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.6 C  
+Tdie:         +36.6 C  
+Tccd1:        +58.5 C  
+

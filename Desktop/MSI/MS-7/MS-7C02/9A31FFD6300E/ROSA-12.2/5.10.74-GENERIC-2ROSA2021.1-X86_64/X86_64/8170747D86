@@ -1,0 +1,25 @@
+amdgpu-pci-2700
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +28.0 C  
+
+nvme-pci-2600
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +28.0 C  
+Tdie:         +28.0 C  
+
+nouveau-pci-1000
+Adapter: PCI adapter
+fan1:        1007 RPM
+temp1:        +26.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

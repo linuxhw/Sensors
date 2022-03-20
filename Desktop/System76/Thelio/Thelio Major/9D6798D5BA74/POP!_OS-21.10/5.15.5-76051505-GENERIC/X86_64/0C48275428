@@ -1,0 +1,33 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +72.6 C  
+Tccd1:        +52.8 C  
+Tccd3:        +51.2 C  
+Tccd5:        +50.2 C  
+Tccd7:        +53.8 C  
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:        1230 RPM
+INTF:         780 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+system76_io-virtual-0
+Adapter: Virtual device
+CPUF:           0 RPM
+INTF:         870 RPM
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +57.9 C  (low  = -273.1 C, high = +65261.8 C)
+

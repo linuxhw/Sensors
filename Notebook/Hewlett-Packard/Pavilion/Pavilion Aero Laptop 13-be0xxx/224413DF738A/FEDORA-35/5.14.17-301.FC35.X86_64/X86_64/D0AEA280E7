@@ -1,0 +1,27 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.24 V  
+curr1:       801.00 mA 
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        1.41 V  
+vddnb:       831.00 mV 
+edge:         +52.0 C  
+power1:      1000.00 uW 
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +62.0 C  (crit = +110.0 C)
+temp2:        +37.0 C  (crit = +59.0 C)
+

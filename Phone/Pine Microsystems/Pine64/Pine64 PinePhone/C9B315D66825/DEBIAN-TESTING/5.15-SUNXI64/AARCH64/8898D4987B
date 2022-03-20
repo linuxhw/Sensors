@@ -1,0 +1,26 @@
+axp20x_battery-isa-0000
+Adapter: ISA adapter
+in0:           3.71 V  
+curr1:       617.00 mA 
+
+ip5xxx_charger-i2c-2-15
+Adapter: mv64xxx_i2c adapter
+in0:           1.14 V  
+curr1:       869.00 mA 
+
+gpu1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +54.6 C  
+
+cpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  (crit = +110.0 C)
+
+axp20x_usb-isa-0000
+Adapter: ISA adapter
+in0:              N/A  (min =  +4.50 V)
+
+gpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  
+

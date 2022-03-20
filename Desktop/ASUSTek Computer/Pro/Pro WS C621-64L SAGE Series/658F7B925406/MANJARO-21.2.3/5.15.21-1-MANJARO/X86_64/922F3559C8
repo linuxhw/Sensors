@@ -1,0 +1,99 @@
+nct6793-isa-0290
+Adapter: ISA adapter
+in0:                     2.04 V  (min =  +0.00 V, max =  +1.74 V)  ALARM
+in1:                   208.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   344.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.20 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  216.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  208.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  200.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +104.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 -19.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermal diode
+AUXTIN0:                +99.0 C    sensor = thermistor
+AUXTIN1:               +102.0 C    sensor = thermistor
+AUXTIN2:               +100.0 C    sensor = thermistor
+AUXTIN3:               +100.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+ucsi_source_psy_7_00081-i2c-7-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct7904-i2c-6-2e
+Adapter: SMBus I801 adapter at 0780
+in1:           1.01 V  (min =  +0.90 V, max =  +1.14 V)
+in2:           2.01 V  (min =  +0.60 V, max =  +1.50 V)
+in3:           1.80 V  (min =  +0.60 V, max =  +1.50 V)
+in7:           1.23 V  (min =  +0.00 V, max =  +4.09 V)
+in9:           2.01 V  (min =  +0.00 V, max =  +4.09 V)
+in10:          1.23 V  (min =  +0.00 V, max =  +4.09 V)
+in11:          2.02 V  (min =  +0.00 V, max =  +4.09 V)
+in12:          1.58 V  (min =  +1.41 V, max =  +1.72 V)
+in13:          1.58 V  (min =  +1.41 V, max =  +1.72 V)
+in14:          1.02 V  (min =  +0.90 V, max =  +1.10 V)
+in15:          3.38 V  (min =  +3.00 V, max =  +3.60 V)
+in16:          3.20 V  (min =  +1.90 V, max =  +3.60 V)
+in20:          3.38 V  (min =  +3.00 V, max =  +3.60 V)
+fan1:        1155 RPM  (min =  400 RPM)
+fan2:        1165 RPM  (min =  400 RPM)
+fan3:           0 RPM  (min =  400 RPM)
+fan4:           0 RPM  (min =  400 RPM)
+fan5:           0 RPM  (min =  400 RPM)
+fan6:           0 RPM  (min =  400 RPM)
+fan7:           0 RPM  (min =  400 RPM)
+fan8:           0 RPM  (min =  400 RPM)
+fan9:           0 RPM  (min =  400 RPM)
+fan10:          0 RPM  (min =  164 RPM)
+temp3:        +31.6 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM
+                       (crit =  -1.0 C, hyst =  +7.0 C)  sensor = thermistor
+temp4:        +31.9 C  (high = -118.0 C, hyst =  +0.0 C)  ALARM
+                       (crit = +65.0 C, hyst =  +0.0 C)  sensor = thermistor
+temp5:        +34.8 C  (high = -118.0 C, hyst =  +0.0 C)  ALARM
+                       (crit = +65.0 C, hyst =  +0.0 C)  sensor = thermistor
+temp6:        +28.8 C  (high = +85.0 C, hyst = +80.0 C)
+                       (crit = +94.0 C, hyst = +95.0 C)  sensor = Intel PECI
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 1:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 5:        +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +24.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 11:       +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 13:       +25.0 C  (high = +87.0 C, crit = +97.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+

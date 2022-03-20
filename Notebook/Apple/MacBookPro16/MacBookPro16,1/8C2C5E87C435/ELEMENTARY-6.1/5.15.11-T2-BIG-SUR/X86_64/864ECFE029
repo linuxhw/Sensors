@@ -1,0 +1,95 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.44 V  
+temp:         +33.9 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +63.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +64.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +66.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +150.0 C, hyst = -273.1 C)
+                       (emerg = +155.0 C)
+power1:       14.00 W  (cap =  50.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +33.9 C  
+
+applesmc-acpi-0
+Adapter: ACPI interface
+fan1:        4144 RPM  (min = 1836 RPM, max = 5297 RPM)
+fan2:        3375 RPM  (min = 1700 RPM, max = 4905 RPM)
+TA0V:         +23.8 C  
+TB0T:         +33.5 C  
+TB1T:         +32.0 C  
+TB2T:         +33.5 C  
+TC0E:         +62.8 C  
+TC0F:         +63.5 C  
+TC0P:         +58.5 C  
+TC0T:          +0.0 C  
+TC1C:         +62.0 C  
+TC2C:         +62.0 C  
+TC3C:         +61.0 C  
+TC4C:         +61.0 C  
+TC5C:         +61.0 C  
+TC6C:         +61.0 C  
+TC7C:        -127.0 C  
+TC8C:        -127.0 C  
+TCGC:         +60.0 C  
+TCMX:         +63.2 C  
+TCSA:         +63.0 C  
+TCXC:         +63.2 C  
+TF0S:          +7.0 C  
+TG0P:         +59.8 C  
+TG1P:         +59.0 C  
+TGDD:         +66.0 C  
+TGDE:         +56.0 C  
+TGDF:         +66.2 C  
+TGDT:          +0.0 C  
+TGVF:         +62.2 C  
+TGVP:         +62.2 C  
+TH0F:         +40.5 C  
+TH0X:         +40.2 C  
+TH0a:         +34.5 C  
+TH0b:         +36.8 C  
+TH1a:         +35.5 C  
+TH1b:         +40.2 C  
+TM0P:         +52.8 C  
+TPCD:         +64.0 C  
+TTLD:         +49.2 C  
+TTRD:         +50.2 C  
+TW0P:         +51.5 C  
+TaLC:         +43.0 C  
+TaRC:         +45.2 C  
+Th1H:         +63.0 C  
+Th2H:         +55.0 C  
+Tm0P:         +58.8 C  
+Ts0P:         +32.8 C  
+Ts0S:         +43.8 C  
+Ts1P:         +29.8 C  
+Ts1S:         +42.2 C  
+Ts2S:         +42.8 C  
+

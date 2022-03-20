@@ -1,0 +1,45 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.38 V  
+vddnb:       624.00 mV 
+edge:         +34.0 C  
+power1:        2.00 mW 
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.29 V  
+SVI2_SoC:    625.00 mV 
+Tdie:         +46.4 C  (high = +95.0 C)
+Tctl:         +46.4 C  
+SVI2_P_Core:   5.97 W  
+SVI2_P_SoC:    2.23 W  
+SVI2_C_Core:   4.61 A  
+SVI2_C_SoC:    3.53 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.81 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+CPU:          +46.0 C  
+GPU:              N/A  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +46.0 C  (crit = +128.0 C)
+

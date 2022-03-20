@@ -1,0 +1,43 @@
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:           1.24 V  (min =  +0.00 V, max =  +1.74 V)
+in1:             1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:            3.34 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:           3.34 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:             1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:             1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:            3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:            3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           481 RPM  (min =    0 RPM)
+fan2:          1202 RPM  (min =    0 RPM)
+fan3:             0 RPM  (min =    0 RPM)
+fan4:           414 RPM  (min =    0 RPM)
+fan5:           307 RPM  (min =    0 RPM)
+SYSTIN:         +39.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         +46.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         +28.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PECI Agent 0:   +54.0 C  (high = +80.0 C, hyst = +75.0 C)
+                         (crit = +98.0 C)
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+intrusion0:    ALARM
+intrusion1:    OK
+beep_enable:   disabled
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:        1140 RPM  (min =    0 RPM, max = 6000 RPM)
+edge:         +57.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       28.21 W  (cap = 230.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +51.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +47.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +46.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +50.0 C  (high = +80.0 C, crit = +98.0 C)
+

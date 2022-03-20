@@ -1,0 +1,17 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +45.8 C  (high = +70.0 C)
+                       (crit = +105.0 C, hyst = +104.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +45.7 C  (crit = +115.0 C)
+
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        1.93 W  (interval =   0.01 s, crit =   6.00 W)
+

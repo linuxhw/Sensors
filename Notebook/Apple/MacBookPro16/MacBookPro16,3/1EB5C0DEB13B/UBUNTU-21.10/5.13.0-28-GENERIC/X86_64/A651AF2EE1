@@ -1,0 +1,26 @@
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +37.6 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.38 V  
+temp:         +37.6 C  
+curr1:         2.67 A  (avg =  +1.52 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +57.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +45.9 C  
+

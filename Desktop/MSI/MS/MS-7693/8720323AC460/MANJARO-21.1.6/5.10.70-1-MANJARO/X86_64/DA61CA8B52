@@ -1,0 +1,16 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:        1020 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +32.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       13.00 W  (cap =  62.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +15.0 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       61.10 W  (crit =  94.92 W)
+

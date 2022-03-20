@@ -1,0 +1,37 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +78.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +76.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +80.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.76 V  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2800 RPM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +119.8 C)
+                       (crit = +129.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 3:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 4:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 6:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 7:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +85.0 C  (crit = +103.0 C)
+

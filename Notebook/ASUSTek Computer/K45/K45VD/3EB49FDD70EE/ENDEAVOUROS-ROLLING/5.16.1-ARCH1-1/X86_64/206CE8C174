@@ -1,0 +1,22 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +76.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +74.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +74.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +71.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +76.0 C  (high = +87.0 C, crit = +105.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.04 V  
+curr1:         2.47 A  
+
+asus-isa-0000
+Adapter: ISA adapter
+temp1:       +6280.4 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +77.0 C  (crit = +104.0 C)
+

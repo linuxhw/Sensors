@@ -1,0 +1,18 @@
+fscher-i2c-6-73
+Adapter: SMBus I801 adapter at 2400
++12V:         15.85 V  
++5V:           6.47 V  
+Vbat:          3.23 V  
+fan1:           FAULT  (div = 4)
+fan2:           FAULT  (div = 4)
+fan3:           FAULT  (div = 4)
+CPU Temp:       FAULT  (high = +122.0 C)
+M/B Temp:       FAULT  (high = +122.0 C)
+Aux Temp:       FAULT  (high = +122.0 C)
+
+lm63-i2c-6-4c
+Adapter: SMBus I801 adapter at 2400
+temp1:        +40.0 C  (high = +70.0 C)
+temp2:        +45.9 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+

@@ -1,0 +1,58 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.38 V  
+SVI2_SoC:      1.18 V  
+Tdie:         +57.1 C  (high = +95.0 C)
+Tctl:         +57.1 C  
+Tccd1:        +71.0 C  
+Tccd2:        +50.2 C  
+SVI2_P_Core:  48.01 W  
+SVI2_P_SoC:   15.91 W  
+SVI2_C_Core:  34.92 A  
+SVI2_C_SoC:   13.54 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +27.0 C  
+temp2:        +32.0 C  
+temp3:        +56.0 C  
+temp4:        +34.0 C  
+temp5:        +45.0 C  
+temp6:        +48.0 C  
+
+it8622-isa-0a40
+Adapter: ISA adapter
+in0:                                1.46 V  (min =  +0.00 V, max =  +3.06 V)
+in1:                                2.06 V  (min =  +0.00 V, max =  +3.06 V)
+in2:                                2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in3:                                2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in4:                                1.20 V  (min =  +0.00 V, max =  +3.06 V)
+in5:                              900.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:                                1.38 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:                               3.31 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:                               3.26 V  
+Fan: Unused (CPU_FAN):               0 RPM  (min =    0 RPM)
+Fan: Side radiator (SYS_FAN1?):    663 RPM  (min =    0 RPM)
+Fan: Side radiator (SYS_FAN2?):    660 RPM  (min =    0 RPM)
+Fan: Chipset:                     1654 RPM  (min =    0 RPM)
+Fan: (2x) Top radiator (CPU_OPT):    0 RPM  (min =    0 RPM)
+MB: System 1 (rear?):              +27.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = thermistor
+Cooling liquid:                    +32.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+MB: CPU:                           +56.0 C  (low  = +127.0 C, high = +127.0 C)
+MB: PCIe x16:                      +34.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

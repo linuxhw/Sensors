@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +41.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +48.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +38.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +38.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +35.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         655 RPM
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+ucsi_source_psy_21_00081-i2c-21-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+

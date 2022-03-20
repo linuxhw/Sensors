@@ -1,0 +1,27 @@
+f71868a-isa-0480
+Adapter: ISA adapter
+in0:           1.64 V  
+in1:           1.33 V  
+in2:           1.47 V  
+in3:         968.00 mV 
+in4:           1.10 V  
+in5:           1.23 V  
+in6:           1.22 V  
+in7:           1.64 V  
+in8:           1.62 V  
+in9:           1.66 V  
+fan1:        1064 RPM
+fan2:         946 RPM
+fan3:         995 RPM
+temp1:        +38.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +80.0 C, hyst = +76.0 C)  sensor = transistor
+temp2:        +52.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +98.0 C, hyst = +94.0 C)  sensor = thermistor
+temp3:        +34.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +41.1 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +78.0 C)
+

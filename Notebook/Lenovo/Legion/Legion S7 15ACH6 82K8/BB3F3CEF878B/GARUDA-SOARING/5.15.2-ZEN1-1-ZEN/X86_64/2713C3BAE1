@@ -1,0 +1,36 @@
+hidpp_battery_1-hid-3-c
+Adapter: HID adapter
+in0:           4.17 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+vddnb:       937.00 mV 
+edge:         +47.0 C  
+power1:        2.00 mW 
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.36 V  
+

@@ -1,0 +1,15 @@
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +23.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +23.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.49 V  
+

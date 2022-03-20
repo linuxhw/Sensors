@@ -1,0 +1,32 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:         +8.3 C  (crit = +31.3 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +38.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +41.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:        +37.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:        +38.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:        +41.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:        +43.0 C  (high = +79.0 C, crit = +89.0 C)
+

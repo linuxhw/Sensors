@@ -1,0 +1,52 @@
+nct6687-isa-0a20
+Adapter: ISA adapter
++12V:           12.00 V  (min = +11.98 V, max = +12.10 V)
++5V:             6.53 V  (min =  +6.53 V, max =  +6.54 V)
++3.3V:           3.32 V  (min =  +3.32 V, max =  +3.33 V)
+CPU Soc:         1.36 V  (min =  +0.67 V, max =  +1.38 V)
+CPU Vcore:     674.00 mV (min =  +0.67 V, max =  +0.68 V)
+CPU 1P8:         0.00 V  (min =  +0.00 V, max =  +0.00 V)
+CPU VDDP:        0.00 V  (min =  +0.00 V, max =  +0.00 V)
+DRAM:            2.74 V  (min =  +1.35 V, max =  +2.79 V)
+Chipset:         1.05 V  (min =  +1.05 V, max =  +1.05 V)
+CPU Fan:        752 RPM  (min =    0 RPM, max =  904 RPM)
+Pump Fan:         0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #1:  803 RPM  (min =  798 RPM, max =  806 RPM)
+System Fan #2:  842 RPM  (min =  833 RPM, max =  861 RPM)
+System Fan #3:    0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #4:    0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #5:    0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #6:    0 RPM  (min =    0 RPM, max =    0 RPM)
+CPU:            +58.0 C  (low  = +40.0 C, high = +68.0 C)
+System:         +43.0 C  (low  = +36.0 C, high = +44.0 C)
+VRM MOS:        +43.0 C  (low  = +39.0 C, high = +44.0 C)
+PCH:            +52.0 C  (low  = +45.0 C, high = +53.0 C)
+CPU Socket:     +42.0 C  (low  = +38.0 C, high = +43.0 C)
+PCIe x1:        +23.0 C  (low  = +23.0 C, high = +23.0 C)
+M2_1:           +13.0 C  (low  = +13.0 C, high = +14.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

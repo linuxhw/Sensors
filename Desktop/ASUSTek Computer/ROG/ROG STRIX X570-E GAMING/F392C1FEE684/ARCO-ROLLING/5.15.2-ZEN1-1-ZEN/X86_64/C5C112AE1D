@@ -1,0 +1,49 @@
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      856.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3250 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +58.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +58.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       37.00 W  (cap = 272.00 W)
+
+kraken2-hid-3-6
+Adapter: HID adapter
+Fan:          856 RPM
+Pump:        2064 RPM
+Coolant:      +31.2 C  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.47 V  
+SVI2_SoC:    988.00 mV 
+Tdie:         +46.4 C  (high = +95.0 C)
+Tctl:         +46.4 C  
+Tccd1:        +45.0 C  
+Tccd2:        +47.8 C  
+SVI2_P_Core:  40.65 W  
+SVI2_P_SoC:    9.59 W  
+SVI2_C_Core:  27.67 A  
+SVI2_C_SoC:    9.71 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+

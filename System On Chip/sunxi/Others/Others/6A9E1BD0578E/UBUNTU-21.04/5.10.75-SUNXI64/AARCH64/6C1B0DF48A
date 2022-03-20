@@ -1,0 +1,13 @@
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.4 C  (crit = +105.0 C)
+
+axp20x_battery-isa-0000
+Adapter: ISA adapter
+in0:           4.21 V  
+curr1:         7.00 mA 
+
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  
+

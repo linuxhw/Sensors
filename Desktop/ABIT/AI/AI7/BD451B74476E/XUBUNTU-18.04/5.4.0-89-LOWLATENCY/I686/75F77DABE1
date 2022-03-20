@@ -1,0 +1,26 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +41.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+abituguru-isa-00e0
+Adapter: ISA adapter
+CPU Core Voltage:       +1.55 V  (min =  +1.34 V, max =  +1.74 V)
+DDR Voltage:            +2.69 V  (min =  +2.00 V, max =  +3.00 V)
+DDR VTT Voltage:        +1.36 V  (min =  +1.10 V, max =  +1.79 V)
+ATX +12V:              +12.06 V  (min = +11.50 V, max = +12.97 V)
+AUXC Voltage:           +1.52 V  (min =  +0.00 V, max =  +3.49 V)
+NB Core Voltage:        +1.60 V  (min =  +0.00 V, max =  +3.49 V)
+VCCVID Voltage:         +1.25 V  (min =  +1.10 V, max =  +1.79 V)
+ATX +5V Voltage:        +5.10 V  (min =  +4.48 V, max =  +5.49 V)
+ATX +3.3V Voltage:      +3.40 V  (min =  +3.10 V, max =  +3.80 V)
+Standby Voltage (+5V):  +5.14 V  (min =  +4.48 V, max =  +5.49 V)
+3VDUAL Voltage:         +3.30 V  (min =  +0.00 V, max =  +4.36 V)
+CPU FAN Speed:         1860 RPM  (min =    0 RPM)
+NB FAN Speed:          2280 RPM  (min =   60 RPM)
+SYS FAN Speed:            0 RPM  (min =  120 RPM)
+FAN4:                     0 RPM  (min =  180 RPM)
+FAN5:                     0 RPM  (min =  240 RPM)
+CPU Temperature:        +47.0 C  (high = +68.0 C, crit = +75.0 C)
+System Temperature:     +33.0 C  (high = +70.0 C, crit = +100.0 C)
+PWM Temperature:        +53.0 C  (high = +70.0 C, crit = +100.0 C)
+

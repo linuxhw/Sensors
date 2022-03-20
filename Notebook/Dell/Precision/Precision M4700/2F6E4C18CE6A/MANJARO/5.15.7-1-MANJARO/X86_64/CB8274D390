@@ -1,0 +1,29 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +44.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +43.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +41.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +46.0 C  (high = +87.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.58 V  
+curr1:       1000.00 uA 
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 2592 RPM
+Video Fan:     2480 RPM
+CPU:            +46.0 C  
+Ambient:        +43.0 C  
+Ambient:        +39.0 C  
+SODIMM:         +43.0 C  
+SODIMM:         +45.0 C  
+SODIMM:         +43.0 C  
+GPU:            +34.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +51.5 C  (crit = +107.0 C)
+

@@ -1,0 +1,67 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +42.4 C  
+Tccd1:        +41.2 C  
+Tccd2:        +40.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +59.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+CPU Vcore:       1.79 V  (min =  +0.35 V, max =  +1.45 V)  ALARM
+DDR VTT:       676.00 mV (min =  +0.55 V, max =  +0.80 V)
+Chipset Core:  992.00 mV (min =  +0.99 V, max =  +1.10 V)  ALARM
++3.3V:           1.68 V  (min =  +0.00 V, max =  +2.78 V)
+CPU Vdd18:       1.79 V  (min =  +1.74 V, max =  +1.85 V)
+DDR Vpp A/B:     1.98 V  (min =  +2.38 V, max =  +2.63 V)  ALARM
+in6:             2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:            1.67 V  (min =  +2.78 V, max =  +2.78 V)  ALARM
+Vbat:            1.66 V  
+SYS_FAN5_PUMP:    0 RPM  (min =    0 RPM)
+SYS_FAN6_PUMP:    0 RPM  (min =    0 RPM)
+SYS_FAN4:         0 RPM  (min =    0 RPM)
+PCIEX8:         +46.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+EC_TEMP:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System 2:       +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:    ALARM
+
+corsaircpro-hid-3-13
+Adapter: HID adapter
+in0:          11.88 V  
+in1:           5.04 V  
+in2:           3.41 V  
+fan1 4pin:    653 RPM
+fan2 4pin:    655 RPM
+fan3 4pin:   1035 RPM
+fan4 4pin:    285 RPM
+fan5 3pin:    763 RPM
+fan6 4pin:   1283 RPM
+temp1:        +38.2 C  
+temp2:        +32.8 C  
+temp3:        +32.8 C  
+temp4:        +35.6 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +54.9 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+

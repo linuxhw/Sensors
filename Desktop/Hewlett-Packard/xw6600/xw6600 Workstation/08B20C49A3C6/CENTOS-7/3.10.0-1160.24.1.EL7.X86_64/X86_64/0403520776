@@ -1,0 +1,25 @@
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +65.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 1:  +56.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +65.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 1:  +59.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 0:  +63.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 1:  +58.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 0:  +65.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 1:  +59.0 C  (low  = +127.5 C, high = +127.5 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +48.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +48.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +47.0 C  (high = +84.0 C, crit = +100.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +46.0 C  (high = +84.0 C, crit = +100.0 C)
+

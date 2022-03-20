@@ -1,0 +1,17 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1500 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.48 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +66.8 C  (high = +70.0 C)
+Tctl:         +66.8 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +67.0 C  (crit = +120.0 C)
+

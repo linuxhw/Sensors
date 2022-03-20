@@ -1,0 +1,43 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +49.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +50.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +50.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       17.00 W  (cap = 190.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +52.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +46.0 C  
+MAC Temperature:  +48.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.2 C  
+Tccd1:        +45.0 C  
+Tccd3:        +46.2 C  
+Tccd5:        +43.8 C  
+Tccd7:        +46.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

@@ -1,0 +1,35 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Fan 1:       2495 RPM
+Fan 2:       2501 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU All:      +61.0 C  (high = +100.0 C, crit = +100.0 C)
+CPU Core 0:   +57.0 C  (high = +100.0 C, crit = +100.0 C)
+CPU Core 1:   +61.0 C  (high = +100.0 C, crit = +100.0 C)
+CPU Core 2:   +57.0 C  (high = +100.0 C, crit = +100.0 C)
+CPU Core 3:   +61.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+Battery GPM0365:  12.72 V  
+curr1:           1000.00 uA 
+
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+Wifi Atheros QCA6174:  +50.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+CPU Fan Temp:  +63.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+NVMe SK hynix 1TB:  +34.9 C  (low  = -273.1 C, high = +87.8 C)
+                             (crit = +89.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+Motherboard 0R6JFH:  +25.0 C  (crit = +107.0 C)
+

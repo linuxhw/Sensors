@@ -1,0 +1,45 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 0:        +34.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 1:        +34.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 2:        +41.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 3:        +36.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 4:        +35.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 5:        +35.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 6:        +34.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 7:        +36.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 8:        +35.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 9:        +35.0*C  (high = +80.0*C, crit = +100.0*C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +43.9*C  (low  = -273.1*C, high = +84.8*C)
+                       (crit = +84.8*C)
+Sensor 1:     +43.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +46.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.16 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.28 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +41.8*C  (crit = +70.0*C)
+case temp:    +33.5*C  (crit = +70.0*C)
+power total:  30.00 W  
+power +12v:   18.00 W  
+power +5v:    10.00 W  
+power +3.3v:   1.50 W  
+curr +12v:   1000.00 mA (crit max = +65.00 A)
+curr +5v:      2.06 A  (crit max = +40.00 A)
+curr +3.3v:  500.00 mA (crit max = +40.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9*C  (low  = -273.1*C, high = +76.8*C)
+                       (crit = +78.8*C)
+Sensor 1:     +37.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +44.9*C  (low  = -273.1*C, high = +65261.8*C)
+

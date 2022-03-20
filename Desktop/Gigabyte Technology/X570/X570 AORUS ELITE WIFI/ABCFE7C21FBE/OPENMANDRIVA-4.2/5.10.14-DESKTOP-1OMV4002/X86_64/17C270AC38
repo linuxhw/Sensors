@@ -1,0 +1,40 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +43.0 C  
+
+radeon-pci-0800
+Adapter: PCI adapter
+temp1:        +49.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    158.21 J
+Ecore001:    114.45 J
+Ecore002:    118.66 J
+Ecore003:    105.24 J
+Ecore004:    102.90 J
+Ecore005:     95.06 J
+Ecore006:     98.62 J
+Ecore007:     97.93 J
+Ecore008:     85.05 J
+Ecore009:    219.82 J
+Ecore010:     90.81 J
+Ecore011:    105.64 J
+Esocket0:      9.86 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:       994.00 mV 
+Vsoc:          1.01 V  
+Tctl:         +57.9 C  
+Tdie:         +57.9 C  
+Tccd1:        +44.0 C  
+Tccd2:        +43.2 C  
+Icore:         8.00 A  
+Isoc:          7.75 A  
+

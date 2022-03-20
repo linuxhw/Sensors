@@ -1,0 +1,26 @@
+f71808a-isa-0500
+Adapter: ISA adapter
++3.3V:         3.41 V  
+in1:           1.01 V  
+in2:           1.15 V  
+in3:           1.48 V  
+3VSB:          3.39 V  
+Vbat:          3.44 V  
+fan1:        1064 RPM
+fan2:           0 RPM  ALARM
+fan3:           0 RPM  ALARM
+temp1:        +29.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:        +33.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +14.8 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+in0:         1000.00 mV 
+temp1:        +14.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

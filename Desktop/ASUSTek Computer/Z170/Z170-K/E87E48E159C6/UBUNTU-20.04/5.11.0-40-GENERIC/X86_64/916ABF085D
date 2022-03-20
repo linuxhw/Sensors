@@ -1,0 +1,46 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    950.00 mV (min =  +0.82 V, max =  +1.15 V)
+fan1:        1800 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  
+v_out +5v:     5.00 V  
+v_out +3.3v:   3.00 V  
+psu fan:        0 RPM
+vrm temp:     +42.0 C  
+case temp:    +33.0 C  
+power total:  56.00 W  
+power +12v:   44.00 W  
+power +5v:     9.00 W  
+power +3.3v:   5.00 W  
+curr in:          N/A  
+curr +12v:     3.00 A  
+curr +5v:    1000.00 mA 
+curr +3.3v:  1000.00 mA 
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+

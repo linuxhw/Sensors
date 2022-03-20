@@ -1,0 +1,50 @@
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (lowest = +33.0 C, highest = +34.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +66.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 1:  +58.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +69.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 1:  +63.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 0:  +73.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 1:  +56.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 0:  +69.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 1:  +57.5 C  (low  = +127.5 C, high = +127.5 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +51.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:       +48.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:       +46.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:       +45.0 C  (high = +82.0 C, crit = +100.0 C)
+
+amdgpu-pci-8000
+Adapter: PCI adapter
+vddgfx:      975.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +49.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:       17.12 W  (cap =  50.00 W)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +24.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +85.0 C)
+                       (lowest =  +9.0 C, highest = +39.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (lowest = +32.0 C, highest = +34.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:       +42.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:       +45.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:       +45.0 C  (high = +82.0 C, crit = +100.0 C)
+

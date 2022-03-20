@@ -1,0 +1,30 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:       90.00 W  (interval =   1.00 s)
+
+i350bb-pci-0600
+Adapter: PCI adapter
+loc1:         +53.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +37.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +39.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 8:        +39.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 9:        +37.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 10:       +37.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 11:       +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 12:       +38.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 13:       +39.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 14:       +38.0 C  (high = +80.0 C, crit = +90.0 C)
+
+i350bb-pci-0700
+Adapter: PCI adapter
+loc1:         +50.0 C  (high = +120.0 C, crit = +110.0 C)
+

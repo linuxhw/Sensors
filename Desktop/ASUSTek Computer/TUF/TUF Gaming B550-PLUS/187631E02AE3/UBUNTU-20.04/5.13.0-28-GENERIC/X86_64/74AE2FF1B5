@@ -1,0 +1,14 @@
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      924.00 mV 
+vddnb:         1.04 V  
+edge:         +29.0 C  
+power1:        2.00 mW 
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+

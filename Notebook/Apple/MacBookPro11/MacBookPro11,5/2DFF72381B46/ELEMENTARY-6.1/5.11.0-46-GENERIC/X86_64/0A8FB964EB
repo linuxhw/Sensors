@@ -1,0 +1,83 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.88 V  
+temp:         +31.1 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +83.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +68.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +83.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +71.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +68.0 C  (high = +84.0 C, crit = +100.0 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +67.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2622 RPM  (min = 2160 RPM, max = 6156 RPM)
+Right side : 2422 RPM  (min = 2000 RPM, max = 5700 RPM)
+TB0T:         +30.8 C  
+TB1T:         +30.8 C  
+TB2T:         +29.2 C  
+TBXT:         +30.8 C  
+TC0E:         +73.2 C  
+TC0F:         +76.0 C  
+TC0P:         +56.2 C  
+TC1C:         +65.0 C  
+TC1F:         +78.2 C  
+TC1f:         +78.2 C  
+TC2C:         +67.0 C  
+TC3C:         +73.0 C  
+TC4C:         +77.0 C  
+TCGC:         +63.0 C  
+TCMc:          +0.0 C  
+TCSA:         +65.0 C  
+TCTD:          +0.8 C  
+TCXC:         +76.8 C  
+TCXM:         +76.8 C  
+TCXP:         +78.5 C  
+TG0D:         +63.8 C  
+TG0F:         +63.5 C  
+TG0P:         +59.2 C  
+TG1D:        -127.0 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:         -49.2 C  
+TH0R:        -127.0 C  
+TH0V:         +43.2 C  
+TH0a:         +35.0 C  
+TH0b:         +35.0 C  
+TH0c:         +35.0 C  
+TH0x:        -127.0 C  
+TM0P:         +49.0 C  
+TM0S:         +48.0 C  
+TP0P:         +48.0 C  
+TPCD:         +52.0 C  
+TW0P:         +44.8 C  
+Ta0P:         +41.8 C  
+TaSP:         +40.8 C  
+Th1H:         +48.0 C  
+Th2H:         +54.2 C  
+Ts0P:         +29.0 C  
+Ts0S:         +42.5 C  
+Ts1P:         +28.0 C  
+Ts1S:         +43.5 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +31.1 C  
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +52.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

@@ -1,0 +1,37 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +109.8 C)
+
+nvme-pci-2f00
+Adapter: PCI adapter
+Composite:    +52.9 C  
+
+enp36s0-pci-2400
+Adapter: PCI adapter
+PHY Temperature:  +55.5 C  
+MAC Temperature:  +56.8 C  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.04 V  
+SVI2_SoC:    969.00 mV 
+Tdie:         +58.2 C  (high = +95.0 C)
+Tctl:         +58.2 C  
+Tccd1:        +35.8 C  
+Tccd2:        +39.8 C  
+SVI2_P_Core:   2.05 W  
+SVI2_P_SoC:    4.28 W  
+SVI2_C_Core:   3.29 A  
+SVI2_C_SoC:    4.71 A  
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +64.8 C  (low  = -273.1 C, high = +89.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +64.8 C  (low  =  +0.0 C, high =  +0.0 C)
+

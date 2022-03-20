@@ -1,0 +1,26 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 0:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 1:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 2:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 3:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 4:        +31.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 5:        +26.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 6:        +25.0 C  (high = +95.0 C, crit = +105.0 C)
+Core 7:        +28.0 C  (high = +95.0 C, crit = +105.0 C)
+
+nvme-pci-b300
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+

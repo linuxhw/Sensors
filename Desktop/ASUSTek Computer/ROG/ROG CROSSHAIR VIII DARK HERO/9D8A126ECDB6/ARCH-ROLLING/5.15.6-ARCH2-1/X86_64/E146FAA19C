@@ -1,0 +1,49 @@
+corsaircpro-hid-3-4
+Adapter: HID adapter
+in0:          11.91 V  
+in1:           4.97 V  
+in2:           3.35 V  
+fan1 4pin:   1538 RPM
+fan2 4pin:   1615 RPM
+fan3 4pin:   1481 RPM
+fan4 4pin:   1608 RPM
+fan5 4pin:   4580 RPM
+fan6 4pin:      0 RPM
+temp1:        +26.2 C  
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3250 RPM)
+edge:         +27.0 C  (crit = +90.0 C, hyst = -273.1 C)
+                       (emerg = +95.0 C)
+junction:     +30.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+mem:          +30.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       23.00 W  (cap = 332.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +34.0 C  
+Tccd1:        +28.8 C  
+Tccd2:        +28.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,14 @@
+nvme-pci-2b00
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:      743.00 mV 
+vddnb:       843.00 mV 
+edge:         +28.0 C  
+power1:      1000.00 uW 
+

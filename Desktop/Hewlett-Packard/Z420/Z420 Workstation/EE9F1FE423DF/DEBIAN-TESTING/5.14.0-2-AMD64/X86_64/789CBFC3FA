@@ -1,0 +1,13 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+fan1:             N/A
+edge:         +32.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +79.0 C, crit = +97.0 C)
+Core 0:        +34.0 C  (high = +79.0 C, crit = +97.0 C)
+Core 1:        +33.0 C  (high = +79.0 C, crit = +97.0 C)
+Core 2:        +32.0 C  (high = +79.0 C, crit = +97.0 C)
+Core 3:        +30.0 C  (high = +79.0 C, crit = +97.0 C)
+

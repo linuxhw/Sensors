@@ -1,0 +1,48 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.4 C  
+Tdie:         +43.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +109.8 C)
+                       (crit = +129.8 C)
+Sensor 2:    +100.8 C  (low  = -273.1 C, high = -273.1 C)
+
+nct6795-isa-0a20
+Adapter: ISA adapter
+Vcore:                   1.29 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                    3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   784.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.36 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.30 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  720.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.56 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  2393 RPM  (min =    0 RPM)
+fan3:                   952 RPM  (min =    0 RPM)
+fan4:                  1068 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +37.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = CPU diode
+CPUTIN:                 +34.0 C  (high = +110.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:                +38.0 C  (high = +110.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +42.0 C    sensor = thermistor
+AUXTIN3:                 -4.0 C    sensor = thermistor
+SMBUSMASTER 0:          +53.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+

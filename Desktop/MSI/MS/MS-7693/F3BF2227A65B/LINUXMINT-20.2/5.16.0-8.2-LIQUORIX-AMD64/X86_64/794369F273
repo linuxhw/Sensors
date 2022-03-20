@@ -1,0 +1,41 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +45.8 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:        2435 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +44.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       17.12 W  (cap = 180.00 W)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      124.77 W  (crit = 125.02 W)
+
+f71889ed-isa-0480
+Adapter: ISA adapter
+in0:           1.62 V  
+in1:           1.26 V  (max =  +2.04 V)
+in2:           1.08 V  
+in3:         880.00 mV 
+in4:         600.00 mV 
+in5:           1.26 V  
+in6:           1.54 V  
+in7:           1.63 V  
+in8:           1.63 V  
+fan1:         794 RPM
+fan2:         780 RPM
+fan3:           0 RPM  ALARM
+temp1:        +47.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +80.0 C, hyst = +76.0 C)  sensor = transistor
+temp2:        +65.0 C  (high = +85.0 C, hyst = +77.0 C)
+                       (crit = +100.0 C, hyst = +92.0 C)  sensor = thermistor
+temp3:        +40.0 C  (high = +70.0 C, hyst = +68.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)  sensor = transistor
+

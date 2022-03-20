@@ -1,0 +1,18 @@
+w83627ehf-isa-0290
+Adapter: ISA adapter
+CPU Vcore:      +1.55 V  (min =  +1.45 V, max =  +1.55 V)
++12 VCC:       +12.17 V  (min = +11.42 V, max = +12.60 V)
++3.3 AVCC:      +3.38 V  (min =  +3.14 V, max =  +3.47 V)
++3.3 VCC:       +3.38 V  (min =  +3.14 V, max =  +3.47 V)
+in4 - Unknown:  +1.72 V  (min =  +1.94 V, max =  +2.02 V)  ALARM
++5 VCC:         +5.30 V  (min =  +4.76 V, max =  +5.25 V)  ALARM
+DRAM A/B:       +1.80 V  (min =  +1.77 V, max =  +1.94 V)
++5 VSB:         +5.54 V  (min =  +4.76 V, max =  +5.24 V)  ALARM
+Battery:        +3.17 V  (min =  +2.54 V, max =  +3.46 V)
+-12 VCC:       -12.54 V  (min = -10.80 V, max = -13.23 V)
+SYS_FAN:       2556 RPM  (min =  685 RPM, div = 8)
+CPU_FAN:       2766 RPM  (min =  897 RPM, div = 8)
+Chassis:        +41.0 C  (high = +45.0 C, hyst = +40.0 C)  sensor = thermistor
+CPU:            +52.0 C  (high = +70.0 C, hyst = +65.0 C)  sensor = thermistor
+Chipset:        +47.5 C  (high = +53.0 C, hyst = +48.0 C)  sensor = thermistor
+

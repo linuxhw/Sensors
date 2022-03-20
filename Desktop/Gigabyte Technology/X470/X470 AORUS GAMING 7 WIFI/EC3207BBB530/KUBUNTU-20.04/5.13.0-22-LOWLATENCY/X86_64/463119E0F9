@@ -1,0 +1,64 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.37 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         665.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.05 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         3.33 V  (min =  +0.00 V, max =  +5.56 V)
+in4:           1.79 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.49 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          3.31 V  (min =  +0.00 V, max =  +5.56 V)
+Vbat:          3.16 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+PCIe_x8:      +35.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+EC_TEMP2:     -53.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+System_2:     +33.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.8 C  
+Tdie:         +55.8 C  
+
+it8686-isa-0a40
+Adapter: ISA adapter
+in0:           1.44 V  (min =  +0.00 V, max =  +3.06 V)
+in1:           2.05 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.10 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         924.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.38 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.34 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.12 V  
+fan1:         468 RPM  (min =    0 RPM)
+fan2:         351 RPM  (min =    0 RPM)
+fan3:         344 RPM  (min =    0 RPM)
+fan4:         335 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+System_1:     +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+Chipset:      +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU:          +56.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = AMD AMDSI
+PCIe_x16:     +41.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+VRM_MOS:      +55.0 C  (low  =  +0.0 C, high = -117.0 C)  sensor = thermistor
+EC_TEMP1:     -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  OK
+

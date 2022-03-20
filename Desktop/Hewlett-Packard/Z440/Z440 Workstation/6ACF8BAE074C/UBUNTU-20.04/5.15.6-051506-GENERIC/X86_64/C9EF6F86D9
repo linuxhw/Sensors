@@ -1,0 +1,15 @@
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.00 V)
+temp1:        +71.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +22.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +24.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +23.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +22.0 C  (high = +85.0 C, crit = +95.0 C)
+

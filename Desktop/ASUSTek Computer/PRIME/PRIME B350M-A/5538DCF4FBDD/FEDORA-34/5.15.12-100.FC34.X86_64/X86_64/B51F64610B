@@ -1,0 +1,38 @@
+nvme-pci-0100
+Adapter: PCI adapter
+NVMe Composite:  +33.9 C  (low  = -273.1 C, high = +82.8 C)
+                          (crit = +84.8 C)
+NVMe Sensor 1:   +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+NVMe Sensor 2:   +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+it8655-isa-0290
+Adapter: ISA adapter
+in0:           1.42 V  (min =  +0.25 V, max =  +1.50 V)
+in1:           2.48 V  (min =  +1.75 V, max =  +2.75 V)
+in2:           1.97 V  (min =  +1.75 V, max =  +2.75 V)
+in3:           1.97 V  (min =  +1.75 V, max =  +2.75 V)
+in4:           1.98 V  (min =  +1.75 V, max =  +2.75 V)
+in5:           1.93 V  (min =  +1.75 V, max =  +2.75 V)
+in6:           1.97 V  (min =  +1.75 V, max =  +2.75 V)
+3VSB:          3.36 V  (min =  +2.96 V, max =  +3.64 V)
+Vbat:          3.29 V  
++3.3V:         3.38 V  
+CPU Fan:      669 RPM  (min =   40 RPM)
+Case Fan:     932 RPM  (min =   18 RPM)
+CPU Temp:     +44.0 C  (low  =  +0.0 C, high = +80.0 C)
+M/B Temp1:    +27.0 C  (low  =  +0.0 C, high = +70.0 C)  sensor = thermistor
+M/B Temp2:    +34.0 C  (low  =  +0.0 C, high = +50.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +58.1 C  
+Tccd1:        +39.2 C  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.13 V  
+GPU Fan:     1010 RPM  (min =    0 RPM, max = 3200 RPM)
+GPU Temp:     +42.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:       62.02 W  (cap = 185.00 W)
+

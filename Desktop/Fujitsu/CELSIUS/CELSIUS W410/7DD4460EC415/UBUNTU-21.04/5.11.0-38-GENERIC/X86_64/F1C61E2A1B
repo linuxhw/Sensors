@@ -1,0 +1,32 @@
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +44.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +57.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +49.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +57.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +50.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +49.0 C  (high = +80.0 C, crit = +98.0 C)
+
+theseus-isa-0640
+Adapter: ISA adapter
+3.3V:          3.31 V  
+VREF:          1.05 V  
+VBAT:          1.96 V  
+3.3AUX:        3.33 V  
+12V:          11.80 V  
+fan1:         955 RPM
+fan2:         494 RPM
+fan3:        4561 RPM
+fan4:        1002 RPM
+temp1:        +53.0 C  
+temp2:        +33.0 C  
+temp3:        +38.0 C  
+temp4:        +71.0 C  
+temp5:        +42.0 C  
+temp6:        +37.0 C  
+temp7:         +0.0 C  
+temp8:        +53.0 C  
+

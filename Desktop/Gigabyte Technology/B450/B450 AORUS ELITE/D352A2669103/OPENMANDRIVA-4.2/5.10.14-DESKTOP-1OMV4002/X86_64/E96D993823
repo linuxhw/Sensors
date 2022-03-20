@@ -1,0 +1,17 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         799 RPM
+temp1:        +26.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    275.10 J
+Ecore001:    218.21 J
+Ecore002:    222.76 J
+Ecore003:    207.63 J
+Ecore004:    194.42 J
+Ecore005:    229.81 J
+Esocket0:      5.95 kJ
+

@@ -1,0 +1,16 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+CPU:         1976 RPM  (min =    0 RPM)
+CPU:          +41.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUX0:         +40.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = CPU diode
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+GPU PCI 1:    +51.6 C  
+GPU PCI 2:    +53.0 C  
+
+amdgpu-pci-2900
+Adapter: PCI adapter
+GPU:         2004 RPM  (min =    0 RPM, max = 3500 RPM)
+GPU:          +48.0 C  (crit = +97.0 C, hyst = -273.1 C)
+

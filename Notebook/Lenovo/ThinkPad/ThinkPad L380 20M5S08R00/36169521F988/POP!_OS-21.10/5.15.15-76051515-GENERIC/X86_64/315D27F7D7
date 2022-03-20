@@ -1,0 +1,39 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+WiFi Temp:    +50.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +47.5 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+NVMe Temp:    +37.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+CPU:           +1.0 C  
+GPU:           +1.0 C  
+temp3:         +4.0 C  
+temp4:        +65.0 C  
+temp5:       +121.0 C  
+temp6:       +121.0 C  
+temp7:        +16.0 C  
+temp8:        +66.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Temp:     +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+Battery P.D.:  11.86 V  
+

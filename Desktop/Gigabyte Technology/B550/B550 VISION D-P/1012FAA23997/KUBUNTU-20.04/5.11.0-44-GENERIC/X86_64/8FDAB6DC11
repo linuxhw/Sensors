@@ -1,0 +1,37 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.78 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         600.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.09 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.70 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.79 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.51 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.69 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.59 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:         809 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +33.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +29.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +37.1 C  
+Tdie:         +37.1 C  
+Tccd1:        +33.2 C  
+
+amdgpu-pci-5700
+Adapter: PCI adapter
+vddgfx:      843.00 mV 
+fan1:        1840 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +33.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       39.05 W  (cap = 160.00 W)
+

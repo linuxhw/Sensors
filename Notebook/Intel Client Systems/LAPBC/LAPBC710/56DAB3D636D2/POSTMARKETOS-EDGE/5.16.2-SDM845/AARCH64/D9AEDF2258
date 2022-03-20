@@ -1,0 +1,15 @@
+qcom_battery-isa-0000
+Adapter: ISA adapter
+in0:           3.90 V  
+temp:         +25.3 C  (low  =  +0.0 C, high = +60.0 C)  ALARM (LOW)
+curr1:       -11.00 mA 
+
+usb-isa-0000
+Adapter: ISA adapter
+in0:         -140.74 GV 
+curr1:       -140.74 GA (max =  +1.95 A)
+
+qcom_battery-virtual-0
+Adapter: Virtual device
+temp1:        +25.3 C  
+

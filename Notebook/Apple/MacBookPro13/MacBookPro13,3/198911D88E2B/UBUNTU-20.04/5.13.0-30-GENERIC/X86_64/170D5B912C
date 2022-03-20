@@ -1,0 +1,78 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.07 V  
+temp:         +38.5 C  
+curr1:         2.54 A  (avg =  +2.97 A)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      781.00 mV 
+edge:         +57.0 C  (crit = +108.0 C, hyst = -273.1 C)
+power1:       12.08 W  (cap =  35.00 W)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2276 RPM  (min = 2160 RPM, max = 5927 RPM)
+Right side : 2099 RPM  (min = 2000 RPM, max = 5489 RPM)
+TA0V:         +23.8 C  
+TB0T:         +38.2 C  
+TB1T:         +36.5 C  
+TB2T:         +38.2 C  
+TBXT:         +38.2 C  
+TC0E:         +68.5 C  
+TC0F:         +70.5 C  
+TC0P:         +53.8 C  
+TC1C:         +58.0 C  
+TC2C:         +59.0 C  
+TC3C:         +58.0 C  
+TC4C:         +58.0 C  
+TCGC:         +59.0 C  
+TCMc:        -128.0 C  
+TCSA:         +60.0 C  
+TCTD:          -0.8 C  
+TCXC:         +59.8 C  
+TG0D:         +61.5 C  
+TG0F:         +61.2 C  
+TG0P:         +57.2 C  
+TGDD:         +56.0 C  
+TGVP:         +52.2 C  
+TH0A:         +42.8 C  
+TH0B:         +40.2 C  
+TH0C:         +42.5 C  
+TH0F:         -35.0 C  
+TH0R:         -34.5 C  
+TH0a:         +42.8 C  
+TH0b:         +40.2 C  
+TH0c:         +42.5 C  
+TH0x:        -127.0 C  
+TM0P:         +50.5 C  
+TPCD:         +45.0 C  
+TTLD:         +49.2 C  
+TTRD:         +51.8 C  
+TW0P:         +52.2 C  
+TaLC:         +36.5 C  
+TaRC:         +46.8 C  
+Th1H:         +56.2 C  
+Th2H:         +54.0 C  
+Ts0P:         +34.2 C  
+Ts0S:         +42.2 C  
+Ts1P:         +30.5 C  
+Ts1S:         +42.5 C  
+Ts2S:         +43.0 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +38.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +39.9 C  
+

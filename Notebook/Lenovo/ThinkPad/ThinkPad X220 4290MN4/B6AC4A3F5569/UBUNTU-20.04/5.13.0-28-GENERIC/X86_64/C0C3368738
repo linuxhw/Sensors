@@ -1,0 +1,28 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2958 RPM
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +65.0 C)
+                       (lowest = +38.0 C, highest = +40.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.48 V  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +56.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +54.0 C  (high = +86.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +54.0 C  (crit = +99.0 C)
+

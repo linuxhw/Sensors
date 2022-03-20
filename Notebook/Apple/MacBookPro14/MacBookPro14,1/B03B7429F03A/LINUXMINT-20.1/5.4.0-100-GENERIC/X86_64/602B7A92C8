@@ -1,0 +1,53 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Exhaust  :   1990 RPM  (min = 2000 RPM, max = 7200 RPM)
+TA0V:         +26.5 C  
+TB0T:         +36.0 C  
+TB1T:         +36.0 C  
+TB2T:         +34.2 C  
+TBXT:         +36.0 C  
+TC0E:         +62.8 C  
+TC0F:         +65.8 C  
+TC0P:         +54.0 C  
+TC1C:         +67.0 C  
+TC2C:         +67.0 C  
+TCGC:         +60.0 C  
+TCMX:         +69.5 C  
+TCMc:         +21.0 C  
+TCSA:         +61.0 C  
+TCXC:         +69.5 C  
+TH0A:         +42.5 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:         -42.8 C  
+TH0R:         -42.5 C  
+TH0V:        -127.0 C  
+TM0P:         +48.2 C  
+TPCD:         +54.0 C  
+TULD:        -128.0 C  
+TULP:        -128.0 C  
+TW0P:        -128.0 C  
+TaLC:         +47.2 C  
+Th1H:         +47.5 C  
+Tm0P:        -128.0 C  
+Ts0P:         +33.2 C  
+Ts0S:         +39.8 C  
+Ts1P:         +31.5 C  
+Ts1S:         +39.5 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +36.2 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.95 V  
+temp:         +36.2 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+

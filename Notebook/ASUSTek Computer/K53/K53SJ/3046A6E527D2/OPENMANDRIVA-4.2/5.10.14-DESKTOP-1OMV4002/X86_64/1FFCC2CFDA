@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +80.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +78.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +78.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +76.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +75.0 C  (high = +86.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +79.0 C  (crit = +103.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +0.85 V, max =  +1.03 V)
+temp1:        +70.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+temp1:        +79.0 C  
+

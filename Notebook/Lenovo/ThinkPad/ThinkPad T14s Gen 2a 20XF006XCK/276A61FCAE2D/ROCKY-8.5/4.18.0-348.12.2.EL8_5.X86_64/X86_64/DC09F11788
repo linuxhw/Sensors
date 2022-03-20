@@ -1,0 +1,15 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2400 RPM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  (crit = +110.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:       +1.33 V  
+vddnb:        +0.85 V  
+edge:         +46.0 C  
+power1:        2.00 mW 
+

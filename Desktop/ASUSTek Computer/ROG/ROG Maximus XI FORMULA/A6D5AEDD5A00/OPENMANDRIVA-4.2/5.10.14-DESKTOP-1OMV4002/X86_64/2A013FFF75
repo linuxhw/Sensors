@@ -1,0 +1,54 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+ucsi_source_psy_21_00081-i2c-21-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+enp6s0-pci-0600
+Adapter: PCI adapter
+PHY Temperature:  +57.2 C  
+MAC Temperature:  +60.4 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +45.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +48.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +46.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +45.0 C  (high = +86.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         663 RPM
+temp1:        +37.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

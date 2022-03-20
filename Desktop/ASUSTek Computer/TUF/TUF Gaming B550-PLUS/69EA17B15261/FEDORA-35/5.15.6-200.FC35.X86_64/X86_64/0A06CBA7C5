@@ -1,0 +1,60 @@
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:          725.00 mV 
+Radeon Fan(s):    986 RPM  (min =    0 RPM, max = 4600 RPM)
+Radeon Edge:      +44.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                           (emerg = +105.0 C)
+Radeon Junction:  +44.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                           (emerg = +115.0 C)
+Radeon Memory:    +56.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                           (emerg = +110.0 C)
+power1:           36.00 W  (cap = 190.00 W)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+Vcore:                    648.00 mV (min =  +0.20 V, max =  +1.50 V)
+in1:                      1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVSB:                       3.39 V  (min =  +3.14 V, max =  +3.63 V)
+3VCC:                       3.31 V  (min =  +3.14 V, max =  +3.63 V)
++12V:                       1.01 V  (min =  +2.04 V, max =  +2.04 V)  ALARM
+in5:                      888.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
++5V:                      240.00 mV (min =  +2.04 V, max =  +2.04 V)  ALARM
+3.3V:                       3.39 V  (min =  +3.14 V, max =  +3.47 V)
+Vbat:                       3.31 V  (min =  +2.85 V, max =  +3.47 V)
+in9:                      912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     288.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                       1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                     336.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                     248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+Fan Back:                  463 RPM  (min =    0 RPM)
+Fan CPU:                   666 RPM  (min =    0 RPM)
+Fan Front Top:             447 RPM  (min =    0 RPM)
+Fan Front Bottom:          447 RPM  (min =    0 RPM)
+SYSTIN:                    +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +35.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +89.0 C    sensor = thermistor
+AUXTIN1:                   +51.0 C    sensor = thermistor
+AUXTIN3:                   +81.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +47.0 C  
+beep_enable:              disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +58.6 C  
+Tccd1:        +56.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+

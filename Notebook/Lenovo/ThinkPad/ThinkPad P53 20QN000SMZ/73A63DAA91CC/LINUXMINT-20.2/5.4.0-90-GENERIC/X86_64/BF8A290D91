@@ -1,0 +1,40 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +85.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +54.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +85.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +54.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 4:        +51.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 5:        +49.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 6:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 7:        +52.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.77 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2053 RPM
+temp1:        +43.0 C  
+temp2:        +39.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:        +41.0 C  
+temp6:        +47.0 C  
+temp7:        +44.0 C  
+temp8:            N/A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +43.0 C  (crit = +128.0 C)
+

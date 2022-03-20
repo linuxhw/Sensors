@@ -1,0 +1,50 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                      568.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                      1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      936.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                      256.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.54 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     464.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     464.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                     280.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                     280.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                        0 RPM  (min =    0 RPM)
+fan2:                     1588 RPM  (min =    0 RPM)
+fan5:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +30.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +34.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +81.5 C    sensor = thermistor
+AUXTIN1:                   +30.0 C    sensor = thermistor
+AUXTIN2:                   +30.0 C    sensor = thermistor
+AUXTIN3:                   +92.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +38.0 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.9 C  
+Tccd1:        +45.2 C  
+

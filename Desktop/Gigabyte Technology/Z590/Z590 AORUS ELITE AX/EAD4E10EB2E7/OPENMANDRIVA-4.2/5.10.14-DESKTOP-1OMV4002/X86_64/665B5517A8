@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    925.00 mV (min =  +0.60 V, max =  +1.20 V)
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +36.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +44.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +36.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +37.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+temp3:        +27.8 C  (crit = +105.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +41.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +31.9 C  (low  =  +0.0 C, high =  +0.0 C)
+

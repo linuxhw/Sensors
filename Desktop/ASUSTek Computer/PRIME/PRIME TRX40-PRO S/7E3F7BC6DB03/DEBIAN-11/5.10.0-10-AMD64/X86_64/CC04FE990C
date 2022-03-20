@@ -1,0 +1,125 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.00 V)
+temp1:        +52.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                      912.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                        1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.75 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      592.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                      952.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                       1.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                       1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                      549 RPM  (min =    0 RPM)
+fan2:                      661 RPM  (min =    0 RPM)
+fan3:                        0 RPM  (min =    0 RPM)
+fan5:                        0 RPM  (min =    0 RPM)
+fan6:                        0 RPM  (min =    0 RPM)
+fan7:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +38.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +41.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +29.0 C    sensor = thermistor
+AUXTIN1:                   +83.0 C    sensor = thermistor
+AUXTIN2:                   +15.0 C    sensor = thermistor
+AUXTIN3:                   -23.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +42.0 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     77.28 J
+Ecore001:     61.47 J
+Ecore002:     63.89 J
+Ecore003:     58.86 J
+Ecore004:     21.58 J
+Ecore005:     65.54 kJ
+Ecore006:     65.54 kJ
+Ecore007:     65.54 kJ
+Ecore008:     65.55 kJ
+Ecore009:     65.55 kJ
+Ecore010:     65.55 kJ
+Ecore011:     65.54 kJ
+Ecore012:     65.54 kJ
+Ecore013:     65.54 kJ
+Ecore014:     65.54 kJ
+Ecore015:     65.54 kJ
+Ecore016:     65.55 kJ
+Ecore017:     65.54 kJ
+Ecore018:     65.54 kJ
+Ecore019:      7.65 J
+Ecore020:     11.62 J
+Ecore021:      8.45 J
+Ecore022:      4.77 J
+Ecore023:      6.08 J
+Ecore024:      7.80 J
+Ecore025:      9.84 J
+Ecore026:     10.05 J
+Ecore027:     13.61 J
+Ecore028:      8.29 J
+Ecore029:      7.57 J
+Ecore030:      5.10 J
+Ecore031:      8.11 J
+Ecore032:      6.63 J
+Ecore033:      6.58 J
+Ecore034:      6.56 J
+Ecore035:      5.78 J
+Ecore036:      3.71 J
+Ecore037:      2.52 J
+Ecore038:      4.12 J
+Ecore039:      2.03 J
+Ecore040:      5.15 J
+Ecore041:      1.17 J
+Ecore042:     10.24 J
+Ecore043:      5.59 J
+Ecore044:      5.43 J
+Ecore045:      3.70 J
+Ecore046:      3.19 J
+Ecore047:      4.78 J
+Ecore048:      8.48 J
+Ecore049:      8.49 J
+Ecore050:      7.05 J
+Ecore051:      6.86 J
+Ecore052:      3.71 J
+Ecore053:      4.58 J
+Ecore054:      3.15 J
+Ecore055:      1.01 J
+Ecore056:      8.40 J
+Ecore057:      6.58 J
+Ecore058:      6.40 J
+Ecore059:      4.82 J
+Ecore060:     11.54 J
+Ecore061:     11.44 J
+Ecore062:     12.50 J
+Ecore063:     10.84 J
+Esocket0:    189.65 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.2 C  
+Tdie:         +44.2 C  
+Tccd1:        +43.0 C  
+Tccd2:        +44.2 C  
+Tccd3:        +44.0 C  
+Tccd4:        +44.2 C  
+Tccd5:        +42.8 C  
+Tccd6:        +43.0 C  
+Tccd7:        +44.2 C  
+Tccd8:        +44.2 C  
+

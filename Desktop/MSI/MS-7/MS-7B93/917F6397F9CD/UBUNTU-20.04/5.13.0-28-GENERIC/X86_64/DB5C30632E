@@ -1,0 +1,46 @@
+corsaircpro-hid-3-2
+Adapter: HID adapter
+in0:          12.03 V  
+in1:           4.98 V  
+in2:           3.35 V  
+fan1 4pin:   1490 RPM
+fan2 4pin:   1483 RPM
+fan3 4pin:   1518 RPM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.0 C  
+Tdie:         +54.0 C  
+Tccd1:        +41.0 C  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+corsairpsu-hid-3-3
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.14 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +45.2 C  (crit = +70.0 C)
+case temp:    +39.8 C  (crit = +70.0 C)
+power total:  98.00 W  
+power +12v:   66.00 W  
+power +5v:    27.00 W  
+power +3.3v:   5.00 W  
+curr +12v:     5.50 A  (crit max = +100.00 A)
+curr +5v:      5.31 A  (crit max = +40.00 A)
+curr +3.3v:    1.56 A  (crit max = +40.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

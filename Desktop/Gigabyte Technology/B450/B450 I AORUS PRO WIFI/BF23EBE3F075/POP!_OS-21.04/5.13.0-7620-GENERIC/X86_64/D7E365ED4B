@@ -1,0 +1,27 @@
+hidpp_battery_0-hid-3-7
+Adapter: HID adapter
+in0:           3.92 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +56.2 C  
+Tccd1:        +51.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+nouveau-pci-1100
+Adapter: PCI adapter
+GPU core:    875.00 mV (min =  +0.82 V, max =  +1.06 V)
+fan1:         960 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       17.32 W  
+

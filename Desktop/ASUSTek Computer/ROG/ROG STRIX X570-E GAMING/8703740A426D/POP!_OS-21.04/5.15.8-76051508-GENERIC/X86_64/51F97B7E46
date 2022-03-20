@@ -1,0 +1,41 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.9 C  
+Tccd1:        +37.5 C  
+Tccd2:        +45.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +54.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+corsaircpro-hid-3-7
+Adapter: HID adapter
+in0:          12.03 V  
+in1:           4.97 V  
+in2:           3.35 V  
+fan1 4pin:    980 RPM
+fan2 4pin:   1009 RPM
+fan3 4pin:    971 RPM
+fan4 4pin:    999 RPM
+fan5 4pin:   1083 RPM
+fan6 4pin:   1108 RPM
+temp1:        +30.9 C  
+temp2:        +31.0 C  
+temp3:        +46.7 C  
+temp4:        +42.5 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +48.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +52.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +50.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       22.00 W  (cap = 281.00 W)
+

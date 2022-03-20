@@ -1,0 +1,23 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:    +1.10 V  
+SVI2_SoC:     +0.87 V  
+Tdie:         +30.6 C  (high = +95.0 C)
+Tctl:         +30.6 C  
+Tccd1:        +27.5 C  
+Tccd2:        +31.0 C  
+Tccd3:        +30.8 C  
+Tccd4:        +30.2 C  
+Tccd5:        +31.0 C  
+Tccd6:        +29.8 C  
+Tccd7:        +29.5 C  
+Tccd8:        +30.8 C  
+SVI2_P_Core:   2.90 W  
+SVI2_P_SoC:    7.67 W  
+SVI2_C_Core:  +2.63 A  
+SVI2_C_SoC:   +8.83 A  
+
+i350bb-pci-c100
+Adapter: PCI adapter
+loc1:         +57.0 C  (high = +120.0 C, crit = +110.0 C)
+

@@ -1,0 +1,15 @@
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          13.17 V  
+curr1:       461.00 mA 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.8 C  
+Tdie:         +44.8 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+

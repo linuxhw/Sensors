@@ -1,0 +1,55 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         676.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:         981.00 mV (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.68 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.18 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.69 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.60 V  
+fan1:           0 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 2750 RPM)
+edge:         +40.0 C  (crit = +90.0 C, hyst = -273.1 C)
+                       (emerg = +95.0 C)
+junction:     +44.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+mem:          +46.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:       26.00 W  (cap = 332.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+ucsi_source_psy_8_00081-i2c-8-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.4 C  
+Tccd1:        +43.2 C  
+Tccd2:        +45.8 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

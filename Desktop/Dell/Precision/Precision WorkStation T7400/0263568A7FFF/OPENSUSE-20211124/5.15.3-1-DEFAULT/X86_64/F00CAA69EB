@@ -1,0 +1,21 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:    763 RPM
+Other Fan:       1097 RPM
+Motherboard Fan: 1095 RPM
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:      1.20 V  (min =  +1.20 V, max =  +1.32 V)
+fan1:           0 RPM
+temp1:        +45.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +115.0 C, hyst =  +2.0 C)
+                       (emerg = +130.0 C, hyst = +10.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +28.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +35.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +35.0 C  (high = +84.0 C, crit = +100.0 C)
+

@@ -1,0 +1,19 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +72.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +52.0 C  (high = +92.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +92.0 C, crit = +100.0 C)
+Core 1:        +52.0 C  (high = +92.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+

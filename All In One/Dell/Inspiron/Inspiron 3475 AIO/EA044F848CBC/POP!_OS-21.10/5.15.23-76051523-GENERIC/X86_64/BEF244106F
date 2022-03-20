@@ -1,0 +1,20 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        121530 RPM
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       962.00 mV 
+edge:         +94.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +94.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       42.85 mW (avg =  26.97 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+

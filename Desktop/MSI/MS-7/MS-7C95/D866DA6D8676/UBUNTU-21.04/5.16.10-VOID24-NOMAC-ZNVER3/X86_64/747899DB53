@@ -1,0 +1,62 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.9 C  
+
+nvme-pci-2b00
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:      743.00 mV 
+vddnb:         1.09 V  
+edge:         +33.0 C  
+slowPPT:     1000.00 uW 
+
+nct6687-isa-0a20
+Adapter: ISA adapter
+VIN0:               1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN1:               1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN2:               1.09 V  (min =  +0.00 V, max =  +0.00 V)
+VIN3:             672.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN4:             752.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN5:             928.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN6:             832.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN7:               1.52 V  (min =  +0.00 V, max =  +0.00 V)
+VCC:                3.41 V  (min =  +0.00 V, max =  +0.00 V)
+VTT:                1.84 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:             1366 RPM  (min =    0 RPM)
+fan2:                0 RPM  (min =    0 RPM)
+fan3:                0 RPM  (min =    0 RPM)
+fan4:                0 RPM  (min =    0 RPM)
+fan5:                0 RPM  (min =    0 RPM)
+fan6:                0 RPM  (min =    0 RPM)
+fan7:                0 RPM  (min =    0 RPM)
+fan8:                0 RPM  (min =    0 RPM)
+fan9:                0 RPM  (min =    0 RPM)
+fan10:               0 RPM  (min =    0 RPM)
+AMD TSI Addr 98h:  +41.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = AMD AMDSI
+Diode 0 (curr):    +34.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermal diode
+Thermistor 15:     +30.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 1:      +35.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 16:     +30.5 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 0:      +30.0 C  (low  =  +0.0 C)
+                            (high =  +0.0 C, hyst =  +0.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+Thermistor 15:     +30.5 C  (low  =  +0.0 C)
+                            (high = +125.0 C, hyst = +35.0 C)
+                            (crit =  +0.0 C)  sensor = thermistor
+intrusion0:       ALARM
+beep_enable:      disabled
+

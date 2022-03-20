@@ -1,0 +1,14 @@
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +66.0 C  (crit = +99.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          13.17 V  
+curr1:       466.00 mA 
+

@@ -1,0 +1,24 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +52.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +50.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+hidpp_battery_1-hid-3-c
+Adapter: HID adapter
+in0:           3.91 V  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           4.33 V  
+curr1:       310.00 mA 
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+

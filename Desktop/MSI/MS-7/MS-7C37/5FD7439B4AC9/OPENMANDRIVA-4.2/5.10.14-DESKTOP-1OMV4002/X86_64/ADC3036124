@@ -1,0 +1,39 @@
+ucsi_source_psy_21_00081-i2c-21-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.39 V  
+Vsoc:          1.09 V  
+Tctl:         +70.1 C  
+Tdie:         +70.1 C  
+Tccd1:        +65.5 C  
+Icore:        32.00 A  
+Isoc:         12.09 A  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    564.59 J
+Ecore001:    560.89 J
+Ecore002:    431.85 J
+Ecore003:    788.64 J
+Ecore004:    318.54 J
+Ecore005:    456.06 J
+Ecore006:      1.02 kJ
+Ecore007:    333.86 J
+Esocket0:     15.78 kJ
+
+nouveau-pci-2d00
+Adapter: PCI adapter
+fan1:           0 RPM
+temp1:        +37.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

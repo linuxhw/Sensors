@@ -1,0 +1,24 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +34.9 C  
+Tdie:         +34.9 C  
+Tccd1:        +33.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+nouveau-pci-2b00
+Adapter: PCI adapter
+GPU core:    987.00 mV (min =  +0.60 V, max =  +1.27 V)
+fan1:         505 RPM
+temp1:        +28.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       17.47 W  (crit = 132.00 mW)
+

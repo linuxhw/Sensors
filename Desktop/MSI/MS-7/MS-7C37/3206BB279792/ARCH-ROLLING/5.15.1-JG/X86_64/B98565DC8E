@@ -1,0 +1,63 @@
+hidpp_battery_0-hid-3-d
+Adapter: HID adapter
+in0:           4.08 V  
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                     1.34 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                   984.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   624.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.31 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:                  472.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  680.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.53 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  2641 RPM  (min =    0 RPM)
+fan2:                   772 RPM  (min =    0 RPM)
+fan3:                   643 RPM  (min =    0 RPM)
+fan4:                   570 RPM  (min =    0 RPM)
+fan5:                   543 RPM  (min =    0 RPM)
+fan6:                   531 RPM  (min =    0 RPM)
+fan7:                   709 RPM  (min =    0 RPM)
+SYSTIN:                 +39.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:                 +40.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:                +48.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:               -128.0 C    sensor = thermistor
+AUXTIN2:                +60.0 C    sensor = thermistor
+AUXTIN3:                 -2.0 C    sensor = thermistor
+SMBUSMASTER 0:          +57.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +52.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.42 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +57.2 C  (high = +95.0 C)
+Tctl:         +57.2 C  
+Tccd1:        +45.8 C  
+SVI2_P_Core:  24.31 W  
+SVI2_P_SoC:   12.81 W  
+SVI2_C_Core:  17.13 A  
+SVI2_C_SoC:   11.48 A  
+

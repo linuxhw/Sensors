@@ -1,0 +1,39 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +82.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +82.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +77.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:          20.00 V  (min =  +5.00 V, max = +20.00 V)
+curr1:         2.25 A  (max =  +4.25 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ath11k_hwmon-pci-7200
+Adapter: PCI adapter
+temp1:        +44.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.72 V  
+curr1:            N/A  
+

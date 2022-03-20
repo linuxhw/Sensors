@@ -1,0 +1,44 @@
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +63.0 C  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +59.0 C  
+
+nvme-pci-6e00
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-6d00
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.22 V  
+

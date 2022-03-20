@@ -1,0 +1,52 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval =   1.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 0:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 1:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 2:        +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 3:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 4:        +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 11:       +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 16:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 17:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 18:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 19:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 20:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 24:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 25:       +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 26:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 27:       +25.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 28:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 0:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 1:        +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 2:        +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 3:        +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 4:        +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 11:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 16:       +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 17:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 18:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 19:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 20:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 24:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 25:       +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 26:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 27:       +28.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 28:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+

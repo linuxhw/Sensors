@@ -1,0 +1,27 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +51.0 C  (high = +89.0 C, crit = +105.0 C)
+Core 2:       +53.0 C  (high = +89.0 C, crit = +105.0 C)
+
+w83627dhg-isa-0a10
+Adapter: ISA adapter
+Vcore:         1.05 V  (min =  +0.60 V, max =  +1.49 V)
+in1:           1.86 V  (min =  +1.62 V, max =  +1.99 V)
+AVCC:          3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:         3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           1.53 V  (min =  +1.35 V, max =  +1.65 V)
+in5:           1.27 V  (min =  +1.13 V, max =  +1.38 V)
+in6:           1.10 V  (min =  +0.99 V, max =  +1.32 V)
+3VSB:          3.39 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:          3.31 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:           0 RPM  (min =  727 RPM, div = 64)  ALARM
+fan2:           0 RPM  (min =  727 RPM, div = 64)  ALARM
+fan3:        1155 RPM  (min =  712 RPM, div = 8)
+fan4:           0 RPM  (min =  727 RPM, div = 64)  ALARM
+fan5:           0 RPM  (min =  727 RPM, div = 64)  ALARM
+temp1:        +38.0 C  (high = +60.0 C, hyst = +55.0 C)  sensor = thermistor
+temp2:        +48.0 C  (high = +95.0 C, hyst = +92.0 C)  sensor = CPU diode
+temp3:        +33.0 C  (high = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+cpu0_vid:    +1.513 V
+intrusion0:  OK
+

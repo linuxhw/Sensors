@@ -1,0 +1,78 @@
+nouveau-pci-4600
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.78 V, max =  +1.16 V)
+temp1:        +33.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:        7.41 W  (crit =  31.00 mW)
+
+nouveau-pci-4500
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.78 V, max =  +1.16 V)
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:        7.24 W  (crit =  31.00 mW)
+
+nouveau-pci-4700
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.78 V, max =  +1.16 V)
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:        7.42 W  (crit =  31.00 mW)
+
+nouveau-pci-4400
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.78 V, max =  +1.16 V)
+temp1:        +32.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:        7.35 W  (crit =  31.00 mW)
+
+nouveau-pci-0f00
+Adapter: PCI adapter
+GPU core:    887.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:        2700 RPM
+temp1:        +52.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +26.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +32.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +30.0 C  (high = +80.0 C, crit = +96.0 C)
+
+max1617-i2c-52-4c
+Adapter: nvkm-0000:47:00.0-bus-0002
+temp1:        +38.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+max1617-i2c-40-4c
+Adapter: nvkm-0000:46:00.0-bus-0002
+temp1:        +34.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+max1617-i2c-28-4c
+Adapter: nvkm-0000:45:00.0-bus-0002
+temp1:        +37.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+adm1021-i2c-16-4c
+Adapter: nvkm-0000:44:00.0-bus-0002
+temp1:        +34.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +24.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +28.0 C  (high = +80.0 C, crit = +96.0 C)
+

@@ -1,0 +1,32 @@
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +20.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +18.0 C, highest = +20.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +30.8 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +31.0 C  
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+temp2:        +38.0 C  
+temp3:        +30.0 C  
+temp4:        +16.0 C  
+temp5:        +30.0 C  
+temp6:        +34.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -0.1 C, high = +71.8 C)
+                       (crit = +89.8 C)
+

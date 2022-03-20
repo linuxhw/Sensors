@@ -1,0 +1,34 @@
+nouveau-pci-8000
+Adapter: PCI adapter
+GPU core:    890.00 mV (min = +4294967.28 V, max =  +1.00 V)
+temp1:        +38.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       30.22 W  
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +74.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 1:  +73.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +84.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 1:  +76.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 0:  +83.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 1:  +72.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 0:  +78.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 1:  +68.5 C  (low  = +127.5 C, high = +127.5 C)
+
+nouveau-pci-6000
+Adapter: PCI adapter
+GPU core:    930.00 mV (min =  +0.88 V, max =  +1.02 V)
+fan1:        3540 RPM
+temp1:        +51.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +49.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +51.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +49.0 C  (high = +84.0 C, crit = +100.0 C)
+

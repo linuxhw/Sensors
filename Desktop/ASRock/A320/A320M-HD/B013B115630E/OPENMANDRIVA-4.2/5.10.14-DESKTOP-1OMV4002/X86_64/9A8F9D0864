@@ -1,0 +1,27 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    549.12 J
+Ecore001:    412.52 J
+Ecore002:    383.19 J
+Ecore003:    316.55 J
+Ecore004:    289.33 J
+Ecore005:    286.10 J
+Esocket0:     18.59 kJ
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         829 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +38.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       28.20 W  (cap = 155.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Vcore:         1.43 V  
+Vsoc:          1.01 V  
+Tctl:         +49.1 C  
+Tdie:         +49.1 C  
+Tccd1:        +45.0 C  
+Icore:        31.00 A  
+Isoc:          9.61 A  
+

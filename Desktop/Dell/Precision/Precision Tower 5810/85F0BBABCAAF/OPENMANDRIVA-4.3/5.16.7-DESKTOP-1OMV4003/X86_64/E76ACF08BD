@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +29.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +32.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +36.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +37.0 C  (high = +86.0 C, crit = +96.0 C)
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      706.00 mV 
+fan1:         984 RPM  (min = 1900 RPM, max = 3300 RPM)
+edge:         +28.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        5.24 W  (cap =  48.00 W)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:  997 RPM  (min =    0 RPM, max = 4520 RPM)
+Other Fan:        0 RPM
+Other Fan:      590 RPM  (min =    0 RPM, max = 5000 RPM)
+CPU:            +39.0 C  
+SODIMM:         +22.0 C  
+SODIMM:         +27.0 C  
+SODIMM:         +28.0 C  
+

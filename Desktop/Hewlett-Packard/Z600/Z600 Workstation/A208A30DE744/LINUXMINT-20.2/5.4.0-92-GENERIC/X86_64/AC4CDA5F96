@@ -1,0 +1,43 @@
+smsc47b397-isa-0480
+Adapter: ISA adapter
+fan1:        3300 RPM
+fan2:        3308 RPM
+fan3:        2677 RPM
+fan4:        6783 RPM
+temp1:        +36.0 C  
+temp2:        +29.0 C  
+temp3:        +22.0 C  
+temp4:       -128.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +31.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +23.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +27.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +22.0 C  (high = +80.0 C, crit = +96.0 C)
+
+amdgpu-pci-0f00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1704 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +34.0 C  (crit = +90.0 C, hyst = -273.1 C)
+power1:        5.23 W  (cap = 160.00 W)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +33.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +24.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +29.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +28.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +33.0 C  (high = +80.0 C, crit = +96.0 C)
+
+amdgpu-pci-2800
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1616 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +28.0 C  (crit = +90.0 C, hyst = -273.1 C)
+power1:        4.09 W  (cap = 160.00 W)
+

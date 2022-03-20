@@ -1,0 +1,41 @@
+kraken2-hid-3-2
+Adapter: HID adapter
+Fan:            0 RPM
+Pump:        2077 RPM
+Coolant:      +31.4 C  
+
+amdgpu-pci-0e00
+Adapter: PCI adapter
+vddgfx:      843.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +38.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +39.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +36.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       23.00 W  (cap = 186.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.6 C  
+Tccd1:        +64.5 C  
+Tccd2:        +40.0 C  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1334 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +38.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:        5.00 W  (cap = 125.00 W)
+

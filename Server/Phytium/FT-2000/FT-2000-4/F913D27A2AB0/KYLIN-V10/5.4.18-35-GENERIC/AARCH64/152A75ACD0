@@ -1,0 +1,12 @@
+scpi_sensors-isa-0000
+Adapter: ISA adapter
+:             +47.1 C  
+:             +47.5 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +41.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        3.20 W  (cap =  25.00 W)
+

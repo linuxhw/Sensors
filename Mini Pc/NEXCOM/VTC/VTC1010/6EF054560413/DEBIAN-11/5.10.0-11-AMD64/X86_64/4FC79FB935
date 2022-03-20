@@ -1,0 +1,12 @@
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +26.8 C  (crit = +90.0 C)
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+

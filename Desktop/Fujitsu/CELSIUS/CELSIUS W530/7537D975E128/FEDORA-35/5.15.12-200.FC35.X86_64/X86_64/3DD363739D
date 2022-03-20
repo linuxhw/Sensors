@@ -1,0 +1,67 @@
+theseus-isa-0000
+Adapter: ISA adapter
+3.3V:          3.35 V  
+VREF:          1.06 V  
+VBAT:          2.92 V  
+3.3AUX:        3.35 V  
+12V:          11.98 V  
+fan1:           0 RPM
+fan2:           0 RPM
+fan3:           FAULT
+fan4:         995 RPM
+temp1:        +41.0 C  
+temp2:        +23.0 C  
+temp3:        +22.0 C  
+temp4:        +45.0 C  
+temp5:        +25.0 C  
+temp6:        +42.0 C  
+temp8:        +41.0 C  
+
+jc42-i2c-7-1a
+Adapter: SMBus I801 adapter at f040
+temp1:        +28.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-7-18
+Adapter: SMBus I801 adapter at f040
+temp1:        +29.7 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+jc42-i2c-7-1b
+Adapter: SMBus I801 adapter at f040
+temp1:        +27.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-7-19
+Adapter: SMBus I801 adapter at f040
+temp1:        +29.3 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +24.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+

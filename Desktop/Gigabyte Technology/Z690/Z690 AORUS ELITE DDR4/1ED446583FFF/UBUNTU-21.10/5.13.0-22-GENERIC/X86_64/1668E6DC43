@@ -1,0 +1,33 @@
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +27.8 C  (crit = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 0:        +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 4:        +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 8:        +27.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 12:       +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 16:       +24.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 20:       +28.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 28:       +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 29:       +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 30:       +26.0 C  (high = +70.0 C, crit = +90.0 C)
+Core 31:       +27.0 C  (high = +70.0 C, crit = +90.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+

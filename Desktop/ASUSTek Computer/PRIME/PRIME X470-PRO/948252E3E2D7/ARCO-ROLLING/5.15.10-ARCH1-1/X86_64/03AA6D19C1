@@ -1,0 +1,38 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.8 C  
+Tdie:         +30.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+
+corsairpsu-hid-3-5
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.06 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.05 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.34 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +39.5 C  (crit = +70.0 C)
+case temp:    +32.8 C  (crit = +70.0 C)
+power total:  90.00 W  
+power +12v:   62.00 W  
+power +5v:    21.00 W  
+power +3.3v:   8.50 W  
+curr +12v:     5.25 A  (crit max = +100.00 A)
+curr +5v:      4.25 A  (crit max = +40.00 A)
+curr +3.3v:    2.62 A  (crit max = +40.00 A)
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+fan1:        1622 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +34.0 C  (crit = +91.0 C, hyst = -273.1 C)
+power1:       42.14 W  (cap = 185.00 W)
+

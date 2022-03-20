@@ -1,0 +1,40 @@
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +30.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +30.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +28.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:        3.00 W  (cap = 135.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+temp3:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +26.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +26.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +28.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +28.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +27.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +25.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +27.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +26.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -20.1 C, high = +75.8 C)
+                       (crit = +77.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+

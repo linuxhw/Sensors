@@ -1,0 +1,43 @@
+max1617-i2c-20-4c
+Adapter: nvkm-0000:08:00.0-bus-0002
+temp1:        +36.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+nouveau-pci-0700
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       20.89 W  (crit = 125.00 mW)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+nouveau-pci-0800
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.82 V, max =  +1.21 V)
+temp1:        +37.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       19.94 W  (crit = 125.00 mW)
+
+amdgpu-pci-0e00
+Adapter: PCI adapter
+vddgfx:      731.00 mV 
+vddnb:         1.24 V  
+edge:         +43.0 C  
+power1:       10.00 W  
+
+adm1021-i2c-5-4c
+Adapter: nvkm-0000:07:00.0-bus-0002
+temp1:        +46.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:          FAULT  (low  =  +0.0 C, high = +85.0 C)
+
+nvme-pci-0d00
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+

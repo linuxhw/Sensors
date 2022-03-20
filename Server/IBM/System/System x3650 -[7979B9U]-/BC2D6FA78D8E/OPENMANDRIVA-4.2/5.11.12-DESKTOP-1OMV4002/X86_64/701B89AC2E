@@ -1,0 +1,62 @@
+aem2-isa-0001
+Adapter: ISA adapter
+temp1:        +16.0 C  
+temp2:        +10.0 C  
+power1:      205.76 W  (interval =   1.00 s)
+power2:      274.01 W  (interval =   1.00 s)
+power3:       33.00 W  
+power4:      412.00 W  
+power5:      307.00 W  
+power6:      288.30 W  
+power7:      225.30 W  
+energy1:     153.83 kJ
+energy2:     203.75 kJ
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +22.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +20.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +37.0 C  (high = +84.0 C, crit = +100.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +33.5 C  (low  = +87.0 C, high = +124.0 C)
+Ch. 0 DIMM 1:  +29.5 C  (low  = +82.0 C, high = +124.0 C)
+Ch. 1 DIMM 0:  +31.0 C  (low  = +82.0 C, high = +124.0 C)
+Ch. 1 DIMM 1:  +26.5 C  (low  = +82.0 C, high = +124.0 C)
+Ch. 2 DIMM 0:  +29.0 C  (low  = +88.5 C, high = +124.0 C)
+Ch. 2 DIMM 1:  +29.5 C  (low  = +91.5 C, high = +124.0 C)
+Ch. 3 DIMM 0:  +33.0 C  (low  = +82.0 C, high = +124.0 C)
+Ch. 3 DIMM 1:  +33.5 C  (low  = +82.0 C, high = +124.0 C)
+
+ibmpex-isa-0000
+Adapter: ISA adapter
+temp1:         +0.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+power1:      209.50 W  (lowest = 179.80 W, highest = 348.50 W)
+power2:      208.10 W  (lowest = 199.30 W, highest = 319.10 W)
+power3:      206.20 W  (lowest = 201.70 W, highest = 315.50 W)
+power4:      206.00 W  (lowest = 202.40 W, highest = 312.70 W)
+power5:      205.70 W  (lowest = 202.40 W, highest = 310.10 W)
+power6:      206.40 W  (lowest = 203.90 W, highest = 302.60 W)
+power7:      212.40 W  (lowest = 204.80 W, highest = 271.80 W)
+power8:      210.00 W  (lowest = 205.10 W, highest = 251.70 W)
+power9:      285.00 W  (lowest = 247.00 W, highest = 434.00 W)
+power10:     276.00 W  (lowest = 272.00 W, highest = 394.00 W)
+power11:     276.00 W  (lowest = 276.00 W, highest = 382.00 W)
+
+aem1-isa-0000
+Adapter: ISA adapter
+power1:      276.81 W  (interval =   1.00 s)
+energy1:     204.07 kJ
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +28.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:       +24.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:       +25.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:       +29.0 C  (high = +84.0 C, crit = +100.0 C)
+

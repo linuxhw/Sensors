@@ -1,0 +1,24 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +59.0 C  
+temp2:        +37.0 C  
+temp3:        +34.0 C  
+temp4:        +48.0 C  
+temp5:        +47.0 C  
+temp6:        +45.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+

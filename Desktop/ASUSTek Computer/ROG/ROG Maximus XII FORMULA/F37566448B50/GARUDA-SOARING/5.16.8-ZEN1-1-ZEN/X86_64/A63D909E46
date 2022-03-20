@@ -1,0 +1,69 @@
+hidpp_battery_0-hid-3-a
+Adapter: HID adapter
+in0:           4.12 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                        1.17 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.71 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                        0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                      144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      528.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     608.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     656.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                     600.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                     704.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                        0 RPM  (min =    0 RPM)
+fan2:                     1577 RPM  (min =    0 RPM)
+fan3:                        0 RPM  (min =    0 RPM)
+fan4:                        0 RPM  (min =    0 RPM)
+fan5:                        0 RPM  (min =    0 RPM)
+fan6:                     1134 RPM  (min =    0 RPM)
+fan7:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +32.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +33.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                  +102.0 C    sensor = thermistor
+AUXTIN1:                   +15.0 C    sensor = thermistor
+AUXTIN2:                   +10.0 C    sensor = thermistor
+AUXTIN3:                   +43.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +34.0 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +40.6 C  
+MAC Temperature:  +40.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 6:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 7:        +36.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 8:        +34.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 9:        +35.0 C  (high = +82.0 C, crit = +100.0 C)
+

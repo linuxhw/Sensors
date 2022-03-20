@@ -1,0 +1,11 @@
+nouveau-pci-0700
+Adapter: PCI adapter
+temp1:        +25.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.9 C  
+Tdie:         +43.9 C  
+

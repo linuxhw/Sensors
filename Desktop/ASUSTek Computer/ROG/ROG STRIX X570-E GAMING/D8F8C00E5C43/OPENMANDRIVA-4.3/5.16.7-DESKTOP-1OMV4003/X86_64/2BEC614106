@@ -1,0 +1,48 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+nouveau-pci-0b00
+Adapter: PCI adapter
+fan1:         873 RPM
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+ucsi_source_psy_24_00081-i2c-24-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+corsairpsu-hid-3-5
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.06 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.00 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.33 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +42.2 C  (crit = +70.0 C)
+case temp:    +35.8 C  (crit = +70.0 C)
+power total:  98.00 W  
+power +12v:   62.00 W  
+power +5v:    23.00 W  
+power +3.3v:  14.00 W  
+curr +12v:     5.50 A  (crit max = +75.00 A)
+curr +5v:      4.62 A  (crit max = +40.00 A)
+curr +3.3v:    4.25 A  (crit max = +40.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.8 C  
+Tccd1:        +38.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
