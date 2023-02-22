@@ -1,0 +1,40 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +67.0 C  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +34.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +34.0 C  (high = +86.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      856.00 mV 
+fan1:         215 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +48.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:           9.20 W  (cap = 135.00 W)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

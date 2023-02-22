@@ -1,0 +1,30 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+
+CROS_DEDICATED_CHARGER-isa-0000
+Adapter: ISA adapter
+in0:          18.70 V  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

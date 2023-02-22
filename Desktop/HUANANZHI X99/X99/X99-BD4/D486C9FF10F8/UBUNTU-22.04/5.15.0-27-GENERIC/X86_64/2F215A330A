@@ -1,0 +1,45 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      718.00 mV 
+fan1:        1019 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +34.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +34.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+slowPPT:       6.00 W  (cap = 135.00 W)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +119.8 C)
+                       (crit = +129.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 3:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 4:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 6:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 7:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 0:        +26.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 1:        +24.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 2:        +24.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 3:        +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 4:        +27.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 5:        +26.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 6:        +26.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 7:        +26.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 8:        +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 9:        +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 10:       +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 11:       +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 12:       +25.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 13:       +24.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 14:       +24.0 C  (high = +77.0 C, crit = +87.0 C)
+Core 15:       +24.0 C  (high = +77.0 C, crit = +87.0 C)
+

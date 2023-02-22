@@ -1,0 +1,40 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 25:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 26:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 27:       +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 29:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 30:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 31:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.08 V  
+fan1:        1636 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +49.0 C  (crit = +91.0 C, hyst = -273.1 C)
+PPT:          53.04 W  (cap = 185.00 W)
+

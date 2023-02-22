@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 32:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 33:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 34:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 35:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 40:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 41:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 42:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 43:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 44:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 45:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 46:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 47:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+Sensor 2:     +41.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+enp5s0-pci-0500
+Adapter: PCI adapter
+PHY Temperature:  +40.0 C  
+MAC Temperature:  +40.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+Sensor 2:     +43.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
