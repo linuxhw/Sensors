@@ -1,0 +1,36 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.85 V  
+curr1:         1.40 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-6b00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +63.0 C  (crit = +128.0 C)
+temp2:        +25.0 C  (crit = +128.0 C)
+temp3:        +46.0 C  (crit = +128.0 C)
+temp4:        +48.0 C  (crit = +128.0 C)
+temp5:        +34.0 C  (crit = +128.0 C)
+temp6:        +55.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+

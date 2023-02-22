@@ -1,0 +1,37 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.39 V  
+vddnb:       774.00 mV 
+edge:         +57.0 C  
+PPT:           5.00 mW 
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.40 V  
+SVI2_SoC:    775.00 mV 
+Tdie:         +66.0 C  (high = +95.0 C)
+Tctl:         +66.0 C  
+SVI2_P_Core:  17.45 W  
+SVI2_P_SoC:    2.49 W  
+SVI2_C_Core:  14.49 A  
+SVI2_C_SoC:    2.94 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.48 V  
+curr1:         0.00 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +60.0 C  (crit = +128.0 C)
+temp2:        +25.0 C  (crit = +128.0 C)
+temp3:        +32.0 C  (crit = +128.0 C)
+temp4:        +41.0 C  (crit = +128.0 C)
+temp5:        +29.0 C  (crit = +128.0 C)
+
