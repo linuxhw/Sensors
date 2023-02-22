@@ -1,0 +1,35 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +75.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.60 V, max =  +1.20 V)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.66 V  
+curr1:       448.00 mA 
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM  (min =    0 RPM, max = 4900 RPM)
+temp1:        +46.0 C  
+temp2:        +46.0 C  
+temp3:        +35.0 C  
+temp4:        +38.0 C  
+temp5:        +37.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
