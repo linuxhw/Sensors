@@ -1,0 +1,26 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2537 RPM
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  (crit = +128.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +62.0 C  
+

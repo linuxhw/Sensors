@@ -1,0 +1,37 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.4 C  
+Tdie:         +41.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+CPU:          +41.0 C  
+GPU:              N/A  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:            N/A  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      693.00 mV 
+vddnb:       743.00 mV 
+edge:         +40.0 C  
+slowPPT:     1000.00 uW 
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.30 V  
+

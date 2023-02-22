@@ -1,0 +1,55 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 17:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 18:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 19:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 21:       +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 22:       +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 23:       +42.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:          +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:        +0.00 A  (max =  +0.00 A)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +46.0 C  (crit = +128.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:         +17.62 V  
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:          +5.00 V  (min =  +5.00 V, max = +20.00 V)
+curr1:        +3.00 A  (max =  +5.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        3092 RPM
+CPU:          +46.0 C  
+GPU:          +48.0 C  
+temp3:        +30.0 C  
+temp4:         +0.0 C  
+temp5:        +40.0 C  
+temp6:        +45.0 C  
+temp7:        +45.0 C  
+temp8:            N/A  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +23.9 C  (low  =  -0.1 C, high = +79.8 C)
+                       (crit = +82.8 C)
+

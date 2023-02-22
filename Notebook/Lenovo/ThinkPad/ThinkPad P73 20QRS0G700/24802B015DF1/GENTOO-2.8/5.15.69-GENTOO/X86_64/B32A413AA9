@@ -1,0 +1,35 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2913 RPM
+fan2:        2164 RPM
+CPU:          +71.0 C  
+GPU:          +53.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:        +47.0 C  
+temp6:        +54.0 C  
+temp7:        +51.0 C  
+temp8:            N/A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +71.0 C  (crit = +128.0 C)
+

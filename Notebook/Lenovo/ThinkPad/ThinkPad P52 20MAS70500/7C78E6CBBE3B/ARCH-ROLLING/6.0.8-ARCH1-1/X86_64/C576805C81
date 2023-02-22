@@ -1,0 +1,55 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2254 RPM
+fan2:        2154 RPM
+CPU:          +54.0 C  
+GPU:          +49.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.66 V  
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         3.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +57.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +54.0 C  (crit = +128.0 C)
+

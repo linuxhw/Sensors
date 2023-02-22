@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +96.1 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +96.0 C  (crit = +103.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         496 RPM
+temp1:        +96.0 C  
+temp2:         +0.0 C  
+temp3:        +96.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:        +40.0 C  
+temp8:         +0.0 C  
+
