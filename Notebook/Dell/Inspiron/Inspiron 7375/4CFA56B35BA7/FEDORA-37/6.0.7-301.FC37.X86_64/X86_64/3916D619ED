@@ -1,0 +1,27 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +64.8 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.10 V  
+curr1:       1000.00 uA 
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 5654 RPM  (min =    0 RPM, max = 6301 RPM)
+CPU:            +65.0 C  
+Ambient:        +55.0 C  
+Ambient:        +53.0 C  
+SODIMM:         +42.0 C  
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +64.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +65.0 C  (crit = +102.0 C)
+

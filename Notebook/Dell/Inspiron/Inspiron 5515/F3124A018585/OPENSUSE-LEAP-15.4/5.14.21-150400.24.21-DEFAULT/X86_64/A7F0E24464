@@ -1,0 +1,37 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.9 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:       +1.31 V  
+vddnb:        +0.82 V  
+edge:         +53.0 C  
+slowPPT:       0.00 W  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:         +15.44 V  
+curr1:        +0.00 A  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 2997 RPM
+Other:          +59.0 C  
+CPU:            +42.0 C  
+Ambient:        +37.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +59.0 C  (crit = +115.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,15 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        4300 RPM  (min =    0 RPM, max = 5600 RPM)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +62.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +58.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          13.15 V  
+curr1:       766.00 mA 
+

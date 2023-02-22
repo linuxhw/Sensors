@@ -1,0 +1,28 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Docking Processor Fan: 2800 RPM
+CPU:                    +51.0 C  
+SODIMM:                 +38.0 C  
+Ambient:                +44.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +51.2 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      762.00 mV 
+vddnb:       900.00 mV 
+edge:         +51.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       51.62 mW (avg =  11.12 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.46 V  
+curr1:       1000.00 uA 
+

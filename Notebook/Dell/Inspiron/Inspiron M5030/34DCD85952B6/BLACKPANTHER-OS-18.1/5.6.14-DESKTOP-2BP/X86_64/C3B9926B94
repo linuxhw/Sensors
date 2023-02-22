@@ -1,0 +1,17 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +70.0 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:         +12.38 V  
+curr1:        +0.00 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +63.0 C  
+Other:          +63.0 C  
+Other:          +62.0 C  
+

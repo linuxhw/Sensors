@@ -1,0 +1,25 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       10.05 W  (interval =   0.01 s, crit =  14.96 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +54.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Other Fan:   3600 RPM
+CPU:          +57.0 C  
+SODIMM:       +39.0 C  
+Ambient:      +47.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +56.6 C  (high = +70.0 C)
+                       (crit = +98.0 C, hyst = +97.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          14.47 V  
+curr1:       986.00 mA 
+

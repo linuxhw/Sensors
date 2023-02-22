@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.06 V  
+curr1:       652.00 mA 
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+edge:         +47.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+slowPPT:       1.13 kW (cap =  30.00 W)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        3500 RPM  (min =    0 RPM, max = 5400 RPM)
+
