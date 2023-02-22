@@ -1,0 +1,63 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +27.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +28.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +30.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +32.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +30.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +33.0 C  (high = +81.0 C, crit = +101.0 C)
+
+radeon-pci-0800
+Adapter: PCI adapter
+temp1:        +56.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+w83793-i2c-0-2f
+Adapter: SMBus I801 adapter at 0400
+VcoreA:      936.00 mV (min =  +0.00 V, max =  +2.05 V)
+VcoreB:      942.00 mV (min =  +0.00 V, max =  +2.05 V)
+in2:           1.10 V  (min =  +0.00 V, max =  +2.05 V)
+in3:           1.47 V  (min =  +0.00 V, max =  +4.08 V)
+in4:           1.09 V  (min =  +0.00 V, max =  +4.08 V)
+in5:           3.33 V  (min =  +0.00 V, max =  +4.08 V)
+in6:         1000.00 mV (min =  +0.00 V, max =  +2.04 V)
++5V:           5.07 V  (min =  +4.52 V, max =  +5.50 V)
+5VSB:          5.05 V  (min =  +4.52 V, max =  +5.50 V)
+Vbat:          3.26 V  (min =  +2.70 V, max =  +3.30 V)
+fan1:         959 RPM  (min =    0 RPM)
+fan2:         925 RPM  (min =    0 RPM)
+fan3:        1668 RPM  (min =    0 RPM)
+fan4:        1359 RPM  (min =    0 RPM)
+fan5:        1354 RPM  (min =    0 RPM)
+fan6:           0 RPM  (min =    0 RPM)
+fan7:           0 RPM  (min =    0 RPM)
+fan8:           0 RPM  (min =    0 RPM)
+fan9:           0 RPM  (min =    0 RPM)
+fan10:          0 RPM  (min =    0 RPM)
+fan11:          0 RPM  (min =    0 RPM)
+fan12:          0 RPM  (min =    0 RPM)
+temp1:        +33.2 C  (high = +100.0 C, hyst = +95.0 C)  sensor = Intel PECI
+temp2:        +34.0 C  (high = +100.0 C, hyst = +95.0 C)  sensor = Intel PECI
+temp5:        +36.0 C  (high = +100.0 C, hyst = +95.0 C)  sensor = thermistor
+temp6:        +42.0 C  (high = +100.0 C, hyst = +95.0 C)  sensor = thermistor
+intrusion0:  OK
+beep_enable: disabled
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +33.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +35.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +36.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +31.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +31.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +35.0 C  (high = +81.0 C, crit = +101.0 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+

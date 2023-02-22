@@ -1,0 +1,93 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +30.1 C  
+Tdie:         +30.1 C  
+Tccd1:        +27.5 C  
+Tccd3:        +25.5 C  
+Tccd5:        +27.2 C  
+Tccd7:        +29.8 C  
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      169.00 W  (interval =   2.00 s)
+
+nvme-pci-c400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +82.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     68.54 J
+Ecore001:     45.88 J
+Ecore002:     46.32 J
+Ecore003:     48.97 J
+Ecore004:     49.17 J
+Ecore005:     46.65 J
+Ecore006:     46.39 J
+Ecore007:     46.47 J
+Ecore008:     46.39 J
+Ecore009:     44.76 J
+Ecore010:     45.48 J
+Ecore011:     44.50 J
+Ecore012:     49.78 J
+Ecore013:     57.59 J
+Ecore014:     65.68 J
+Ecore015:     55.97 J
+Ecore016:     50.00 J
+Ecore017:     53.03 J
+Ecore018:     45.39 J
+Ecore019:     47.61 J
+Ecore020:     45.43 J
+Ecore021:     46.39 J
+Ecore022:     47.09 J
+Ecore023:     46.66 J
+Ecore024:     48.63 J
+Ecore025:     50.35 J
+Ecore026:     50.04 J
+Ecore027:     47.79 J
+Ecore028:     45.55 J
+Ecore029:     45.86 J
+Ecore030:     46.92 J
+Ecore031:     48.13 J
+Ecore032:     46.03 J
+Ecore033:     44.50 J
+Ecore034:     45.85 J
+Ecore035:     45.52 J
+Ecore036:     44.12 J
+Ecore037:     44.38 J
+Ecore038:     43.54 J
+Ecore039:     44.07 J
+Ecore040:     46.29 J
+Ecore041:     43.85 J
+Ecore042:     47.66 J
+Ecore043:     48.77 J
+Ecore044:     46.82 J
+Ecore045:     45.54 J
+Ecore046:     45.38 J
+Ecore047:     45.66 J
+Esocket0:     13.02 kJ
+Esocket1:     13.02 kJ
+Esocket2:     13.02 kJ
+Esocket3:     13.02 kJ
+Esocket4:     11.64 kJ
+Esocket5:     11.64 kJ
+Esocket6:     11.64 kJ
+Esocket7:     11.64 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +28.9 C  
+Tdie:         +28.9 C  
+Tccd1:        +27.0 C  
+Tccd3:        +27.2 C  
+Tccd5:        +27.2 C  
+Tccd7:        +27.8 C  
+
+nvme-pci-c300
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +82.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,74 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       36.16 W  (crit = 114.64 W)
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+temp1:        +17.1 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+
+jc42-i2c-0-1e
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +30.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +20.5 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)
+
+jc42-i2c-0-1c
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +30.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +32.1 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +31.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+fam15h_power-pci-00d4
+Adapter: PCI adapter
+power1:       36.16 W  (crit = 114.64 W)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+temp1:        +17.1 C  (high = +70.0 C)
+
+jc42-i2c-0-1f
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +29.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+temp1:        +19.4 C  (high = +70.0 C)
+
+jc42-i2c-0-1d
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +30.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +30.6 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +32.6 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

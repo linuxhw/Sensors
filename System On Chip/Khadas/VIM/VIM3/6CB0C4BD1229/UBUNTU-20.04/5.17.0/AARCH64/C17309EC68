@@ -1,0 +1,13 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +59.6 C  (crit = +110.0 C)
+
+ddr_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +61.2 C  (crit = +110.0 C)
+

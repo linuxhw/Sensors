@@ -1,0 +1,79 @@
+nct7904-i2c-9-2d
+Adapter: SMBus I801 adapter at 1180
+in1:         998.00 mV (min =  +0.00 V, max =  +4.09 V)
+in2:           1.09 V  (min =  +0.00 V, max =  +4.09 V)
+in3:           1.47 V  (min =  +0.00 V, max =  +4.09 V)
+in4:           1.23 V  (min =  +0.00 V, max =  +4.09 V)
+in5:           1.24 V  (min =  +0.00 V, max =  +4.09 V)
+in6:         842.00 mV (min =  +0.00 V, max =  +4.09 V)
+in7:           1.80 V  (min =  +0.00 V, max =  +4.09 V)
+in8:         766.00 mV (min =  +0.00 V, max =  +4.09 V)
+in9:           1.13 V  (min =  +0.00 V, max =  +4.09 V)
+in10:          1.08 V  (min =  +0.00 V, max =  +4.09 V)
+in11:          1.47 V  (min =  +0.00 V, max =  +4.09 V)
+in12:          1.48 V  (min =  +0.00 V, max =  +4.09 V)
+in13:          1.48 V  (min =  +0.00 V, max =  +4.09 V)
+in14:          1.48 V  (min =  +0.00 V, max =  +4.09 V)
+in15:          3.20 V  (min =  +0.00 V, max = +12.28 V)
+in20:          3.33 V  (min =  +0.00 V, max = +12.28 V)
+fan1:        2806 RPM  (min =  164 RPM)
+fan2:        1849 RPM  (min =  164 RPM)
+fan3:        1888 RPM  (min =  164 RPM)
+fan4:        2872 RPM  (min =  164 RPM)
+fan5:        2866 RPM  (min =  164 RPM)
+fan6:        2848 RPM  (min =  164 RPM)
+fan7:        5793 RPM  (min =  164 RPM)
+fan8:        2848 RPM  (min =  164 RPM)
+fan9:           0 RPM  (min =  164 RPM)
+fan10:          0 RPM  (min =  164 RPM)
+temp5:        +38.4 C  (high = +85.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)  sensor = thermistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 0:        +37.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 1:        +40.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 2:        +39.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 3:        +37.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 4:        +37.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 5:        +41.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 8:        +37.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 9:        +39.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 10:       +41.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 11:       +40.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 12:       +40.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 13:       +40.0 C  (high = +70.0 C, crit = +84.0 C)
+
+amdgpu-pci-8500
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:        1351 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +43.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +47.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +44.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          38.00 W  (cap = 332.00 W)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +52.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 0:        +49.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 1:        +50.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 2:        +45.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 3:        +46.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 4:        +50.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 5:        +44.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 8:        +48.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 9:        +48.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 10:       +48.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 11:       +46.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 12:       +48.0 C  (high = +70.0 C, crit = +84.0 C)
+Core 13:       +47.0 C  (high = +70.0 C, crit = +84.0 C)
+
+i350bb-pci-0700
+Adapter: PCI adapter
+loc1:         +59.0 C  (high = +120.0 C, crit = +110.0 C)
+

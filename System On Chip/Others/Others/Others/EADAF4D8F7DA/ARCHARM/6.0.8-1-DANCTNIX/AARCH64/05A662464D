@@ -1,0 +1,23 @@
+rk818_battery-virtual-0
+Adapter: Virtual device
+temp1:        +18.8 C  
+
+tcpm_source_psy_4_0022-i2c-4-22
+Adapter: rk3x-i2c
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         3.00 A  (max =  +3.00 A)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.9 C  (crit = +95.0 C)
+
+rk818_battery-isa-0000
+Adapter: ISA adapter
+in0:           4.18 V  
+temp:         +18.8 C  
+curr1:       -57.00 mA 
+
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.6 C  (crit = +95.0 C)
+

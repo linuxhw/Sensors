@@ -1,0 +1,69 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 0:        +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 1:        +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 2:        +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 3:        +37.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 4:        +38.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 5:        +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 6:        +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 7:        +40.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 8:        +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 9:        +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 10:       +38.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 11:       +38.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 12:       +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 13:       +40.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 14:       +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 15:       +40.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 16:       +40.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 17:       +39.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 18:       +40.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 19:       +37.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 20:       +37.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 21:       +38.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 22:       +38.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 23:       +38.0*C  (high = +93.0*C, crit = +103.0*C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      294.00 W  (interval =   1.00 s)
+
+nvme-pci-3100
+Adapter: PCI adapter
+Composite:    +44.9*C  (low  =  -0.1*C, high = +69.8*C)
+                       (crit = +79.8*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 0:        +45.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 1:        +44.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 2:        +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 3:        +45.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 4:        +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 5:        +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 6:        +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 7:        +44.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 8:        +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 9:        +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 10:       +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 11:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 12:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 13:       +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 14:       +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 15:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 16:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 17:       +43.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 18:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 19:       +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 20:       +41.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 21:       +42.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 22:       +45.0*C  (high = +93.0*C, crit = +103.0*C)
+Core 23:       +43.0*C  (high = +93.0*C, crit = +103.0*C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +40.0*C  
+

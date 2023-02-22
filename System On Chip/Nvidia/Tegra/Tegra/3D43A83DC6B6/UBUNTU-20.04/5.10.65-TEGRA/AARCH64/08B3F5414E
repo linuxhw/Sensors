@@ -1,0 +1,33 @@
+6810000ethernet00-mdio-0
+Adapter: MDIO adapter
+temp1:        +48.8 C  (low  = +10.0 C, high = +60.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+
+ina3221-i2c-1-41
+Adapter: c240000.i2c
+in1:              N/A  
+in2:              N/A  
+in3:              N/A  
+in4:              N/A  
+in5:              N/A  
+in6:              N/A  
+in7:              N/A  
+curr1:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr2:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr3:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr4:            N/A  (crit max =  +0.00 A)
+
+ina3221-i2c-1-40
+Adapter: c240000.i2c
+in1:              N/A  
+in2:              N/A  
+in3:              N/A  
+in4:              N/A  
+in5:              N/A  
+in6:              N/A  
+in7:              N/A  
+curr1:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr2:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr3:            N/A  (max =  +0.00 A, crit max =  +0.00 A)
+curr4:            N/A  (crit max =  +0.00 A)
+

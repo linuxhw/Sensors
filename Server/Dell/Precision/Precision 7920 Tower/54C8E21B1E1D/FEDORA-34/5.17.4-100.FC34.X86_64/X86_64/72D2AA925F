@@ -1,0 +1,55 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +34.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 0:        +33.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 2:        +32.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 3:        +30.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 4:        +32.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 6:        +32.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 13:       +30.0*C  (high = +90.0*C, crit = +100.0*C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +34.0*C  
+
+nvme-pci-4600
+Adapter: PCI adapter
+Composite:    +24.9*C  (low  = -20.1*C, high = +77.8*C)
+                       (crit = +81.8*C)
+Sensor 1:     +24.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+nvme-pci-4500
+Adapter: PCI adapter
+Composite:    +23.9*C  (low  = -20.1*C, high = +77.8*C)
+                       (crit = +81.8*C)
+Sensor 1:     +23.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +36.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 0:        +35.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 6:        +35.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 9:        +33.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 10:       +33.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 11:       +34.0*C  (high = +90.0*C, crit = +100.0*C)
+Core 13:       +34.0*C  (high = +90.0*C, crit = +100.0*C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM  (min =    0 RPM, max = 4000 RPM)
+fan2:         818 RPM  (min =    0 RPM, max = 4000 RPM)
+fan3:         823 RPM  (min =    0 RPM, max = 4000 RPM)
+
+amdgpu-pci-7300
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        1147 RPM  (min =  700 RPM, max = 4500 RPM)
+edge:         +47.0*C  (crit = +99.0*C, hyst = -273.1*C)
+slowPPT:      10.05 W  (cap =  95.00 W)
+
+nvme-pci-d200
+Adapter: PCI adapter
+Composite:    +22.9*C  (low  = -20.1*C, high = +77.8*C)
+                       (crit = +81.8*C)
+Sensor 1:     +22.9*C  (low  = -273.1*C, high = +65261.8*C)
+

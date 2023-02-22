@@ -1,0 +1,66 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 0:        +33.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 1:        +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 2:        +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 3:        +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 4:        +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 5:        +33.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 8:        +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 9:        +29.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 10:       +29.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 11:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 12:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 13:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 16:       +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 17:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 18:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 19:       +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 20:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 21:       +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 24:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 25:       +31.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 26:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 27:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 28:       +30.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 29:       +29.0 C  (high = +91.0 C, crit = +101.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +31.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +43.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 0:        +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 1:        +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 2:        +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 3:        +39.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 4:        +37.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 5:        +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 8:        +36.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 9:        +37.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 10:       +37.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 11:       +41.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 12:       +40.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 13:       +43.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 16:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 17:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 18:       +39.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 19:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 20:       +39.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 21:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 24:       +36.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 25:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 26:       +36.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 27:       +37.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 28:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+Core 29:       +38.0 C  (high = +91.0 C, crit = +101.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+fan2:        1593 RPM
+fan3:        1580 RPM
+

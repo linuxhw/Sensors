@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:        +30.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:        +26.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:        +29.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:        +27.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:        +26.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:        +24.0 C  (high = +69.0 C, crit = +79.0 C)
+
+i350bb-pci-8200
+Adapter: PCI adapter
+loc1:         +48.0 C  (high = +120.0 C, crit = +110.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +35.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:        +35.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:        +30.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:        +31.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:        +28.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:        +31.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:        +24.0 C  (high = +69.0 C, crit = +79.0 C)
+
+radeon-pci-8400
+Adapter: PCI adapter
+temp1:        +40.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+i350bb-pci-0900
+Adapter: PCI adapter
+loc1:         +49.0 C  (high = +120.0 C, crit = +110.0 C)
+

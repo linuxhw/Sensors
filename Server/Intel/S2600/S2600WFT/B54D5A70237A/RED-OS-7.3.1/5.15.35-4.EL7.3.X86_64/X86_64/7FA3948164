@@ -1,0 +1,40 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +28.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 0:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 1:        +24.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 2:        +27.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 3:        +27.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 4:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 5:        +27.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 8:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 9:        +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 10:       +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 11:       +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 12:       +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 13:       +26.0 C  (high = +78.0 C, crit = +88.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      158.00 W  (interval =   1.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 0:        +29.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 1:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 2:        +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 3:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 4:        +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 5:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 8:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 9:        +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 10:       +25.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 11:       +26.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 12:       +29.0 C  (high = +78.0 C, crit = +88.0 C)
+Core 13:       +26.0 C  (high = +78.0 C, crit = +88.0 C)
+

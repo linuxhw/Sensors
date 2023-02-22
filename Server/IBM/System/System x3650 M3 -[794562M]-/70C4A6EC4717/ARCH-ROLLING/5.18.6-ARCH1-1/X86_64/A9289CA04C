@@ -1,0 +1,34 @@
+jc42-i2c-1-18
+Adapter: SMBus I801 adapter at 4000
+temp1:        +41.0 C  (low  =  +0.0 C)
+                       (high = +75.0 C, hyst = +72.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+qlcnic-pci-2400
+Adapter: PCI adapter
+temp1:        +71.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 1:       +43.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 9:       +37.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 10:      +38.0 C  (high = +82.0 C, crit = +102.0 C)
+
+jc42-i2c-1-1e
+Adapter: SMBus I801 adapter at 4000
+temp1:        +41.5 C  (low  =  +0.0 C)
+                       (high = +75.0 C, hyst = +72.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+
+qlcnic-pci-2401
+Adapter: PCI adapter
+temp1:        +71.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 1:       +49.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 9:       +48.0 C  (high = +82.0 C, crit = +102.0 C)
+Core 10:      +50.0 C  (high = +82.0 C, crit = +102.0 C)
+

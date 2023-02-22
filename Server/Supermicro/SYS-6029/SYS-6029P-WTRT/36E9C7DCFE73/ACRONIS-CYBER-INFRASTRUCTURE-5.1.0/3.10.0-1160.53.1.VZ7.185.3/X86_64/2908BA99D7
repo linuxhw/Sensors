@@ -1,0 +1,44 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      348.00 W  (interval = 4294967.29 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +44.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +37.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 5:        +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 6:        +40.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 7:        +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 8:        +40.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 9:        +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 10:       +45.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 11:       +38.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 12:       +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 13:       +40.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 14:       +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 15:       +40.0 C  (high = +92.0 C, crit = +102.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +56.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +52.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +46.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +56.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 5:        +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 6:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 7:        +49.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 8:        +44.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 9:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 10:       +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 11:       +45.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 12:       +45.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 13:       +52.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 14:       +45.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 15:       +47.0 C  (high = +92.0 C, crit = +102.0 C)
+

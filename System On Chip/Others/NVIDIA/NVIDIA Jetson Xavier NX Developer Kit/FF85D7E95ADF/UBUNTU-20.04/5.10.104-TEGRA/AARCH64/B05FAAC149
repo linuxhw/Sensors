@@ -1,0 +1,18 @@
+ina3221-i2c-7-40
+Adapter: c250000.i2c
+VDD_IN:                  4.98 V  
+VDD_CPU_GPU_CV:          4.98 V  
+VDD_SOC:                 4.98 V  
+in4:                     5.56 V  
+in5:                     1.20 V  
+in6:                     1.24 V  
+sum of shunt voltages:   9.04 V  
+curr1:                   1.11 A  (max =  +4.00 A, crit max =  +5.00 A)
+curr2:                 240.00 mA (max = +32.76 A, crit max = +32.76 A)
+curr3:                 256.00 mA (max = +32.76 A, crit max = +32.76 A)
+curr4:                   1.93 A  (crit max = +131.06 A)
+
+thermal_fan_est-virtual-0
+Adapter: Virtual device
+temp1:        +44.6 C  
+

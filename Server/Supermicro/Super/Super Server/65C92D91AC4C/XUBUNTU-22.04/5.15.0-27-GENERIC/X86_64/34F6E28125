@@ -1,0 +1,25 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:       57.00 W  (interval =   1.00 s)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +31.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 9:        +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 16:       +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 19:       +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 26:       +29.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 27:       +31.0 C  (high = +92.0 C, crit = +102.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+

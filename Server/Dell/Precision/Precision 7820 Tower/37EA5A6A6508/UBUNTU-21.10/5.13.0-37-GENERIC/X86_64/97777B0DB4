@@ -1,0 +1,35 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +78.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 0:        +73.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 1:        +71.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 2:        +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 3:        +73.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 4:        +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 5:        +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 6:        +78.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 7:        +75.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 8:        +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 9:        +73.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 10:       +75.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 11:       +73.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 12:       +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 13:       +73.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 14:       +74.0 C  (high = +81.0 C, crit = +91.0 C)
+Core 15:       +73.0 C  (high = +81.0 C, crit = +91.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+fan2:           0 RPM
+fan3:         707 RPM
+

@@ -1,0 +1,51 @@
+nouveau-pci-2100
+Adapter: PCI adapter
+fan1:        1435 RPM
+temp1:        +55.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 8:        +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 9:        +40.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 10:       +38.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 11:       +39.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 12:       +40.0 C  (high = +79.0 C, crit = +89.0 C)
+
+nvme-pci-1600
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +46.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +46.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 8:        +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 9:        +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 10:       +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 11:       +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 12:       +46.0 C  (high = +79.0 C, crit = +89.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+

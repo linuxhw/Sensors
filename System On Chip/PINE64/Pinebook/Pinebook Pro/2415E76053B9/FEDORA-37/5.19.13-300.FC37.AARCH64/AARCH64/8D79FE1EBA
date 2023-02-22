@@ -1,0 +1,18 @@
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +46.2 C  (crit = +95.0 C)
+
+cw2015_battery-i2c-4-62
+Adapter: rk3x-i2c
+in0:           4.29 V  
+curr1:         0.00 A  
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +48.8 C  (crit = +95.0 C)
+
+tcpm_source_psy_4_0022-i2c-4-22
+Adapter: rk3x-i2c
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+

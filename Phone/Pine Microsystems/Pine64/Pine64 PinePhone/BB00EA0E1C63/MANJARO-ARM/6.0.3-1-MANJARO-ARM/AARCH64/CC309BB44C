@@ -1,0 +1,26 @@
+axp20x_usb-isa-0000
+Adapter: ISA adapter
+in0:              N/A  (min =  +4.50 V)
+
+gpu1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.8 C  
+
+cpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +46.5 C  (crit = +110.0 C)
+
+ip5xxx_battery-i2c-3-75
+Adapter: pinephone-keyboard
+in0:           4.04 V  
+curr1:       -637.00 mA 
+
+axp20x_battery-isa-0000
+Adapter: ISA adapter
+in0:           3.79 V  
+curr1:       -77.00 mA 
+
+gpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+

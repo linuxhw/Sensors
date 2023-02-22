@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Temp:     +37.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:       +34.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:       +35.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:       +37.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:       +33.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:       +37.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:       +33.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:       +35.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:       +35.0 C  (high = +79.0 C, crit = +89.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+ACPI System Temp:   +8.3 C  (crit = +31.3 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+CPU Temp:     +35.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:       +32.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:       +32.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:       +34.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:       +28.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:       +27.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:       +28.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:       +29.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:       +35.0 C  (high = +79.0 C, crit = +89.0 C)
+
+i350bb-pci-0303
+Adapter: PCI adapter
+RAID Board Temp:  +53.0 C  (high = +120.0 C, crit = +110.0 C)
+

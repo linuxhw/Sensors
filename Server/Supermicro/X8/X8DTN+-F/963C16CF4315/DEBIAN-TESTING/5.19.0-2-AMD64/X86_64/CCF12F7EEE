@@ -1,0 +1,51 @@
+w83795adg-i2c-0-2f
+Adapter: SMBus I801 adapter at 0400
+in0:         904.00 mV (min =  +0.67 V, max =  +1.49 V)
+in1:           1.07 V  (min =  +0.67 V, max =  +1.49 V)
+in2:           1.53 V  (min =  +1.35 V, max =  +1.65 V)
+in3:           1.27 V  (min =  +1.13 V, max =  +1.38 V)
+in4:           1.84 V  (min =  +1.63 V, max =  +2.00 V)
+in5:           1.26 V  (min =  +1.13 V, max =  +1.38 V)
+in6:           1.55 V  (min =  +1.20 V, max =  +1.65 V)
+in7:           1.54 V  (min =  +1.20 V, max =  +1.65 V)
+in11:          1.13 V  (min =  +0.00 V, max =  +2.05 V)
++3.3V:         3.26 V  (min =  +2.96 V, max =  +3.63 V)
+3VSB:          3.29 V  (min =  +2.96 V, max =  +3.63 V)
+Vbat:          3.26 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        1215 RPM  (min =  709 RPM)
+fan2:         915 RPM  (min =  709 RPM)
+fan3:         878 RPM  (min =  709 RPM)
+fan4:           0 RPM  (min =  709 RPM)  ALARM
+fan5:        1057 RPM  (min =  709 RPM)
+fan6:           0 RPM  (min =  709 RPM)  ALARM
+fan7:        1114 RPM  (min =  709 RPM)
+fan8:        1086 RPM  (min =  709 RPM)
+fan9:           0 RPM  (min =  329 RPM)  ALARM
+temp1:        +81.0 C  (high = +85.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)  sensor = thermal diode
+temp5:        +35.2 C  (high = +85.0 C, hyst = +80.0 C)
+                       (crit = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+temp7:        +47.0 C  (high = +95.0 C, hyst = +92.0 C)
+                       (crit = +95.0 C, hyst = +92.0 C)  sensor = Intel PECI
+temp8:        +40.8 C  (high = +95.0 C, hyst = +92.0 C)
+                       (crit = +95.0 C, hyst = +92.0 C)  sensor = Intel PECI
+intrusion0:  OK
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +42.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +41.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +40.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +40.0 C  (high = +80.0 C, crit = +96.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +27.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 1:       +35.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 2:       +30.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 8:       +34.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 9:       +37.0 C  (high = +80.0 C, crit = +96.0 C)
+Core 10:      +30.0 C  (high = +80.0 C, crit = +96.0 C)
+

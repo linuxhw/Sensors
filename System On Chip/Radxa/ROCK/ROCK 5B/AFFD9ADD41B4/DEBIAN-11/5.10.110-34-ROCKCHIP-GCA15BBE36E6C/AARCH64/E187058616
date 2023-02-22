@@ -1,0 +1,33 @@
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+littlecore_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  
+
+bigcore0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+tcpm_source_psy_4_0022-i2c-4-22
+Adapter: rk3x-i2c
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+npu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+center_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+bigcore1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  
+
+soc_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  (crit = +115.0 C)
+

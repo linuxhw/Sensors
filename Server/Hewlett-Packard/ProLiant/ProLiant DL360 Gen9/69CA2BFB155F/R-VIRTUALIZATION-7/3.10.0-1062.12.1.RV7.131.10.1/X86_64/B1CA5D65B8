@@ -1,0 +1,56 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        0.00 W  (interval = 300.00 s)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +58.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +52.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +51.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +50.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +50.0 C  (high = +90.0 C, crit = +100.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +71.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +67.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +66.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +65.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +64.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +63.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +64.0 C  (high = +90.0 C, crit = +100.0 C)
+
+tg3-pci-0200
+Adapter: PCI adapter
+temp1:        +57.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0201
+Adapter: PCI adapter
+temp1:        +57.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0202
+Adapter: PCI adapter
+temp1:        +57.0 C  (high = +100.0 C, crit = +110.0 C)
+
+tg3-pci-0203
+Adapter: PCI adapter
+temp1:        +57.0 C  (high = +100.0 C, crit = +110.0 C)
+

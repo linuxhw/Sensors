@@ -1,0 +1,103 @@
+wlan_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.1 C  
+
+pmi8998_charger-isa-0000
+Adapter: ISA adapter
+in0:           4.80 V  
+curr1:         1.21 A  (max =  +1.40 A)
+
+q6_modem_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.8 C  
+
+cpu5_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.8 C  (crit = +110.0 C)
+
+bq27411_0-virtual-0
+Adapter: Virtual device
+temp1:        +36.3 C  
+
+gpu_bottom_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +42.8 C  
+
+cluster1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.5 C  (crit = +110.0 C)
+
+modem_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.1 C  
+
+cpu7_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.5 C  (crit = +110.0 C)
+
+cpu3_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.8 C  (crit = +110.0 C)
+
+video_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.5 C  
+
+cpu1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.8 C  (crit = +110.0 C)
+
+q6_hvx_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.8 C  
+
+aoss0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.8 C  
+
+mem_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.8 C  
+
+cpu6_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +43.8 C  (crit = +110.0 C)
+
+bq27411_0-i2c-10-55
+Adapter: Geni-I2C
+in0:           4.34 V  
+temp:         +36.3 C  
+curr1:       906.00 mA 
+
+aoss1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.5 C  
+
+cpu4_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.5 C  (crit = +110.0 C)
+
+pm8998_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  (crit = +125.0 C)
+
+gpu_top_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +42.5 C  
+
+cluster0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.8 C  (crit = +110.0 C)
+
+cpu2_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.8 C  (crit = +110.0 C)
+
+camera_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +45.4 C  
+
+cpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +44.8 C  (crit = +110.0 C)
+

@@ -1,0 +1,41 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +36.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 5:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 6:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 7:        +29.0 C  (high = +80.0 C, crit = +90.0 C)
+
+nct6776-isa-0a30
+Adapter: ISA adapter
+Vcore:                   1.46 V  (min =  +1.02 V, max =  +1.69 V)
+in1:                     1.84 V  (min =  +1.55 V, max =  +2.02 V)
+AVCC:                    3.31 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.31 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.22 V  (min =  +0.97 V, max =  +1.65 V)
+in5:                     1.25 V  (min =  +1.07 V, max =  +1.39 V)
+in6:                     1.04 V  (min =  +0.89 V, max =  +1.23 V)
+3VSB:                    3.33 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.18 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:                   540 RPM  (min =  712 RPM)  ALARM
+fan2:                   513 RPM  (min =  712 RPM)  ALARM
+fan3:                   519 RPM  (min =  712 RPM)  ALARM
+fan4:                   776 RPM  (min =  712 RPM)
+fan5:                   764 RPM  (min =  712 RPM)
+SYSTIN:                 +37.0 C  (high = +85.0 C, hyst = +80.0 C)  sensor = thermistor
+CPUTIN:                 +32.5 C  (high = +85.0 C, hyst = +80.0 C)  sensor = thermistor
+AUXTIN:                 +24.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PECI Agent 0:            +0.0 C  (high = +98.0 C, hyst = +95.0 C)  ALARM
+                                 (crit = +100.0 C)
+PCH_CHIP_CPU_MAX_TEMP:  +38.0 C  (high = +95.0 C, hyst = +75.0 C)
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+cpu0_vid:              +0.000 V
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           enabled
+

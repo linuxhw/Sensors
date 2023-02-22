@@ -1,0 +1,12 @@
+gpio_fan-isa-0000
+Adapter: ISA adapter
+fan1:        1600 RPM  (min =    0 RPM, max = 1600 RPM)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +32.3 C  (crit = +110.0 C)
+
+ddr_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +34.6 C  (crit = +110.0 C)
+

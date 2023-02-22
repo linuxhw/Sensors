@@ -1,0 +1,120 @@
+cwlan_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.3 C  (crit = +110.0 C)
+
+video_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  (crit = +110.0 C)
+
+gpuss1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.1 C  (crit = +110.0 C)
+
+cpuss1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.3 C  (crit = +110.0 C)
+
+mdm_dsp_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.9 C  (crit = +110.0 C)
+
+cpu9_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.3 C  (crit = +110.0 C)
+
+cpu5_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  (crit = +110.0 C)
+
+camera_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.6 C  (crit = +110.0 C)
+
+cpu7_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.3 C  (crit = +110.0 C)
+
+cpu3_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +38.1 C  (crit = +110.0 C)
+
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+q6_hvx_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.9 C  (crit = +110.0 C)
+
+cpu1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +38.1 C  (crit = +110.0 C)
+
+audio_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.9 C  (crit = +110.0 C)
+
+aoss0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.7 C  (crit = +110.0 C)
+
+sbs_12_000b-virtual-0
+Adapter: Virtual device
+temp1:        +29.9 C  
+
+aoss1_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  (crit = +110.0 C)
+
+cpu6_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.7 C  (crit = +110.0 C)
+
+npu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.6 C  (crit = +110.0 C)
+
+gpuss0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +35.8 C  (crit = +110.0 C)
+
+cpuss0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  (crit = +110.0 C)
+
+mdm_core_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.6 C  (crit = +110.0 C)
+
+cpu8_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  (crit = +110.0 C)
+
+cpu4_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +110.0 C)
+
+cpu2_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +38.1 C  (crit = +110.0 C)
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           9.96 V  
+curr1:            N/A  (max =  +1.50 A)
+
+ddr_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +36.3 C  (crit = +110.0 C)
+
+cpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.3 C  (crit = +110.0 C)
+
+sbs_12_000b-i2c-12-0b
+Adapter: cros-ec-i2c-tunnel
+in0:           8.61 V  
+temp:         +29.9 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+

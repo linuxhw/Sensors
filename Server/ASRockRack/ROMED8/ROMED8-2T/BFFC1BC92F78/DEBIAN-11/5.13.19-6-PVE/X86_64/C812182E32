@@ -1,0 +1,27 @@
+bnxt_en-pci-4201
+Adapter: PCI adapter
+temp1:        +59.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +34.5 C  
+Tdie:         +34.5 C  
+Tccd1:        +29.8 C  
+Tccd3:        +30.2 C  
+Tccd5:        +33.0 C  
+Tccd7:        +30.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+bnxt_en-pci-4200
+Adapter: PCI adapter
+temp1:        +59.0 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

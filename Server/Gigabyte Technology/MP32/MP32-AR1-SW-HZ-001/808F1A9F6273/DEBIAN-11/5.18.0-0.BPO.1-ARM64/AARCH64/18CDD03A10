@@ -1,0 +1,24 @@
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +79.8 C)
+                       (crit = +82.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +79.8 C)
+                       (crit = +82.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+apm_xgene-isa-0000
+Adapter: ISA adapter
+SoC Temperature:  +49.0 C  
+CPU power:        17.40 W  
+IO power:          8.84 W  
+
+i350bb-pci-30200
+Adapter: PCI adapter
+loc1:         +45.0 C  (high = +120.0 C, crit = +110.0 C)
+
