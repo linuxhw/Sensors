@@ -1,0 +1,18 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.14 V  
+curr1:         0.00 A  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +65.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +72.0 C  (crit = +128.0 C)
+temp2:        +65.0 C  (crit = +128.0 C)
+temp3:        +50.0 C  (crit = +128.0 C)
+temp4:        +61.0 C  (crit = +128.0 C)
+temp5:        +30.0 C  (crit = +128.0 C)
+temp6:       +127.0 C  (crit = +128.0 C)
+
