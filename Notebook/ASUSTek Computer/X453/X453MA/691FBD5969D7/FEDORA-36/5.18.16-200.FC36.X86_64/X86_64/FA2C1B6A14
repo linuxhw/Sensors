@@ -1,0 +1,26 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +59.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +59.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.60 V  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2900 RPM
+temp1:       +6280.4 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +60.0 C  (crit = +104.0 C)
+
