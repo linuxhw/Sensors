@@ -1,0 +1,18 @@
+macsmc_ac-isa-0000
+Adapter: ISA adapter
+in0:          20.00 V  
+
+macsmc_battery-virtual-0
+Adapter: Virtual device
+temp1:        +30.3 C  
+
+nvme-isa-0000
+Adapter: ISA adapter
+Composite:    +33.9 C  
+
+macsmc_battery-isa-0000
+Adapter: ISA adapter
+in0:          12.96 V  
+temp:         +30.3 C  
+curr1:         1.28 A  
+

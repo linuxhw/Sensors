@@ -1,0 +1,27 @@
+iio_hwmon_axp-isa-0000
+Adapter: ISA adapter
+in1:           0.00 V  
+temp1:        +33.9 C  
+curr1:         0.00 A  
+
+axp20x_battery-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:         0.00 A  
+
+cpu0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +79.8 C  (crit = +140.0 C)
+
+iio_hwmon_axp_temp-isa-0000
+Adapter: ISA adapter
+temp1:        +33.7 C  
+
+lm75b-i2c-2-48
+Adapter: mv64xxx_i2c adapter
+temp1:        +42.8 C  (high = +80.0 C, hyst = +75.0 C)
+
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +77.3 C  
+

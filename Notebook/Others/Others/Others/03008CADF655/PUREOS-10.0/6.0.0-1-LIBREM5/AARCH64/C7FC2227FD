@@ -1,0 +1,38 @@
+max170xx_battery-virtual-0
+Adapter: Virtual device
+temp1:        +37.9 C  
+
+bq25890_charger-virtual-0
+Adapter: Virtual device
+temp1:        +35.5 C  
+
+vpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  (crit = +90.0 C)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +90.0 C)
+
+max170xx_battery-i2c-3-36
+Adapter: 30a50000.i2c
+in0:           4.17 V  (min =  +3.96 V, max =  +4.20 V)
+                       (avg =  +4.17 V)
+temp:         +37.9 C  (low  =  +0.0 C, high = +70.0 C)  ALARM (LOW)
+curr1:         4.00 mA (avg =  +0.01 A)
+
+bq25890_charger-i2c-3-6a
+Adapter: 30a50000.i2c
+in0:           4.22 V  
+temp:         +35.5 C  
+curr1:         0.00 A  
+
+tps6598x_source_psy_0_003f-i2c-0-3f
+Adapter: 30a20000.i2c
+in0:              N/A  (max =  +5.00 V)
+curr1:            N/A  (max =  +3.00 A)
+
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +90.0 C)
+
