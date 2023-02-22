@@ -1,0 +1,109 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+PCI :        1739 RPM  (min =  800 RPM, max = 4500 RPM)
+PS :         1081 RPM  (min =  600 RPM, max = 2800 RPM)
+EXHAUST :    2799 RPM  (min =  600 RPM, max = 2800 RPM)
+INTAKE :     2798 RPM  (min =  600 RPM, max = 2800 RPM)
+BOOSTA :     5199 RPM  (min =  800 RPM, max = 5200 RPM)
+BOOSTB :     5199 RPM  (min =  800 RPM, max = 5200 RPM)
+TA0P:         +30.2 C  
+TCAC:         +48.2 C  
+TCAD:         +49.8 C  
+TCAG:         +30.8 C  
+TCAH:         +33.0 C  
+TCAS:         +33.0 C  
+TCBC:         +51.8 C  
+TCBD:         +49.0 C  
+TCBG:         +30.5 C  
+TCBH:         +31.5 C  
+TCBS:         +31.5 C  
+TH1F:         +29.8 C  
+TH1P:         +29.8 C  
+TH1V:         +30.2 C  
+TH2F:         +31.0 C  
+TH2P:         +31.0 C  
+TH2V:         +30.2 C  
+TH3F:         +31.0 C  
+TH3P:         +31.0 C  
+TH3V:         +30.2 C  
+TH4F:         +30.2 C  
+TH4P:         +30.2 C  
+TH4V:         +31.2 C  
+THPS:         +31.2 C  
+THTG:         +58.0 C  
+TM1P:         +33.2 C  
+TM2P:         +33.2 C  
+TM2V:        -127.0 C  
+TM3P:         +36.0 C  
+TM3V:        -127.0 C  
+TM4P:         +36.5 C  
+TM5P:         +44.0 C  
+TM6P:         +45.2 C  
+TM6V:         +30.2 C  
+TM7P:         +37.0 C  
+TM7V:         +30.2 C  
+TM8P:         +29.5 C  
+TM8V:         +32.2 C  
+TM9V:         +34.5 C  
+TMA1:         +37.8 C  
+TMA2:         +38.2 C  
+TMA3:         +35.2 C  
+TMA4:         +34.5 C  
+TMB1:         +35.8 C  
+TMB2:         +35.8 C  
+TMB3:         +32.2 C  
+TMB4:         +31.8 C  
+TMHS:         +38.2 C  
+TMLS:         +31.8 C  
+TMPS:         +38.2 C  
+TMPV:         +32.2 C  
+TMTG:         +75.0 C  
+TN0D:        +125.2 C  
+TN0H:         +32.5 C  
+TNTG:         +65.0 C  
+Te1F:        -127.0 C  
+Te1P:         +31.8 C  
+Te1S:        -127.0 C  
+Te2F:        -127.0 C  
+Te2S:        -127.0 C  
+Te3F:        -127.0 C  
+Te3S:        -127.0 C  
+Te4F:        -127.0 C  
+Te4S:        -127.0 C  
+Te5F:        -127.0 C  
+Te5S:        -127.0 C  
+TeGG:         +85.0 C  
+TeGP:          +0.0 C  
+TeRG:         +60.0 C  
+TeRP:          +0.0 C  
+TeRV:        -127.0 C  
+Tp0C:         +35.2 C  
+Tp1C:         +32.2 C  
+TpPS:         +35.2 C  
+TpTG:         +90.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +44.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +50.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +41.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +40.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +46.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +46.0 C  (high = +81.0 C, crit = +101.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:        1164 RPM  (min =    0 RPM, max = 5500 RPM)
+edge:         +53.0 C  (crit = +99.0 C, hyst = -273.1 C)
+power1:       17.04 W  (cap =  47.00 W)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +36.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +42.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +41.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +36.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +37.0 C  (high = +81.0 C, crit = +101.0 C)
+

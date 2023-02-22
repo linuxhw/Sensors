@@ -1,0 +1,46 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4900 RPM)
+edge:         +28.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +30.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +32.0 C  (crit = +150.0 C, hyst = -273.1 C)
+                       (emerg = +155.0 C)
+power1:        6.00 W  (cap = 300.00 W)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +42.1 C  
+MAC Temperature:  +41.9 C  
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +26.8 C  (crit = +99.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +33.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 2:        +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 4:        +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 5:        +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 8:        +30.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 9:        +29.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 10:       +26.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 12:       +27.0 C  (high = +87.0 C, crit = +97.0 C)
+Core 13:       +29.0 C  (high = +87.0 C, crit = +97.0 C)
+
+enp3s0-pci-0300
+Adapter: PCI adapter
+PHY Temperature:  +43.7 C  
+MAC Temperature:  +43.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +23.9 C  
+

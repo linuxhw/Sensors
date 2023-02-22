@@ -1,0 +1,104 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +39.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +38.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +36.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +42.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +38.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +37.0 C  (high = +81.0 C, crit = +101.0 C)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:    862.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:        1230 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       24.58 W  (crit = 265.00 mW)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+PCI :        1613 RPM  (min =  800 RPM, max = 4500 RPM)
+PS :         1003 RPM  (min =  600 RPM, max = 2800 RPM)
+EXHAUST :     818 RPM  (min =  600 RPM, max = 2800 RPM)
+INTAKE :      817 RPM  (min =  600 RPM, max = 2800 RPM)
+BOOSTA :     1517 RPM  (min =  800 RPM, max = 5200 RPM)
+BOOSTB :     1520 RPM  (min =  800 RPM, max = 5200 RPM)
+TA0P:         +34.8 C  
+TCAC:         +49.5 C  
+TCAD:         +50.8 C  
+TCAG:         +80.0 C  
+TCAH:         +48.0 C  
+TCAS:         +48.0 C  
+TCBC:         +56.0 C  
+TCBD:         +43.8 C  
+TCBG:         +80.0 C  
+TCBH:         +41.0 C  
+TCBS:         +41.0 C  
+TH1F:         +32.2 C  
+TH1P:         +32.2 C  
+TH1V:         +34.8 C  
+TH2F:         +34.8 C  
+TH2P:         +34.8 C  
+TH2V:         +34.8 C  
+TH3F:         +35.0 C  
+TH3P:         +35.2 C  
+TH3V:         +34.8 C  
+TH4F:         +34.0 C  
+TH4P:         +34.0 C  
+TH4V:         +34.8 C  
+THPS:         +34.8 C  
+THTG:         +58.0 C  
+TM1P:         +43.5 C  
+TM2P:         +44.8 C  
+TM3P:         +49.8 C  
+TM4P:         +50.2 C  
+TM5P:         +49.5 C  
+TM6P:         +52.2 C  
+TM7P:         +46.2 C  
+TM8P:         +37.8 C  
+TMA1:        -128.0 C  
+TMA2:        -128.0 C  
+TMA3:        -128.0 C  
+TMA4:        -128.0 C  
+TMB1:         +41.0 C  
+TMB2:        -128.0 C  
+TMB3:        -128.0 C  
+TMB4:        -128.0 C  
+TMHS:        -128.0 C  
+TMLS:         +41.0 C  
+TMPS:         +42.2 C  
+TMPV:         +42.2 C  
+TMTG:         +75.0 C  
+TN0D:         +76.2 C  
+TN0H:         +64.8 C  
+TNTG:         +65.0 C  
+Te1F:        -127.0 C  
+Te1P:         +34.2 C  
+Te1S:        -127.0 C  
+Te2F:        -127.0 C  
+Te2S:        -127.0 C  
+Te3F:        -127.0 C  
+Te3S:        -127.0 C  
+Te4F:        -127.0 C  
+Te4S:        -127.0 C  
+Te5F:        -127.0 C  
+Te5S:        -127.0 C  
+TeGG:         +85.0 C  
+TeGP:          +0.0 C  
+TeRG:         +60.0 C  
+TeRP:          +0.0 C  
+Tp0C:         +47.5 C  
+Tp1C:         +41.5 C  
+TpPS:         +47.5 C  
+TpTG:         +90.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +45.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +51.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +48.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +47.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +51.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +43.0 C  (high = +81.0 C, crit = +101.0 C)
+

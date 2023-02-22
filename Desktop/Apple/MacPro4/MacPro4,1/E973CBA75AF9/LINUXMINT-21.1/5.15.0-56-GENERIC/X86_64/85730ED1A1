@@ -1,0 +1,98 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +56.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +0.95 V, max =  +1.00 V)
+fan1:        1819 RPM
+temp1:        +50.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +125.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst = +10.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+PCI :         799 RPM  (min =  800 RPM, max = 4500 RPM)
+PS :          600 RPM  (min =  600 RPM, max = 2800 RPM)
+EXHAUST :     599 RPM  (min =  600 RPM, max = 2800 RPM)
+INTAKE :      599 RPM  (min =  600 RPM, max = 2800 RPM)
+BOOSTA :      856 RPM  (min =  800 RPM, max = 4000 RPM)
+TA0P:         +27.5 C  
+TCAC:         +40.2 C  
+TCAD:         +53.8 C  
+TCAG:         +80.0 C  
+TCAH:         +48.5 C  
+TCAS:         +48.5 C  
+TCBC:        -127.0 C  
+TCBD:        -127.0 C  
+TCBG:         +80.0 C  
+TCBH:        -127.0 C  
+TCBS:          +0.0 C  
+TH1F:         +26.8 C  
+TH1P:         +27.0 C  
+TH1V:         +27.5 C  
+TH2F:         +30.0 C  
+TH2P:         +30.2 C  
+TH2V:         +31.0 C  
+TH3F:         +31.0 C  
+TH3P:         +31.2 C  
+TH3V:         +34.5 C  
+TH4F:         +29.5 C  
+TH4P:         +30.0 C  
+TH4V:         +34.8 C  
+THPS:         +34.8 C  
+THTG:         +58.0 C  
+TM1P:         +36.5 C  
+TM2P:         +38.5 C  
+TM2V:         +42.2 C  
+TM3P:         +41.8 C  
+TM3V:         +41.2 C  
+TM4P:         +41.8 C  
+TM5P:        -127.0 C  
+TM6P:        -127.0 C  
+TM6V:        -127.0 C  
+TM7P:        -127.0 C  
+TM7V:        -127.0 C  
+TM8P:        -127.0 C  
+TM8V:        -127.0 C  
+TM9V:        -127.0 C  
+TMA1:        -128.0 C  
+TMA2:        -128.0 C  
+TMA3:         +43.0 C  
+TMA4:         +43.0 C  
+TMB1:        -127.0 C  
+TMB2:        -127.0 C  
+TMB3:        -127.0 C  
+TMB4:        -127.0 C  
+TMHS:        -128.0 C  
+TMLS:         +43.0 C  
+TMPS:         +41.2 C  
+TMPV:         +41.2 C  
+TMTG:         +75.0 C  
+TN0D:        +120.5 C  
+TN0H:         +41.8 C  
+TNTG:         +65.0 C  
+Te1F:        -128.0 C  
+Te1P:         +29.8 C  
+Te1S:        -128.0 C  
+Te2F:        -127.0 C  
+Te2S:        -127.0 C  
+Te3F:        -127.0 C  
+Te3S:        -127.0 C  
+Te4F:        -127.0 C  
+Te4S:        -127.0 C  
+Te5F:        -127.0 C  
+Te5S:        -127.0 C  
+TeGG:         +85.0 C  
+TeGP:          +0.0 C  
+TeRG:         +60.0 C  
+TeRP:          +0.0 C  
+TeRV:        -127.0 C  
+Tp0C:         +32.8 C  
+Tp1C:         +34.2 C  
+TpPS:         +34.2 C  
+TpTG:         +90.0 C  
+

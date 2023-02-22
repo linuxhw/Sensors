@@ -1,0 +1,20 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.1 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +109.8 C)
+
+hidpp_battery_2-hid-3-12
+Adapter: HID adapter
+in0:           4.00 V  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      693.00 mV 
+vddnb:       843.00 mV 
+edge:         +27.0 C  
+slowPPT:     1000.00 uW 
+

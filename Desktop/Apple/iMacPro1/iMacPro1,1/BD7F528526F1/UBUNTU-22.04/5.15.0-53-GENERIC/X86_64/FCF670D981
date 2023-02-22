@@ -1,0 +1,33 @@
+amdgpu-pci-f300
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max =    0 RPM)
+edge:         +37.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +38.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+mem:          +39.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:       7.00 W  (cap = 210.00 W)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +34.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 7:        +39.0 C  (high = +90.0 C, crit = +100.0 C)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +54.0 C  
+MAC Temperature:  +54.8 C  
+

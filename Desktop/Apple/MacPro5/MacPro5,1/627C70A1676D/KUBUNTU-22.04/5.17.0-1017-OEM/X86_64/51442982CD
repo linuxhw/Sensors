@@ -1,0 +1,93 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+PCI :         799 RPM  (min =  800 RPM, max = 4500 RPM)
+PS :          599 RPM  (min =  600 RPM, max = 2800 RPM)
+EXHAUST :     600 RPM  (min =  600 RPM, max = 2800 RPM)
+INTAKE :      601 RPM  (min =  600 RPM, max = 2800 RPM)
+BOOSTA :      856 RPM  (min =  800 RPM, max = 4000 RPM)
+TA0P:         +32.5 C  
+TCAC:         +49.5 C  
+TCAD:         +42.5 C  
+TCAG:         +80.0 C  
+TCAH:         +39.2 C  
+TCAS:         +39.2 C  
+TCBC:        -127.0 C  
+TCBD:        -127.0 C  
+TCBG:         +80.0 C  
+TCBH:        -127.0 C  
+TCBS:          +0.0 C  
+TH1F:         +33.0 C  
+TH1P:         +33.0 C  
+TH1V:         +37.5 C  
+TH2F:         +35.5 C  
+TH2P:         +35.8 C  
+TH2V:         +39.2 C  
+TH3F:         +36.0 C  
+TH3P:         +36.2 C  
+TH3V:         +40.5 C  
+TH4F:         +33.5 C  
+TH4P:         +33.5 C  
+TH4V:         +37.8 C  
+THPS:         +40.5 C  
+THTG:         +58.0 C  
+TM1P:         +37.5 C  
+TM2P:         +38.8 C  
+TM3P:         +42.0 C  
+TM4P:         +41.8 C  
+TM5P:        -127.0 C  
+TM6P:        -127.0 C  
+TM7P:        -127.0 C  
+TM8P:        -127.0 C  
+TMA1:         +39.2 C  
+TMA2:        -127.0 C  
+TMA3:        -127.0 C  
+TMA4:         +40.0 C  
+TMB1:        -127.0 C  
+TMB2:        -127.0 C  
+TMB3:        -127.0 C  
+TMB4:        -127.0 C  
+TMHS:         +40.0 C  
+TMLS:         +39.2 C  
+TMPS:         +40.0 C  
+TMPV:        -127.0 C  
+TMTG:         +75.0 C  
+TN0D:         +63.2 C  
+TN0H:         +52.8 C  
+TNTG:         +65.0 C  
+Te1F:        -127.0 C  
+Te1P:         +34.5 C  
+Te1S:         +48.5 C  
+Te2F:        -127.0 C  
+Te2S:        -127.0 C  
+Te3F:        -127.0 C  
+Te3S:        -127.0 C  
+Te4F:        -127.0 C  
+Te4S:        -127.0 C  
+Te5F:        -127.0 C  
+Te5S:        -127.0 C  
+TeGG:         +85.0 C  
+TeGP:          +0.0 C  
+TeRG:         +60.0 C  
+TeRP:          +0.0 C  
+Tp0C:         +33.5 C  
+Tp1C:         +39.0 C  
+TpPS:         +39.0 C  
+TpTG:         +90.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +35.9 C  (low  = -40.1 C, high = +83.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +47.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
