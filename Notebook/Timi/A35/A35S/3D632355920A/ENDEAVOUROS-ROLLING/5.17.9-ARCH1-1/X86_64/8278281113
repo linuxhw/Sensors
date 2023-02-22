@@ -1,0 +1,38 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        1.38 V  
+vddnb:       937.00 mV 
+edge:         +48.0 C  
+slowPPT:       3.00 mW 
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.39 V  
+SVI2_SoC:    944.00 mV 
+Tdie:         +77.0 C  (high = +95.0 C)
+Tctl:         +77.0 C  
+SVI2_P_Core:  13.72 W  
+SVI2_P_SoC:    6.35 W  
+SVI2_C_Core:   9.88 A  
+SVI2_C_SoC:    6.77 A  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.68 V  
+curr1:       1000.00 uA 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +77.0 C  (crit = +117.0 C)
+temp2:        +30.0 C  (crit = +126.0 C)
+

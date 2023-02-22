@@ -1,0 +1,18 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +72.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +65.0 C  (high = +86.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +70.0 C  (crit = +102.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          15.12 V  
+
+toshiba_acpi_sensors-acpi-0
+Adapter: ACPI interface
+fan1:        4080 RPM
+
