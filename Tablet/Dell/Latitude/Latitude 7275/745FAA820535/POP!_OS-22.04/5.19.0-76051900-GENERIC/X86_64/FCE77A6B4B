@@ -1,0 +1,31 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+temp1:        +67.0 C  
+temp2:        +47.0 C  
+temp3:        +40.0 C  
+temp4:        +35.0 C  
+temp5:        +43.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.44 V  
+curr1:       533.00 mA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:       -266.2 C  (crit = +107.0 C)
+

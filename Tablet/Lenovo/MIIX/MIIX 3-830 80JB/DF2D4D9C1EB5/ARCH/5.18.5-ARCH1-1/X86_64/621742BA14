@@ -1,0 +1,20 @@
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+axp288_fuel_gauge-isa-0000
+Adapter: ISA adapter
+in0:           4.01 V  
+curr1:       272.00 mA 
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +56.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +54.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +56.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +57.0 C  (high = +90.0 C, crit = +90.0 C)
+

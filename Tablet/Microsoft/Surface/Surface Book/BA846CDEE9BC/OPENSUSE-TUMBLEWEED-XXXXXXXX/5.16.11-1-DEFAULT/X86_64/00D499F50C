@@ -1,0 +1,34 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +63.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +60.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -20.1 C, high = +84.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +41.9 C  (low  = -20.1 C, high = +84.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           7.98 V  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +54.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +62.0 C  
+temp2:         +0.0 C  
+temp3:        +35.6 C  
+temp4:        +46.0 C  
+temp5:        +26.0 C  
+temp6:        +28.0 C  
+temp7:        +23.2 C  
+
+BAT2-acpi-0
+Adapter: ACPI interface
+in0:           8.54 V  
+

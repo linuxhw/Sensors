@@ -1,0 +1,14 @@
+gpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +35.6 C  (crit = +95.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +34.4 C  (crit = +95.0 C)
+

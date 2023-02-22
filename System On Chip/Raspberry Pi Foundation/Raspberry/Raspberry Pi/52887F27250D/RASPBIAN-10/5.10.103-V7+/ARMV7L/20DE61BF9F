@@ -1,0 +1,12 @@
+ds3231-i2c-1-68
+Adapter: bcm2835 (i2c@7e804000)
+temp1:        +26.8 C  
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +39.7 C  
+
+rpi_volt-isa-0000
+Adapter: ISA adapter
+in0:              N/A  
+

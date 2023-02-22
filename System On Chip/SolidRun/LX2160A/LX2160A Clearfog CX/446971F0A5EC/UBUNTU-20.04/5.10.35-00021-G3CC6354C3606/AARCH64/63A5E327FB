@@ -1,0 +1,73 @@
+cluster4_hsio3-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+dce_qbman_hsio2-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+amdgpu-pci-10100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        1049 RPM  (min =  900 RPM, max = 4200 RPM)
+edge:         +33.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        9.05 W  (cap =  35.00 W)
+
+ddr_cluster5-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+ltc3882-i2c-5-5c
+Adapter: i2c-0-mux (chan_id 2)
+vin:          12.05 V  (min =  +6.30 V, crit max = +15.50 V)
+                       (highest = +12.09 V)
+vout1:       825.00 mV (crit min =  +0.77 V, min =  +0.77 V)
+                       (max =  +0.89 V, crit max =  +0.91 V)
+                       (highest =  +0.82 V)
+vout2:       825.00 mV (crit min =  +0.77 V, min =  +0.77 V)
+                       (max =  +0.89 V, crit max =  +0.91 V)
+                       (highest =  +0.83 V)
+temp1:        +43.2 C  (high = +105.0 C, crit low = -40.0 C)
+                       (crit = +110.0 C, highest = +44.1 C)
+temp2:        +45.2 C  (high = +105.0 C, crit low = -40.0 C)
+                       (crit = +110.0 C, highest = +46.2 C)
+temp3:        +45.1 C  (high = +105.0 C, crit low = -40.0 C)
+                       (crit = +110.0 C, highest = +46.5 C)
+pout1:         7.06 W  
+pout2:         7.30 W  
+iout1:         8.95 A  (max = +50.00 A, crit max = +50.00 A)
+                       (highest = +17.56 A)
+iout2:         8.28 A  (max = +50.00 A, crit max = +50.00 A)
+                       (highest = +17.44 A)
+
+sa56004-i2c-6-48
+Adapter: i2c-0-mux (chan_id 3)
+temp1:        +43.2 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+temp2:        +53.2 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit = +85.0 C, hyst = +75.0 C)
+
+cluster2_3-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+ccn_dpaa_tbu-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+wriop-virtual-0
+Adapter: Virtual device
+temp1:        +54.9 C  (crit = +95.0 C)
+
+cluster6_7-virtual-0
+Adapter: Virtual device
+temp1:        +55.9 C  (crit = +95.0 C)
+
+amc6821-i2c-4-18
+Adapter: i2c-0-mux (chan_id 1)
+fan1:        4507 RPM  (min =   91 RPM, max =    0 RPM, div = 2)
+temp1:        +38.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit = +80.0 C)
+temp2:        +56.0 C  (low  =  +0.0 C, high = +80.0 C)
+                       (crit = +105.0 C)
+

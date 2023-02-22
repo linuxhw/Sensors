@@ -1,0 +1,22 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.42 V  
+vddnb:         0.00 V  
+edge:         +49.0 C  
+power1:       20.13 W  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.55 V  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -40.1 C, high = +84.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +68.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -40.1 C, high = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +110.0 C)
+

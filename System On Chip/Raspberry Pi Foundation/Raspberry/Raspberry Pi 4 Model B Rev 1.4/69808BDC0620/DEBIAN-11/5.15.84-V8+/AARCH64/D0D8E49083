@@ -1,0 +1,12 @@
+rpi_volt-isa-0000
+Adapter: ISA adapter
+in0:              N/A  
+
+cpu_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +47.7 C  
+
+gpio_fan-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM  (min =    0 RPM, max = 5000 RPM)
+
