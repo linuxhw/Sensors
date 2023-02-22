@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +58.0 C  (high = +72.0 C, crit = +90.0 C)
+Core 0:        +51.0 C  (high = +72.0 C, crit = +90.0 C)
+Core 1:        +58.0 C  (high = +72.0 C, crit = +90.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          10.03 V  
+curr1:         2.33 A  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +37.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +54.0 C  (crit = +210.0 C)
+
