@@ -1,0 +1,53 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +1.50 A)
+
+nvme-pci-7100
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM  (min =    0 RPM, max = 7300 RPM)
+fan2:           0 RPM  (min =    0 RPM, max = 7300 RPM)
+temp1:        +46.0 C  
+temp2:        +31.0 C  
+temp3:        +34.0 C  
+temp4:        +27.0 C  
+temp5:        +30.0 C  
+temp6:        +33.0 C  
+temp7:        +30.0 C  
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.58 V  
+curr1:       736.00 mA 
+

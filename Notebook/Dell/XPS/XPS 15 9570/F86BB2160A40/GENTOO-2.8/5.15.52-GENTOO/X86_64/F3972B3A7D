@@ -1,0 +1,21 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        3163 RPM
+fan2:        3189 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.51 V  
+curr1:       1000.00 uA 
+
+nvme-pci-3d00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

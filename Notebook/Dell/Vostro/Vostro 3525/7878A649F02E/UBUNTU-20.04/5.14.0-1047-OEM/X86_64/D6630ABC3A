@@ -1,0 +1,28 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      843.00 mV 
+vddnb:       706.00 mV 
+edge:         +48.0 C  
+slowPPT:     1000.00 uW 
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.85 V  
+curr1:         0.00 A  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+CPU:            +53.0 C  
+SODIMM:         +36.0 C  
+Ambient:        +42.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +53.0 C  (crit = +125.0 C)
+

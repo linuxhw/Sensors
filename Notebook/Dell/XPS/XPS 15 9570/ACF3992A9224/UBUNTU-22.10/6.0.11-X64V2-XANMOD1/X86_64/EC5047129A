@@ -1,0 +1,63 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:          20.00 V  (min =  +5.00 V, max = +20.00 V)
+curr1:         3.25 A  (max =  +3.25 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        2509 RPM  (min =    0 RPM, max = 5100 RPM)
+fan2:        2523 RPM  (min =    0 RPM, max = 5100 RPM)
+temp1:        +49.0 C  
+temp2:        +42.0 C  
+temp3:        +42.0 C  
+temp4:        +38.0 C  
+temp5:        +45.0 C  
+temp6:        +39.0 C  
+temp7:        +61.0 C  
+temp8:        +43.0 C  
+temp9:        +45.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.72 V  
+curr1:       569.00 mA 
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1315 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +33.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +33.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +30.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:           6.00 W  (cap = 174.00 W)
+
+ath10k_hwmon-pci-3b00
+Adapter: PCI adapter
+temp1:        +53.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +67.0 C  
+
+nvme-pci-3d00
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +89.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

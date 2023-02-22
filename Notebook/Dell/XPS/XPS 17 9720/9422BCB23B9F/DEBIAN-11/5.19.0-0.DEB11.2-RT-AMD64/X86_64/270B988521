@@ -1,0 +1,48 @@
+ucsi_source_psy_USBC000:004-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +0.00 V, max = +19.50 V)
+curr1:         6.50 A  (max =  +6.66 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.83 V  
+curr1:       1000.00 uA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +76.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 24:       +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 25:       +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 26:       +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 27:       +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 28:       +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 29:       +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 30:       +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 31:       +55.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +5.00 V)
+curr1:         3.00 A  (max =  +3.00 A)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

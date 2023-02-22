@@ -1,0 +1,23 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        4477 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.66 V  
+curr1:       625.00 mA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +71.0*C  (high = +100.0*C, crit = +100.0*C)
+Core 0:        +71.0*C  (high = +100.0*C, crit = +100.0*C)
+Core 1:        +60.0*C  (high = +100.0*C, crit = +100.0*C)
+Core 2:        +64.0*C  (high = +100.0*C, crit = +100.0*C)
+Core 3:        +56.0*C  (high = +100.0*C, crit = +100.0*C)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +47.9*C  (low  = -273.1*C, high = +82.8*C)
+                       (crit = +84.8*C)
+Sensor 1:     +47.9*C  (low  = -273.1*C, high = +65261.8*C)
+

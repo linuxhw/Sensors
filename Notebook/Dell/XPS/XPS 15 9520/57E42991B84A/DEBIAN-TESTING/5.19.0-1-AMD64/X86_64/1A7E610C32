@@ -1,0 +1,49 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +88.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +88.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 24:       +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 25:       +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 26:       +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 27:       +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 28:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 29:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 30:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 31:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +1.50 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:          15.00 V  (min =  +0.00 V, max = +20.00 V)
+curr1:         4.50 A  (max =  +4.50 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.26 V  
+curr1:         1.09 A  
+
+ucsi_source_psy_USBC000:003-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +1.50 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+

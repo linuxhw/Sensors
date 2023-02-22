@@ -1,0 +1,45 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +79.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +77.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +76.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +79.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +65.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.75 V  
+curr1:            N/A  
+
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +54.0 C  
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 4909 RPM
+Video Fan:     4921 RPM
+CPU:            +71.0 C  
+Ambient:        +70.0 C  
+Ambient:        +62.0 C  
+Other:          +41.0 C  
+Ambient:        +58.0 C  
+Ambient:        +65.0 C  
+Ambient:        +57.0 C  
+SODIMM:         +54.0 C  
+GPU:            +65.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +87.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = -273.1 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

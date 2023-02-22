@@ -1,0 +1,44 @@
+ath11k_hwmon-pci-7200
+Adapter: PCI adapter
+temp1:        +37.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +47.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +46.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -20.1 C, high = +81.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM  (min =    0 RPM, max = 8000 RPM)
+fan2:           0 RPM  (min =    0 RPM, max = 8000 RPM)
+temp1:        +50.0 C  
+temp2:        +37.0 C  
+temp3:        +43.0 C  
+temp4:        +35.0 C  
+temp5:        +28.0 C  
+temp6:        +41.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.04 V  
+curr1:         3.19 A  
+

@@ -1,0 +1,39 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.85 V  
+curr1:       1000.00 uA 
+
+ath10k_hwmon-pci-3b00
+Adapter: PCI adapter
+temp1:        +35.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        2507 RPM
+fan2:        2501 RPM
+
+nvme-pci-3d00
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +28.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+

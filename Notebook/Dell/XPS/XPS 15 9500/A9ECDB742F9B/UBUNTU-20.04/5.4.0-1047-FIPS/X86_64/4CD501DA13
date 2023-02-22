@@ -1,0 +1,17 @@
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.65 V  
+curr1:       1000.00 uA 
+

@@ -1,0 +1,36 @@
+ath11k_hwmon-pci-6c00
+Adapter: PCI adapter
+temp1:        +42.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        2786 RPM  (min =    0 RPM, max = 4800 RPM)
+fan2:        3093 RPM  (min =    0 RPM, max = 4800 RPM)
+
+nvme-pci-6e00
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -20.1 C, high = +81.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +51.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +49.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +48.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +47.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 4:        +46.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 5:        +47.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 6:        +47.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 7:        +49.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +43.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.75 V  
+curr1:       1000.00 uA 
+

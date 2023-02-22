@@ -1,0 +1,36 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +44.0 C  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +41.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.37 V  
+curr1:         2.08 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +39.0 C  (high = +100.0 C, crit = +100.0 C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -20.1 C, high = +84.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +33.9 C  (low  = -20.1 C, high = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +25.0 C  (crit = +107.0 C)
+
