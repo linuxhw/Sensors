@@ -1,0 +1,20 @@
+amdgpu-pci-3800
+Adapter: PCI adapter
+vddgfx:        1.46 V  
+vddnb:         1.25 V  
+edge:         +41.0 C  
+PPT:           5.00 mW 
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.9 C  
+Tccd1:        +37.1 C  
+Tccd2:        +36.5 C  
+

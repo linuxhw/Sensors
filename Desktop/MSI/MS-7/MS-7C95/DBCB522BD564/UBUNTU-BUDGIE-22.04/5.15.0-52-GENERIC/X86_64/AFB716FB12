@@ -1,0 +1,29 @@
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:        1.17 V  
+vddnb:         1.04 V  
+edge:         +31.0 C  
+slowPPT:     1000.00 uW 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nouveau-pci-1000
+Adapter: PCI adapter
+GPU core:    862.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:           0 RPM
+temp1:        +51.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       26.67 W  (crit = 265.00 mW)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.1 C  
+

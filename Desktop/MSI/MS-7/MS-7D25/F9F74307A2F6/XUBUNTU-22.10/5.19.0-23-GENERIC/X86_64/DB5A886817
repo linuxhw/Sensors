@@ -1,0 +1,53 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 25:       +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 26:       +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 27:       +30.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 29:       +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 30:       +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 31:       +27.0 C  (high = +80.0 C, crit = +100.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +21.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +20.0 C, highest = +21.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (low  =  -5.0 C, high = +80.0 C)
+                       (crit low = -10.0 C, crit = +85.0 C)
+                       (lowest =  +0.0 C, highest =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +22.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +21.0 C, highest = +22.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +18.0 C  (low  =  -4.0 C, high = +72.0 C)
+                       (crit low =  -9.0 C, crit = +77.0 C)
+                       (lowest =  +0.0 C, highest = +18.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+

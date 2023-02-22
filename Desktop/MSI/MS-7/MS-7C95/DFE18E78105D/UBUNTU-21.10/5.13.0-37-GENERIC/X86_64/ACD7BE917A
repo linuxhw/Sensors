@@ -1,0 +1,18 @@
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:      712.00 mV 
+vddnb:         1.09 V  
+edge:         +28.0 C  
+power1:      1000.00 uW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.1 C  (crit = +115.0 C)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+

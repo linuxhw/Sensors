@@ -1,0 +1,54 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:                   840.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   888.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  616.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.10 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  672.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.52 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1351 RPM  (min =    0 RPM)
+fan3:                  1125 RPM  (min =    0 RPM)
+fan4:                  1230 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+fan7:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +35.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:                 +29.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:                +32.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:                +31.0 C    sensor = thermistor
+AUXTIN2:                +48.0 C    sensor = thermistor
+AUXTIN3:                 -1.0 C    sensor = thermistor
+SMBUSMASTER 0:          +52.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-2d00
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.0 C  
+
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:        1.09 V  
+vddnb:         1.10 V  
+edge:         +31.0 C  
+slowPPT:       2.00 mW 
+

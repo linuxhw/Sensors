@@ -1,0 +1,18 @@
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-3300
+Adapter: PCI adapter
+vddgfx:        1.38 V  
+vddnb:         1.01 V  
+edge:         +45.0 C  
+PPT:          34.19 W  
+

@@ -1,0 +1,34 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:        1987 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +48.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      14.09 W  (cap = 125.00 W)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +33.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +32.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +26.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +33.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +29.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 6:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 7:        +28.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 8:        +30.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 9:        +29.0 C  (high = +84.0 C, crit = +100.0 C)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+

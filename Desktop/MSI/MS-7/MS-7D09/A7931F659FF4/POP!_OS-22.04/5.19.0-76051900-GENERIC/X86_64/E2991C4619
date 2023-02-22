@@ -1,0 +1,50 @@
+hidpp_battery_1-hid-3-10
+Adapter: HID adapter
+in0:           3.81 V  
+
+corsaircpro-hid-3-7
+Adapter: HID adapter
+in0:          12.00 V  
+in1:           5.00 V  
+in2:           3.32 V  
+temp1:        +38.1 C  
+temp2:        +38.4 C  
+temp3:        +37.9 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +61.9 C  (low  = -273.1 C, high = +65261.8 C)
+

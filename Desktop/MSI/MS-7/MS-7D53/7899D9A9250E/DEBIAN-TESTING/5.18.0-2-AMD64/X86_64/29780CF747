@@ -1,0 +1,46 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+cpu_temp_tctl:   +38.8 C  
+cpu_temp_tccd1:  +54.0 C  
+cpu_temp_tccd2:  +34.8 C  
+
+amdgpu-pci-2f00
+Adapter: PCI adapter
+gpu_temp_junction:  +37.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                             (emerg = +115.0 C)
+gpu_temp_mem:       +38.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                             (emerg = +105.0 C)
+gpu_power:           3.00 W  (cap = 100.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+nvme_temp_F530:  +31.9 C  (low  = -20.1 C, high = +89.8 C)
+                          (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+corsaircpro-hid-3-2
+Adapter: HID adapter
+in0:             12.18 V  
+in1:              5.14 V  
+in2:              3.42 V  
+cha_fan_F1_in:     0 RPM
+cha_fan_F2_in:   318 RPM
+cha_fan_F3_in:   230 RPM
+cha_fan_B4_in:   255 RPM
+cha_fan_B5_in:   184 RPM
+cha_fan_R6_out:  360 RPM
+cha_temp1_F3:    +25.3 C  
+cha_temp2_C2:    +32.2 C  
+cha_temp3_C1:    +27.0 C  
+cha_temp4_D1:    +35.4 C  
+
+nvme-pci-2300
+Adapter: PCI adapter
+nvme_temp_S970:  +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                          (crit = +84.8 C)
+Sensor 1:        +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:        +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+

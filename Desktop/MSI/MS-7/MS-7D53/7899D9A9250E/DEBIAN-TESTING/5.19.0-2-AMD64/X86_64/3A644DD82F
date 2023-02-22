@@ -1,0 +1,82 @@
+nct6687-isa-0a20
+Adapter: ISA adapter
++12V:           12.26 V  (min = +12.26 V, max = +12.29 V)
++5V:             5.12 V  (min =  +5.10 V, max =  +5.12 V)
++3.3V:           3.36 V  (min =  +3.36 V, max =  +3.37 V)
+CPU Soc:         1.10 V  (min =  +1.10 V, max =  +1.10 V)
+CPU Vcore:     798.00 mV (min =  +0.24 V, max =  +1.44 V)
+CPU 1P8:         1.80 V  (min =  +1.80 V, max =  +1.81 V)
+CPU VDDP:        0.00 V  (min =  +0.00 V, max =  +0.00 V)
+DRAM:            1.36 V  (min =  +1.36 V, max =  +1.36 V)
+Chipset:       958.00 mV (min =  +0.96 V, max =  +0.96 V)
+CPU SA:        630.00 mV (min =  +0.63 V, max =  +0.64 V)
+Voltage #2:      1.48 V  (min =  +1.48 V, max =  +1.49 V)
+AVCC3:           3.35 V  (min =  +3.35 V, max =  +3.36 V)
+AVSB:            3.36 V  (min =  +3.36 V, max =  +3.37 V)
+VBat:            1.84 V  (min =  +1.84 V, max =  +1.85 V)
+CPU Fan:        429 RPM  (min =  408 RPM, max =  929 RPM)
+Pump Fan:       502 RPM  (min =  480 RPM, max =  999 RPM)
+System Fan #1:    0 RPM  (min =    0 RPM, max = 6784 RPM)
+System Fan #2:    0 RPM  (min =    0 RPM, max =  447 RPM)
+System Fan #3:  411 RPM  (min =  405 RPM, max =  594 RPM)
+System Fan #4:    0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #5:    0 RPM  (min =    0 RPM, max =    0 RPM)
+System Fan #6:    0 RPM  (min =    0 RPM, max =    0 RPM)
+CPU:            +33.0 C  (low  = +32.0 C, high = +60.0 C)
+System:         +35.5 C  (low  = +34.0 C, high = +35.5 C)
+VRM MOS:        +34.5 C  (low  = +34.5 C, high = +36.0 C)
+PCH:            +53.0 C  (low  = +53.0 C, high = +53.0 C)
+CPU Socket:     +33.0 C  (low  = +33.0 C, high = +37.5 C)
+PCIe x1:        +28.5 C  (low  = +28.0 C, high = +28.5 C)
+M2_1:            +0.0 C  (low  =  +0.0 C, high =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.8 C  
+Tccd1:        +50.0 C  
+Tccd2:        +32.0 C  
+
+amdgpu-pci-2f00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 2700 RPM)
+edge:         +47.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +47.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          16.00 W  (cap = 100.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+corsaircpro-hid-3-4
+Adapter: HID adapter
+in0:          12.19 V  
+in1:           5.16 V  
+in2:           3.43 V  
+fan1 4pin:      0 RPM
+fan2 4pin:    175 RPM
+fan3 4pin:      0 RPM
+fan4 4pin:    468 RPM
+fan5 4pin:    404 RPM
+fan6 4pin:    553 RPM
+temp1:        +22.6 C  
+temp2:        +30.2 C  
+temp3:        +24.2 C  
+temp4:        +36.4 C  
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+

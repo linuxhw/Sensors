@@ -1,0 +1,61 @@
+nct6687-isa-0a20
+Adapter: ISA adapter
+System +12V:    11.90 V  (min =  +0.00 V, max =  +0.00 V)
+System +5V:      5.12 V  (min =  +0.00 V, max =  +0.00 V)
+CPU NB/SOC:    944.00 mV (min =  +0.00 V, max =  +0.00 V)
+DRAM:            1.18 V  (min =  +0.00 V, max =  +0.00 V)
+CPU VCore:       1.09 V  (min =  +0.00 V, max =  +0.00 V)
+Chipset:       896.00 mV (min =  +0.00 V, max =  +0.00 V)
+CPU VDDP:        1.52 V  (min =  +0.00 V, max =  +0.00 V)
+System +3.3V:    3.41 V  (min =  +0.00 V, max =  +0.00 V)
+CPU 1P8:         1.82 V  (min =  +0.00 V, max =  +0.00 V)
+CPU Fan:       1175 RPM  (min =    0 RPM)
+Pump Fan:      2016 RPM  (min =    0 RPM)
+System Fan #1: 1191 RPM  (min =    0 RPM)
+System Fan #2:    0 RPM  (min =    0 RPM)
+System Fan #3:    0 RPM  (min =    0 RPM)
+System Fan #4: 54464 RPM  (min =    0 RPM)
+System Fan #5:    0 RPM  (min =    0 RPM)
+System Fan #6:    0 RPM  (min =    0 RPM)
+CPU:            +34.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = AMD AMDSI
+System:         +32.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = thermal diode
+VRM MOS:        +35.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = thermistor
+PCM:            +36.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = thermistor
+CPU Socket:     +29.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = thermistor
+PCIe x1:        +31.0 C  (low  =  +0.0 C)
+                         (high =  +0.0 C, hyst =  +0.0 C)
+                         (crit =  +0.0 C)  sensor = thermistor
+M2_1:           +35.0 C  (low  =  +0.0 C)
+                         (high = +126.0 C, hyst = +30.0 C)
+                         (crit =  +0.0 C)  sensor = thermistor
+intrusion0:    ALARM
+beep_enable:   disabled
+
+nvme-pci-2b00
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:        1.41 V  
+vddnb:       849.00 mV 
+edge:         +29.0 C  
+PPT:           2.00 mW 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +35.8 C  
+

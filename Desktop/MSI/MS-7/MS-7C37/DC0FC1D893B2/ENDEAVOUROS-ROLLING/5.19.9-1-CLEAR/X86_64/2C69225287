@@ -1,0 +1,49 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+CPU Core:       1.07 V  (min =  +0.00 V, max =  +1.74 V)
+ATX +5V:        5.08 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC Analog:    3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+ATX +3.3V:      3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+ATX +12V:      11.90 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:      144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:      744.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB Standby:   3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+RTC Battery:    3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU +1.8V:      1.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:      736.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU SoC:        1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+DDRAM:          1.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:        1.54 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+PUMP_FAN1:       0 RPM  (min =    0 RPM)
+CPU_FAN1:      714 RPM  (min =    0 RPM)
+SYS_FAN1:     1085 RPM  (min =    0 RPM)
+SYS_FAN2:        0 RPM  (min =    0 RPM)
+SYS_FAN3:        0 RPM  (min =    0 RPM)
+SYS_FAN4:        0 RPM  (min =    0 RPM)
+SYS_FAN5:        0 RPM  (min =    0 RPM)
+Super I/O:     +29.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+SoC VRM:       +31.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+CPU VRM:       +40.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+PCH Temp:      +40.0 C    sensor = thermistor
+CPU Temp:      +43.0 C  
+CPU Temp_2:    +43.4 C  
+Intrusion:    ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +45.6 C  
+Tccd1:        +43.0 C  
+Tccd2:        +31.5 C  
+
+amdgpu-pci-2f00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3400 RPM)
+edge:         +48.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +49.0 C  (crit = +108.0 C, hyst = -273.1 C)
+                       (emerg = +113.0 C)
+mem:          +52.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          31.00 W  (cap = 226.00 W)
+

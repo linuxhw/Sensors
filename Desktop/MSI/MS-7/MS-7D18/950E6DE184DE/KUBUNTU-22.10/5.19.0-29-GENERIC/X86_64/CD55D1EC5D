@@ -1,0 +1,66 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +20.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +22.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +27.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +22.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +22.0 C  (high = +82.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+nct6687-isa-0a20
+Adapter: ISA adapter
+VIN0:             1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN1:             1.31 V  (min =  +0.00 V, max =  +0.00 V)
+VIN2:             1.14 V  (min =  +0.00 V, max =  +0.00 V)
+VIN3:             1.18 V  (min =  +0.00 V, max =  +0.00 V)
+VIN4:           672.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN5:             1.06 V  (min =  +0.00 V, max =  +0.00 V)
+VIN6:             1.25 V  (min =  +0.00 V, max =  +0.00 V)
+VIN7:             1.52 V  (min =  +0.00 V, max =  +0.00 V)
+VCC:              3.31 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:            348 RPM  (min =    0 RPM)
+fan2:              0 RPM  (min =    0 RPM)
+fan3:            447 RPM  (min =    0 RPM)
+fan4:            521 RPM  (min =    0 RPM)
+fan5:              0 RPM  (min =    0 RPM)
+fan6:              0 RPM  (min =    0 RPM)
+fan7:              0 RPM  (min =    0 RPM)
+fan8:              0 RPM  (min =    0 RPM)
+fan9:              0 RPM  (min =    0 RPM)
+fan10:             0 RPM  (min =    0 RPM)
+PECI 0.0:        +25.5 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)  sensor = Intel PECI
+Diode 0 (curr):  +24.5 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)  sensor = thermal diode
+Thermistor 15:   +21.5 C  (low  =  +0.0 C)
+                          (high = +127.0 C, hyst = +27.0 C)
+                          (crit =  +0.0 C)  sensor = thermistor
+PCH CHIP:        +35.0 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)
+Thermistor 16:   +19.0 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)  sensor = thermistor
+Thermistor 0:    +23.0 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)  sensor = thermistor
+Thermistor 1:    +13.0 C  (low  =  +0.0 C)
+                          (high =  +0.0 C, hyst =  +0.0 C)
+                          (crit =  +0.0 C)  sensor = thermistor
+intrusion0:     OK
+beep_enable:    disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +20.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +20.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+

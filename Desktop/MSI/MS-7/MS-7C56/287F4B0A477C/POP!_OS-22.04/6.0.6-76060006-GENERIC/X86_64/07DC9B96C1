@@ -1,0 +1,50 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.4 C  
+Tccd1:        +54.2 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct6687-isa-0a20
+Adapter: ISA adapter
+VIN0:          1.01 V  (min =  +0.00 V, max =  +0.00 V)
+VIN1:        992.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN2:          1.10 V  (min =  +0.00 V, max =  +0.00 V)
+VIN3:        672.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN4:          1.28 V  (min =  +0.00 V, max =  +0.00 V)
+VIN5:        896.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN6:        832.00 mV (min =  +0.00 V, max =  +0.00 V)
+VIN7:          1.52 V  (min =  +0.00 V, max =  +0.00 V)
+VCC:           3.30 V  (min =  +0.00 V, max =  +0.00 V)
+VTT:           1.82 V  (min =  +0.00 V, max =  +0.00 V)
+CPU Fan:      762 RPM  (min =    0 RPM)
+Pump Fan:     709 RPM  (min =    0 RPM)
+Front Fan:   1094 RPM  (min =    0 RPM)
+Back Fan:    1088 RPM  (min =    0 RPM)
+CPU:          +50.0 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = AMD AMDSI
+System:       +30.5 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = thermal diode
+VRM MOS:      +35.0 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = thermistor
+PCM:          +35.0 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = thermistor
+CPU Socket:   +31.0 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = thermistor
+PCIe x1:      +31.0 C  (low  =  +0.0 C)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C)  sensor = thermistor
+M2_1:         +35.0 C  (low  =  +0.0 C)
+                       (high = +126.0 C, hyst = +30.0 C)
+                       (crit =  +0.0 C)  sensor = thermistor
+

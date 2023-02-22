@@ -1,0 +1,28 @@
+nouveau-pci-2d00
+Adapter: PCI adapter
+GPU core:    987.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:         840 RPM
+temp1:        +41.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       28.16 W  (crit = 270.00 mW)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -40.1 C, high = +109.8 C)
+                       (crit = +119.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +27.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.2 C  
+Tdie:         +43.2 C  
+Tccd1:        +37.2 C  
+Tccd2:        +36.8 C  
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +71.8 C)
+                       (crit = +89.8 C)
+
