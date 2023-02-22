@@ -1,0 +1,85 @@
+nct6779-isa-0290
+Adapter: ISA adapter
+Vcore:                 392.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.09 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                    3.31 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.30 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     1.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     1.21 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.28 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                  752.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  816.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  608.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   950 RPM  (min =    0 RPM)
+fan2:                  1090 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +45.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +35.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +15.0 C    sensor = thermistor
+AUXTIN1:                +39.0 C    sensor = thermistor
+AUXTIN2:                +36.0 C    sensor = thermistor
+AUXTIN3:                +49.0 C    sensor = thermistor
+SMBUSMASTER 0:          +68.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+TSI0_TEMP:              +68.6 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +67.2 C  
+Tdie:         +40.2 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +60.5 C  
+Tdie:         +33.5 C  
+
+amdgpu-pci-4300
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +57.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +58.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +56.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          40.00 W  (cap = 155.00 W)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +61.2 C  
+Tdie:         +34.2 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +68.5 C  
+Tdie:         +41.5 C  
+Tccd1:        +60.8 C  
+Tccd2:        +61.5 C  
+Tccd3:        +62.0 C  
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +34.9 C  
+

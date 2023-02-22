@@ -1,0 +1,19 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+
+enp11s0-pci-0b00
+Adapter: PCI adapter
+MAC Temperature:  +61.1 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:        1397 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

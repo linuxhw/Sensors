@@ -1,0 +1,16 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      217.65 W  (crit = 156.83 W)
+
+nouveau-pci-0300
+Adapter: PCI adapter
+GPU core:      1.32 V  (min =  +1.20 V, max =  +1.32 V)
+temp1:        +53.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +115.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +29.6 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +97.0 C)
+

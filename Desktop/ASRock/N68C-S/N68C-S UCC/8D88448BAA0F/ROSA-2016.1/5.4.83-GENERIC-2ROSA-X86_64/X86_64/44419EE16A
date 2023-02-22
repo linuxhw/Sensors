@@ -1,0 +1,34 @@
+w83627dhg-isa-0290
+Adapter: ISA adapter
+Vcore:         1.29 V  (min =  +0.00 V, max =  +1.74 V)
+in1:           1.03 V  (min =  +0.36 V, max =  +1.61 V)
+AVCC:          3.38 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:         3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:           1.69 V  (min =  +1.24 V, max =  +0.53 V)  ALARM
+in5:           1.67 V  (min =  +1.06 V, max =  +0.12 V)  ALARM
+in6:           1.88 V  (min =  +1.13 V, max =  +0.52 V)  ALARM
+3VSB:          3.49 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:          3.10 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        3013 RPM  (min = 3668 RPM, div = 8)  ALARM
+fan2:        2678 RPM  (min = 1670 RPM, div = 8)
+fan3:        2766 RPM  (min =    0 RPM, div = 8)  ALARM
+fan4:           0 RPM  (min = 5273 RPM, div = 16)  ALARM
+fan5:           0 RPM  (min =  727 RPM, div = 16)  ALARM
+temp1:        +37.0 C  (high = -88.0 C, hyst = +42.0 C)  sensor = thermistor
+temp2:        +41.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+temp3:        +28.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+cpu0_vid:    +1.325 V
+intrusion0:  ALARM
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:         447 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +37.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       31.07 W  (cap = 125.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +35.0 C  (high = +70.0 C)
+                       (crit = +101.0 C, hyst = +99.0 C)
+

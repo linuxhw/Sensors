@@ -1,0 +1,17 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.35 V  
+vddnb:         1.15 V  
+edge:         +38.0 C  
+power1:       22.00 W  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.1 C  
+Tdie:         +49.1 C  
+

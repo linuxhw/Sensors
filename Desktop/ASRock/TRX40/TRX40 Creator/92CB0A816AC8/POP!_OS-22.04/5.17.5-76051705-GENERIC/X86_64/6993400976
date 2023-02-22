@@ -1,0 +1,27 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +46.7 C  
+MAC Temperature:  +47.7 C  
+
+nvme-pci-4a00
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.2 C  
+Tccd1:        +36.5 C  
+Tccd3:        +44.0 C  
+Tccd5:        +50.8 C  
+Tccd7:        +37.5 C  
+
+nvme-pci-4b00
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

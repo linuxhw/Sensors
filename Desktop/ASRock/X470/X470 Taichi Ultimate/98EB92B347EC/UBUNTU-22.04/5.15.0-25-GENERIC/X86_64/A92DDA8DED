@@ -1,0 +1,33 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.6 C  
+Tccd1:        +50.8 C  
+
+amdgpu-pci-0f00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:         542 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +53.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +56.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +60.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:      35.00 W  (cap = 203.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +73.8 C  (low  = -273.1 C, high = +65261.8 C)
+
+ucsi_source_psy_3_00081-i2c-3-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp12s0-pci-0c00
+Adapter: PCI adapter
+MAC Temperature:  +68.7 C  
+

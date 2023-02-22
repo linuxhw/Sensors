@@ -1,0 +1,86 @@
+amdgpu-pci-0f00
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +29.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +33.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +30.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          24.00 W  (cap = 284.00 W)
+
+corsaircpro-hid-3-b
+Adapter: HID adapter
+in0:          12.02 V  
+in1:           4.96 V  
+in2:           3.36 V  
+fan1 3pin:    774 RPM
+fan2 3pin:    816 RPM
+fan3 3pin:    803 RPM
+temp1:        +26.7 C  
+temp4:        +25.0 C  
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +46.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +33.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+quadro-hid-3-5
+Adapter: HID adapter
+Fan 1 voltage:      11.93 V  
+Fan 2 voltage:       0.00 V  
+Fan 3 voltage:       0.00 V  
+Fan 4 voltage:       0.00 V  
+Fan 1 speed:       4813 RPM
+Fan 2 speed:          0 RPM
+Fan 3 speed:          0 RPM
+Fan 4 speed:          0 RPM
+Flow speed [dL/h]:    0 RPM
+Sensor 1:           +25.2 C  
+Sensor 2:           +26.2 C  
+Sensor 3:               N/A  
+Sensor 4:               N/A  
+Fan 1 power:         0.00 W  
+Fan 2 power:         0.00 W  
+Fan 3 power:         0.00 W  
+Fan 4 power:         0.00 W  
+Fan 1 current:       0.00 A  
+Fan 2 current:       0.00 A  
+Fan 3 current:       0.00 A  
+Fan 4 current:       0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.9 C  
+Tccd1:        +30.8 C  
+Tccd2:        +28.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,44 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      793.00 mV 
+fan1:         653 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +46.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +48.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +48.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+PPT:          10.00 W  (cap = 200.00 W)
+
+nvme-pci-0e00
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+
+nct6779-isa-0290
+Adapter: ISA adapter
+Vcore:            848.00 mV (min =  +0.30 V, max =  +1.46 V)
++5.0V:              5.09 V  (min =  +4.51 V, max =  +5.50 V)
+AVCC:               3.31 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:              3.30 V  (min =  +2.98 V, max =  +3.63 V)
++12.0V:            12.14 V  (min = +11.40 V, max = +12.62 V)
+VDDCR_SOC:          1.02 V  (min =  +0.80 V, max =  +1.20 V)
+DRAMV:              1.21 V  (min =  +1.10 V, max =  +1.50 V)
+3VSB:               3.44 V  (min =  +2.98 V, max =  +3.63 V)
+VBAT:               3.28 V  (min =  +2.70 V, max =  +3.63 V)
+VDDP:             928.00 mV (min =  +0.90 V, max =  +1.20 V)
++1.05V:             1.06 V  (min =  +0.94 V, max =  +1.15 V)
++1.8V:              1.83 V  (min =  +1.62 V, max =  +1.98 V)
+Chassis Fan 3:       0 RPM  (min =    0 RPM)
+CPU Fan 1:        1371 RPM  (min =  400 RPM)
+Chassis Fan 1:       0 RPM  (min =    0 RPM)
+Chassis Fan 2:       0 RPM  (min =    0 RPM)
+Motherboard Temp:  +39.0 C  (high = +55.0 C, hyst = +50.0 C)  sensor = thermistor
+CPU Temp:          +33.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+TSI0_TEMP:         +48.2 C  
+beep_enable:      disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Core Temp:  +48.8 C  
+

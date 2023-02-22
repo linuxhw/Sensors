@@ -1,0 +1,39 @@
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           3.81 V  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +42.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 0:        +65.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 1:        +62.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 2:        +69.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 3:        +64.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 4:        +67.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 5:        +64.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 6:        +66.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 7:        +64.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 8:        +61.0 C  (high = +99.0 C, crit = +115.0 C)
+Core 9:        +61.0 C  (high = +99.0 C, crit = +115.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+

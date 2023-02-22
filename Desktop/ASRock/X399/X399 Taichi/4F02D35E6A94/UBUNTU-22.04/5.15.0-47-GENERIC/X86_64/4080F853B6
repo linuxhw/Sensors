@@ -1,0 +1,47 @@
+kraken2-hid-3-4
+Adapter: HID adapter
+Fan:         1052 RPM
+Pump:        2102 RPM
+Coolant:      +34.8 C  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +69.4 C  
+Tdie:         +42.4 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +71.6 C  
+Tdie:         +44.6 C  
+Tccd1:        +65.2 C  
+Tccd2:        +63.5 C  
+Tccd3:        +69.2 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +69.2 C  
+Tdie:         +42.2 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +75.5 C  
+Tdie:         +48.5 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+

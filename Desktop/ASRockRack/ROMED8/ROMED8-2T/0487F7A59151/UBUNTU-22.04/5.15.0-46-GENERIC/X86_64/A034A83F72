@@ -1,0 +1,31 @@
+nouveau-pci-c100
+Adapter: PCI adapter
+GPU core:    920.00 mV (min =  +0.92 V, max =  +1.00 V)
+fan1:        2190 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-8100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.4 C  
+Tccd1:        +38.0 C  
+Tccd3:        +41.8 C  
+Tccd5:        +40.5 C  
+Tccd7:        +39.8 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

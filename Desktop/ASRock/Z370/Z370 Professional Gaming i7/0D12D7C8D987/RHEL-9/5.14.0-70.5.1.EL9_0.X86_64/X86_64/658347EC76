@@ -1,0 +1,32 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    850.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +29.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         819 RPM
+temp1:        +35.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:        +33.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:        +39.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:        +31.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:        +30.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:        +32.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:        +31.0 C  (high = +82.0 C, crit = +100.0 C)
+
+enp13s0-pci-0d00
+Adapter: PCI adapter
+MAC Temperature:  +69.5 C  
+

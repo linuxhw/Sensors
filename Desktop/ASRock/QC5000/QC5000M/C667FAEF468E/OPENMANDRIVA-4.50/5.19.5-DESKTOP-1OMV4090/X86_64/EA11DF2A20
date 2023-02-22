@@ -1,0 +1,20 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  13.51 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +66.8 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +66.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

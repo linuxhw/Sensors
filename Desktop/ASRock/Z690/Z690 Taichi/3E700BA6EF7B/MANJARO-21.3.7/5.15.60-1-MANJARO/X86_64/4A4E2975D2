@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 0:        +25.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 4:        +25.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 8:        +24.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 12:       +26.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 16:       +29.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 20:       +30.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 28:       +25.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 29:       +25.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 30:       +25.0 C  (high = +95.0 C, crit = +115.0 C)
+Core 31:       +25.0 C  (high = +95.0 C, crit = +115.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +32.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:       7.00 W  (cap = 289.00 W)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

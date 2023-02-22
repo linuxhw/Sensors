@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +26.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:        +22.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:        +20.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:        +24.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:        +25.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:        +24.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:        +23.0 C  (high = +69.0 C, crit = +79.0 C)
+
+nouveau-pci-0400
+Adapter: PCI adapter
+fan1:        1058 RPM
+temp1:        +26.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

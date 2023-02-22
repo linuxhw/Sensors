@@ -1,0 +1,31 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +46.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nct6776-isa-0290
+Adapter: ISA adapter
+Vcore:         384.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:           168.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:            3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++3.3V:           3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:           536.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:             1.86 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:             1.66 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:            3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+Vbat:            3.17 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:             0 RPM  (min =    0 RPM)
+fan2:             0 RPM  (min =    0 RPM)
+SYSTIN:         +34.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:         -62.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN:         -11.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PCH_CHIP_TEMP:   +0.0 C  
+PCH_CPU_TEMP:    +0.0 C  
+PCH_MCH_TEMP:    +0.0 C  
+intrusion0:    OK
+intrusion1:    OK
+beep_enable:   disabled
+
