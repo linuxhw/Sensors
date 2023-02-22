@@ -1,0 +1,25 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.06 V  
+vddnb:         1.14 V  
+edge:         +24.0 C  
+slowPPT:     1000.00 uW 
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +39.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +42.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +28.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +29.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +32.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +27.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +30.6 C  
+

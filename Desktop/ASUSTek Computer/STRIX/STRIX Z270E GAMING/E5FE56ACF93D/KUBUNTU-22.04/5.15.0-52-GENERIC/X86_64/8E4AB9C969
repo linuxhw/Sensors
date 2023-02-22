@@ -1,0 +1,17 @@
+ath10k_hwmon-pci-0500
+Adapter: PCI adapter
+temp1:        +51.0 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = -273.1 C)
+                       (crit = +79.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+

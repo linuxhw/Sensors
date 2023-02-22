@@ -1,0 +1,21 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:        2079 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +49.0 C  (crit = +91.0 C, hyst = -273.1 C)
+PPT:          37.24 W  (cap = 175.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +67.0 C  
+Tccd1:        +63.5 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+

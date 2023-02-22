@@ -1,0 +1,53 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                        1.35 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      752.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     504.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                       1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                       1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                      761 RPM  (min =    0 RPM)
+fan2:                      670 RPM  (min =    0 RPM)
+fan3:                      525 RPM  (min =    0 RPM)
+fan4:                        0 RPM  (min =    0 RPM)
+fan5:                     2184 RPM  (min =    0 RPM)
+fan6:                        0 RPM  (min =    0 RPM)
+fan7:                     1152 RPM  (min =    0 RPM)
+SYSTIN:                    +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +36.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +25.0 C    sensor = thermistor
+AUXTIN1:                   +57.0 C    sensor = thermistor
+AUXTIN2:                   +25.0 C    sensor = thermistor
+AUXTIN3:                   +24.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +38.0 C  
+SMBUSMASTER 1:             +60.5 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+TSI0_TEMP:                 +42.0 C  
+TSI1_TEMP:                 +60.8 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.44 V  
+SVI2_SoC:      1.01 V  
+Tdie:         +43.6 C  (high = +95.0 C)
+Tctl:         +43.6 C  
+Tccd1:        +53.0 C  
+Tccd2:        +43.0 C  
+SVI2_P_Core:  13.26 W  
+SVI2_P_SoC:    8.35 W  
+SVI2_C_Core:   9.22 A  
+SVI2_C_SoC:    7.95 A  
+

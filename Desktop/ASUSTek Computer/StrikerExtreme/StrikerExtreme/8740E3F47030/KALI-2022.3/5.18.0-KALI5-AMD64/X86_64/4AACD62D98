@@ -1,0 +1,43 @@
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:       1.31 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:       3.26 V  (min =  +3.00 V, max =  +3.60 V)
+ +5.0 Voltage:       4.95 V  (min =  +4.50 V, max =  +5.50 V)
++12.0 Voltage:      11.65 V  (min = +11.20 V, max = +13.20 V)
+1.2VHT Voltage:      1.25 V  (min =  +1.00 V, max =  +1.40 V)
+SB CORE Voltage:     1.52 V  (min =  +1.30 V, max =  +1.70 V)
+CPU VTT Voltage:     1.26 V  (min =  +1.10 V, max =  +1.40 V)
+DDR2 TERM Voltage: 944.00 mV (min =  +0.50 V, max =  +1.30 V)
+NB CORE Voltage:     1.25 V  (min =  +1.10 V, max =  +1.60 V)
+MEMORY Voltage:      1.87 V  (min =  +1.60 V, max =  +2.50 V)
+CPU FAN Speed:     2500 RPM  (min =    0 RPM, max = 1800 RPM)
+CHASSIS FAN Speed:    0 RPM  (min =    0 RPM, max = 1800 RPM)
+OPT1 FAN Speed:       0 RPM  (min =    0 RPM, max = 1800 RPM)
+OPT2 FAN Speed:    3375 RPM  (min =    0 RPM, max = 1800 RPM)
+OPT3 FAN Speed:       0 RPM  (min =    0 RPM, max = 1800 RPM)
+OPT4 FAN Speed:       0 RPM  (min =    0 RPM, max = 1800 RPM)
+OPT5 FAN Speed:    1022 RPM  (min =    0 RPM, max = 1800 RPM)
+PWR FAN Speed:        0 RPM  (min =    0 RPM, max = 1800 RPM)
+CPU Temperature:    +29.0 C  (high = +90.0 C, crit = +125.0 C)
+MB Temperature:     +29.0 C  (high = +45.0 C, crit = +90.0 C)
+OPT1 Temperature:    +0.0 C  (high = +90.0 C, crit = +125.0 C)
+OPT2 Temperature:    +0.0 C  (high = +90.0 C, crit = +125.0 C)
+OPT3 Temperature:    +0.0 C  (high = +90.0 C, crit = +125.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +75.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +42.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:       +45.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:       +38.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:       +40.0 C  (high = +82.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +50.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

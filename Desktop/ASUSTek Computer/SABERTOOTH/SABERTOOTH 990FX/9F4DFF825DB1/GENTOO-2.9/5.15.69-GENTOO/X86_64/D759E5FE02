@@ -1,0 +1,46 @@
+it8721-isa-0290
+Adapter: ISA adapter
++12V:           11.60 V  (min =  +1.60 V, max =  +3.00 V)  ALARM
++5V:             4.76 V  (min =  +2.95 V, max =  +2.21 V)  ALARM
+Vcore:           1.36 V  (min =  +0.04 V, max =  +2.04 V)
++3.3V:           3.26 V  (min =  +1.54 V, max =  +0.60 V)  ALARM
+VDDA:            2.48 V  (min =  +1.62 V, max =  +0.36 V)  ALARM
+Vbat:            3.36 V  
+CPU Fan:        687 RPM  (min =   35 RPM)
+Chassis Fan 2:  919 RPM  (min =  119 RPM)
+CPU Temp:       +32.0 C  (low  = -88.0 C, high = +12.0 C)  ALARM  sensor = thermistor
+M/B Temp:       +27.0 C  (low  = +100.0 C, high = -45.0 C)  ALARM  sensor = thermistor
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +19.0 C, highest = +34.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       59.13 W  (crit = 124.95 W)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +21.0 C, highest = +40.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +32.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +19.0 C, highest = +34.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+CPU Temp:     +22.2 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +33.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +19.0 C, highest = +35.0 C)
+
