@@ -1,0 +1,22 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +43.0 C  (high = +90.0 C, crit = +90.0 C)
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.74 V  
+curr1:       453.00 mA 
+

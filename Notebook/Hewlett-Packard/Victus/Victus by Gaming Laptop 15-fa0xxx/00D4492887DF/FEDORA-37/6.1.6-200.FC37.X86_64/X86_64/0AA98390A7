@@ -1,0 +1,32 @@
+hp-isa-0000
+Adapter: ISA adapter
+fan1:        2186 RPM
+fan2:        1978 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.04 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 17:       +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 18:       +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 19:       +35.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +85.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  
+

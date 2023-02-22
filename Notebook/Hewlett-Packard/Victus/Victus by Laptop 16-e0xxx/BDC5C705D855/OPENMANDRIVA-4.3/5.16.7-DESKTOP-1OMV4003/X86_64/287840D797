@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +37.4 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +17.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.96 V  
+
+hp-isa-0000
+Adapter: ISA adapter
+fan1:        2007 RPM
+fan2:        2193 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  (crit = +255.0 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.38 V  
+vddnb:       937.00 mV 
+edge:         +30.0 C  
+power1:        3.00 mW 
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

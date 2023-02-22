@@ -1,0 +1,43 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +89.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +89.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +70.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-7000
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.29 V  
+curr1:         0.00 A  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +75.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  
+temp2:        +73.0 C  (crit = +128.0 C)
+temp3:        +58.0 C  (crit = +128.0 C)
+temp4:        +44.0 C  (crit = +128.0 C)
+temp5:        +58.0 C  (crit = +128.0 C)
+temp6:        +32.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+

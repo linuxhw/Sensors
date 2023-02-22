@@ -1,0 +1,44 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    931.00 mV (min =  +0.60 V, max =  +1.20 V)
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.82 V  
+curr1:         0.00 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +33.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +72.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +40.0 C  (crit = +128.0 C)
+temp2:        +36.0 C  (crit = +128.0 C)
+temp3:        +37.0 C  (crit = +128.0 C)
+temp4:        +39.0 C  (crit = +128.0 C)
+temp5:        +28.0 C  (crit = +128.0 C)
+temp6:         +0.0 C  (crit = +128.0 C)
+

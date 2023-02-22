@@ -1,0 +1,29 @@
+hp-isa-0000
+Adapter: ISA adapter
+fan1:        2015 RPM
+fan2:        2173 RPM
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.39 V  
+vddnb:       937.00 mV 
+edge:         +41.0 C  
+PPT:           3.00 mW 
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.19 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.9 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +47.0 C  (crit = +255.0 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

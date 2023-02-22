@@ -1,0 +1,46 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.52 V  
+curr1:            N/A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at efa0
+temp1:        +33.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-6f00
+Adapter: PCI adapter
+Composite:    +22.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +22.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +30.0 C  
+temp2:        +39.0 C  (crit = +128.0 C)
+temp3:        +37.0 C  (crit = +128.0 C)
+temp4:        +35.0 C  (crit = +128.0 C)
+temp5:        +35.0 C  (crit = +128.0 C)
+temp6:        +30.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+
