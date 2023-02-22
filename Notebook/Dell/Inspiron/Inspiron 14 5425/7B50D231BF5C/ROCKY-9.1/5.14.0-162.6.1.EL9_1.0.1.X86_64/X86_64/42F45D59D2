@@ -1,0 +1,20 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 3378 RPM
+Other:          +61.0 C  
+SODIMM:         +46.0 C  
+Ambient:        +40.0 C  
+Other:          +41.0 C  
+GPU:            +16.0 C  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+vddnb:       818.00 mV 
+edge:         +47.0 C  
+PPT:           2.00 mW 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.0 C  
+

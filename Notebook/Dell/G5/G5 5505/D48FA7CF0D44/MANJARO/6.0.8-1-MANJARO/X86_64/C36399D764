@@ -1,0 +1,56 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        65535 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +50.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +50.0 C  (crit = +102.0 C, hyst = -273.1 C)
+                       (emerg = +107.0 C)
+mem:          +52.0 C  (crit = +120.0 C, hyst = -273.1 C)
+                       (emerg = +125.0 C)
+PPT:          14.00 W  (cap =  80.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.2 C  
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.07 V  
+curr1:       1000.00 uA 
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      768.00 mV 
+vddnb:       693.00 mV 
+edge:         +49.0 C  
+PPT:           3.00 mW 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +43.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:    0 RPM  (min =    0 RPM, max = 4818 RPM)
+Video Fan:        0 RPM  (min =    0 RPM, max = 4818 RPM)
+Other:          +50.0 C  
+CPU:            +44.0 C  
+Ambient:        +42.0 C  
+GPU:            +46.0 C  
+Other:          +49.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +50.0 C  (crit = +114.0 C)
+

@@ -1,0 +1,32 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 2736 RPM
+CPU:            +46.0 C  
+Ambient:        +44.0 C  
+GPU:            +16.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       18.98 mW (avg =   2.84 mW, interval =   0.01 s)
+                       (crit =  10.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       837.00 mV 
+edge:         +45.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +46.0 C  (crit = +98.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +45.9 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.09 V  
+curr1:       1000.00 uA 
+

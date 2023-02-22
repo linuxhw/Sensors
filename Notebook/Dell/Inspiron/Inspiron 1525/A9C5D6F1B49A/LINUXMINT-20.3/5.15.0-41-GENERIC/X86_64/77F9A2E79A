@@ -1,0 +1,24 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 3800 RPM
+fan2:             0 RPM
+fan3:             0 RPM
+CPU:            +64.0 C  
+Other:          +39.0 C  
+Other:          +58.0 C  
+Other:          +45.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.40 V  
+curr1:       1000.00 uA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +63.0 C  (high = +100.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +64.0 C  (crit = +98.0 C)
+

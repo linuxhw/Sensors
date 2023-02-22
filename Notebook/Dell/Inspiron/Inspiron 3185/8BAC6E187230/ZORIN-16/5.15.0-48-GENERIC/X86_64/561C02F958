@@ -1,0 +1,32 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+CPU:          +44.0 C  
+Other:        +53.0 C  
+Ambient:      +45.0 C  
+SODIMM:       +48.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +44.0 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +84.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.64 V  
+curr1:       1000.00 uA 
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       10.16 mW (avg = 758.00 uW, interval =   0.01 s)
+                       (crit =   6.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       750.00 mV 
+edge:         +44.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +44.0 C  (crit = +90.0 C)
+

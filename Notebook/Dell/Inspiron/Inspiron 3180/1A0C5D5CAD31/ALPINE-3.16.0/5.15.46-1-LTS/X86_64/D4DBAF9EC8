@@ -1,0 +1,23 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +44.6*C  (high = +70.0*C)
+                       (crit = +85.0*C, hyst = +84.0*C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       812.00 mV 
+edge:         +44.0*C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+CPU:          +44.0*C  
+Other:        +52.0*C  
+Ambient:      +41.0*C  
+SODIMM:       +47.0*C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       12.82 mW (avg = 748.00 uW, interval =   0.01 s)
+                       (crit =   6.00 W)
+

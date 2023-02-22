@@ -1,0 +1,26 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +51.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 2:     +50.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        3000 RPM  (min =    0 RPM, max = 5400 RPM)
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +66.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.49 V  
+curr1:         3.00 mA 
+
