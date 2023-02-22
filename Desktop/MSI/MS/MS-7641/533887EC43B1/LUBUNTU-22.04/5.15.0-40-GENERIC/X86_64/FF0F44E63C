@@ -1,0 +1,36 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       98.35 W  (crit = 125.02 W)
+
+f71868a-isa-0e80
+Adapter: ISA adapter
++3.3V:         3.28 V  
+in1:           1.35 V  
+in2:           0.00 V  
+in3:           0.00 V  
+in4:           0.00 V  
+in5:         872.00 mV 
+in6:           1.09 V  
+3VSB:          3.23 V  
+Vbat:          3.26 V  
+5VSB:          4.92 V  
+fan1:        1940 RPM
+fan2:        1228 RPM
+fan3:           0 RPM  ALARM
+temp1:        +68.0 C  (high = +255.0 C, hyst = +251.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp2:        +79.0 C  (high = +255.0 C, hyst = +247.0 C)  ALARM
+                       (crit = +90.0 C, hyst = +82.0 C)  sensor = thermistor
+temp3:        +40.0 C  (high = +255.0 C, hyst = +253.0 C)  ALARM (CRIT)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +73.2 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +83.0 C)
+

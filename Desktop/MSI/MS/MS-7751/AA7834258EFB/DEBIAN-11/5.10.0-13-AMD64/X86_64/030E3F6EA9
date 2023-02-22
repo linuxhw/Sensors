@@ -1,0 +1,59 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +26.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +28.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +28.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +28.0 C  (high = +85.0 C, crit = +105.0 C)
+
+drivetemp-scsi-8-0
+Adapter: SCSI adapter
+temp1:        +46.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +21.0 C, highest = +53.0 C)
+
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +22.0 C, highest = +37.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+
+f71889a-isa-0290
+Adapter: ISA adapter
++3.3V:          3.30 V  
+Vcore:        944.00 mV (max =  +2.04 V)
+Vgpu:           0.00 V  
++5V:            5.00 V  
++12V:          11.97 V  
+Vdimm:          1.50 V  
+Vio:            1.05 V  
+3VSB:           3.34 V  
+Vbat:           3.36 V  
+System Fan 1: 1107 RPM
+System Fan 2:  628 RPM
+CPU Temp:      +28.0 C  (high = +85.0 C, hyst = +81.0 C)
+                        (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+System Temp:   +24.0 C  (high = +55.0 C, hyst = +53.0 C)
+                        (crit = +65.0 C, hyst = +63.0 C)  sensor = transistor
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +44.0 C  (low  =  +0.0 C, high = +65.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +22.0 C, highest = +50.0 C)
+
+drivetemp-scsi-7-0
+Adapter: SCSI adapter
+temp1:        +28.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +23.0 C, highest = +38.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:         +0.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  -5.0 C, crit = +75.0 C)
+                       (lowest =  +0.0 C, highest =  +0.0 C)
+

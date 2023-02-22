@@ -1,0 +1,28 @@
+f71808a-isa-0600
+Adapter: ISA adapter
++3.3V:         3.36 V  
+in1:           0.00 V  
+in2:           0.00 V  
+in3:           0.00 V  
+3VSB:          3.34 V  
+Vbat:          3.47 V  
+fan1:           0 RPM  ALARM
+fan2:        1029 RPM
+fan3:           0 RPM  ALARM
+temp1:       +231.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = thermistor
+temp2:        +28.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +34.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+slowPPT:       8.07 W  (cap =  95.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:         +4.0 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+

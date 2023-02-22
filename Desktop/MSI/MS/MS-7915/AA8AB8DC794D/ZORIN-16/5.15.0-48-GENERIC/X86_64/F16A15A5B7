@@ -1,0 +1,37 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +53.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +46.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+corsairpsu-hid-3-3
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.14 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.00 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +46.8 C  (crit = +70.0 C)
+case temp:    +41.0 C  (crit = +70.0 C)
+power total: 166.00 W  
+power +12v:  144.00 W  
+power +5v:    17.00 W  
+power +3.3v:   6.00 W  
+curr +12v:    11.50 A  (crit max = +85.00 A)
+curr +5v:      3.50 A  (crit max = +40.00 A)
+curr +3.3v:    1.75 A  (crit max = +40.00 A)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
