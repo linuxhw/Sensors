@@ -1,0 +1,19 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +41.0 C  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +39.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.9 C  
+

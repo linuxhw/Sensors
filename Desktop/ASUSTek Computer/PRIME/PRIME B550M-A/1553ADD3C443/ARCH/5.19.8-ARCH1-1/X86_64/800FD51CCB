@@ -1,0 +1,57 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                      544.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                      1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.31 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      752.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                      992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      920.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     376.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     376.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                     992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                     992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     1113 RPM  (min =    0 RPM)
+fan2:                     1326 RPM  (min =    0 RPM)
+fan3:                     1062 RPM  (min =    0 RPM)
+fan7:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +42.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +26.5 C    sensor = thermistor
+AUXTIN1:                   +40.0 C    sensor = thermistor
+AUXTIN2:                   +40.0 C    sensor = thermistor
+AUXTIN3:                   +26.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +44.5 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+TSI0_TEMP:                 +52.2 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.0 C  
+Tccd1:        +65.8 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:         772 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +53.0 C  (crit = +109.0 C, hyst = -273.1 C)
+                       (emerg = +114.0 C)
+mem:          +64.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          31.00 W  (cap = 180.00 W)
+

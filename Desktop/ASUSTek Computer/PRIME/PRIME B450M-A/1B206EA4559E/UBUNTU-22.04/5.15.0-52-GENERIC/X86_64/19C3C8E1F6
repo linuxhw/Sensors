@@ -1,0 +1,38 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +43.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.8 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+it8655-isa-0290
+Adapter: ISA adapter
+in0:         894.00 mV (min =  +2.16 V, max =  +2.42 V)  ALARM
+in1:           2.52 V  (min =  +1.32 V, max =  +1.34 V)  ALARM
+in2:           2.02 V  (min =  +1.96 V, max =  +2.16 V)
+in3:           2.03 V  (min =  +2.57 V, max =  +1.55 V)  ALARM
+in4:           2.04 V  (min =  +0.69 V, max =  +2.27 V)
+in5:           1.96 V  (min =  +1.79 V, max =  +0.42 V)  ALARM
+in6:           2.04 V  (min =  +1.54 V, max =  +2.60 V)
+3VSB:          3.36 V  (min =  +4.56 V, max =  +2.42 V)  ALARM
+Vbat:          3.23 V  
++3.3V:         3.38 V  
+fan1:        2051 RPM  (min =   10 RPM)
+fan2:         950 RPM  (min =   26 RPM)
+fan3:         907 RPM  (min =   18 RPM)
+temp1:        +44.0 C  (low  = -25.0 C, high = -38.0 C)  ALARM
+temp2:        +32.0 C  (low  = +127.0 C, high = +102.0 C)  sensor = thermistor
+temp3:        +30.0 C  (low  = +97.0 C, high = -76.0 C)  ALARM  sensor = thermistor
+temp4:        +30.0 C  (low  = -36.0 C, high = -94.0 C)  ALARM  sensor = thermistor
+temp5:        +30.0 C  (low  = -47.0 C, high = -84.0 C)  ALARM  sensor = thermistor
+temp6:        +30.0 C  (low  = +49.0 C, high = -25.0 C)  ALARM  sensor = thermistor
+intrusion0:  ALARM
+
