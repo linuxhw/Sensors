@@ -1,0 +1,32 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+edge:         +33.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+power1:        2.77 kW (cap =  25.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +53.2 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.57 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+vddnb:       800.00 mV 
+edge:         +53.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       24.54 mW (avg =   6.70 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +55.0 C  (crit = +226.8 C)
+temp2:        +20.0 C  
+

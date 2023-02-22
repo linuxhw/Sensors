@@ -1,0 +1,37 @@
+amdgpu-pci-e300
+Adapter: PCI adapter
+vddgfx:      700.00 mV 
+vddnb:       650.00 mV 
+edge:         +50.0 C  
+PPT:           2.08 W  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.1 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.75 V  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+ath11k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +38.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +52.0 C  (crit = +128.0 C)
+temp2:        +25.0 C  (crit = +128.0 C)
+temp3:        +41.0 C  (crit = +128.0 C)
+temp4:        +42.0 C  (crit = +128.0 C)
+temp5:        +31.0 C  (crit = +128.0 C)
+temp6:        +37.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+temp8:         +0.0 C  (crit = +128.0 C)
+

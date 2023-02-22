@@ -1,0 +1,37 @@
+amdgpu-pci-6300
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+vddnb:       604.00 mV 
+edge:         +38.0 C  
+PPT:           3.13 W  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.19 V  
+
+ath11k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +31.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +39.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  (crit = +128.0 C)
+temp2:        +25.0 C  (crit = +128.0 C)
+temp3:        +33.0 C  (crit = +128.0 C)
+temp4:        +35.0 C  (crit = +128.0 C)
+temp5:        +27.0 C  (crit = +128.0 C)
+temp6:        +32.0 C  (crit = +128.0 C)
+temp7:         +0.0 C  (crit = +128.0 C)
+temp8:         +0.0 C  (crit = +128.0 C)
+
