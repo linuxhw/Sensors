@@ -1,0 +1,25 @@
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +43.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +53.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:        +54.0 C  (high = +105.0 C, crit = +105.0 C)
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:          15.42 V  
+curr1:            N/A  (max =  +3.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.66 V  
+curr1:       280.00 mA 
+

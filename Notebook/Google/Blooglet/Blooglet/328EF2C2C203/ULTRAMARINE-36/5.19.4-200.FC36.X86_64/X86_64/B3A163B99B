@@ -1,0 +1,21 @@
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +57.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +57.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +57.0 C  (high = +105.0 C, crit = +105.0 C)
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.33 V  
+curr1:         1.08 A  
+

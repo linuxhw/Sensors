@@ -1,0 +1,15 @@
+CMB1-acpi-0
+Adapter: ACPI interface
+in0:          16.40 V  
+curr1:       360.00 mA 
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +64.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +53.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +26.8 C  (crit = +100.0 C)
+temp2:        +26.8 C  (crit = +100.0 C)
+

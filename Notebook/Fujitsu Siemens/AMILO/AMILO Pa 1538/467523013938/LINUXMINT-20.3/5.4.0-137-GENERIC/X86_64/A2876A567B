@@ -1,0 +1,20 @@
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +54.0 C  
+Core1 Temp:   +51.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.48 V  
+
+nouveau-pci-0500
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +1.00 V, max =  +1.10 V)
+temp1:        +50.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +110.0 C, hyst =  +3.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +59.8 C  (crit = +108.8 C)
+

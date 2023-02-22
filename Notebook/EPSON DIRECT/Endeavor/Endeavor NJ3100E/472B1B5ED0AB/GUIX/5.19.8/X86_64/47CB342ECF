@@ -1,0 +1,15 @@
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +50.0 C  (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +49.0 C  (high = +105.0 C, crit = +105.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +42.0 C  (low  = -10.0 C, high = +70.0 C)
+                       (crit low = -15.0 C, crit = +90.0 C)
+                       (lowest = +32.0 C, highest = +45.0 C)
+
