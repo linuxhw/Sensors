@@ -1,0 +1,22 @@
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1034 RPM  (min =    0 RPM, max = 4200 RPM)
+edge:         +53.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +56.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +62.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+slowPPT:      44.00 W  (cap = 190.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +149.8 C)
+                       (crit = +149.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +60.5 C  
+Tccd1:        +53.8 C  
+

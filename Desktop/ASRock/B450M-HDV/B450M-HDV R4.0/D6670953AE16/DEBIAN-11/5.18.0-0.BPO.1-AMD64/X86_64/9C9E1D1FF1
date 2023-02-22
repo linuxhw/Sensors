@@ -1,0 +1,59 @@
+nct6793-isa-0290
+Adapter: ISA adapter
+in0:                   624.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.87 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.39 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   240.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   872.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.28 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  176.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.88 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                    1.72 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +118.0 C  (high =  +0.0 C, hyst =  +0.0 C)  sensor = thermistor
+CPUTIN:                 +39.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +33.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+AUXTIN1:               +109.0 C    sensor = thermistor
+AUXTIN2:               +110.0 C    sensor = thermistor
+AUXTIN3:               +109.0 C    sensor = thermistor
+SMBUSMASTER 0:          +45.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+TSI0_TEMP:              +45.4 C  
+TSI2_TEMP:             +3892314.0 C  
+TSI3_TEMP:             +3892314.0 C  
+TSI4_TEMP:             +3892314.0 C  
+TSI5_TEMP:             +3892314.0 C  
+TSI6_TEMP:             +3892314.0 C  
+TSI7_TEMP:             +3892314.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:     +8.8 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.9 C  
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +43.0 C  
+

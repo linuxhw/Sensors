@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +45.2 C  
+Tdie:         +45.2 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    981.00 mV (min =  +0.60 V, max =  +1.27 V)
+fan1:           0 RPM
+temp1:        +55.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       17.90 W  (crit = 132.00 mW)
+
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.37 V  
+vddnb:       999.00 mV 
+edge:         +37.0 C  
+power1:        3.00 mW 
+

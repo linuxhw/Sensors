@@ -1,0 +1,29 @@
+nzxtsmart2-hid-3-3
+Adapter: HID adapter
+FAN 1 Voltage:  11.94 V  
+FAN 2 Voltage:   7.10 V  
+FAN 3 Voltage:   7.05 V  
+FAN 1:          953 RPM
+FAN 2:          970 RPM
+FAN 3:          660 RPM
+FAN 1 Current: 105.00 mA 
+FAN 2 Current: 108.00 mA 
+FAN 3 Current: 120.00 mA 
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +23.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +23.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +35.2 C  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      956.00 mV 
+fan1:        1086 RPM  (min =    0 RPM, max = 6000 RPM)
+edge:         +43.0 C  (crit = +104.0 C, hyst = -273.1 C)
+PPT:          21.04 W  (cap = 150.00 W)
+

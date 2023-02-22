@@ -1,0 +1,30 @@
+adt7473-i2c-3-2e
+Adapter: nvkm-0000:01:00.0-bus-0002
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
+in2:           3.31 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:         765 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +39.0 C  (low  = +80.0 C, high = +100.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +98.0 C)
+temp2:        +34.8 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:        +38.8 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +136.0 C, hyst = +132.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.0 C  (crit = +90.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:      1.05 V  (min =  +0.95 V, max =  +1.10 V)
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +100.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +48.0 C  (high = +78.0 C, crit = +100.0 C)
+

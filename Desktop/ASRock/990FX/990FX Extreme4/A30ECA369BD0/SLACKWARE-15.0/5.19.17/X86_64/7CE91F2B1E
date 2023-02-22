@@ -1,0 +1,17 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +28.0*C  (high = +70.0*C)
+                       (crit = +70.0*C, hyst = +67.0*C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +29.9*C  (low  =  -0.1*C, high = +84.8*C)
+                       (crit = +94.8*C)
+Sensor 1:     +29.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +36.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 8:     +29.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       67.20 W  (crit = 124.77 W)
+
