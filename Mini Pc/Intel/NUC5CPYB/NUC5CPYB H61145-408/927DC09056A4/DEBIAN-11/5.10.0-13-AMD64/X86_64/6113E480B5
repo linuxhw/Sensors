@@ -1,0 +1,13 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +36.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +36.0 C  (high = +90.0 C, crit = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +33.0 C  (crit = +115.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

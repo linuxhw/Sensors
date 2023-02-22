@@ -1,0 +1,38 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.9 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      787.00 mV 
+vddnb:       899.00 mV 
+edge:         +38.0 C  
+PPT:         1000.00 uW 
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2300 RPM
+gpu_fan:     2300 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +43.0 C  (crit = +115.0 C)
+

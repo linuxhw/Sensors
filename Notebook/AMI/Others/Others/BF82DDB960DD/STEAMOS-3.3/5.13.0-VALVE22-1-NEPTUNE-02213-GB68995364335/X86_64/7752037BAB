@@ -1,0 +1,32 @@
+tcpm_source_psy_i2c_fusb302-virtual-0
+Adapter: Virtual device
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+max170xx_battery-virtual-0
+Adapter: Virtual device
+temp1:         +0.0 C  
+
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +54.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +57.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +57.0 C  (high = +90.0 C, crit = +90.0 C)
+
+max170xx_battery-virtual-0
+Adapter: Virtual device
+temp:          +0.0 C  
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +54.0 C  
+

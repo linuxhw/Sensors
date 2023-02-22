@@ -1,0 +1,36 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +58.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.28 V  
+curr1:         0.00 A  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+nvme-pci-e200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +58.0 C  (crit = +100.0 C)
+temp2:        +27.8 C  (crit = +119.0 C)
+

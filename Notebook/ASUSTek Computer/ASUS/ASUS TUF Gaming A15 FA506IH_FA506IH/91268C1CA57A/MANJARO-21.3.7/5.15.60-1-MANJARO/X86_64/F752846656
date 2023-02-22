@@ -1,0 +1,29 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      768.00 mV 
+vddnb:       931.00 mV 
+edge:         +45.0 C  
+slowPPT:     1000.00 uW 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.2 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.59 V  
+curr1:         0.00 A  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2200 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +47.0 C  (crit = +115.0 C)
+
