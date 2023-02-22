@@ -1,0 +1,75 @@
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:     93.58 kJ
+Ecore001:     78.18 kJ
+Ecore002:     74.17 kJ
+Ecore003:     69.89 kJ
+Ecore004:     61.84 kJ
+Ecore005:     66.24 kJ
+Ecore006:    100.98 kJ
+Ecore007:     68.96 kJ
+Ecore008:     64.01 kJ
+Ecore009:     62.98 kJ
+Ecore010:     58.24 kJ
+Ecore011:     59.57 kJ
+Ecore012:     98.55 kJ
+Ecore013:     66.19 kJ
+Ecore014:     57.85 kJ
+Ecore015:     54.71 kJ
+Ecore016:     52.08 kJ
+Ecore017:     53.74 kJ
+Ecore018:     85.23 kJ
+Ecore019:     61.08 kJ
+Ecore020:     52.41 kJ
+Ecore021:     61.34 kJ
+Ecore022:     49.82 kJ
+Ecore023:     49.82 kJ
+Ecore024:    103.78 kJ
+Ecore025:     68.40 kJ
+Ecore026:     65.45 kJ
+Ecore027:     60.05 kJ
+Ecore028:     61.25 kJ
+Ecore029:     65.58 kJ
+Ecore030:     95.94 kJ
+Ecore031:     53.37 kJ
+Ecore032:     47.95 kJ
+Ecore033:     50.01 kJ
+Ecore034:     50.36 kJ
+Ecore035:     53.52 kJ
+Ecore036:    108.68 kJ
+Ecore037:     50.86 kJ
+Ecore038:     44.82 kJ
+Ecore039:     46.40 kJ
+Ecore040:     53.22 kJ
+Ecore041:     46.38 kJ
+Ecore042:     89.31 kJ
+Ecore043:     68.43 kJ
+Ecore044:     52.50 kJ
+Ecore045:     50.85 kJ
+Ecore046:     53.01 kJ
+Ecore047:     47.41 kJ
+Esocket0:     54.84 MJ
+Esocket1:     54.52 MJ
+
+i350bb-pci-e500
+Adapter: PCI adapter
+loc1:         +51.0*C  (high = +120.0*C, crit = +110.0*C)
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +36.9*C  (low  = -273.1*C, high = +71.8*C)
+                       (crit = +74.8*C)
+Sensor 1:     +46.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +38.9*C  (low  = -273.1*C, high = +65261.8*C)
+
+i350bb-pci-c200
+Adapter: PCI adapter
+loc1:         +42.0*C  (high = +120.0*C, crit = +110.0*C)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +36.9*C  (low  = -273.1*C, high = +71.8*C)
+                       (crit = +74.8*C)
+Sensor 1:     +45.9*C  (low  = -273.1*C, high = +65261.8*C)
+Sensor 2:     +38.9*C  (low  = -273.1*C, high = +65261.8*C)
+

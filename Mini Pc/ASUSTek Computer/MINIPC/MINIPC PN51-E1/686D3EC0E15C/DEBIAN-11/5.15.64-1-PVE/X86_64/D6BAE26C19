@@ -1,0 +1,18 @@
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      674.00 mV 
+vddnb:       743.00 mV 
+edge:         +33.0 C  
+slowPPT:       0.00 W  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +36.6 C  
+

@@ -1,0 +1,52 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +89.8 C)
+                       (crit = +93.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.0 C  (crit = +105.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 32:       +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 33:       +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 34:       +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 35:       +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 40:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 41:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 42:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 43:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 44:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 45:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 46:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 47:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+
+enp2s0-pci-0200
+Adapter: PCI adapter
+PHY Temperature:  +61.0 C  
+MAC Temperature:  +61.0 C  
+

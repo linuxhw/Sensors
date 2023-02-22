@@ -1,0 +1,60 @@
+it8620-isa-0a40
+Adapter: ISA adapter
+in0:         696.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           2.48 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           1.99 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.06 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         948.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           2.48 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.36 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.02 V  
+fan1:        1000 RPM  (min =    0 RPM)
+fan2:         644 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+fan4:           0 RPM  (min =    0 RPM)
+fan5:           0 RPM  (min =    0 RPM)
+temp1:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp4:        +40.0 C  
+temp5:        +46.0 C  
+temp6:        +46.0 C  
+intrusion0:  ALARM
+
+amdgpu-pci-4b00
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:         507 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +49.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      16.22 W  (cap = 145.00 W)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.77 V  (min =  +0.00 V, max =  +2.78 V)
+in1:           1.49 V  (min =  +0.00 V, max =  +2.78 V)
+in2:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
++3.3V:         1.67 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.20 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.20 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.66 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.59 V  
+fan1:        1461 RPM  (min =    0 RPM)
+fan2:         750 RPM  (min =    0 RPM)
+fan3:         760 RPM  (min =    0 RPM)
+temp1:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = Intel PECI
+temp2:        +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +30.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +31.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +29.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +30.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +30.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +30.0 C  (high = +90.0 C, crit = +100.0 C)
+

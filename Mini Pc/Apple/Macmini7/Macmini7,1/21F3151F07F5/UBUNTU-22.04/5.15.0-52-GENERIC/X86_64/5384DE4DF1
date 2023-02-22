@@ -1,0 +1,70 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Exhaust  :   1796 RPM  (min = 1800 RPM, max = 4800 RPM)
+TA0P:         +53.0 C  
+TA0V:         +26.2 C  
+TA0p:         +53.0 C  
+TA1P:         +49.5 C  
+TA1p:         +49.5 C  
+TA2P:         +55.5 C  
+TA2p:         +55.5 C  
+TC0C:         +62.0 C  
+TC0E:         +66.5 C  
+TC0F:         +67.8 C  
+TC0G:         +93.0 C  
+TC0J:          +1.0 C  
+TC0P:         +56.0 C  
+TC0c:         +62.0 C  
+TC0p:         +56.0 C  
+TC1C:         +65.0 C  
+TC1c:         +65.0 C  
+TCGC:         +62.0 C  
+TCGc:         +62.0 C  
+TCPG:         +98.0 C  
+TCSC:         +63.0 C  
+TCSc:         +63.0 C  
+TCTD:          +0.0 C  
+TCXC:         +64.5 C  
+TCXc:         +64.5 C  
+TCXr:         -35.5 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          +9.0 C  
+TH0P:        -127.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH1A:         +38.5 C  
+TH1B:         +38.0 C  
+TH1C:         +37.0 C  
+TH1F:         -47.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:         -47.0 C  
+TH1a:         +38.5 C  
+TH1b:         +38.0 C  
+TH1c:         +37.0 C  
+TM0P:         +53.8 C  
+TM0V:         +54.5 C  
+TM0p:         +53.8 C  
+TPCD:         +65.0 C  
+TPCd:         +65.0 C  
+TS0V:         +40.5 C  
+TW0P:         +51.5 C  
+TW0p:         +51.5 C  
+Te0T:         +63.8 C  
+Te0t:         +63.8 C  
+Tm0P:         +51.0 C  
+Tm0p:         +51.0 C  
+Tp0C:         +46.2 C  
+Ts0G:         +49.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+

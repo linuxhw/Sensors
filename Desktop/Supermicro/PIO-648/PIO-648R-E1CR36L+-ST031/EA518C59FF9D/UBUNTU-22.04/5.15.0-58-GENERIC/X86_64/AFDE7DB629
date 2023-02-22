@@ -1,0 +1,46 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 0:        +75.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 1:        +73.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 2:        +73.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 3:        +73.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 4:        +73.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 5:        +72.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 6:        +69.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 8:        +71.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 9:        +73.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 10:       +71.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 11:       +72.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 12:       +74.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 13:       +71.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 14:       +70.0 C  (high = +75.0 C, crit = +93.0 C)
+
+nvme-pci-8300
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +63.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 0:        +59.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 1:        +60.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 2:        +63.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 3:        +60.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 4:        +60.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 5:        +59.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 6:        +58.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 8:        +57.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 9:        +57.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 10:       +59.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 11:       +59.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 12:       +60.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 13:       +58.0 C  (high = +75.0 C, crit = +93.0 C)
+Core 14:       +56.0 C  (high = +75.0 C, crit = +93.0 C)
+
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:      369.00 W  (interval =   1.00 s)
+

@@ -1,0 +1,23 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +57.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +59.0 C  (high = +105.0 C, crit = +105.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+temp1:        +92.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +100.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Master :     5495 RPM  (min = 1500 RPM, max = 5500 RPM)
+TC0D:         +57.0 C  
+TC0H:         +50.2 C  
+TC0P:         +55.8 C  
+TH0P:        -128.0 C  
+TN0D:         +90.5 C  
+TN0P:         +73.8 C  
+TW0P:         +71.2 C  
+Tm0P:        -128.0 C  
+

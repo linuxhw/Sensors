@@ -1,0 +1,82 @@
+power_meter-acpi-0
+Adapter: ACPI interface
+power1:        4.29 MW (interval = 4294967.29 s)
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +39.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 0:        +40.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 1:        +39.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 2:        +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 3:        +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 4:        +41.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 5:        +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 8:        +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 9:        +39.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 10:       +40.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 11:       +39.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 12:       +40.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 16:       +37.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 17:       +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 18:       +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 19:       +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 20:       +42.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 21:       +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 24:       +38.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 25:       +39.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 26:       +37.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 27:       +39.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 28:       +41.0 C  (high = +83.0 C, crit = +85.0 C)
+
+nvme-pci-8400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+drivetemp-scsi-10-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +49.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 0:        +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 1:        +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 2:        +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 3:        +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 4:        +45.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 5:        +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 8:        +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 9:        +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 10:       +45.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 11:       +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 12:       +44.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 16:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 17:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 18:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 19:       +42.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 20:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 21:       +42.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 24:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 25:       +43.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 26:       +42.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 27:       +42.0 C  (high = +83.0 C, crit = +85.0 C)
+Core 28:       +44.0 C  (high = +83.0 C, crit = +85.0 C)
+
+i350bb-pci-8100
+Adapter: PCI adapter
+loc1:         +42.0 C  (high = +120.0 C, crit = +110.0 C)
+
+nvme-pci-8300
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+

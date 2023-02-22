@@ -1,0 +1,57 @@
+hidpp_battery_0-hid-3-9
+Adapter: HID adapter
+in0:           4.07 V  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +65.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +64.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +65.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 32:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 33:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 34:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 35:       +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-6e00
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +58.0 C  
+
+enp109s0-pci-6d00
+Adapter: PCI adapter
+PHY Temperature:  +65.0 C  
+MAC Temperature:  +65.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+

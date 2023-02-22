@@ -1,0 +1,39 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:        1083 RPM  (min =  900 RPM, max = 4200 RPM)
+edge:         +41.0*C  (crit = +97.0*C, hyst = -273.1*C)
+power1:        3.23 W  (cap =  35.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +81.5*C  
+Tccd1:        +77.2*C  
+Tccd2:        +63.8*C  
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +37.0*C  (low  = +14.0*C, high = +55.0*C)
+                       (crit low = +10.0*C, crit = +60.0*C)
+                       (lowest = +17.0*C, highest = +37.0*C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8*C  (crit = +20.8*C)
+temp2:        +16.8*C  (crit = +20.8*C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +57.0*C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +38.0*C  (low  =  +0.0*C, high = +70.0*C)
+                       (crit low =  +0.0*C, crit = +70.0*C)
+                       (lowest = +29.0*C, highest = +47.0*C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +54.9*C  (low  = -60.1*C, high = +89.8*C)
+                       (crit = +94.8*C)
+

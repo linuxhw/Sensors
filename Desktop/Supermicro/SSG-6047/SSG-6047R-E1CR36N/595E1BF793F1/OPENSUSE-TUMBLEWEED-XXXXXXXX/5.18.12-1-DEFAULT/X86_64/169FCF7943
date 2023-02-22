@@ -1,0 +1,73 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +37.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 1:        +35.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 2:        +32.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 3:        +32.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 4:        +32.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 8:        +34.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 9:        +34.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 10:       +34.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 11:       +32.0 C  (high = +77.0 C, crit = +91.0 C)
+
+i350bb-pci-0600
+Adapter: PCI adapter
+loc1:         +55.0 C  (high = +120.0 C, crit = +110.0 C)
+
+nvme-pci-8500
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nct7904-i2c-0-2d
+Adapter: SMBus I801 adapter at 1180
+in1:           1.01 V  (min =  +0.00 V, max =  +4.09 V)
+in2:           1.10 V  (min =  +0.00 V, max =  +4.09 V)
+in3:           1.48 V  (min =  +0.00 V, max =  +4.09 V)
+in4:           1.25 V  (min =  +0.00 V, max =  +4.09 V)
+in5:           1.25 V  (min =  +0.00 V, max =  +4.09 V)
+in6:         822.00 mV (min =  +0.00 V, max =  +4.09 V)
+in7:           1.86 V  (min =  +0.00 V, max =  +4.09 V)
+in8:         742.00 mV (min =  +0.00 V, max =  +4.09 V)
+in9:         840.00 mV (min =  +0.00 V, max =  +4.09 V)
+in10:        1000.00 mV (min =  +0.00 V, max =  +4.09 V)
+in11:          1.49 V  (min =  +0.00 V, max =  +4.09 V)
+in12:          1.50 V  (min =  +0.00 V, max =  +4.09 V)
+in13:          1.50 V  (min =  +0.00 V, max =  +4.09 V)
+in14:          1.49 V  (min =  +0.00 V, max =  +4.09 V)
+in15:          3.25 V  (min =  +0.00 V, max = +12.28 V)
+in20:          3.35 V  (min =  +0.00 V, max = +12.28 V)
+fan1:           0 RPM  (min =  164 RPM)
+fan2:        1116 RPM  (min =  164 RPM)
+fan3:        2195 RPM  (min =  164 RPM)
+fan4:        1136 RPM  (min =  164 RPM)
+fan5:           0 RPM  (min =  164 RPM)
+fan6:        1079 RPM  (min =  164 RPM)
+fan7:         470 RPM  (min =  164 RPM)
+fan8:         478 RPM  (min =  164 RPM)
+fan9:           0 RPM  (min =  164 RPM)
+fan10:          0 RPM  (min =  164 RPM)
+temp5:        +46.5 C  (high = +85.0 C, hyst = +80.0 C)
+                       (crit = +100.0 C, hyst = +95.0 C)  sensor = thermistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 1:        +38.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 2:        +36.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 3:        +32.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 4:        +34.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 8:        +35.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 9:        +33.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 10:       +32.0 C  (high = +77.0 C, crit = +91.0 C)
+Core 11:       +31.0 C  (high = +77.0 C, crit = +91.0 C)
+
+nvme-pci-8600
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

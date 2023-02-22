@@ -1,0 +1,44 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +64.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +54.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +60.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +64.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +55.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +50.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 32:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 33:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 34:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 35:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+enp108s0-pci-6c00
+Adapter: PCI adapter
+PHY Temperature:  +62.0 C  
+MAC Temperature:  +62.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-6d00
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

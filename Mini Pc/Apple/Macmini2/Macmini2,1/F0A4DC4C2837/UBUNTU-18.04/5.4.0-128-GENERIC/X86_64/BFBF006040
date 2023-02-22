@@ -1,0 +1,16 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +66.0 C  (high = +100.0 C, crit = +100.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Master :     1523 RPM  (min = 1500 RPM, max = 5500 RPM)
+TA0P:         +47.8 C  
+TC0D:         +66.5 C  
+TC0H:         +56.0 C  
+TC0P:         +52.0 C  
+TC1P:         +55.8 C  
+TN0P:         +49.0 C  
+TN1P:         +50.0 C  
+

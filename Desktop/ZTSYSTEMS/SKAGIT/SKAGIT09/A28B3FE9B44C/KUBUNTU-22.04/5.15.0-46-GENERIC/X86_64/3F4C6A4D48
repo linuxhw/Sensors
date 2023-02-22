@@ -1,0 +1,51 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +38.0 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +65.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +45.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+radeon-pci-0500
+Adapter: PCI adapter
+temp1:        +52.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+w83795g-i2c-0-2f
+Adapter: SMBus PIIX4 adapter at 0b00
+in0:           1.23 V  (min =  +0.68 V, max =  +1.33 V)
+in2:           1.50 V  (min =  +1.12 V, max =  +1.65 V)
+in4:         754.00 mV (min =  +0.56 V, max =  +0.83 V)
+in6:           1.09 V  (min =  +0.98 V, max =  +1.21 V)
+in7:           1.85 V  (min =  +0.00 V, max =  +2.05 V)
+in8:           1.25 V  (min =  +1.13 V, max =  +1.38 V)
+in9:           1.82 V  (min =  +1.63 V, max =  +2.00 V)
+in10:          1.46 V  (min =  +1.42 V, max =  +1.53 V)
+in11:          1.20 V  (min =  +1.08 V, max =  +1.33 V)
++3.3V:         3.24 V  (min =  +2.96 V, max =  +3.63 V)
+3VSB:          3.25 V  (min =  +2.96 V, max =  +3.63 V)
+Vbat:          3.14 V  (min =  +2.70 V, max =  +3.63 V)
+fan1:        2836 RPM  (min =  712 RPM)
+fan2:           0 RPM  (min =  712 RPM)  ALARM
+fan3:           0 RPM  (min =  712 RPM)  ALARM
+fan4:        2760 RPM  (min =  712 RPM)
+fan5:        1620 RPM  (min =  712 RPM)
+temp3:        +80.0 C  (high = +127.0 C, hyst = +127.0 C)
+                       (crit = +85.0 C, hyst = +96.0 C)  sensor = thermal diode
+temp5:        +43.2 C  (high = +127.0 C, hyst = +127.0 C)
+                       (crit = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+temp6:        +49.2 C  (high = +127.0 C, hyst = +127.0 C)
+                       (crit = +75.0 C, hyst = +70.0 C)  sensor = thermistor
+temp7:        +38.0 C  (high = +70.0 C, hyst = +67.0 C)
+                       (crit = +70.0 C, hyst = +67.0 C)  sensor = AMD AMDSI
+intrusion0:  ALARM
+beep_enable: disabled
+
+jc42-i2c-0-19
+Adapter: SMBus PIIX4 adapter at 0b00
+temp1:        +45.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
