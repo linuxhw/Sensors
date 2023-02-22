@@ -1,0 +1,14 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +55.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +55.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acerhdf-virtual-0
+Adapter: Virtual device
+temp1:        +65.0 C  (crit = +89.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.39 V  
+curr1:       148.00 mA 
+

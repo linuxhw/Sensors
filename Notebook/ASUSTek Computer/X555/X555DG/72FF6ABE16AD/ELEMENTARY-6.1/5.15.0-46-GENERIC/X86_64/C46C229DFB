@@ -1,0 +1,33 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       20.88 mW (avg =   9.66 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      812.00 mV 
+vddnb:       887.00 mV 
+edge:         +51.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:              N/A  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3000 RPM
+temp1:        +51.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +51.2 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+radeon-pci-0300
+Adapter: PCI adapter
+temp1:        +47.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +51.0 C  (crit = +103.0 C)
+

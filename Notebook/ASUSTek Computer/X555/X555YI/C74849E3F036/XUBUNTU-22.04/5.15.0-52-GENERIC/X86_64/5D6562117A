@@ -1,0 +1,30 @@
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +43.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +57.2 C  (high = +70.0 C)
+                       (crit = +105.0 C, hyst = +104.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.60 V  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +49.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2800 RPM
+temp1:        +57.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        2.46 W  (interval =   0.01 s, crit =  15.05 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +57.0 C  (crit = +103.0 C)
+

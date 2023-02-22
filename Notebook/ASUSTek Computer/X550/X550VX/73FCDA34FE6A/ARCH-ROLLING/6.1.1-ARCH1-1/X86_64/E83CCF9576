@@ -1,0 +1,30 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +63.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.40 V  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3300 RPM
+gpu_fan:     3300 RPM
+temp1:        +73.0 C  
+
+asus_fan-isa-0000
+Adapter: ISA adapter
+CPU Fan:     1848 RPM  (min =   10 RPM, max =  255 RPM)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +73.0 C  (crit = +103.0 C)
+

@@ -1,0 +1,39 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +67.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +63.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +67.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +67.0 C  (high = +84.0 C, crit = +100.0 C)
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +23.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  -5.0 C, crit = +75.0 C)
+                       (lowest = +20.0 C, highest = +23.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.29 V  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3400 RPM
+temp1:       +6280.4 C  
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:         +0.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +28.0 C, highest = +35.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +27.0 C  (low  =  +0.0 C, high = +100.0 C)
+                       (crit low =  +0.0 C, crit = +100.0 C)
+                       (lowest = +25.0 C, highest = +27.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +70.0 C  (crit = +98.0 C)
+
