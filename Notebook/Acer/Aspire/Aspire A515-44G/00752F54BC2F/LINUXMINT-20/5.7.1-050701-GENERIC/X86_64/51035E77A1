@@ -1,0 +1,30 @@
+ath10k_hwmon-pci-0400
+Adapter: PCI adapter
+temp1:        +54.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+edge:         +47.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        9.12 W  (cap =  18.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.73 V  
+curr1:       989.00 mA 
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +47.0 C  (crit =  +0.0 C, hyst =  +0.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +56.0 C  (crit = +103.0 C)
+

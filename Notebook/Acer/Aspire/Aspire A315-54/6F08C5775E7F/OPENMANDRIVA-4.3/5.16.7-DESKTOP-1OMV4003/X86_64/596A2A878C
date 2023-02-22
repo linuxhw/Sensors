@@ -1,0 +1,17 @@
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.22 V  
+curr1:         1.43 A  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
