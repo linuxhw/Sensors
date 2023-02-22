@@ -1,0 +1,97 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+temp:         +27.0 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+applesmc-acpi-0
+Adapter: ACPI interface
+fan1:        1831 RPM  (min = 1836 RPM, max = 5616 RPM)
+fan2:        1695 RPM  (min = 1700 RPM, max = 5200 RPM)
+TA0V:         +18.2 C  
+TB0T:         +26.8 C  
+TB1T:         +25.0 C  
+TB2T:         +26.8 C  
+TC0E:         +63.8 C  
+TC0F:         +67.2 C  
+TC0P:         +51.5 C  
+TC0T:          +0.5 C  
+TC1C:         +65.0 C  
+TC2C:         +64.0 C  
+TC3C:         +68.0 C  
+TC4C:         +69.0 C  
+TC5C:         +72.0 C  
+TC6C:         +63.0 C  
+TC7C:         +72.0 C  
+TC8C:         +66.0 C  
+TCGC:         +61.0 C  
+TCMX:         +72.0 C  
+TCSA:         +63.0 C  
+TCXC:         +66.5 C  
+TF0S:          +4.2 C  
+TG0P:         +55.5 C  
+TG1P:         +52.5 C  
+TGDD:         +64.0 C  
+TGDE:         +54.0 C  
+TGDF:         +67.0 C  
+TGDT:          -0.2 C  
+TGVF:         +59.2 C  
+TGVP:         +59.2 C  
+TH0F:         +33.2 C  
+TH0X:         +33.5 C  
+TH0a:         +29.5 C  
+TH0b:         +31.0 C  
+TH1a:         +29.8 C  
+TH1b:         +33.5 C  
+TM0P:         +44.5 C  
+TPCD:         +53.0 C  
+TTLD:         +40.8 C  
+TTRD:         +44.8 C  
+TW0P:         +44.5 C  
+TaLC:         +36.0 C  
+TaRC:         +39.0 C  
+Th1H:         +60.0 C  
+Th2H:         +49.2 C  
+Tm0P:         +53.5 C  
+Ts0P:         +24.8 C  
+Ts0S:         +35.5 C  
+Ts1P:         +21.8 C  
+Ts1S:         +35.8 C  
+Ts2S:         +37.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +60.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +64.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +150.0 C, hyst = -273.1 C)
+                       (emerg = +155.0 C)
+slowPPT:      16.00 W  (cap =  50.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +72.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +61.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +27.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +29.9 C  
+

@@ -1,0 +1,64 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2158 RPM  (min = 6200 RPM, max = 6200 RPM)
+Right side : 6229 RPM  (min = 6200 RPM, max = 6200 RPM)
+TB0T:         +26.5 C  
+TB1T:         +29.5 C  
+TB2T:         +29.0 C  
+TB3T:          +0.0 C  
+TC0D:         +80.0 C  
+TC0F:         +58.0 C  
+TC0P:         +65.5 C  
+TG0D:         +81.5 C  
+TG0F:         +61.8 C  
+TG0H:         +56.0 C  
+TG0P:         +67.0 C  
+TG0T:         +71.2 C  
+TN0D:         +73.5 C  
+TN0P:         +66.8 C  
+TTF0:         +49.0 C  
+Th2H:         +61.2 C  
+Tm0P:         +66.0 C  
+Ts0P:         +30.8 C  
+Ts0S:         +45.8 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +26.7 C  
+
+jc42-i2c-0-19
+Adapter: SMBus nForce2 adapter at 3140
+temp1:        +55.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +76.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +75.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.14 V  
+temp:         +26.7 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +0.90 V, max =  +1.00 V)
+temp1:        +81.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +2.0 C)
+                       (emerg = +110.0 C, hyst =  +5.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus nForce2 adapter at 3140
+temp1:        +56.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+nouveau-pci-0300
+Adapter: PCI adapter
+temp1:        +73.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +95.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

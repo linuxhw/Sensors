@@ -1,0 +1,78 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 2657 RPM  (min = 2160 RPM, max = 6156 RPM)
+Right side : 2454 RPM  (min = 2000 RPM, max = 5700 RPM)
+TB0T:         +35.0 C  
+TB1T:         +35.0 C  
+TB2T:         +34.8 C  
+TBXT:         +35.0 C  
+TC0E:         +58.0 C  
+TC0F:         +60.2 C  
+TC0P:         +52.2 C  
+TC1C:         +59.0 C  
+TC1F:         +62.5 C  
+TC1f:         +62.5 C  
+TC2C:         +60.0 C  
+TC3C:         +60.0 C  
+TC4C:         +58.0 C  
+TCGC:         +59.0 C  
+TCMc:          +0.0 C  
+TCSA:         +58.0 C  
+TCTD:          +0.0 C  
+TCXC:         +62.5 C  
+TCXM:          +0.0 C  
+TCXP:         +62.5 C  
+TG0D:         +58.2 C  
+TG0F:         +56.5 C  
+TG0P:         +54.0 C  
+TG1D:        -127.0 C  
+TH0A:         +38.5 C  
+TH0B:         +38.0 C  
+TH0C:         +34.5 C  
+TH0F:         -42.5 C  
+TH0R:         -42.5 C  
+TH0V:         +40.2 C  
+TH0a:         +38.5 C  
+TH0b:         +38.0 C  
+TH0c:         +34.5 C  
+TH0x:        -127.0 C  
+TM0P:         +48.5 C  
+TM0S:         +47.2 C  
+TP0P:         +49.2 C  
+TPCD:         +56.0 C  
+TW0P:         +44.2 C  
+Ta0P:         +43.2 C  
+TaSP:         +42.2 C  
+Th1H:         +47.0 C  
+Th2H:         +50.8 C  
+Ts0P:         +33.5 C  
+Ts0S:         +42.5 C  
+Ts1P:         +32.8 C  
+Ts1S:         +43.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.86 V  
+temp:         +35.2 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +56.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +65.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +59.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +62.0 C  (high = +84.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +35.2 C  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +63.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

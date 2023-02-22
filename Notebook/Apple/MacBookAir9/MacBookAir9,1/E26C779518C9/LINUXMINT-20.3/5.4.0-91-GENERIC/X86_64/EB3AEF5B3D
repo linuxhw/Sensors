@@ -1,0 +1,18 @@
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +35.7 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.46 V  
+temp:         +35.7 C  
+curr1:       326.00 mA (avg =  +0.43 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +89.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +89.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +87.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +87.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +86.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+

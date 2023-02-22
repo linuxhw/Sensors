@@ -1,0 +1,9 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +41.0 C  (high = +90.0 C, crit = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +38.0 C  (crit = +89.0 C)
+

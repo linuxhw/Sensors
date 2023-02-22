@@ -1,0 +1,73 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.75 V, max =  +1.10 V)
+temp1:        +71.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.55 V  
+temp:         +34.2 C  
+curr1:       924.00 mA (avg =  +0.93 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +81.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +80.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +78.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +81.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +76.0 C  (high = +87.0 C, crit = +105.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 3232 RPM  (min = 2160 RPM, max = 5940 RPM)
+Right side : 2996 RPM  (min = 2000 RPM, max = 5499 RPM)
+TB0T:         +34.0 C  
+TB1T:         +34.0 C  
+TB2T:         +31.0 C  
+TC0E:         +86.0 C  
+TC0F:         +87.8 C  
+TC0P:         +60.0 C  
+TC1C:         +84.0 C  
+TC2C:         +84.0 C  
+TC3C:         +85.0 C  
+TC4C:         +77.0 C  
+TCGC:         +85.0 C  
+TCSA:         +78.0 C  
+TCTD:          +0.2 C  
+TCXC:         +85.2 C  
+TG0D:         +73.2 C  
+TG0P:         +66.5 C  
+TG1D:         +77.0 C  
+TG1F:         +80.5 C  
+TG1d:         +71.0 C  
+TH0A:         +38.8 C  
+TH0B:         +41.8 C  
+TH0V:         +44.2 C  
+TH0a:         +38.8 C  
+TH0b:         +41.8 C  
+TH0c:        -127.0 C  
+TH0x:         +41.8 C  
+TM0P:         +54.2 C  
+TM0S:         +52.5 C  
+TMBS:         +52.0 C  
+TP0P:         +55.2 C  
+TPCD:         +59.0 C  
+TS0D:        -127.0 C  
+TS0P:        -127.0 C  
+TS1D:        -127.0 C  
+TS1P:        -127.0 C  
+TW0P:         +47.5 C  
+Ta0P:         +45.5 C  
+TaSP:         +42.8 C  
+Th1H:         +50.2 C  
+Th2H:         +59.2 C  
+Ts0P:         +32.5 C  
+Ts0S:         +41.2 C  
+Ts1S:         +45.0 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +34.2 C  
+

@@ -1,0 +1,53 @@
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +38.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +27.0 C, highest = +40.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Exhaust  :   6198 RPM  (min = 2000 RPM, max = 6200 RPM)
+TA0P:         +52.5 C  
+TB0T:         +38.2 C  
+TB1T:         +29.2 C  
+TB2T:         +33.0 C  
+TC0E:         +81.2 C  
+TC0F:         +82.2 C  
+TC0J:          +0.8 C  
+TC0P:         +62.5 C  
+TC1C:         +72.0 C  
+TC2C:         +85.0 C  
+TCGC:         +85.0 C  
+TCSA:         +71.0 C  
+TCTD:          +0.2 C  
+TCXC:         +85.2 C  
+TG1D:         +82.2 C  
+TM0P:         +48.2 C  
+TM0S:         +54.5 C  
+TPCD:         +73.0 C  
+Th1H:         +57.2 C  
+Ts0P:         +35.0 C  
+Ts0S:         +50.5 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.46 V  
+temp:         +38.5 C  
+curr1:         1.66 A  (avg =  +1.66 A)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +40.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +20.0 C, highest = +44.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +73.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +74.0 C  (high = +87.0 C, crit = +105.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +38.5 C  
+

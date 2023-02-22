@@ -1,0 +1,64 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +49.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +36.9 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.54 V  
+temp:         +36.9 C  
+curr1:         1.49 A  (avg =  +1.49 A)
+
+applesmc-acpi-0
+Adapter: ACPI interface
+fan1:           0 RPM  (min = 1250 RPM, max = 6336 RPM)
+fan2:           0 RPM  (min = 1350 RPM, max = 6864 RPM)
+TA0V:         +28.2 C  
+TB0T:         +36.5 C  
+TB1T:         +34.0 C  
+TB2T:         +36.5 C  
+TC0E:         +50.5 C  
+TC0F:         +51.8 C  
+TC0P:         +46.8 C  
+TC1C:         +50.0 C  
+TC2C:         +51.0 C  
+TC3C:         +50.0 C  
+TC4C:         +50.0 C  
+TCGC:         +50.0 C  
+TCSA:         +49.0 C  
+TCXC:         +51.8 C  
+TF0S:          +0.0 C  
+TH0F:         +39.8 C  
+TH0X:         +39.8 C  
+TH0a:         +38.0 C  
+TH0b:         +39.8 C  
+TM0P:         +45.0 C  
+TPCD:         +50.0 C  
+TTLD:         +49.5 C  
+TTRD:         +50.2 C  
+TW0P:         +45.2 C  
+TaLC:         +39.8 C  
+TaRC:         +39.0 C  
+Th1H:         +44.8 C  
+Th2H:         +43.2 C  
+Ts0P:         +32.8 C  
+Ts0S:         +36.5 C  
+Ts1P:         +30.8 C  
+Ts1S:         +38.0 C  
+Ts2S:         +37.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +37.9 C  
+

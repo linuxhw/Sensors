@@ -1,0 +1,73 @@
+applesmc-isa-0300
+Adapter: ISA adapter
+Left side  : 3955 RPM  (min = 2160 RPM, max = 5940 RPM)
+Right side : 3658 RPM  (min = 2000 RPM, max = 5499 RPM)
+TB0T:         +38.8 C  
+TB1T:         +38.8 C  
+TB2T:         +36.2 C  
+TC0E:         +98.2 C  
+TC0F:        +100.2 C  
+TC0P:         +66.2 C  
+TC1C:         +97.0 C  
+TC2C:        +104.0 C  
+TC3C:        +101.0 C  
+TC4C:         +95.0 C  
+TCGC:        +104.0 C  
+TCSA:         +97.0 C  
+TCTD:          +0.5 C  
+TCXC:        +103.0 C  
+TG0D:         +85.2 C  
+TG0P:         +75.0 C  
+TG1D:         +89.0 C  
+TG1F:         +88.5 C  
+TG1d:         +83.0 C  
+TH0A:         +43.8 C  
+TH0B:         +43.8 C  
+TH0V:         +49.5 C  
+TH0a:         +43.8 C  
+TH0b:         +43.8 C  
+TH0c:        -127.0 C  
+TH0x:         +43.8 C  
+TM0P:         +62.2 C  
+TM0S:         +62.5 C  
+TMBS:         +62.0 C  
+TP0P:         +62.0 C  
+TPCD:         +68.0 C  
+TS0D:        -127.0 C  
+TS0P:        -127.0 C  
+TS1D:        -127.0 C  
+TS1P:        -127.0 C  
+TW0P:         +54.0 C  
+Ta0P:         +44.0 C  
+TaSP:         +41.2 C  
+Th1H:         +50.0 C  
+Th2H:         +61.8 C  
+Ts0P:         +35.8 C  
+Ts0S:         +43.5 C  
+Ts1S:         +43.2 C  
+
+BAT0-virtual-0
+Adapter: Virtual device
+temp1:        +39.1 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +94.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 0:        +94.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 1:        +93.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 2:        +93.0 C  (high = +87.0 C, crit = +105.0 C)
+Core 3:        +91.0 C  (high = +87.0 C, crit = +105.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          10.16 V  
+temp:         +39.1 C  
+curr1:         4.74 A  (avg =  +3.81 A)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.75 V, max =  +1.10 V)
+temp1:        +82.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
