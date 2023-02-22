@@ -1,0 +1,29 @@
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +30.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +28.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+
+corsairpsu-hid-3-6
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.17 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +40.5 C  (crit = +70.0 C)
+case temp:    +33.5 C  (crit = +70.0 C)
+power total:  64.00 W  
+power +12v:   42.00 W  
+power +5v:    18.00 W  
+power +3.3v:   2.00 W  
+curr +12v:     3.00 A  (crit max = +85.00 A)
+curr +5v:      3.62 A  (crit max = +40.00 A)
+curr +3.3v:  625.00 mA (crit max = +40.00 A)
+

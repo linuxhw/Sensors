@@ -1,0 +1,16 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +36.6 C  (high = +70.0 C)
+                       (crit = +70.0 C, hyst = +69.0 C)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +22.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      850.00 mV 
+fan1:        1683 RPM  (min =    0 RPM, max = 6000 RPM)
+edge:         +43.0 C  (crit = +104.0 C, hyst = -273.1 C)
+PPT:          19.01 W  (cap = 150.00 W)
+
