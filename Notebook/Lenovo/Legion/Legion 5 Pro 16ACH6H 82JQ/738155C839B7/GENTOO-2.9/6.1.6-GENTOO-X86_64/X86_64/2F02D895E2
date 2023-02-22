@@ -1,0 +1,38 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +57.0 C  
+
+legion_hwmon-isa-0000
+Adapter: ISA adapter
+Fan 1:           1858 RPM
+Fan 2:           1963 RPM
+Fan:             1800 RPM
+CPU Temperature:  +43.0 C  
+GPU Temperature:  +38.0 C  
+IC Temperature:   +42.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.59 V  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   732.00 mV 
+SVI2_SoC:    944.00 mV 
+Tdie:         +46.4 C  (high = +95.0 C)
+Tctl:         +46.4 C  
+SVI2_P_Core:   1.45 W  
+SVI2_P_SoC:    5.56 W  
+SVI2_C_Core:   1.98 A  
+SVI2_C_SoC:    5.89 A  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
