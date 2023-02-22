@@ -1,0 +1,19 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 0:        +46.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 3:        +43.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 4:        +46.0 C  (high = +94.0 C, crit = +100.0 C)
+Core 5:        +45.0 C  (high = +94.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +83.0 C  
+

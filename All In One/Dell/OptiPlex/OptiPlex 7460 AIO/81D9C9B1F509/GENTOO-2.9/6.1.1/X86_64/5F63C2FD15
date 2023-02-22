@@ -1,0 +1,28 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+WiFi Temp:    +46.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+ACPI System Temp:  +51.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+Board Temp:   +27.8 C  (crit = +119.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+Disk Temp:    +49.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  -1.0 C, crit = +71.0 C)
+                       (lowest = +47.0 C, highest = +52.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Temp:     +44.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 0:       +43.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 1:       +44.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 2:       +41.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 3:       +43.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 4:       +41.0 C  (high = +82.0 C, crit = +100.0 C)
+Core 5:       +43.0 C  (high = +82.0 C, crit = +100.0 C)
+

@@ -1,0 +1,75 @@
+applesmc-acpi-0
+Adapter: ACPI interface
+Main :       1649 RPM  (min = 1400 RPM, max = 3395 RPM)
+TA0P:         +23.8 C  
+TA0V:         +34.8 C  
+TA0p:         +43.8 C  
+TC0E:         -27.5 C  
+TC0F:         -24.8 C  
+TC0J:          +2.5 C  
+TC0P:         +63.5 C  
+TC0T:          +0.0 C  
+TC0c:         +73.0 C  
+TC0p:         +63.5 C  
+TC1c:         +75.0 C  
+TC2c:         +74.0 C  
+TC3c:         +70.0 C  
+TCGc:         +67.0 C  
+TCMc:          +0.0 C  
+TCSc:         +67.0 C  
+TCXR:         -24.2 C  
+TCXc:         +75.8 C  
+TCXr:         -24.2 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          +0.0 C  
+TH0P:          +0.0 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH1A:        -127.0 C  
+TH1B:        -127.0 C  
+TH1C:        -127.0 C  
+TH1F:        -127.0 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:        -127.0 C  
+TH1a:        -127.0 C  
+TH1b:        -127.0 C  
+TH1c:        -127.0 C  
+TL0P:         +47.2 C  
+TL0V:             N/A  
+TL0p:         +47.2 C  
+TL1P:         +46.0 C  
+TL1V:         +41.5 C  
+TL1p:         +46.0 C  
+TL1v:         +41.5 C  
+TM0P:         +57.5 C  
+TM0V:         +60.8 C  
+TM0p:         +57.5 C  
+TMXP:         +57.5 C  
+TPCD:         +77.0 C  
+TS0V:         +47.5 C  
+Tb0P:         +62.2 C  
+Tb0p:         +62.2 C  
+Tm0P:         +56.5 C  
+Tm0p:         +56.5 C  
+Tm1P:         +63.8 C  
+Tm1p:         +63.8 C  
+Tm2P:         +56.5 C  
+Tm2p:         +56.5 C  
+Tp2F:         +53.5 C  
+Tp2H:         +53.5 C  
+Tp2h:         +53.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +73.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +75.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +71.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +71.0 C  (high = +84.0 C, crit = +100.0 C)
+

@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +48.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +39.5 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 1265 RPM  (min =    0 RPM, max = 3570 RPM)
+CPU:            +44.0 C  
+SODIMM:         +48.0 C  
+Ambient:        +40.0 C  
+

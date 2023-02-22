@@ -1,0 +1,63 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +59.0 C  (high = +80.0 C, crit = +86.0 C)
+Core 0:        +58.0 C  (high = +80.0 C, crit = +86.0 C)
+Core 1:        +58.0 C  (high = +80.0 C, crit = +86.0 C)
+Core 2:        +58.0 C  (high = +80.0 C, crit = +86.0 C)
+Core 3:        +58.0 C  (high = +80.0 C, crit = +86.0 C)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+ODD :        1397 RPM  (min = 1400 RPM, max = 4350 RPM)
+HDD :        1124 RPM  (min = 1100 RPM, max = 6300 RPM)
+CPU :        1197 RPM  (min = 1200 RPM, max = 3267 RPM)
+TA0P:         +30.5 C  
+TA0V:         +30.2 C  
+TA0p:         +31.5 C  
+TC0H:         +53.2 C  
+TC0P:         +52.8 C  
+TC0c:         +58.0 C  
+TC0h:         +53.2 C  
+TC0p:         +52.8 C  
+TC1c:         +55.0 C  
+TC2c:         +58.0 C  
+TC3c:         +51.0 C  
+TCGc:         +58.0 C  
+TCSc:         +58.0 C  
+TCXc:         +59.2 C  
+TG0D:         +54.5 C  
+TG0H:         +52.0 C  
+TG0d:         +54.5 C  
+TG0h:         +52.0 C  
+TG0p:         +54.0 C  
+TH0O:          -3.0 C  
+TH1O:          -3.0 C  
+TL0P:         +44.2 C  
+TL0V:         +43.2 C  
+TL0p:         +56.2 C  
+TL1P:         +48.5 C  
+TL1V:         +46.0 C  
+TL1p:         +48.5 C  
+TL1v:         +46.0 C  
+TL2V:         +45.5 C  
+TLAV:         +45.5 C  
+TLBV:         +36.2 C  
+TLCV:         +43.2 C  
+TO0P:         +47.0 C  
+TO0p:         +48.0 C  
+TPCD:         +65.0 C  
+TS0P:         +42.0 C  
+TS0V:         +39.5 C  
+TS0p:         +42.0 C  
+TS2P:         +43.2 C  
+TS2V:         +42.0 C  
+TS2p:         +43.2 C  
+Tm0P:         +55.5 C  
+Tm0p:         +55.5 C  
+Tp1P:         +57.2 C  
+Tp1p:         +57.2 C  
+Tp2H:         +65.8 C  
+Tp2h:         +65.8 C  
+Tp3H:         +57.8 C  
+Tp3h:         +57.8 C  
+

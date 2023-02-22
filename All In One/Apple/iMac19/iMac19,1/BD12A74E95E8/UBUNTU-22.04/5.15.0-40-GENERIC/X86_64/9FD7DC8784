@@ -1,0 +1,128 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      912.00 mV 
+edge:         +57.0 C  (crit = +108.0 C, hyst = -273.1 C)
+slowPPT:      16.25 W  (cap = 103.00 W)
+
+applesmc-isa-0300
+Adapter: ISA adapter
+Main :       1776 RPM  (min = 1200 RPM, max = 3037 RPM)
+TA0P:         +25.0 C  
+TA0V:         +29.8 C  
+TA0p:         +45.0 C  
+TC0E:         -29.2 C  
+TC0F:         -27.8 C  
+TC0J:          +1.2 C  
+TC0P:         +62.2 C  
+TC0T:          +0.5 C  
+TC0c:         +77.0 C  
+TC0p:         +62.2 C  
+TC1c:         +69.0 C  
+TC2c:         +64.0 C  
+TC3c:         +64.0 C  
+TCGc:         +64.0 C  
+TCSc:         +65.0 C  
+TCXR:         -28.0 C  
+TCXc:         +72.0 C  
+TCXr:         -28.0 C  
+TG0D:         +57.0 C  
+TG0E:         +57.8 C  
+TG0F:         +59.2 C  
+TG0J:          +1.5 C  
+TG0P:         +56.8 C  
+TG0T:          -0.2 C  
+TG0d:         +57.0 C  
+TG0p:         +56.8 C  
+TG1D:        -127.0 C  
+TG1E:        -127.0 C  
+TG1F:        -127.0 C  
+TG1J:          +0.0 C  
+TG1P:         +57.8 C  
+TG1T:        -127.0 C  
+TG1d:        -127.0 C  
+TG1p:         +57.8 C  
+TG2P:         +59.5 C  
+TG2d:        -127.0 C  
+TG2p:         +59.5 C  
+TH0A:        -127.0 C  
+TH0B:        -127.0 C  
+TH0C:        -127.0 C  
+TH0F:        -127.0 C  
+TH0O:          -2.0 C  
+TH0P:          -1.8 C  
+TH0R:        -127.0 C  
+TH0a:        -127.0 C  
+TH0b:        -127.0 C  
+TH0c:        -127.0 C  
+TH0e:          +0.0 C  
+TH1A:         +42.5 C  
+TH1B:         +49.0 C  
+TH1C:         +50.0 C  
+TH1F:         -36.5 C  
+TH1O:          +9.0 C  
+TH1P:        -127.0 C  
+TH1R:         -36.5 C  
+TH1a:         +42.5 C  
+TH1b:         +49.0 C  
+TH1c:         +50.0 C  
+TL0P:         +43.5 C  
+TL0V:         +42.8 C  
+TL0p:         +43.5 C  
+TL1P:         +42.8 C  
+TL1V:         +40.5 C  
+TL1p:         +42.8 C  
+TL1v:         +40.5 C  
+TM0P:         +51.2 C  
+TM0V:         +48.8 C  
+TM0p:         +51.2 C  
+TM1P:         +41.5 C  
+TM1a:         +55.2 C  
+TM1p:         +41.5 C  
+TM2P:         +45.5 C  
+TM2a:         +53.8 C  
+TM2b:         +54.2 C  
+TM2c:         +53.5 C  
+TM2d:         +54.8 C  
+TM2p:         +45.5 C  
+TM3P:         +47.2 C  
+TM3a:         +53.8 C  
+TM3b:         +55.2 C  
+TM3c:         +53.2 C  
+TM3d:         +53.5 C  
+TM3p:         +47.2 C  
+TM4a:         +48.8 C  
+TMXP:         +51.2 C  
+TPCD:         +69.0 C  
+TS0V:         +49.2 C  
+Tb0P:         +59.2 C  
+Tb0p:         +59.2 C  
+Tm0P:         +57.0 C  
+Tm0p:         +57.0 C  
+Tm1P:         +53.0 C  
+Tm1p:         +53.0 C  
+Tm2P:         +58.2 C  
+Tm2p:         +58.2 C  
+Tm3P:         +49.5 C  
+Tm3p:         +49.5 C  
+Tp2F:         +52.0 C  
+Tp2H:         +52.2 C  
+Tp2h:         +52.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +66.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +66.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +65.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +64.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +65.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +63.0 C  (high = +84.0 C, crit = +100.0 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +69.0 C  
+

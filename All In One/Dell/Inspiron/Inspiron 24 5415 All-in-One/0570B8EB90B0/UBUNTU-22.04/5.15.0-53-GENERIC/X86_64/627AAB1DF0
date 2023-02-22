@@ -1,0 +1,22 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:    0 RPM
+Other:          +37.0 C  
+CPU:            +34.0 C  
+Ambient:        +36.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +110.0 C)
+
+amdgpu-pci-0200
+Adapter: PCI adapter
+vddgfx:      831.00 mV 
+vddnb:       649.00 mV 
+edge:         +36.0 C  
+slowPPT:       0.00 W  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.4 C  
+

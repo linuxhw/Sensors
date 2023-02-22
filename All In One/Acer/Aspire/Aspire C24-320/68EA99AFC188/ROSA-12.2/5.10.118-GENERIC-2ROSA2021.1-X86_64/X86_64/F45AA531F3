@@ -1,0 +1,20 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       18.45 mW (avg =   1.41 mW, interval =   0.01 s)
+                       (crit =  15.00 W)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       775.00 mV 
+edge:         +54.0 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +54.5 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
