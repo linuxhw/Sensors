@@ -1,0 +1,28 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +38.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.6 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +25.0 C  
+temp2:        +32.0 C  
+temp3:        +38.0 C  
+temp4:        +15.0 C  
+temp5:        +29.0 C  
+temp6:        +32.0 C  
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

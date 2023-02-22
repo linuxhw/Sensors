@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +22.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +22.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 29:       +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 30:       +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 31:       +23.0 C  (high = +80.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +27.8 C  (crit = +105.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  =  +0.0 C, high =  +0.0 C)
+

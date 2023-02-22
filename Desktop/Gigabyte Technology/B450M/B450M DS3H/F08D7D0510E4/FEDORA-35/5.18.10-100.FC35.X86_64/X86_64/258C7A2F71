@@ -1,0 +1,26 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.0 C  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +48.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+temp2:        +47.0 C  
+temp3:        +54.0 C  
+temp4:        +15.0 C  
+temp5:        +40.0 C  
+temp6:        +44.0 C  
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

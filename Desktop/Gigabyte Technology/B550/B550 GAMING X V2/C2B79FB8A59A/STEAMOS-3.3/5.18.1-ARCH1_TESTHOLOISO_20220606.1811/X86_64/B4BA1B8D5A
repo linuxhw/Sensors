@@ -1,0 +1,35 @@
+steam_controller_XXXXXXXXXX_battery-hid-3-5
+Adapter: HID adapter
+in0:           3.00 V  
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +26.0 C  
+temp2:        +25.0 C  
+temp3:        +34.0 C  
+temp4:        +28.0 C  
+temp5:        +35.0 C  
+temp6:        +32.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +32.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +30.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:           4.00 W  (cap = 145.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +35.5 C  
+Tccd1:        +36.8 C  
+

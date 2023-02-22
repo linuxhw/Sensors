@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +67.6 C  
+Tccd1:        +56.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+nouveau-pci-0a00
+Adapter: PCI adapter
+fan1:         972 RPM
+temp1:        +41.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

@@ -1,0 +1,32 @@
+it8792-isa-0a40
+Adapter: ISA adapter
+in0:           1.08 V  (min =  +0.00 V, max =  +2.78 V)
+in1:           1.82 V  (min =  +0.00 V, max =  +2.78 V)
+in2:           1.84 V  (min =  +0.00 V, max =  +2.78 V)
+in3:           1.83 V  (min =  +0.00 V, max =  +2.78 V)
+in4:         927.00 mV (min =  +0.00 V, max =  +2.78 V)
+in5:         828.00 mV (min =  +0.00 V, max =  +2.78 V)
+in6:           1.11 V  (min =  +0.00 V, max =  +2.78 V)
+3VSB:          1.49 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.49 V  
+fan1:        1997 RPM  (min =    0 RPM)
+fan2:         677 RPM  (min =    0 RPM)
+temp1:        +30.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +39.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +45.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = disabled
+intrusion0:  ALARM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.8 C  
+Tdie:         +43.8 C  
+Tccd1:        +42.5 C  
+
+radeon-pci-0900
+Adapter: PCI adapter
+temp1:        +48.5 C  (crit = +120.0 C, hyst = +90.0 C)
+

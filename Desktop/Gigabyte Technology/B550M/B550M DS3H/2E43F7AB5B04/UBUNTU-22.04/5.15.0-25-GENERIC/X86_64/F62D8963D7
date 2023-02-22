@@ -1,0 +1,24 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +39.8 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+temp2:        +32.0 C  
+temp3:        +39.0 C  
+temp4:        +23.0 C  
+temp5:        +31.0 C  
+temp6:        +43.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +28.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,24 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +43.0 C  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:           N/A  (crit =  64.99 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +22.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +25.0 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +79.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.02 V  
+fan1:         982 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +58.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      22.06 W  (cap =  60.00 W)
+

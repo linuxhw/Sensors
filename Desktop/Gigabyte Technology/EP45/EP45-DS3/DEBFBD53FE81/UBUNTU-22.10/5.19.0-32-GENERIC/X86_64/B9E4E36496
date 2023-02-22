@@ -1,0 +1,12 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +51.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 3:       +47.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +47.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 2:       +49.0 C  (high = +76.0 C, crit = +100.0 C)
+
+adm1021-i2c-3-4c
+Adapter: nvkm-0000:01:00.0-bus-0002
+temp1:        +31.0 C  (low  =  +0.0 C, high = +85.0 C)
+temp2:        +23.0 C  (low  =  +0.0 C, high = +85.0 C)
+

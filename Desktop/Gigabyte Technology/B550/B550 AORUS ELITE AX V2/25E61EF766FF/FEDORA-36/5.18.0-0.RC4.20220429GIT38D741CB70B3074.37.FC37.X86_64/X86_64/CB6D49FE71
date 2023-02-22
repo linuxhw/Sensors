@@ -1,0 +1,36 @@
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+temp2:        +32.0 C  
+temp3:        +56.0 C  
+temp4:        +36.0 C  
+temp5:        +32.0 C  
+temp6:        +39.0 C  
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +55.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +57.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +58.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          18.00 W  (cap = 130.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +56.6 C  
+Tccd1:        +50.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

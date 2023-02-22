@@ -1,0 +1,23 @@
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+temp2:        +40.0 C  
+temp3:        +29.0 C  
+temp4:        +17.0 C  
+temp5:        +25.0 C  
+temp6:        +29.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +28.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +28.9 C  
+

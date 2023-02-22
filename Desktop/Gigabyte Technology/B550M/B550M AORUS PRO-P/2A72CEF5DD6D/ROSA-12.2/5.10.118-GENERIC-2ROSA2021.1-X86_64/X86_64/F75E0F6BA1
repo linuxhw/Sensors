@@ -1,0 +1,23 @@
+nouveau-pci-0500
+Adapter: PCI adapter
+fan1:         848 RPM
+temp1:        +39.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +42.1 C  
+Tdie:         +42.1 C  
+Tccd1:        +34.5 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
