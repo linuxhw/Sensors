@@ -1,0 +1,73 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.1 C  
+Tccd1:        +43.5 C  
+Tccd2:        +41.5 C  
+
+it8688-isa-0a40
+Adapter: ISA adapter
+CPU Vcore:       1.43 V  (min =  +0.00 V, max =  +3.06 V)
++3.3V:           3.33 V  (min =  +0.00 V, max =  +5.05 V)
++12V:           12.31 V  (min =  +0.00 V, max = +18.36 V)
++5V:             5.07 V  (min =  +0.00 V, max =  +7.65 V)
+Vcore SoC:       1.09 V  (min =  +0.00 V, max =  +3.06 V)
+CPU Vddp:      924.00 mV (min =  +0.00 V, max =  +3.06 V)
+DRAM A/B:        1.38 V  (min =  +0.00 V, max =  +3.06 V)
+3Vsb:            3.31 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:            3.22 V  
+CPU fan:        972 RPM  (min =    0 RPM)
+Sys1_Fan:       974 RPM  (min =    0 RPM)
+Sys2_Fan:       922 RPM  (min =    0 RPM)
+Sys3_PCH_Fan:  1973 RPM  (min =    0 RPM)
+CPU_Opt_Fan:    739 RPM  (min =    0 RPM)
+Sys1 Temp:      +40.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+Ambient:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU Temp:       +48.0 C  (low  =  +0.0 C, high = +90.0 C)  sensor = AMD AMDSI
+PCIe_x16 Temp:  +48.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+VRM_MOS Temp:   +43.0 C  (low  =  +0.0 C, high = -125.0 C)  sensor = thermistor
+PCH Temp:       +54.0 C  (low  = -16.0 C, high = +90.0 C)  sensor = thermistor
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +39.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +49.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +36.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+Vin0:                1.80 V  (min =  +0.00 V, max =  +2.78 V)
+DDRvtt:            676.00 mV (min =  +0.00 V, max =  +2.78 V)
+ChipsetCore:       992.00 mV (min =  +0.00 V, max =  +2.78 V)
+Vin3:                3.38 V  (min =  +0.00 V, max =  +5.56 V)
+CPU_Vdd08:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+DDR_Vpp/PM_CLD012:   1.19 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:                3.36 V  (min =  +0.00 V, max =  +5.56 V)
+Fan_Pump_5:        1864 RPM  (min =    0 RPM)
+Sys6_Fan:             0 RPM  (min =    0 RPM)
+Sys4_Fan:           960 RPM  (min =    0 RPM)
+PCIe_x8 Temp:       +43.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+EC2_Temp:           +29.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+SYS2 Temp:          +41.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +117.8 C)
+                       (crit = +149.8 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

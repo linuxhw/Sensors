@@ -1,0 +1,69 @@
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:         185.00 mV (min =  +0.00 V, max =  +2.78 V)
+in1:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in2:         981.00 mV (min =  +0.00 V, max =  +2.78 V)
+in3:         294.00 mV (min =  +0.00 V, max =  +2.78 V)
+in4:           1.79 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.51 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.67 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.57 V  
+fan1:        1595 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:        1424 RPM  (min =    0 RPM)
+temp1:        +38.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +37.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+hidpp_battery_0-hid-3-7
+Adapter: HID adapter
+in0:           3.99 V  
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.9 C  
+Tdie:         +55.9 C  
+Tccd1:        +37.5 C  
+Tccd3:        +35.8 C  
+Tccd5:        +35.2 C  
+Tccd7:        +35.2 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

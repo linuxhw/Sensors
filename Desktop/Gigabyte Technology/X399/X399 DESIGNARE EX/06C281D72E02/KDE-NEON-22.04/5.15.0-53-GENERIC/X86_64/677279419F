@@ -1,0 +1,59 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +76.8 C  
+Tdie:         +49.8 C  
+Tccd1:        +69.0 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+nvme-pci-4200
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +75.9 C  
+Tdie:         +48.9 C  
+
+nouveau-pci-4300
+Adapter: PCI adapter
+fan1:         825 RPM
+temp1:        +34.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

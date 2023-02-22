@@ -1,0 +1,41 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.6 C  
+Tccd1:        +39.0 C  
+Tccd3:        +39.8 C  
+Tccd5:        +39.0 C  
+Tccd7:        +38.0 C  
+
+nvme-pci-4400
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

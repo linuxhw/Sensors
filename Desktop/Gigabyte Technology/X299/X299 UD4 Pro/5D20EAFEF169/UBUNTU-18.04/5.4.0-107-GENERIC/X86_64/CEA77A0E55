@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 0:        +36.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 1:        +33.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 2:        +35.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 3:        +36.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 4:        +35.0*C  (high = +84.0*C, crit = +94.0*C)
+Core 5:        +34.0*C  (high = +84.0*C, crit = +94.0*C)
+
+nouveau-pci-b300
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +49.0*C  (high = +95.0*C, hyst =  +3.0*C)
+                       (crit = +105.0*C, hyst =  +5.0*C)
+                       (emerg = +135.0*C, hyst =  +5.0*C)
+

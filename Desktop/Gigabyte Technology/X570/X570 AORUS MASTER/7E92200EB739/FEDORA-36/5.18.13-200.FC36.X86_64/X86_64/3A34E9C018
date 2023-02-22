@@ -1,0 +1,66 @@
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.79 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         676.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:         992.00 mV (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.68 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.79 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.18 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.67 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.59 V  
+fan1:         946 RPM  (min =    0 RPM)
+fan2:         957 RPM  (min =    0 RPM)
+fan3:         719 RPM  (min =    0 RPM)
+temp1:        +54.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +47.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.8 C  
+Tccd1:        +53.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +59.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +59.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +58.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +50.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +51.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +50.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:           5.00 W  (cap = 255.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0e00
+Adapter: PCI adapter
+vddgfx:        1.15 V  
+fan1:             N/A  (min =    0 RPM, max = 6000 RPM)
+edge:         +58.0 C  (crit = +104000.0 C, hyst = -273.1 C)
+PPT:          57.25 W  (cap = 208.00 W)
+

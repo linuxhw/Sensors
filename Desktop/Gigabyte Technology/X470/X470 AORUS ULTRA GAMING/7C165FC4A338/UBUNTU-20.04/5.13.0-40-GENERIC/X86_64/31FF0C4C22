@@ -1,0 +1,41 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +45.9 C  
+Tdie:         +35.9 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+it8792-isa-0a60
+Adapter: ISA adapter
+in0:           1.82 V  (min =  +0.00 V, max =  +2.78 V)
+in1:         665.00 mV (min =  +0.00 V, max =  +2.78 V)
+in2:           1.05 V  (min =  +0.00 V, max =  +2.78 V)
++3.3V:         1.69 V  (min =  +0.00 V, max =  +2.78 V)
+in4:           1.80 V  (min =  +0.00 V, max =  +2.78 V)
+in5:           1.50 V  (min =  +0.00 V, max =  +2.78 V)
+in6:           2.78 V  (min =  +0.00 V, max =  +2.78 V)  ALARM
+3VSB:          1.69 V  (min =  +0.00 V, max =  +2.78 V)
+Vbat:          1.66 V  
+fan1:         918 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +32.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        -55.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +28.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

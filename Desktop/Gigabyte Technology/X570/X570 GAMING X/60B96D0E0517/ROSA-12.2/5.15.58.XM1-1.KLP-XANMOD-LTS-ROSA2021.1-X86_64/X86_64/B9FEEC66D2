@@ -1,0 +1,32 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.8 C  
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:        1.36 V  
+vddnb:       943.00 mV 
+edge:         +38.0 C  
+slowPPT:       4.00 mW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+temp2:        +41.0 C  
+temp3:        +46.0 C  
+temp4:        +39.0 C  
+temp5:        +48.0 C  
+temp6:        +54.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         855 RPM
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

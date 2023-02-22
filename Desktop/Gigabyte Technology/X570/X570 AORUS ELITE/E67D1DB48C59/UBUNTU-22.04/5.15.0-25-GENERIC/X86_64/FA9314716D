@@ -1,0 +1,33 @@
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+temp2:        +41.0 C  
+temp3:        +51.0 C  
+temp4:        +42.0 C  
+temp5:        +39.0 C  
+temp6:        +51.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +61.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.1 C  
+Tccd1:        +37.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+

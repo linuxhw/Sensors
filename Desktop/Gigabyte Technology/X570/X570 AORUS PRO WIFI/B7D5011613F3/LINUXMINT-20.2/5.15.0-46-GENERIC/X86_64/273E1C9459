@@ -1,0 +1,41 @@
+corsairpsu-hid-3-3
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.05 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +48.0 C  (crit = +70.0 C)
+case temp:    +42.8 C  (crit = +70.0 C)
+power total:  78.00 W  
+power +12v:   44.00 W  
+power +5v:    28.50 W  
+power +3.3v:   6.00 W  
+curr +12v:     4.50 A  (crit max = +85.00 A)
+curr +5v:      5.75 A  (crit max = +40.00 A)
+curr +3.3v:    1.81 A  (crit max = +40.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.0 C  
+Tccd1:        +35.2 C  
+Tccd2:        +57.2 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

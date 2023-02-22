@@ -1,0 +1,41 @@
+nouveau-pci-2100
+Adapter: PCI adapter
+fan1:        1181 RPM
+temp1:        +29.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.1 C  
+Tccd1:        +32.0 C  
+Tccd2:        +31.2 C  
+Tccd3:        +32.0 C  
+Tccd4:        +31.8 C  
+Tccd5:        +29.2 C  
+Tccd6:        +30.2 C  
+Tccd7:        +29.5 C  
+Tccd8:        +31.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+

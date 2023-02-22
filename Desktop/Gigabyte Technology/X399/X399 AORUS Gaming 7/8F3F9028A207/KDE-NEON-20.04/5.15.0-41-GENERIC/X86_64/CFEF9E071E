@@ -1,0 +1,41 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +71.6 C  
+Tdie:         +44.6 C  
+
+amdgpu-pci-4400
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:         799 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +37.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +38.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:       3.00 W  (cap = 220.00 W)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +75.0 C  
+Tdie:         +48.0 C  
+Tccd1:        +64.5 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

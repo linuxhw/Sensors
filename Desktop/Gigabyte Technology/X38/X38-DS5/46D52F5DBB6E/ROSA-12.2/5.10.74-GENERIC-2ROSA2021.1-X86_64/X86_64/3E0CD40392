@@ -1,0 +1,12 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +58.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      762.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +34.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        4.24 W  (cap =  35.00 W)
+

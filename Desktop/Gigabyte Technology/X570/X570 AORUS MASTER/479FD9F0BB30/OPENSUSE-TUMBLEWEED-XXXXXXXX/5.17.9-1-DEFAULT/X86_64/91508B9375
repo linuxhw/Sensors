@@ -1,0 +1,46 @@
+sfc-pci-0c01
+Adapter: PCI adapter
+1.2V supply:              1.20 V  (min =  +1.16 V, max =  +1.24 V)
+3.3V supply:              3.32 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.22 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +47.0 C  (low  =  +5.0 C, high = +65.0 C)
+                                  (crit = +90.0 C)
+
+sfc-pci-0c00
+Adapter: PCI adapter
+1.2V supply:              1.20 V  (min =  +1.16 V, max =  +1.24 V)
+3.3V supply:              3.32 V  (min =  +3.00 V, max =  +3.60 V)
+1.2V analogue supply:     1.23 V  (min =  +1.17 V, max =  +1.29 V)
+Ref. voltage:             1.25 V  (min =  +1.24 V, max =  +1.26 V)
+Controller heat sink:        N/A
+Controller board temp.:  +47.0 C  (low  =  +5.0 C, high = +65.0 C)
+                                  (crit = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.9 C  
+Tccd1:        +47.0 C  
+Tccd2:        +46.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -0.1 C, high = +78.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +60.9 C  (low  = -273.1 C, high = +65261.8 C)
+

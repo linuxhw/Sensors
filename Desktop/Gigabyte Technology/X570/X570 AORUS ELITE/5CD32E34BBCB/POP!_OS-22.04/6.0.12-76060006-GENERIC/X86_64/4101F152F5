@@ -1,0 +1,47 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+temp2:        +30.0 C  
+temp3:        +54.0 C  
+temp4:        +29.0 C  
+temp5:        +38.0 C  
+temp6:        +41.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+temp3:        +16.8 C  (crit = +20.8 C)
+
+nzxtsmart2-hid-3-8
+Adapter: HID adapter
+FAN 1 Voltage:  12.12 V  
+FAN 2 Voltage:  12.10 V  
+FAN 3 Voltage:  12.09 V  
+FAN 1:          736 RPM
+FAN 2:          731 RPM
+FAN 3:          729 RPM
+FAN 1 Current:  10.00 mA 
+FAN 2 Current:   7.00 mA 
+FAN 3 Current:  20.00 mA 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.1 C  
+Tccd1:        +43.5 C  
+Tccd2:        +55.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

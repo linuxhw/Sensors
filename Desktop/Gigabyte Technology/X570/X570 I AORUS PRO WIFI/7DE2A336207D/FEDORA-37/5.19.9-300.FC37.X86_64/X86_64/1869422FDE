@@ -1,0 +1,53 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.2 C  
+Tccd1:        +40.2 C  
+Tccd2:        +41.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+temp2:        +16.8 C  (crit = +20.8 C)
+temp3:        +16.8 C  (crit = +20.8 C)
+
+hidpp_battery_0-hid-3-8
+Adapter: HID adapter
+in0:           3.79 V  
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+temp2:        -55.0 C  
+temp3:        +48.0 C  
+temp4:        +20.0 C  
+temp5:        +40.0 C  
+temp6:        +48.0 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      862.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3600 RPM)
+edge:         +47.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +49.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +48.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          33.00 W  (cap = 186.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+
