@@ -1,0 +1,31 @@
+hp-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.26 V  
+vddnb:       937.00 mV 
+edge:         +44.0 C  
+PPT:           7.00 W  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.81 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +81.1 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +87.8 C)
+                       (crit = +88.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +61.0 C  (crit = +255.0 C)
+

@@ -1,0 +1,18 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:            N/A  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.07 V  
+vddnb:       887.00 mV 
+edge:         +37.0 C  
+power1:        4.00 W  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.5 C  
+Tdie:         +65.5 C  
+
