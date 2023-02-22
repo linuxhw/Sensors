@@ -1,0 +1,54 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +46.0 C  
+
+nvme-pci-5500
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.44 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +55.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +56.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +54.0 C  (high = +100.0 C, crit = +100.0 C)
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2569 RPM
+fan2:        2373 RPM
+CPU:          +64.0 C  
+GPU:          +52.0 C  
+temp3:        +53.0 C  
+temp4:         +0.0 C  
+temp5:        +53.0 C  
+temp6:        +44.0 C  
+temp7:        +49.0 C  
+temp8:            N/A  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +64.0 C  (crit = +128.0 C)
+

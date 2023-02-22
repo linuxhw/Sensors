@@ -1,0 +1,30 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +59.6 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +97.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.31 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         567 RPM
+temp1:        +59.0 C  
+temp2:         +0.0 C  
+temp3:        +59.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:        +30.0 C  
+temp8:         +0.0 C  
+
+radeon-pci-0008
+Adapter: PCI adapter
+in0:         863.00 mV 
+temp1:        +59.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +59.0 C  (crit = +100.0 C)
+

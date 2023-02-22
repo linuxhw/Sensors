@@ -1,0 +1,63 @@
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2119 RPM
+fan2:        2608 RPM
+CPU:          +57.0 C  
+GPU:              N/A  
+temp3:        +56.0 C  
+temp4:         +0.0 C  
+temp5:            N/A  
+temp6:        +44.0 C  
+temp7:        +50.0 C  
+temp8:            N/A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +31.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          14.78 V  
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +49.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 24:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 25:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 26:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 27:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 28:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 29:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 30:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 31:       +52.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +63.0 C  (crit = +128.0 C)
+
