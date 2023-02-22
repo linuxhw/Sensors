@@ -1,0 +1,35 @@
+corsaircpro-hid-3-7
+Adapter: HID adapter
+in0:          11.74 V  
+in1:           4.81 V  
+in2:           3.30 V  
+fan1 4pin:    767 RPM
+fan2 4pin:    607 RPM
+fan3 4pin:    625 RPM
+fan4 4pin:    777 RPM
+fan5 4pin:    590 RPM
+
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +29.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +28.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +28.0 C  (high = +90.0 C, crit = +100.0 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+

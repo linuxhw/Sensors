@@ -1,0 +1,26 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +28.5 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.16 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.00 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.30 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +43.5 C  (crit = +70.0 C)
+case temp:    +38.8 C  (crit = +70.0 C)
+power total:  92.00 W  
+power +12v:   66.00 W  
+power +5v:    21.50 W  
+power +3.3v:   5.50 W  
+curr +12v:     5.25 A  (crit max = +75.00 A)
+curr +5v:      4.31 A  (crit max = +40.00 A)
+curr +3.3v:    1.69 A  (crit max = +40.00 A)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       49.67 W  (crit = 125.19 W)
+

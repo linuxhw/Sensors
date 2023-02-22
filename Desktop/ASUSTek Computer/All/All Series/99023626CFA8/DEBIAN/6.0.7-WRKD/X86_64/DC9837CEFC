@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU temp:     +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:       +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +33.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:       +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:       +29.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nct6791-isa-0290
+Adapter: ISA adapter
+CPU VccIN:         1.78 V  (min =  +1.70 V, max =  +1.87 V)
++5V:               5.00 V  (min =  +4.76 V, max =  +5.24 V)
+AVCC:              3.28 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:             3.28 V  (min =  +2.98 V, max =  +3.63 V)
++12V:             12.19 V  (min = +11.42 V, max = +12.58 V)
+Memory voltage?:   1.52 V  (min =  +1.27 V, max =  +1.73 V)
+3VSB:              3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:              3.30 V  (min =  +2.70 V, max =  +3.63 V)
+Vcore:             1.01 V  (min =  +0.95 V, max =  +1.05 V)
+CPU fan:          675 RPM  (min =  300 RPM)
+MB temp:          +32.0 C  (high = +65.0 C, hyst = +60.0 C)  sensor = thermistor
+CPUTIN:           +29.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:          +19.0 C    sensor = thermistor
+PECI Agent 0:     +29.5 C  
+
