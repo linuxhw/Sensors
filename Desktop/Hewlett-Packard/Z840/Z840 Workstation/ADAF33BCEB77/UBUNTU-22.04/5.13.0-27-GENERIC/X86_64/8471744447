@@ -1,0 +1,39 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 8:        +33.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 9:        +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 10:       +32.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 11:       +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 12:       +31.0 C  (high = +80.0 C, crit = +90.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +37.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 0:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 1:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 2:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 3:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 4:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 8:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 9:        +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 10:       +30.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 11:       +31.0 C  (high = +80.0 C, crit = +90.0 C)
+Core 12:       +31.0 C  (high = +80.0 C, crit = +90.0 C)
+
+nouveau-pci-0500
+Adapter: PCI adapter
+fan1:         298 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

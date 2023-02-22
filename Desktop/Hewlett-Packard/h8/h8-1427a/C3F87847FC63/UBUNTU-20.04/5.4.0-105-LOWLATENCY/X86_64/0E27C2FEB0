@@ -1,0 +1,29 @@
+f71808a-isa-0290
+Adapter: ISA adapter
++3.3V:         3.28 V  
+in1:           1.02 V  
+in2:           1.02 V  
+in3:           1.52 V  
+3VSB:          3.25 V  
+Vbat:          3.39 V  
+fan1:         861 RPM
+fan2:        1042 RPM
+fan3:           0 RPM  ALARM
+temp1:        +37.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+temp2:        +35.0 C  (high = +85.0 C, hyst = +81.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)  sensor = transistor
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +35.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +42.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +41.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +46.0 C  (high = +85.0 C, crit = +105.0 C)
+

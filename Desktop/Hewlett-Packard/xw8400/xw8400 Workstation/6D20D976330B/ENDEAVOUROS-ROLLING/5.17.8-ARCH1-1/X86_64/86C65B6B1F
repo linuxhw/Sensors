@@ -1,0 +1,43 @@
+adt7473-i2c-2-2e
+Adapter: nvkm-0000:40:00.0-bus-0002
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.32 V  (min =  +0.00 V, max =  +4.39 V)
+fan1:         970 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+fan4:           0 RPM  (min =    0 RPM)
+temp1:        +38.8 C  (low  = +65.0 C, high = +85.0 C)  ALARM
+                       (crit = +191.0 C, hyst = +189.0 C)
+Board Temp:   +39.0 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +96.0 C)
+temp3:        +38.5 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +100.0 C, hyst = +96.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +48.0 C  (high = +80.0 C, crit = +100.0 C)
+
+i5k_amb-isa-0000
+Adapter: ISA adapter
+Ch. 0 DIMM 0:  +76.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 0 DIMM 1:  +65.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 0:  +70.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 1 DIMM 1:  +60.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 0:  +66.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 2 DIMM 1:  +53.5 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 0:  +64.0 C  (low  = +127.5 C, high = +127.5 C)
+Ch. 3 DIMM 1:  +54.0 C  (low  = +127.5 C, high = +127.5 C)
+
+nouveau-pci-4000
+Adapter: PCI adapter
+GPU core:      1.20 V  (min =  +1.20 V, max =  +1.45 V)
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +115.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Core 0:       +49.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:       +52.0 C  (high = +80.0 C, crit = +100.0 C)
+

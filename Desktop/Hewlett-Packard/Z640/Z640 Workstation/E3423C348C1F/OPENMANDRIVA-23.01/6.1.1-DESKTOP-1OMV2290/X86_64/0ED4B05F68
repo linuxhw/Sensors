@@ -1,0 +1,44 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +40.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +40.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +39.0 C  (high = +90.0 C, crit = +100.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.78 V, max =  +1.16 V)
+fan1:        3000 RPM
+temp1:        +46.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +48.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +44.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +43.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +41.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +42.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +43.0 C  (high = +90.0 C, crit = +100.0 C)
+

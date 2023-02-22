@@ -1,0 +1,20 @@
+amdgpu-pci-3800
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +33.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +34.0 C  (crit = +105.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +33.9 C  
+
+nvme-pci-1b00
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+
