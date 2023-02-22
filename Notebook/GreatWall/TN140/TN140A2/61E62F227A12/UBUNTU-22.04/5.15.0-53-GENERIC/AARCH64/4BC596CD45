@@ -1,0 +1,22 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      825.00 mV 
+fan1:             N/A  (min =    0 RPM, max = 6900 RPM)
+edge:         +48.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:       4.06 W  (cap =   7.00 W)
+
+gwnb_battery-virtual-0
+Adapter: Virtual device
+temp1:        +30.6 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+gwnb_battery-isa-0000
+Adapter: ISA adapter
+in0:          17.06 V  
+temp:         +30.6 C  
+curr1:         0.00 A  (avg =  +0.00 A)
+

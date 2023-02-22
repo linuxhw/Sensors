@@ -1,0 +1,29 @@
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:          15.37 V  
+curr1:            N/A  (max =  +3.00 A)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       837.00 mV 
+edge:         +33.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +32.8 C  (crit = +94.0 C)
+
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +44.0 C  
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.00 V  
+curr1:         0.00 A  
+

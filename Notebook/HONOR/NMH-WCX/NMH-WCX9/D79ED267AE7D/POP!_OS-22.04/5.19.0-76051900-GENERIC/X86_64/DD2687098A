@@ -1,0 +1,29 @@
+ath11k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +37.0 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      712.00 mV 
+vddnb:       649.00 mV 
+edge:         +34.0 C  
+PPT:           0.00 W  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.03 V  
+curr1:       854.00 mA 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +36.8 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +35.0 C  (crit = +110.0 C)
+

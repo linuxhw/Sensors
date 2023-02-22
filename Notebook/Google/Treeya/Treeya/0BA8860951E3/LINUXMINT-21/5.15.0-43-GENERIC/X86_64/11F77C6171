@@ -1,0 +1,39 @@
+ath10k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +41.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +27.2 C  (high = +70.0 C)
+                       (crit = +85.0 C, hyst = +84.0 C)
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.81 V  
+curr1:       693.00 mA 
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        9.35 mW (avg =   2.59 mW, interval =   0.01 s)
+                       (crit =   6.00 W)
+
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:        1.55 V  
+vddnb:       712.00 mV 
+edge:         +27.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +26.8 C  (crit = +94.0 C)
+

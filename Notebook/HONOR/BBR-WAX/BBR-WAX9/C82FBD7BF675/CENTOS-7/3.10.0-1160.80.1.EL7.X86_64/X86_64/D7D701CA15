@@ -1,0 +1,16 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  (crit = +98.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+iwlwifi-virtual-0
+Adapter: Virtual device
+temp1:        +38.0 C  
+
