@@ -1,0 +1,29 @@
+nzxtsmart2-hid-3-4
+Adapter: HID adapter
+FAN 1 Voltage:  12.22 V  
+FAN 2 Voltage:  12.31 V  
+FAN 3 Voltage:  12.29 V  
+FAN 1:         1111 RPM
+FAN 2:         1648 RPM
+FAN 3:         1244 RPM
+FAN 1 Current:  55.00 mA 
+FAN 2 Current:   0.00 A  
+FAN 3 Current:  33.00 mA 
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +65.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +37.4 C  
+Tccd1:        +44.8 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
