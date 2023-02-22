@@ -1,0 +1,54 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        0.00 V  
+fan1:           0 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +39.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +43.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+mem:          +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:           8.00 W  (cap = 130.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +56.4 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +45.0 C  (crit = +120.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +117.8 C)
+                       (crit = +149.8 C)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     3000 RPM
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      724.00 mV 
+vddnb:       931.00 mV 
+edge:         +41.0 C  
+PPT:           4.00 mW 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.23 V  
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +117.8 C)
+                       (crit = +149.8 C)
+

@@ -1,0 +1,43 @@
+hidpp_battery_0-hid-3-2
+Adapter: HID adapter
+in0:           4.26 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.4 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.89 V  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.45 V  
+vddnb:       949.00 mV 
+edge:         +48.0 C  
+slowPPT:       4.00 mW 
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2100 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +57.0 C  (crit = +120.0 C)
+

@@ -1,0 +1,28 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +25.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +50.0 C  (crit = +103.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.52 V  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+

@@ -1,0 +1,35 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.6 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         3.00 A  (max =  +0.00 A)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.40 V  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2700 RPM
+gpu_fan:     2500 RPM
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.42 V  
+vddnb:         1.04 V  
+edge:         +48.0 C  
+PPT:          24.04 W  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +49.0 C  (crit = +120.0 C)
+

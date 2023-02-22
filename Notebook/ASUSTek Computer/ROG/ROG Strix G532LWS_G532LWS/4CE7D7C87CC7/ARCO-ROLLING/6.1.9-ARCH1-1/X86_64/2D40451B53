@@ -1,0 +1,51 @@
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +68.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +94.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +89.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +94.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +91.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +94.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +91.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +94.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +91.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +92.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.68 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +51.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     5700 RPM
+gpu_fan:     5600 RPM
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +95.0 C  (crit = +103.0 C)
+

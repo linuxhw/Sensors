@@ -1,0 +1,57 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2700 RPM
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.37 V  
+vddnb:       824.00 mV 
+edge:         +49.0 C  
+slowPPT:       4.00 mW 
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          15.83 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +74.4 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:             N/A
+temp1:            N/A  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 3:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 4:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 5:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 6:     +54.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 7:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +56.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +73.0 C  (crit = +120.0 C)
+

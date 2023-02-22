@@ -1,0 +1,48 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1900 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.39 V  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +60.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +53.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +52.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 24:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 28:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 32:       +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 33:       +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 34:       +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 35:       +54.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 36:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 37:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 38:       +50.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 39:       +51.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +53.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
