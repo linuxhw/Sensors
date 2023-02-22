@@ -1,0 +1,18 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+intel5500-pci-00a3
+Adapter: PCI adapter
+temp1:        +72.5 C  (high = +100.0 C, hyst = +90.0 C)  ALARM (HIGH)
+                       (crit = +110.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:      +100.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+Core 1:       +99.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+Core 2:       +97.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+Core 8:       +97.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+Core 9:      +100.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+Core 10:     +100.0 C  (high = +81.0 C, crit = +101.0 C)  ALARM (CRIT)
+

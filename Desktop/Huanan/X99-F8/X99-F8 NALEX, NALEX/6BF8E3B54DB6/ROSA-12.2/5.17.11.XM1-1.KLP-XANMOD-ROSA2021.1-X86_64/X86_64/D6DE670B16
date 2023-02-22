@@ -1,0 +1,59 @@
+nct6793-isa-0a20
+Adapter: ISA adapter
+in0:                     1.82 V  (min =  +0.00 V, max =  +1.74 V)  ALARM
+in1:                     1.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   240.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     1.22 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  160.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  128.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  160.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1278 RPM  (min =    0 RPM)
+fan2:                   794 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +45.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermal diode
+CPUTIN:                -106.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +25.0 C    sensor = thermistor
+AUXTIN1:               +113.0 C    sensor = thermistor
+AUXTIN2:               +112.0 C    sensor = thermistor
+AUXTIN3:               +111.0 C    sensor = thermistor
+PECI Agent 0:           +38.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      956.00 mV 
+fan1:           4 RPM  (min =    0 RPM, max = 4100 RPM)
+edge:         +31.0 C  (crit = +91.0 C, hyst = -273.1 C)
+slowPPT:      19.14 W  (cap = 180.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +32.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +32.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +29.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 8:        +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 9:        +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 10:       +27.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 11:       +28.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 12:       +26.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 13:       +27.0 C  (high = +80.0 C, crit = +98.0 C)
+

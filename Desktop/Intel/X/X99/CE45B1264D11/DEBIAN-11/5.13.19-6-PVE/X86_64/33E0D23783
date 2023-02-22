@@ -1,0 +1,45 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +46.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +42.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +41.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +37.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 6:        +42.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 7:        +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 8:        +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 9:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 10:       +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 11:       +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 12:       +41.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 13:       +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 14:       +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 15:       +38.0 C  (high = +80.0 C, crit = +98.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 0:        +37.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 1:        +41.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 2:        +38.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 3:        +39.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 4:        +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 5:        +38.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 6:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 7:        +37.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 8:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 9:        +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 10:       +40.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 11:       +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 12:       +36.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 13:       +35.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 14:       +37.0 C  (high = +80.0 C, crit = +98.0 C)
+Core 15:       +38.0 C  (high = +80.0 C, crit = +98.0 C)
+

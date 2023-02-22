@@ -1,0 +1,50 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +58.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +50.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +51.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +49.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 4:        +51.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 5:        +50.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 8:        +52.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 9:        +53.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 10:       +51.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 11:       +52.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 12:       +51.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 13:       +51.0 C  (high = +86.0 C, crit = +96.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  = -20.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +35.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +62.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 0:        +52.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 1:        +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 2:        +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 3:        +55.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 4:        +56.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 5:        +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 8:        +53.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 9:        +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 10:       +55.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 11:       +55.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 12:       +54.0 C  (high = +86.0 C, crit = +96.0 C)
+Core 13:       +57.0 C  (high = +86.0 C, crit = +96.0 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -20.1 C, high = +69.8 C)
+                       (crit = +79.8 C)
+Sensor 1:     +43.9 C  (low  =  +0.0 C, high =  +0.0 C)
+

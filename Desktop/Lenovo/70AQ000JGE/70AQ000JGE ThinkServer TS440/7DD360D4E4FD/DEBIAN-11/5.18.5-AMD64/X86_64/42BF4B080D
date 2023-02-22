@@ -1,0 +1,37 @@
+jc42-i2c-6-1a
+Adapter: SMBus I801 adapter at 0580
+RAM:          +29.2°C  (low  =  +0.0°C)
+                       (high = +60.0°C, hyst = +60.0°C)
+                       (crit = +75.0°C, hyst = +75.0°C)
+
+jc42-i2c-6-18
+Adapter: SMBus I801 adapter at 0580
+RAM:          +29.2°C  (low  =  +0.0°C)
+                       (high = +60.0°C, hyst = +60.0°C)
+                       (crit = +75.0°C, hyst = +75.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+Chassis:      +27.8°C  (crit = +105.0°C)
+Chipset:      +29.8°C  (crit = +105.0°C)
+
+jc42-i2c-6-1b
+Adapter: SMBus I801 adapter at 0580
+RAM:          +28.3°C  (low  =  +0.0°C)
+                       (high = +60.0°C, hyst = +60.0°C)
+                       (crit = +75.0°C, hyst = +75.0°C)
+
+jc42-i2c-6-19
+Adapter: SMBus I801 adapter at 0580
+RAM:          +28.3°C  (low  =  +0.0°C)
+                       (high = +60.0°C, hyst = +60.0°C)
+                       (crit = +75.0°C, hyst = +75.0°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Package:  +37.0°C  (high = +80.0°C, crit = +100.0°C)
+CPU Core 0:   +37.0°C  (high = +80.0°C, crit = +100.0°C)
+CPU Core 1:   +33.0°C  (high = +80.0°C, crit = +100.0°C)
+CPU Core 2:   +30.0°C  (high = +80.0°C, crit = +100.0°C)
+CPU Core 3:   +30.0°C  (high = +80.0°C, crit = +100.0°C)
+
