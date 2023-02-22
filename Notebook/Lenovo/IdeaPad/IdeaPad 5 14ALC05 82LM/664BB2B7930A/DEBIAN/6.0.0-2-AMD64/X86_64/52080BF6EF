@@ -1,0 +1,24 @@
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +44.0 C  (crit = +125.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +45.2 C  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      749.00 mV 
+vddnb:       681.00 mV 
+edge:         +41.0 C  
+PPT:           0.00 W  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.80 V  
+

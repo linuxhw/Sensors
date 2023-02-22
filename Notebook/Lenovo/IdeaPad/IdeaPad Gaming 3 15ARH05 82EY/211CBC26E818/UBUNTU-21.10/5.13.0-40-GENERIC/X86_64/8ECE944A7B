@@ -1,0 +1,22 @@
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.27 V  
+vddnb:       931.00 mV 
+edge:         +42.0 C  
+power1:        5.00 mW 
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.8 C  
+Tdie:         +53.8 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.70 V  
+
