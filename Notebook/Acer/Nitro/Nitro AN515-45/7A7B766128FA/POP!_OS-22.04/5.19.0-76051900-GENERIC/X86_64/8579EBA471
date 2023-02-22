@@ -1,0 +1,29 @@
+hidpp_battery_0-hid-3-8
+Adapter: HID adapter
+in0:           3.86 V  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.36 V  
+vddnb:       906.00 mV 
+edge:         +46.0 C  
+PPT:           2.00 mW 
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          17.44 V  
+curr1:         0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.5 C  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +64.0 C  (crit = +120.0 C)
+

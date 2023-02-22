@@ -1,0 +1,39 @@
+ath10k_hwmon-pci-0800
+Adapter: PCI adapter
+temp1:        +45.0 C  
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +55.0 C  
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +34.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +30.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +41.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +37.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.47 V  
+curr1:         0.00 A  
+

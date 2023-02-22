@@ -1,0 +1,20 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +67.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.66 V  
+curr1:         0.00 A  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.42 V  
+vddnb:       956.00 mV 
+edge:         +58.0 C  
+power1:        3.00 W  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +62.0 C  (crit = +120.0 C)
+

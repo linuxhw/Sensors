@@ -1,0 +1,26 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +49.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          14.15 V  
+curr1:         1.84 A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.2 C  
+Tdie:         +49.2 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:        1.10 V  
+edge:         +43.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        8.14 W  (cap =  60.00 W)
+
