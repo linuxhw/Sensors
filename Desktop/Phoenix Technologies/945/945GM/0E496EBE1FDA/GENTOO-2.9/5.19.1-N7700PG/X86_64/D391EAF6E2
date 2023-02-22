@@ -1,0 +1,61 @@
+drivetemp-scsi-11-0
+Adapter: SCSI adapter
+Disk Temp:    +45.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +28.0 C, highest = +48.0 C)
+
+drivetemp-scsi-8-0
+Adapter: SCSI adapter
+Disk Temp:    +44.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +28.0 C, highest = +47.0 C)
+
+drivetemp-scsi-6-0
+Adapter: SCSI adapter
+Disk Temp:    +40.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +28.0 C, highest = +42.0 C)
+
+w83627ehf-isa-0000
+Adapter: ISA adapter
+Vcore:                1.88 V  (min =  +0.00 V, max =  +2.62 V)
++12V:                12.16 V  (min = +17.07 V, max = +12.84 V)  ALARM
+AVCC:                 3.20 V  (min =  +4.05 V, max =  +2.54 V)  ALARM
++3.3V:                3.20 V  (min =  +4.06 V, max =  +0.94 V)  ALARM
++5V:                  5.11 V  (min =  +2.82 V, max = +11.24 V)
+3VSB:                 3.17 V  (min =  +4.08 V, max =  +3.54 V)  ALARM
+Vbat:                 3.10 V  (min =  +4.08 V, max =  +3.06 V)  ALARM
+CPU FAN:               0 RPM  (min =    0 RPM, div = 128)
+SHASSIS TOP FAN:    1318 RPM  (min = 5273 RPM, div = 128)  ALARM
+SHASSIS BOTTOM FAN: 1360 RPM  (min = 1962 RPM, div = 16)  ALARM
+Board Temp:          +42.0 C  (high =  -7.0 C, hyst =  -1.0 C)  ALARM  sensor = thermistor
+Backpane Temp:       +35.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPU VID:            +1.219 V
+
+acpitz-acpi-0
+Adapter: ACPI interface
+ACPI System Temp:  +29.0 C  (crit = +70.0 C)
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+Disk Temp:    +43.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +28.0 C, highest = +46.0 C)
+
+drivetemp-scsi-7-0
+Adapter: SCSI adapter
+Disk Temp:    +37.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +70.0 C)
+                       (lowest = +28.0 C, highest = +42.0 C)
+
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+Disk Temp:    +30.0 C  (low  =  +0.0 C, high =  +0.0 C)
+                       (crit low =  +0.0 C, crit =  +0.0 C)
+                       (lowest = +30.0 C, highest = +30.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+CPU Temp:     +42.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:       +42.0 C  (high = +100.0 C, crit = +100.0 C)
+

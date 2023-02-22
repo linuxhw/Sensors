@@ -1,0 +1,12 @@
+120e0000.tmon-isa-0000
+Adapter: ISA adapter
+temp1:        +61.3 C  
+
+nouveau-pci-10100
+Adapter: PCI adapter
+GPU core:    950.00 mV (min =  +0.95 V, max =  +1.14 V)
+fan1:         -19 RPM
+temp1:         -0.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

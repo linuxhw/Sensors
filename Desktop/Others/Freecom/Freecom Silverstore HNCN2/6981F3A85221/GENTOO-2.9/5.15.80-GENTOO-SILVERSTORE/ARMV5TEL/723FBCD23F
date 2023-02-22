@@ -1,0 +1,28 @@
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +39.0*C  (low  =  +0.0*C, high = +60.0*C)
+                       (crit low = -41.0*C, crit = +85.0*C)
+                       (lowest = +39.0*C, highest = +41.0*C)
+
+adt7473-i2c-0-2e
+Adapter: mv64xxx_i2c adapter
+VDD:         996.00 mV (min =  +0.00 V, max =  +2.99 V)
+VBT:           3.33 V  (min =  +0.00 V, max =  +4.39 V)
+FAN:         1445 RPM  (min =    0 RPM)
+SYS1:         +29.8*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+SYS2:         +34.2*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+SYS3:         +38.5*C  (low  = -63.0*C, high = +191.0*C)
+                       (crit = +100.0*C, hyst = +96.0*C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +41.0*C  (low  =  +0.0*C, high = +60.0*C)
+                       (crit low = -41.0*C, crit = +85.0*C)
+                       (lowest = +38.0*C, highest = +41.0*C)
+
+kirkwood_thermal-virtual-0
+Adapter: Virtual device
+CPU:          +55.8*C  
+

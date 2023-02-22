@@ -1,0 +1,16 @@
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +35.0*C  (low  =  +5.0*C, high = +55.0*C)
+                       (crit low = -40.0*C, crit = +70.0*C)
+                       (lowest = +28.0*C, highest = +36.0*C)
+
+kirkwood_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +51.4*C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +35.0*C  (low  =  +5.0*C, high = +55.0*C)
+                       (crit low = -40.0*C, crit = +70.0*C)
+                       (lowest = +27.0*C, highest = +35.0*C)
+

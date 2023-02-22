@@ -1,0 +1,22 @@
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      158.89 mW (avg = 104.74 mW, interval =   0.01 s)
+                       (crit =  65.00 W)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +49.5 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.08 V  
+fan1:         942 RPM  (min = 1900 RPM, max = 3300 RPM)
+edge:         +44.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:           7.22 W  (cap =  48.00 W)
+
