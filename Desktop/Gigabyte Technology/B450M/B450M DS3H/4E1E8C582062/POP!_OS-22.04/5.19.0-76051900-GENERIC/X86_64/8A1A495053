@@ -1,0 +1,24 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.6 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+gigabyte_wmi-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+temp2:        +44.0 C  
+temp3:        +46.0 C  
+temp4:        +11.0 C  
+temp5:        +39.0 C  
+temp6:        +36.0 C  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:        1.15 V  
+fan1:        1564 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +50.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          24.03 W  (cap = 165.00 W)
+

@@ -1,0 +1,16 @@
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +16.8 C  (crit = +20.8 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:       +0.80 V  
+fan1:        1242 RPM
+temp1:        +30.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:        6.07 W  (cap =  46.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tdie:         +34.1 C  (high = +70.0 C)
+Tctl:         +34.1 C  
+

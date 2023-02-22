@@ -1,0 +1,45 @@
+it8688-isa-0a40
+Adapter: ISA adapter
+in0:         948.00 mV (min =  +0.00 V, max =  +3.06 V)
+in1:           2.00 V  (min =  +0.00 V, max =  +3.06 V)
+in2:           2.02 V  (min =  +0.00 V, max =  +3.06 V)
+in3:           2.03 V  (min =  +0.00 V, max =  +3.06 V)
+in4:           1.01 V  (min =  +0.00 V, max =  +3.06 V)
+in5:         900.00 mV (min =  +0.00 V, max =  +3.06 V)
+in6:           1.21 V  (min =  +0.00 V, max =  +3.06 V)
+3VSB:          3.26 V  (min =  +0.00 V, max =  +6.12 V)
+Vbat:          3.17 V  
+fan1:        1080 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =    0 RPM)
+temp1:        +27.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp2:        +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+temp3:        +41.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = AMD AMDSI
+temp4:        +21.0 C  (low  =  +0.0 C, high = +127.0 C)  sensor = thermistor
+temp5:        +36.0 C  (low  =  +0.0 C, high = -125.0 C)  sensor = thermistor
+temp6:        +34.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +16.8 C  (crit = +20.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.45 V  
+SVI2_SoC:    1000.00 mV 
+Tdie:         +41.9 C  (high = +95.0 C)
+Tctl:         +41.9 C  
+Tccd1:        +42.2 C  
+SVI2_P_Core:   4.78 W  
+SVI2_P_SoC:    5.59 W  
+SVI2_C_Core:   3.29 A  
+SVI2_C_SoC:    5.89 A  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:        1.01 V  
+fan1:         940 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +33.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          21.09 W  (cap = 180.00 W)
+
