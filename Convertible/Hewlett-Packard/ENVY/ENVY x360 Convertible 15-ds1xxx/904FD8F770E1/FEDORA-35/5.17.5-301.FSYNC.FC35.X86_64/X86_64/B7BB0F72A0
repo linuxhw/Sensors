@@ -1,0 +1,39 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.31 V  
+vddnb:       787.00 mV 
+edge:         +50.0 C  
+slowPPT:       4.00 mW 
+
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           3.81 V  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.08 V  
+curr1:         0.00 A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +70.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +68.6 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +60.0 C  (crit = +120.0 C)
+temp2:        +41.0 C  (crit = +120.0 C)
+
