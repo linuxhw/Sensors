@@ -1,0 +1,54 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                   720.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   376.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   392.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                   520.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  224.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  216.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  392.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  896.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1477 RPM  (min =    0 RPM)
+fan2:                  1194 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan7:                  1195 RPM  (min =    0 RPM)
+SYSTIN:                 +68.0*C  (high = +36.0*C, hyst = +35.0*C)  ALARM  sensor = thermistor
+CPUTIN:                 +26.0*C  (high = +36.0*C, hyst = +35.0*C)  sensor = thermistor
+AUXTIN0:                +68.0*C    sensor = thermistor
+AUXTIN1:                +67.0*C    sensor = thermistor
+AUXTIN2:                +67.0*C    sensor = thermistor
+AUXTIN3:                +32.0*C    sensor = thermistor
+PECI Agent 0:           +29.0*C  (high = +36.0*C, hyst = +35.0*C)
+                                 (crit = +100.0*C)
+PCH_CHIP_CPU_MAX_TEMP:   +0.0*C  
+PCH_CHIP_TEMP:           +0.0*C  
+PCH_CPU_TEMP:            +0.0*C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9*C  (low  =  -0.1*C, high = +74.8*C)
+                       (crit = +79.8*C)
+Sensor 1:     +26.9*C  (low  =  +0.0*C, high =  +0.0*C)
+Sensor 2:     +28.9*C  (low  =  +0.0*C, high =  +0.0*C)
+Sensor 3:     +26.9*C  (low  =  +0.0*C, high =  +0.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 0:        +26.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 1:        +27.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 2:        +27.0*C  (high = +80.0*C, crit = +100.0*C)
+Core 3:        +26.0*C  (high = +80.0*C, crit = +100.0*C)
+

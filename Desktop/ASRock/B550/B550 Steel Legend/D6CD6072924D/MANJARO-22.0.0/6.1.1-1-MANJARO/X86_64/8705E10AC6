@@ -1,0 +1,66 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                   624.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.67 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.36 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     1.10 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     1.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                   904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  624.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.07 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  904.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                   327 RPM  (min =    0 RPM)
+fan2:                   379 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                   302 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+fan7:                   324 RPM  (min =    0 RPM)
+SYSTIN:                 +26.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                 +26.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                 +8.0 C    sensor = thermistor
+AUXTIN1:                -62.0 C    sensor = thermistor
+AUXTIN2:                +13.0 C    sensor = thermistor
+AUXTIN3:                +31.0 C    sensor = thermistor
+SMBUSMASTER 0:          +39.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+TSI0_TEMP:              +39.5 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.4 C  
+Tccd1:        +38.0 C  
+
+d5next-hid-3-8
+Adapter: HID adapter
+Pump voltage:      12.12 V  
+Fan voltage:       12.13 V  
++5V voltage:        5.01 V  
++12V voltage:      12.13 V  
+Pump speed:       1976 RPM
+Fan speed:           0 RPM
+Coolant temp:      +22.8 C  
+Virtual sensor 1:      N/A  
+Virtual sensor 2:      N/A  
+Virtual sensor 3:      N/A  
+Virtual sensor 4:      N/A  
+Virtual sensor 5:      N/A  
+Virtual sensor 6:      N/A  
+Virtual sensor 7:      N/A  
+Virtual sensor 8:      N/A  
+Pump power:         2.35 W  
+Fan power:          0.00 W  
+Pump current:     194.00 mA 
+Fan current:        0.00 A  
+

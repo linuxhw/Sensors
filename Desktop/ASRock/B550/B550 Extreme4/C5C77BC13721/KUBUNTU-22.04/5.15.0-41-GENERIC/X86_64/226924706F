@@ -1,0 +1,28 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+cpu_temp_tctl:   +44.8 C  
+cpu_temp_tccd1:  +50.8 C  
+cpu_temp_tccd2:  +42.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+nvme_temp_S980:  +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                          (crit = +84.8 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+cha_fan3_in:   458 RPM  (min =  401 RPM)
+cpu_fan1_in:   442 RPM  (min =  252 RPM)
+cpu_fan2_out:  476 RPM  (min =  253 RPM)
+cha_fan1_out:  461 RPM  (min =  404 RPM)
+cha_fan5_in:   250 RPM  (min =  226 RPM)
+cha_fan4_in:   251 RPM  (min =  227 RPM)
+mobo_temp1:    +37.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:        +37.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+PCH_CPU_TEMP:   +0.0 C  
+

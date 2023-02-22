@@ -1,0 +1,43 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +46.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 1:       +46.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 2:       +42.0 C  (high = +90.0 C, crit = +90.0 C)
+Core 3:       +43.0 C  (high = +90.0 C, crit = +90.0 C)
+
+nct6792-isa-0290
+Adapter: ISA adapter
+in0:                     1.06 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                   352.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                     1.71 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   256.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.18 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  200.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                  1406 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +39.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+CPUTIN:                 +37.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +97.5 C    sensor = thermistor
+AUXTIN1:                +96.0 C    sensor = thermistor
+AUXTIN2:                +96.0 C    sensor = thermistor
+AUXTIN3:                +99.0 C    sensor = thermistor
+PECI Agent 0:            +0.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+

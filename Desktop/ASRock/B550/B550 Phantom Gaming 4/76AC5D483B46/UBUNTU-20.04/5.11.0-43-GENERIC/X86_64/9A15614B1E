@@ -1,0 +1,48 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                   928.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.70 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.83 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   968.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                     1.19 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                   912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  624.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.09 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  936.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                   688 RPM  (min =    0 RPM)
+fan3:                   400 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+fan7:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +34.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                 +35.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +16.0 C    sensor = thermistor
+AUXTIN1:                -62.0 C    sensor = thermistor
+AUXTIN2:                +13.0 C    sensor = thermistor
+AUXTIN3:                +31.0 C    sensor = thermistor
+SMBUSMASTER 0:          +43.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.8 C  
+Tdie:         +43.8 C  
+

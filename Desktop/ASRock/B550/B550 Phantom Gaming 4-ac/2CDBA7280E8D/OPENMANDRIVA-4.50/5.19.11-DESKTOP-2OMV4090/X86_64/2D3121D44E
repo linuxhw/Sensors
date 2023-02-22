@@ -1,0 +1,16 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      737.00 mV 
+fan1:        1127 RPM  (min = 1000 RPM, max = 3800 RPM)
+edge:         +25.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:           6.13 W  (cap = 120.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +33.1 C  
+Tccd1:        +45.5 C  
+

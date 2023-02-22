@@ -1,0 +1,23 @@
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           4.12 V  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         828 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +46.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       39.07 W  (cap = 175.00 W)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +30.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +23.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +27.0 C  (high = +84.0 C, crit = +100.0 C)
+

@@ -1,0 +1,45 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+corsairpsu-hid-3-6
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.14 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.06 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:      740 RPM
+vrm temp:     +32.2 C  (crit = +70.0 C)
+case temp:    +26.2 C  (crit = +70.0 C)
+power total: 102.00 W  
+power +12v:   68.00 W  
+power +5v:    26.00 W  
+power +3.3v:   9.00 W  
+curr +12v:     5.50 A  (crit max = +100.00 A)
+curr +5v:      5.12 A  (crit max = +40.00 A)
+curr +3.3v:    2.56 A  (crit max = +40.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.2 C  
+Tccd1:        +38.5 C  
+
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:         762 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +51.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +51.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +54.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       25.00 W  (cap = 150.00 W)
+

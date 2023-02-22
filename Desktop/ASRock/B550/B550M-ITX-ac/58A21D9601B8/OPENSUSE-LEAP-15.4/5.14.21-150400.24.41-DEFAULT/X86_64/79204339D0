@@ -1,0 +1,57 @@
+nct6792-isa-0290
+Adapter: ISA adapter
+in0:                    +0.73 V  (min =  +0.00 V, max =  +1.74 V)
+in1:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in2:                    +3.42 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                    +3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in5:                    +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in6:                    +0.93 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                    +3.44 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                    +3.28 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                    +1.84 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                   +0.17 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                   +0.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                   +1.80 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                   +1.70 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                   +0.00 V  (min =  +0.00 V, max =  +0.00 V)
+fan1:                   664 RPM  (min =    0 RPM)
+fan2:                  1618 RPM  (min =    0 RPM)
+fan3:                   598 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+SYSTIN:                +122.0 C  (high =  +0.0 C, hyst =  +0.0 C)  sensor = thermistor
+CPUTIN:                 +27.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +30.0 C  (high =  +0.0 C, hyst =  +0.0 C)  ALARM  sensor = thermistor
+AUXTIN1:               +111.0 C    sensor = thermistor
+AUXTIN2:               +112.0 C    sensor = thermistor
+AUXTIN3:               -128.0 C    sensor = thermistor
+SMBUSMASTER 0:          +30.0 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +30.2 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 2:     +43.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:       +0.85 V  
+vddnb:        +1.01 V  
+edge:         +28.0 C  
+slowPPT:     1000.00 uW 
+

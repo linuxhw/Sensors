@@ -1,0 +1,49 @@
+nct6796-isa-0290
+Adapter: ISA adapter
+Vcore:                 992.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                     1.79 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+AVCC:                    3.44 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:                   3.38 V  (min =  +2.98 V, max =  +3.63 V)
+in4:                     1.69 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   248.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   200.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:                    3.44 V  (min =  +2.98 V, max =  +3.63 V)
+Vbat:                    3.17 V  (min =  +2.70 V, max =  +3.63 V)
+in9:                     0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in10:                  192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  200.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                  216.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  192.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                    1.68 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                  1272 RPM  (min =    0 RPM)
+fan2:                  1424 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan7:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +38.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                 +38.5 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +94.0 C    sensor = thermistor
+AUXTIN1:               +101.0 C    sensor = thermistor
+AUXTIN2:               +102.0 C    sensor = thermistor
+AUXTIN3:                -13.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +43.0 C  (crit = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 2:        +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 3:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+

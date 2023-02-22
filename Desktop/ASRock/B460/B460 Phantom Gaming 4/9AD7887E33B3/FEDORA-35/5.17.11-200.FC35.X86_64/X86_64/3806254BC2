@@ -1,0 +1,21 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:         204 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +51.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:       5.21 W  (cap = 135.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +45.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +43.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +47.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +43.0 C  (high = +84.0 C, crit = +100.0 C)
+
