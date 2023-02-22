@@ -1,0 +1,36 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.23 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +34.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +36.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +33.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 24:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 25:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 26:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 27:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 28:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 29:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 30:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 31:       +38.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+

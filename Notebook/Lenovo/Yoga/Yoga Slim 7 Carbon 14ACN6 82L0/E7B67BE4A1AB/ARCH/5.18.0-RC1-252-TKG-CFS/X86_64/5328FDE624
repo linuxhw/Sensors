@@ -1,0 +1,31 @@
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.70 V  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.41 V  
+SVI2_SoC:    650.00 mV 
+Tdie:         +54.6 C  (high = +95.0 C)
+Tctl:         +54.6 C  
+SVI2_P_Core:  12.05 W  
+SVI2_P_SoC:    1.72 W  
+SVI2_C_Core:   9.22 A  
+SVI2_C_SoC:    2.65 A  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.41 V  
+vddnb:       649.00 mV 
+edge:         +41.0 C  
+PPT:           2.00 mW 
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +43.0 C  (crit = +110.0 C)
+

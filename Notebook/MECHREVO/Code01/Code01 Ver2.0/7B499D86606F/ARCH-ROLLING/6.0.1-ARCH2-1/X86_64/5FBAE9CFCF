@@ -1,0 +1,28 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+Tdie:         +77.2 C  (high = +95.0 C)
+Tctl:         +77.2 C  
+
+BATT-acpi-0
+Adapter: ACPI interface
+in0:          13.08 V  
+curr1:         0.00 A  
+
+amdgpu-pci-6200
+Adapter: PCI adapter
+vddgfx:        1.39 V  
+vddnb:         1.02 V  
+edge:         +48.0 C  
+PPT:          24.12 W  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +77.0 C  (crit = +110.0 C)
+

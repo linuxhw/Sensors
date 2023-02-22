@@ -1,0 +1,37 @@
+amdgpu-pci-0700
+Adapter: PCI adapter
+vddgfx:        1.41 V  
+vddnb:       962.00 mV 
+edge:         +52.0 C  
+slowPPT:       7.00 mW 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +62.4 C  
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -20.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        0.00 V  
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +47.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +47.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+mem:          +44.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:       5.00 W  (cap =  65.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.91 V  
+curr1:         2.78 A  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +58.0 C  (crit = +100.0 C)
+
