@@ -1,0 +1,41 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +62.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 8:        +59.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 12:       +45.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 16:       +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 17:       +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 18:       +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 19:       +43.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 20:       +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 21:       +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 22:       +44.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 23:       +44.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          13.17 V  
+
+hp-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+fan2:           0 RPM
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +47.0 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +10.0 C  
+

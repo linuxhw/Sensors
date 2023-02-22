@@ -1,0 +1,28 @@
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max =  +5.00 V)
+curr1:         0.00 A  (max =  +3.00 A)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          16.94 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +63.0 C  (crit = +125.0 C)
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           5.00 V  (min =  +5.00 V, max = +12.00 V)
+curr1:         3.00 A  (max =  +1.67 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.9 C  
+Tdie:         +63.9 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +74.8 C)
+                       (crit = +84.8 C)
+
