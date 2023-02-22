@@ -1,0 +1,19 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        2400 RPM
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.04 V  
+curr1:         1.32 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +76.4 C  
+Tdie:         +76.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+

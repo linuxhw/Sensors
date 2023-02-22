@@ -1,0 +1,29 @@
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    0 RPM
+fan2:             0 RPM
+fan3:          2864 RPM
+CPU:            +62.0 C  
+CPU:            +66.0 C  
+Other:          +43.0 C  
+GPU:            +54.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          12.23 V  
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +53.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +64.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +61.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +66.0 C  (crit = +100.0 C)
+temp2:        +43.0 C  (crit = +100.0 C)
+temp3:        +54.0 C  (crit = +100.0 C)
+
