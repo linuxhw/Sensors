@@ -1,0 +1,25 @@
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +41.5 C  
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +34.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +35.0 C, highest = +40.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +46.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +47.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.63 V  
+curr1:         0.00 A  
+

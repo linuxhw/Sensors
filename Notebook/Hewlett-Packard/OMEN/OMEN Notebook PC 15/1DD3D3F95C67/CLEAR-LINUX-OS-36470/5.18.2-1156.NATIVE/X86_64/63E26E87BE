@@ -1,0 +1,22 @@
+hp-isa-0000
+Adapter: ISA adapter
+fan1:        7936 RPM
+fan2:         256 RPM
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.36 V  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +60.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +59.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +57.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +57.0 C  (high = +84.0 C, crit = +100.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +59.0 C  (crit = +120.0 C)
+temp2:        +53.0 C  (crit = +120.0 C)
+

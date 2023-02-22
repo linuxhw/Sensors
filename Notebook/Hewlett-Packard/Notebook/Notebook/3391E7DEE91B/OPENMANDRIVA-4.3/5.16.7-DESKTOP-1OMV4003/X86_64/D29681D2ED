@@ -1,0 +1,27 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +46.9 C  (high = +70.0 C)
+                       (crit = +115.5 C, hyst = +108.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +46.0 C  (crit = +226.8 C)
+temp2:        +20.0 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.32 V  
+curr1:         0.00 A  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        0.00 W  (interval =   0.01 s, crit =  15.05 W)
+
+radeon-pci-0008
+Adapter: PCI adapter
+temp1:        +46.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

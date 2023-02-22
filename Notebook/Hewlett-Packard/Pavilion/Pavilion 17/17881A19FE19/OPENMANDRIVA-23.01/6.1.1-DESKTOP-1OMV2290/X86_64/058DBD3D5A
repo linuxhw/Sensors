@@ -1,0 +1,22 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +60.4 C  (high = +70.0 C)
+                       (crit = +97.0 C, hyst = +90.0 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          16.94 V  
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:        0.00 W  (interval =   0.01 s, crit =  15.05 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +59.0 C  (crit = +255.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddnb:            N/A  
+edge:         +61.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
