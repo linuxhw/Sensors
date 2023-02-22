@@ -1,0 +1,15 @@
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +26.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 0:        +31.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:        +29.0 C  (high = +105.0 C, crit = +105.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          11.33 V  
+curr1:       688.00 mA 
+

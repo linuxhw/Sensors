@@ -1,0 +1,24 @@
+ath10k_hwmon-pci-0200
+Adapter: PCI adapter
+temp1:        +42.0 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -0.1 C, high = +87.8 C)
+                       (crit = +88.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +81.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +77.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +81.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +74.0 C  (high = +100.0 C, crit = +100.0 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          10.68 V  
+curr1:         1.84 A  
+
