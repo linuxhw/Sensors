@@ -1,0 +1,59 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.1 C  
+Tccd1:        +55.5 C  
+
+amdgpu-pci-2500
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:         629 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +53.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +56.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+slowPPT:      39.00 W  (cap = 180.00 W)
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +22.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +89.8 C)
+
+nct6797-isa-0a20
+Adapter: ISA adapter
+VCore:               1.39 V  (min =  +0.40 V, max =  +1.55 V)
++5V:                 5.04 V  (min =  +4.76 V, max =  +5.76 V)
++3.3V (AVCC):        3.34 V  (min =  +3.14 V, max =  +3.79 V)
++3.3V (3VCC):        3.31 V  (min =  +3.14 V, max =  +3.79 V)
++12V:               12.10 V  (min = +11.42 V, max = +12.58 V)
+in5:               152.00 mV (min =  +0.14 V, max =  +0.18 V)
+CHIP CLDO:           1.20 V  (min =  +1.14 V, max =  +1.38 V)
+3VSB:                3.34 V  (min =  +3.14 V, max =  +3.79 V)
+VBAT:                3.30 V  (min =  +3.14 V, max =  +3.79 V)
+VTT:                 1.80 V  (min =  +1.71 V, max =  +2.04 V)
+DRAM VREF:         456.00 mV (min =  +0.12 V, max =  +1.23 V)
+CPU NB/SoC:          1.04 V  (min =  +1.00 V, max =  +1.20 V)
+DIMM:                1.20 V  (min =  +0.80 V, max =  +1.50 V)
+5VSB:                5.06 V  (min =  +4.74 V, max =  +5.75 V)
+Pump:              1215 RPM  (min =    0 RPM)
+CPU Fan:              0 RPM  (min =    0 RPM)
+System Fan 1:      1387 RPM  (min =    0 RPM)
+System Fan 2:         0 RPM  (min =    0 RPM)
+System Fan 3:         0 RPM  (min =    0 RPM)
+System Fan 4:      1428 RPM  (min =    0 RPM)
+PCH Fan:           1062 RPM  (min =    0 RPM)
+System:             +39.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:             +39.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+VR MOS:             +50.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+Chipset:            +62.0 C    sensor = thermistor
+CPU (Tctl):         +56.5 C  
+Chassis intrusion: ALARM
+beep_enable:       disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +63.9 C  (low  =  -0.1 C, high = +86.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+

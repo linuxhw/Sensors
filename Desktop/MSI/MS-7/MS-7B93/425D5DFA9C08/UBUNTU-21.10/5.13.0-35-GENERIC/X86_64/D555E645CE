@@ -1,0 +1,54 @@
+corsairpsu-hid-3-a
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.19 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.33 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +44.5 C  (crit = +70.0 C)
+case temp:    +37.2 C  (crit = +70.0 C)
+power total: 116.00 W  
+power +12v:   88.00 W  
+power +5v:    23.50 W  
+power +3.3v:   4.50 W  
+curr +12v:     7.00 A  (crit max = +100.00 A)
+curr +5v:      4.75 A  (crit max = +40.00 A)
+curr +3.3v:    1.44 A  (crit max = +40.00 A)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +36.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.6 C  
+Tdie:         +51.6 C  
+Tccd1:        +37.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+corsaircpro-hid-3-7
+Adapter: HID adapter
+in0:          12.07 V  
+in1:           4.97 V  
+in2:           3.36 V  
+fan1 4pin:    948 RPM
+fan2 4pin:    948 RPM
+fan3 4pin:    945 RPM
+temp1:        +24.9 C  
+temp2:        +28.4 C  
+temp3:        +27.5 C  
+temp4:        +28.6 C  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

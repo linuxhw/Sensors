@@ -1,0 +1,22 @@
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +23.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-3000
+Adapter: PCI adapter
+vddgfx:        1.19 V  
+vddnb:         1.10 V  
+edge:         +28.0 C  
+PPT:           2.00 mW 
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +19.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +32.5 C  
+

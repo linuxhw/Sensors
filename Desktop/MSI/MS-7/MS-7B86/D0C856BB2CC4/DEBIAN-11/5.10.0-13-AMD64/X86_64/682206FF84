@@ -1,0 +1,48 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+Vcore:                 848.00 mV (min =  +0.40 V, max =  +1.45 V)
+ATX 5V:                  5.08 V  (min =  +4.76 V, max =  +5.24 V)
+AVCC Analog:             3.36 V  (min =  +3.14 V, max =  +3.47 V)
+ATX 3.3V:                3.42 V  (min =  +3.14 V, max =  +3.47 V)
+ATX 12V:                11.90 V  (min = +11.42 V, max = +12.58 V)
+Unknown:               144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:               824.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB Standby:            3.36 V  (min =  +3.14 V, max =  +3.47 V)
+RTC Battery:             3.25 V  (min =  +2.00 V, max =  +3.41 V)
+CPU 1.8V:                1.82 V  (min =  +1.64 V, max =  +2.00 V)
+CPU VDDP:              912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+Unknown:               640.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+Vsoc:                    1.10 V  (min =  +0.80 V, max =  +1.45 V)
+Vdram:                   1.22 V  (min =  +1.10 V, max =  +1.50 V)
+5VSB Standby:            5.08 V  (min =  +4.74 V, max =  +5.24 V)
+PUMP_FAN1:             1634 RPM  (min =    0 RPM)
+CPU_FAN1:              1781 RPM  (min =    0 RPM)
+SYS_FAN1:              1212 RPM  (min =    0 RPM)
+SYS_FAN2:                 0 RPM  (min =    0 RPM)
+SYS_FAN3:                 0 RPM  (min =    0 RPM)
+SYS_FAN4:                 0 RPM  (min =    0 RPM)
+System:                 +33.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPU Socket:             +31.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+MOS:                    +36.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+Always 30:              +31.0 C    sensor = thermistor
+PCH:                    +46.0 C    sensor = thermistor
+Always -2:               -2.0 C    sensor = thermistor
+CPU:                    +31.5 C  
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+intrusion0:            ALARM
+intrusion1:            ALARM
+beep_enable:           disabled
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +31.1 C  
+Tdie:         +31.1 C  
+
+amdgpu-pci-2600
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +31.0 C  
+

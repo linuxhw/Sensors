@@ -1,0 +1,25 @@
+amdgpu-pci-2800
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:         658 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +47.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +50.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +54.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          35.00 W  (cap = 255.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.9 C  
+Tccd1:        +53.8 C  
+Tccd2:        +60.2 C  
+

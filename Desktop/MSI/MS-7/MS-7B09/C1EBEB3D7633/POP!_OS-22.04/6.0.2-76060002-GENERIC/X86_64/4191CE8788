@@ -1,0 +1,33 @@
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +59.0 C  
+Tdie:         +32.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.6 C  
+Tdie:         +34.6 C  
+Tccd1:        +56.5 C  
+Tccd2:        +59.8 C  
+Tccd3:        +59.2 C  
+
+nvme-pci-4200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +58.4 C  
+Tdie:         +31.4 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +55.2 C  
+Tdie:         +28.2 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +25.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

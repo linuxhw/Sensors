@@ -1,0 +1,29 @@
+nouveau-pci-2400
+Adapter: PCI adapter
+fan1:        1034 RPM
+temp1:        +34.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.5 C  
+Tccd1:        +60.5 C  
+Tccd2:        +57.5 C  
+
+nvme-pci-2f00
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+enp48s0-pci-3000
+Adapter: PCI adapter
+PHY Temperature:  +43.8 C  
+MAC Temperature:  +45.1 C  
+

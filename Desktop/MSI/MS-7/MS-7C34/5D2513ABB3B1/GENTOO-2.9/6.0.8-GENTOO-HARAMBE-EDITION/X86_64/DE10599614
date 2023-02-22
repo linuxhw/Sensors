@@ -1,0 +1,64 @@
+nct6797-isa-0a20
+Adapter: ISA adapter
+in0:            1.38 V  (min =  +0.00 V, max =  +1.74 V)
+in1:            1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:            3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:            3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:            1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:          152.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:          784.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:            3.33 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:            3.23 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:            1.85 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+in11:         576.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:           1.09 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:         760.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:           1.53 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:         3082 RPM  (min =    0 RPM)
+fan2:         1422 RPM  (min =    0 RPM)
+fan3:            0 RPM  (min =    0 RPM)
+fan4:            0 RPM  (min =    0 RPM)
+fan5:            0 RPM  (min =    0 RPM)
+fan6:            0 RPM  (min =    0 RPM)
+fan7:            0 RPM  (min =    0 RPM)
+SYSTIN:        +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = CPU diode
+CPUTIN:        +31.0 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN0:       +37.5 C  (high = +115.0 C, hyst = +90.0 C)  sensor = thermistor
+AUXTIN1:      -128.0 C    sensor = thermistor
+AUXTIN2:       +51.0 C    sensor = thermistor
+AUXTIN3:        -2.0 C    sensor = thermistor
+Virtual_TEMP:  +41.0 C  
+Virtual_TEMP:  +41.0 C  
+Virtual_TEMP:  +41.0 C  
+Virtual_TEMP:  +41.0 C  
+TSI0_TEMP:     +42.1 C  
+intrusion0:   ALARM
+intrusion1:   ALARM
+beep_enable:  disabled
+
+nvme-pci-2300
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +59.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +54.9 C  (low  = -273.1 C, high = +65261.8 C)
+

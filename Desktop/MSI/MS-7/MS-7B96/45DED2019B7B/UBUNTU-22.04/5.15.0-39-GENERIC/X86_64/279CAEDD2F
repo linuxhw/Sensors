@@ -1,0 +1,54 @@
+amdgpu-pci-6700
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +55.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +56.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +56.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:      14.00 W  (cap = 255.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-b400
+Adapter: PCI adapter
+Composite:    +54.9 C  (low  = -20.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +73.8 C  (low  =  +0.0 C, high =  +0.0 C)
+
+enp2s0-pci-0200
+Adapter: PCI adapter
+PHY Temperature:  +66.5 C  
+MAC Temperature:  +63.3 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 1:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 2:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 4:        +36.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 5:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 6:        +39.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 8:        +38.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 9:        +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 10:       +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 11:       +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 12:       +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 13:       +37.0 C  (high = +90.0 C, crit = +100.0 C)
+Core 14:       +38.0 C  (high = +90.0 C, crit = +100.0 C)
+
+hidpp_battery_0-hid-3-17
+Adapter: HID adapter
+in0:           4.26 V  
+
+nvme-pci-b300
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+
