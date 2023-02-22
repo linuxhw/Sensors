@@ -1,0 +1,44 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.1 C  
+Tccd1:        +31.5 C  
+Tccd2:        +44.5 C  
+
+eno2-pci-0b00
+Adapter: PCI adapter
+PHY Temperature:  +38.0 C  
+MAC Temperature:  +38.0 C  
+
+nvme-pci-6c00
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+corsaircpro-hid-3-e
+Adapter: HID adapter
+in0:          12.01 V  
+in1:           4.98 V  
+in2:           3.35 V  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      221.00 mV 
+fan1:         250 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +40.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +43.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +61.0 C  (crit = +108.0 C, hyst = -273.1 C)
+                       (emerg = +113.0 C)
+PPT:          19.00 W  (cap = 315.00 W)
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

@@ -1,0 +1,30 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:        1.04 V  
+fan1:         800 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +62.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          33.16 W  (cap = 145.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +94.5 C  
+Tccd1:        +85.8 C  
+Tccd2:        +83.0 C  
+
+corsairpsu-hid-3-8
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.11 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.33 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +49.5 C  (crit = +70.0 C)
+case temp:    +43.8 C  (crit = +70.0 C)
+power total: 140.00 W  
+power +12v:  112.00 W  
+power +5v:    22.00 W  
+power +3.3v:   7.00 W  
+curr +12v:     9.00 A  (crit max = +100.00 A)
+curr +5v:      4.31 A  (crit max = +40.00 A)
+curr +3.3v:    2.12 A  (crit max = +40.00 A)
+

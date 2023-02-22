@@ -1,0 +1,51 @@
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      887.00 mV 
+fan1:        1820 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +54.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          13.13 W  (cap =  46.00 W)
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.37 V  
+CPU SOC Voltage:         916.00 mV 
+DRAM AB Voltage:           1.20 V  
+VDDP Voltage:             65.00 mV 
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             12.03 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              3.12 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.05 V  
+CPU Fan:                 1824 RPM
+Chassis Fan:                0 RPM
+Radiator Fan 1:             0 RPM
+Radiator Fan 2:             0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+Waterblock Flow:            0 RPM
+EXT Fan 1:                  0 RPM
+EXT Fan 2:                  0 RPM
+EXT Fan 3:                  0 RPM
+CPU Temperature:          +41.0 C  
+CPU Socket Temperature:   +37.0 C  
+Motherboard Temperature:  +31.0 C  
+Chipset Temperature:      +53.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +40.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+Waterblock In:           +216.0 C  
+Waterblock Out:          +216.0 C  
+EXT Tsensor 1:             +0.0 C  
+EXT Tsensor 2:             +0.0 C  
+EXT Tsensor 3:             +0.0 C  
+CPU VRM Output Current:   14.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +60.8 C  
+Tdie:         +40.8 C  
+

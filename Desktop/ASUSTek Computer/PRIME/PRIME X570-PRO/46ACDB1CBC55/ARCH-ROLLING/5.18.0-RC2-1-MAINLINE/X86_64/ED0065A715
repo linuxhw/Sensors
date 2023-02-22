@@ -1,0 +1,68 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.1 C  
+Tccd1:        +36.0 C  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:         935 RPM  (min =    0 RPM, max = 2900 RPM)
+edge:         +50.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          31.21 W  (cap = 145.00 W)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                      976.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                        3.38 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                      736.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                        1.01 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                        3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                        3.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                      912.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                     368.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                     544.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                       1.04 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                     992.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                       1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     1071 RPM  (min =    0 RPM)
+fan2:                     1223 RPM  (min =    0 RPM)
+fan3:                     1330 RPM  (min =    0 RPM)
+fan4:                     1132 RPM  (min =    0 RPM)
+fan5:                     2445 RPM  (min =    0 RPM)
+fan6:                        0 RPM  (min =    0 RPM)
+fan7:                        0 RPM  (min =    0 RPM)
+SYSTIN:                    +40.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                    +33.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                   +26.0 C    sensor = thermistor
+AUXTIN1:                   +40.0 C    sensor = thermistor
+AUXTIN2:                   +21.0 C    sensor = thermistor
+AUXTIN3:                   +25.0 C    sensor = thermistor
+PECI Agent 0 Calibration:  +40.0 C  
+PCH_CHIP_CPU_MAX_TEMP:      +0.0 C  
+PCH_CHIP_TEMP:              +0.0 C  
+PCH_CPU_TEMP:               +0.0 C  
+TSI0_TEMP:                 +51.4 C  
+TSI1_TEMP:                 +63.5 C  
+intrusion0:               ALARM
+intrusion1:               ALARM
+beep_enable:              disabled
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+Chipset:     2821 RPM
+Chipset:      +63.0 C  
+CPU:          +42.0 C  
+Motherboard:  +40.0 C  
+T_Sensor:    +216.0 C  
+VRM:           +0.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+

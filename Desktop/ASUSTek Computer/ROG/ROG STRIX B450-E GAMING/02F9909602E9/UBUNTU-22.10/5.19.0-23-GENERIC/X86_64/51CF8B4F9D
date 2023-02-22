@@ -1,0 +1,46 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      950.00 mV 
+fan1:        1662 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +49.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          41.09 W  (cap = 160.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.44 V  
+VPP MEM Voltage:           2.48 V  
++12V Voltage:              9.92 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.18 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Core Voltage:          0.00 V  
+CPU SOC Voltage:           0.00 V  
+CPU Fan:                  655 RPM
+Chassis Fan 1:            841 RPM
+Chassis Fan 2:            789 RPM
+Chassis Fan 3:            745 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +39.0 C  
+CPU Socket Temperature:   +28.0 C  
+Motherboard Temperature:  +30.0 C  
+Chipset Temperature:      +33.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:       +0.0 C  
+CPU VRM Output Current:    0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +44.5 C  
+Tccd1:        +37.0 C  
+

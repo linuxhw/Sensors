@@ -1,0 +1,37 @@
+hidpp_battery_0-hid-3-7
+Adapter: HID adapter
+in0:           4.20 V  
+
+enp57s0-pci-3900
+Adapter: PCI adapter
+PHY Temperature:  +38.0 C  
+MAC Temperature:  +38.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +37.9 C  
+Tccd1:        +37.0 C  
+Tccd2:        +29.2 C  
+
+amdgpu-pci-4000
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +37.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +37.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+power1:        7.00 W  (cap = 135.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -20.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

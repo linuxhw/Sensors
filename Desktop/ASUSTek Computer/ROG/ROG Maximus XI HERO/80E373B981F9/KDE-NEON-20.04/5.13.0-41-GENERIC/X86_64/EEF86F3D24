@@ -1,0 +1,40 @@
+corsairpsu-hid-3-a
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.05 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.30 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +40.8 C  (crit = +70.0 C)
+case temp:    +30.5 C  (crit = +70.0 C)
+power total: 126.00 W  
+power +12v:  114.00 W  
+power +5v:    10.50 W  
+power +3.3v:   1.50 W  
+curr +12v:     8.75 A  (crit max = +85.00 A)
+curr +5v:      2.19 A  (crit max = +40.00 A)
+curr +3.3v:  500.00 mA (crit max = +40.00 A)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +47.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +42.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +39.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +44.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +40.0 C  (high = +86.0 C, crit = +100.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+

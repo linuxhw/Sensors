@@ -1,0 +1,38 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.6 C  
+Tccd1:        +42.2 C  
+Tccd2:        +52.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.06 V  
+CPU_Opt:        0 RPM
+Chipset:     1829 RPM
+Water_Flow:     0 RPM
+Chipset:      +58.0 C  
+CPU:          +40.0 C  
+Motherboard:  +34.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +28.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:           0.00 A  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +42.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +38.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:           5.00 W  (cap = 281.00 W)
+

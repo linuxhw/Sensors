@@ -1,0 +1,47 @@
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:        850.00 mV 
+CPU SOC Voltage:         796.00 mV 
+DRAM Voltage:              1.19 V  
+VDDP Voltage:            741.00 mV 
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             12.21 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              3.21 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.07 V  
+CPU Core Voltage:          1.43 V  
+CPU SOC Voltage:         816.00 mV 
+DRAM Voltage:              1.20 V  
+CPU Fan:                 4687 RPM
+Chassis Fan 1:            952 RPM
+Chassis Fan 2:            942 RPM
+Chassis Fan 3:              0 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                  996 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +46.0 C  
+CPU Socket Temperature:   +35.0 C  
+Motherboard Temperature:  +34.0 C  
+Chipset Temperature:      +55.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +40.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:    3.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +72.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.9 C  
+Tdie:         +45.9 C  
+

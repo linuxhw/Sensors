@@ -1,0 +1,69 @@
+drivetemp-scsi-5-0
+Adapter: SCSI adapter
+temp1:        +24.0 C  (low  = +10.0 C, high = +40.0 C)
+                       (crit low =  +5.0 C, crit = +60.0 C)
+                       (lowest = +19.0 C, highest = +24.0 C)
+
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +20.0 C  (low  =  +0.0 C, high = +70.0 C)
+                       (crit low =  +0.0 C, crit = +70.0 C)
+                       (lowest = +20.0 C, highest = +40.0 C)
+
+drivetemp-scsi-9-0
+Adapter: SCSI adapter
+temp1:        +24.0 C  (low  = +10.0 C, high = +40.0 C)
+                       (crit low =  +5.0 C, crit = +60.0 C)
+                       (lowest = +19.0 C, highest = +24.0 C)
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +21.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -40.0 C, crit = +65.0 C)
+                       (lowest = +18.0 C, highest = +21.0 C)
+
+nvme-pci-0e00
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  =  -0.1 C, high = +69.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+drivetemp-scsi-8-0
+Adapter: SCSI adapter
+temp1:        +23.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +19.0 C, highest = +23.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+drivetemp-scsi-4-0
+Adapter: SCSI adapter
+temp1:        +23.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.0 C  
+Tccd1:        +25.2 C  
+Tccd2:        +28.8 C  
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +23.0 C  
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +22.0 C  (low  = +14.0 C, high = +55.0 C)
+                       (crit low = +10.0 C, crit = +60.0 C)
+                       (lowest = +18.0 C, highest = +22.0 C)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

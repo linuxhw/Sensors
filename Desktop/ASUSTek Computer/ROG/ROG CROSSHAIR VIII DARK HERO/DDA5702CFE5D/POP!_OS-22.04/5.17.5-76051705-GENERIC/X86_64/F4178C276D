@@ -1,0 +1,41 @@
+hidpp_battery_0-hid-3-d
+Adapter: HID adapter
+in0:           4.06 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +55.0 C  
+Tccd1:        +48.8 C  
+Tccd2:        +48.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+CPU_Opt:      782 RPM
+Water_Flow:     0 RPM
+Chipset:      +64.0 C  
+CPU:          +48.0 C  
+Motherboard:  +40.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +48.0 C  
+Water_In:    +216.0 C  
+Water_Out:   +216.0 C  
+CPU:           7.00 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +24.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,37 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.4 C  
+Tccd1:        +52.2 C  
+Tccd2:        +44.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+kraken2-hid-3-2
+Adapter: HID adapter
+Fan:            0 RPM
+Pump:        2077 RPM
+Coolant:      +29.8 C  
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+Chipset:     2214 RPM
+Chipset:      +60.0 C  
+CPU:          +36.0 C  
+Motherboard:  +37.0 C  
+VRM:           +0.0 C  
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      843.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +49.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +51.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +52.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+slowPPT:      32.00 W  (cap = 186.00 W)
+

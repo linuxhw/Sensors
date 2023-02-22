@@ -1,0 +1,48 @@
+corsairpsu-hid-3-3
+Adapter: HID adapter
+v_in:        115.00 V  
+v_out +12v:   12.09 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.05 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.33 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +48.8 C  (crit = +70.0 C)
+case temp:    +42.2 C  (crit = +70.0 C)
+power total:  52.00 W  
+power +12v:   36.00 W  
+power +5v:    13.50 W  
+power +3.3v:   3.50 W  
+curr +12v:     3.00 A  (crit max = +100.00 A)
+curr +5v:      2.75 A  (crit max = +40.00 A)
+curr +3.3v:    1.06 A  (crit max = +40.00 A)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +43.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +27.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-7000
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

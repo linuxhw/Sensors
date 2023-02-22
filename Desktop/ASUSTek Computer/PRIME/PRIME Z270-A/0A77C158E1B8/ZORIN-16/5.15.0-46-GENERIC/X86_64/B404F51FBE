@@ -1,0 +1,21 @@
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +33.0 C  (high = +80.0 C, crit = +100.0 C)
+
+kraken2-hid-3-9
+Adapter: HID adapter
+Fan:          969 RPM
+Pump:        1992 RPM
+Coolant:      +28.1 C  
+

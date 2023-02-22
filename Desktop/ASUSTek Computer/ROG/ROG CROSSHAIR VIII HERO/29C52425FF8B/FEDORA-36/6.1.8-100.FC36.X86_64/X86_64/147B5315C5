@@ -1,0 +1,39 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+radeon-pci-0b00
+Adapter: PCI adapter
+temp1:        +60.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.47 V  
+CPU_Opt:        0 RPM
+Chipset:     2116 RPM
+Water_Flow:     0 RPM
+Chipset:      +59.0 C  
+CPU:          +48.0 C  
+Motherboard:  +40.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +31.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:          12.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +47.0 C  
+Tccd1:        +31.2 C  
+Tccd2:        +34.2 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +49.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

@@ -1,0 +1,64 @@
+ucsi_source_psy_2_00081-i2c-2-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.5 C  
+
+nvme-pci-2a00
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +45.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+
+nct6798-isa-0290
+Adapter: ISA adapter
+in0:                   272.00 mV (min =  +0.00 V, max =  +1.74 V)
+in1:                   1000.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in2:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in3:                     3.31 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:                     1.37 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:                   592.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in6:                   296.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in7:                     3.41 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in8:                     3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in9:                   896.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in10:                  184.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in11:                  144.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in12:                    1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in13:                  320.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+in14:                  296.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+fan1:                     0 RPM  (min =    0 RPM)
+fan2:                     0 RPM  (min =    0 RPM)
+fan3:                     0 RPM  (min =    0 RPM)
+fan4:                     0 RPM  (min =    0 RPM)
+fan5:                     0 RPM  (min =    0 RPM)
+fan6:                     0 RPM  (min =    0 RPM)
+fan7:                     0 RPM  (min =    0 RPM)
+SYSTIN:                 +44.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:                 +37.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:                +78.5 C    sensor = thermistor
+AUXTIN1:                +93.0 C    sensor = thermistor
+AUXTIN2:                +92.0 C    sensor = thermistor
+AUXTIN3:                +96.0 C    sensor = thermistor
+PCH_CHIP_CPU_MAX_TEMP:   +0.0 C  
+PCH_CHIP_TEMP:           +0.0 C  
+PCH_CPU_TEMP:            +0.0 C  
+PCH_MCH_TEMP:            +0.0 C  
+intrusion0:            OK
+intrusion1:            ALARM
+beep_enable:           disabled
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+

@@ -1,0 +1,99 @@
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +58.8 C  
+Tdie:         +31.8 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +67.0 C  
+Tdie:         +40.0 C  
+Tccd1:        +62.8 C  
+Tccd2:        +59.5 C  
+Tccd3:        +61.2 C  
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +66.4 C  
+Tdie:         +39.4 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +64.4 C  
+Tdie:         +37.4 C  
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.33 V  
+CPU SOC Voltage:           1.09 V  
+DRAM AB Voltage:           1.20 V  
+DRAM CD Voltage:           1.20 V  
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             11.58 V  
++5V Voltage:               4.69 V  
+3VSB Voltage:              3.33 V  
+VBAT Voltage:              2.90 V  
+AVCC3 Voltage:             3.33 V  
+SB 1.05V Voltage:          1.05 V  
+CPU Core Voltage:        849.00 mV 
+CPU SOC Voltage:           1.04 V  
+DRAM AB Voltage:           1.20 V  
+DRAM CD Voltage:           1.20 V  
+CPU Fan:                  796 RPM
+Chassis Fan 1:            901 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+Water Pump 1:            1004 RPM
+CPU OPT:                    0 RPM
+EXT Fan 1:                  0 RPM
+EXT Fan 2:                  0 RPM
+EXT Fan 3:                  0 RPM
+Cover Fan:                  0 RPM
+CPU Temperature:          +40.0 C  
+CPU Socket Temperature:   +34.0 C  
+Motherboard Temperature:  +30.0 C  
+Chipset Temperature:      +47.0 C  
+Tsensor Temperature:     +216.0 C  
+CPU VRM Temperature:      +35.0 C  
+EXT Tsensor 1:             +0.0 C  
+EXT Tsensor 2:             +0.0 C  
+EXT Tsensor 3:             +0.0 C  
+CPU VRM Output Current:    0.00 A  
+
+nvme-pci-0d00
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+

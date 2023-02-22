@@ -1,0 +1,83 @@
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.11 V  
+CPU SOC Voltage:         872.00 mV 
+DRAM AB Voltage:           1.22 V  
+DRAM CD Voltage:           1.22 V  
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             11.97 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.10 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.05 V  
+CPU Core Voltage:          1.08 V  
+CPU SOC Voltage:         818.00 mV 
+DRAM AB Voltage:           1.20 V  
+DRAM CD Voltage:           1.20 V  
+CPU Fan:                 4218 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+Water Pump 1:               0 RPM
+CPU OPT:                    0 RPM
+EXT Fan 1:                  0 RPM
+EXT Fan 2:                  0 RPM
+EXT Fan 3:                  0 RPM
+Cover Fan:                  0 RPM
+CPU Temperature:          +41.0 C  
+CPU Socket Temperature:   +39.0 C  
+Motherboard Temperature:  +32.0 C  
+Chipset Temperature:      +51.0 C  
+Tsensor Temperature:     +216.0 C  
+CPU VRM Temperature:      +34.0 C  
+EXT Tsensor 1:             +0.0 C  
+EXT Tsensor 2:             +0.0 C  
+EXT Tsensor 3:             +0.0 C  
+CPU VRM Output Current:   25.00 A  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +67.5 C  
+Tdie:         +40.5 C  
+
+amdgpu-pci-4400
+Adapter: PCI adapter
+vddgfx:        1.04 V  
+fan1:         636 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +56.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +60.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +60.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:      21.00 W  (cap = 220.00 W)
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +68.0 C  
+Tdie:         +41.0 C  
+Tccd1:        +67.8 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:         678 RPM  (min =  400 RPM, max = 4900 RPM)
+edge:         +38.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +39.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +37.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:       4.00 W  (cap = 220.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

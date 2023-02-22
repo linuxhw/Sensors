@@ -1,0 +1,45 @@
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      856.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +35.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +37.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          10.00 W  (cap = 272.00 W)
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.25 V  
+CPU_Opt:        0 RPM
+Water_Flow:     0 RPM
+Chipset:      +53.0 C  
+CPU:          +41.0 C  
+Motherboard:  +30.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +39.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:           7.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.5 C  
+Tccd2:        +30.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+

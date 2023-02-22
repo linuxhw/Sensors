@@ -1,0 +1,59 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +87.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+corsairpsu-hid-3-6
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   11.92 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.31 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +59.2 C  (crit = +70.0 C)
+case temp:    +48.8 C  (crit = +70.0 C)
+power total: 112.00 W  
+power +12v:   88.00 W  
+power +5v:    16.50 W  
+power +3.3v:   4.50 W  
+curr +12v:     7.25 A  (crit max = +100.00 A)
+curr +5v:      3.38 A  (crit max = +40.00 A)
+curr +3.3v:    1.50 A  (crit max = +40.00 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +33.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +33.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +34.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +33.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +33.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +33.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +32.0 C  (high = +86.0 C, crit = +100.0 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU_Opt:        0 RPM
+Water_Flow:     0 RPM
+Chipset:      +54.0 C  
+CPU:          +39.0 C  
+Motherboard:  +29.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +37.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

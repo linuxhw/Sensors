@@ -1,0 +1,42 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +44.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +41.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +42.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +38.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +40.0 C  (high = +80.0 C, crit = +100.0 C)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +48.9 C  (low  =  -0.1 C, high = +79.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +51.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+enp4s0-pci-0400
+Adapter: PCI adapter
+PHY Temperature:  +46.0 C  
+MAC Temperature:  +46.0 C  
+

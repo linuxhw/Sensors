@@ -1,0 +1,74 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +35.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 8:        +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 12:       +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 16:       +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 20:       +34.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 24:       +47.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 28:       +32.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 32:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 33:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 34:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 35:       +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 36:       +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 37:       +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 38:       +31.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 39:       +31.0 C  (high = +80.0 C, crit = +100.0 C)
+
+corsairpsu-hid-3-b
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.00 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.30 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +54.5 C  (crit = +70.0 C)
+case temp:    +55.2 C  (crit = +70.0 C)
+power total: 128.00 W  
+power +12v:   84.00 W  
+power +5v:    25.50 W  
+power +3.3v:  10.50 W  
+curr +12v:     5.75 A  (crit max = +168.75 A)
+curr +5v:      5.12 A  (crit max = +40.00 A)
+curr +3.3v:    3.19 A  (crit max = +40.00 A)
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0600
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+
+enp9s0-pci-0900
+Adapter: PCI adapter
+PHY Temperature:  +41.0 C  
+MAC Temperature:  +41.0 C  
+
+nvme-pci-7700
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+

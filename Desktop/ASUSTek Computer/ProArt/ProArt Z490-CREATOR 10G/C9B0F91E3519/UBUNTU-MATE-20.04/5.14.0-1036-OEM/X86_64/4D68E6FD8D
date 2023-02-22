@@ -1,0 +1,32 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +35.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +35.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +37.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +34.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 6:        +35.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 7:        +37.0 C  (high = +84.0 C, crit = +100.0 C)
+
+i350bb-pci-7700
+Adapter: PCI adapter
+loc1:         +69.0 C  (high = +120.0 C, crit = +110.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+enp118s0-pci-7600
+Adapter: PCI adapter
+PHY Temperature:  +56.5 C  
+MAC Temperature:  +56.2 C  
+
+nvme-pci-7800
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+

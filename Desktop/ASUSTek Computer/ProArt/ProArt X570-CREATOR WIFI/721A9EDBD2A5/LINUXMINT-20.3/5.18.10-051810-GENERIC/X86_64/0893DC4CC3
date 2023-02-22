@@ -1,0 +1,22 @@
+radeon-pci-3e00
+Adapter: PCI adapter
+temp1:        +51.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +46.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.2 C  
+Tccd1:        +33.5 C  
+Tccd2:        +32.5 C  
+
+enp56s0-pci-3800
+Adapter: PCI adapter
+PHY Temperature:  +55.0 C  
+MAC Temperature:  +55.0 C  
+

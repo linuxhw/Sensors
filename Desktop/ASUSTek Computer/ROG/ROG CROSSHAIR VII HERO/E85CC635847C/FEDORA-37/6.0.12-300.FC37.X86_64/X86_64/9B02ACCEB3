@@ -1,0 +1,52 @@
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +31.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.43 V  
+CPU SOC Voltage:           1.02 V  
+DRAM Voltage:              1.33 V  
+VDDP Voltage:            610.00 mV 
+1.8V PLL Voltage:          1.83 V  
++12V Voltage:             11.77 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.29 V  
+VBAT Voltage:              3.21 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.07 V  
+CPU Core Voltage:          1.45 V  
+CPU SOC Voltage:           1.05 V  
+DRAM Voltage:              1.36 V  
+CPU Fan:                 1184 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +60.0 C  
+CPU Socket Temperature:   +37.0 C  
+Motherboard Temperature:  +26.0 C  
+Chipset Temperature:      +48.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +39.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:   27.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.0 C  
+Tccd2:        +58.5 C  
+

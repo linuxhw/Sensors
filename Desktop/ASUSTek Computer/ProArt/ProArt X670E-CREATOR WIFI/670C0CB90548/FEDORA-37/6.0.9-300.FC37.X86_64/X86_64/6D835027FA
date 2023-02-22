@@ -1,0 +1,29 @@
+amdgpu-pci-6a00
+Adapter: PCI adapter
+vddgfx:        1.42 V  
+vddnb:         1.24 V  
+edge:         +44.0 C  
+PPT:          20.21 W  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+hidpp_battery_0-hid-3-c
+Adapter: HID adapter
+in0:           3.99 V  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +57.1 C  
+Tccd1:        +43.2 C  
+Tccd2:        +49.5 C  
+
+eno2-pci-0900
+Adapter: PCI adapter
+PHY Temperature:  +53.0 C  
+MAC Temperature:  +53.0 C  
+

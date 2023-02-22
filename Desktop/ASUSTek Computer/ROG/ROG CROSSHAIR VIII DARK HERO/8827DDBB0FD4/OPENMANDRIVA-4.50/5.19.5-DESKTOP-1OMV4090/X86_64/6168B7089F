@@ -1,0 +1,31 @@
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:    205.00 mV 
+CPU_Opt:        0 RPM
+Water_Flow:     0 RPM
+Chipset:      +46.0 C  
+CPU:          +39.0 C  
+Motherboard:  +33.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +35.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:           0.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +42.9 C  
+Tccd1:        +32.8 C  
+Tccd2:        +30.5 C  
+
+radeon-pci-0800
+Adapter: PCI adapter
+temp1:        +34.0 C  (crit = +120.0 C, hyst = +90.0 C)
+

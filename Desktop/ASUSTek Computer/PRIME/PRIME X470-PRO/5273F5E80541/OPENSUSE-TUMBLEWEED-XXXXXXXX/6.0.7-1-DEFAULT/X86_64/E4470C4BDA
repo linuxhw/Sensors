@@ -1,0 +1,59 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +34.0 C  
+
+corsairpsu-hid-3-4
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.16 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.03 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.36 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +45.0 C  (crit = +70.0 C)
+case temp:    +38.5 C  (crit = +70.0 C)
+power total:  90.00 W  
+power +12v:   54.00 W  
+power +5v:    28.50 W  
+power +3.3v:   6.50 W  
+curr +12v:     4.25 A  (crit max = +75.00 A)
+curr +5v:      5.75 A  (crit max = +40.00 A)
+curr +3.3v:    2.06 A  (crit max = +40.00 A)
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:      856.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +39.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +40.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +40.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          12.00 W  (cap = 272.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.41 V  
+CPU_Opt:      922 RPM
+Chipset:      +50.0 C  
+CPU:          +50.0 C  
+Motherboard:  +34.0 C  
+T_Sensor:     +28.0 C  
+VRM:          +20.0 C  
+CPU:          30.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.2 C  
+Tccd1:        +48.5 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

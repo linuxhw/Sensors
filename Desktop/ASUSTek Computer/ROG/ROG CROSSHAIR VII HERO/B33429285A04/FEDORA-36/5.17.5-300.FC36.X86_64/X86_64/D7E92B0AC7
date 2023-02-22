@@ -1,0 +1,63 @@
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.37 V  
+CPU SOC Voltage:         992.00 mV 
+DRAM Voltage:              1.19 V  
+VDDP Voltage:            818.00 mV 
+1.8V PLL Voltage:          1.77 V  
++12V Voltage:             11.94 V  
++5V Voltage:               4.91 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.16 V  
+AVCC3 Voltage:             3.29 V  
+SB 1.05V Voltage:          1.12 V  
+CPU Core Voltage:          1.39 V  
+CPU SOC Voltage:           1.01 V  
+DRAM Voltage:              1.20 V  
+CPU Fan:                 1901 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +58.0 C  
+CPU Socket Temperature:   +43.0 C  
+Motherboard Temperature:  +34.0 C  
+Chipset Temperature:      +57.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +43.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:    7.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +59.0 C  
+Tccd1:        +47.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+hidpp_battery_0-hid-3-d
+Adapter: HID adapter
+in0:           3.96 V  
+
+amdgpu-pci-1300
+Adapter: PCI adapter
+vddgfx:      975.00 mV 
+fan1:        1498 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +49.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +53.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +53.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:      14.00 W  (cap = 260.00 W)
+

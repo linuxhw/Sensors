@@ -1,0 +1,26 @@
+amdgpu-pci-6b00
+Adapter: PCI adapter
+vddgfx:        1.39 V  
+vddnb:         1.24 V  
+edge:         +38.0 C  
+PPT:          51.18 W  
+
+eno2-pci-0a00
+Adapter: PCI adapter
+PHY Temperature:  +47.0 C  
+MAC Temperature:  +47.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-6600
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+

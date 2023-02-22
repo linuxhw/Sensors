@@ -1,0 +1,64 @@
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +53.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +55.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +54.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          36.00 W  (cap = 230.00 W)
+
+nvme-pci-0d00
+Adapter: PCI adapter
+Composite:    +27.9 C  (low  = -20.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.41 V  
+CPU SOC Voltage:           1.08 V  
+DRAM Voltage:              1.35 V  
+VDDP Voltage:            545.00 mV 
+1.8V PLL Voltage:          1.81 V  
++12V Voltage:             12.04 V  
++5V Voltage:               5.01 V  
+3VSB Voltage:              3.36 V  
+VBAT Voltage:              3.18 V  
+AVCC3 Voltage:             3.36 V  
+SB 1.05V Voltage:          1.07 V  
+CPU Core Voltage:          1.44 V  
+CPU SOC Voltage:           1.09 V  
+DRAM Voltage:              1.35 V  
+CPU Fan:                    0 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+HAMP Fan:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                 1451 RPM
+Water Flow:                 0 RPM
+AIO Pump:                   0 RPM
+CPU Temperature:          +53.0 C  
+CPU Socket Temperature:   +30.0 C  
+Motherboard Temperature:  +28.0 C  
+Chipset Temperature:      +45.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:      +33.0 C  
+Water In:                +216.0 C  
+Water Out:               +216.0 C  
+CPU VRM Output Current:    6.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.8 C  
+Tccd1:        +37.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +38.9 C  (low  = -273.1 C, high = +65261.8 C)
+

@@ -1,0 +1,103 @@
+amdgpu-pci-4300
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3400 RPM)
+edge:         +46.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +46.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +46.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+power1:       11.00 W  (cap = 150.00 W)
+
+nvme-pci-2b00
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+Ecore000:    219.71 J
+Ecore001:    101.61 J
+Ecore002:    104.92 J
+Ecore003:     99.83 J
+Ecore004:    112.89 J
+Ecore005:    119.96 J
+Ecore006:    113.95 J
+Ecore007:    110.87 J
+Ecore008:    175.38 J
+Ecore009:    113.12 J
+Ecore010:    109.46 J
+Ecore011:    105.26 J
+Ecore012:    113.10 J
+Ecore013:     97.22 J
+Ecore014:     92.62 J
+Ecore015:    100.81 J
+Ecore016:     87.60 J
+Ecore017:     94.26 J
+Ecore018:     91.61 J
+Ecore019:     90.42 J
+Ecore020:    125.32 J
+Ecore021:    127.37 J
+Ecore022:    120.33 J
+Ecore023:    116.56 J
+Ecore024:    112.29 J
+Ecore025:    101.22 J
+Ecore026:     89.84 J
+Ecore027:     87.53 J
+Ecore028:     94.92 J
+Ecore029:     97.57 J
+Ecore030:     99.34 J
+Ecore031:     96.32 J
+Ecore032:     93.66 J
+Ecore033:     93.22 J
+Ecore034:     87.24 J
+Ecore035:    199.02 J
+Ecore036:     95.15 J
+Ecore037:     95.57 J
+Ecore038:     90.28 J
+Ecore039:     92.49 J
+Ecore040:    113.73 J
+Ecore041:    189.55 J
+Ecore042:    190.96 J
+Ecore043:    128.65 J
+Ecore044:    116.80 J
+Ecore045:    107.34 J
+Ecore046:     99.63 J
+Ecore047:    118.62 J
+Ecore048:     81.57 J
+Ecore049:     75.26 J
+Ecore050:     74.52 J
+Ecore051:     84.68 J
+Ecore052:     76.35 J
+Ecore053:     77.26 J
+Ecore054:     78.70 J
+Ecore055:     83.20 J
+Ecore056:     86.63 J
+Ecore057:     90.00 J
+Ecore058:     92.28 J
+Ecore059:     82.50 J
+Ecore060:    102.89 J
+Ecore061:    106.18 J
+Ecore062:     99.31 J
+Ecore063:    102.99 J
+Esocket0:     34.16 kJ
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.5 C  
+Tdie:         +66.5 C  
+Tccd1:        +46.5 C  
+Tccd2:        +46.5 C  
+Tccd3:        +47.2 C  
+Tccd4:        +46.0 C  
+Tccd5:        +47.0 C  
+Tccd6:        +49.2 C  
+Tccd7:        +44.2 C  
+Tccd8:        +44.5 C  
+
+nvme-pci-2a00
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

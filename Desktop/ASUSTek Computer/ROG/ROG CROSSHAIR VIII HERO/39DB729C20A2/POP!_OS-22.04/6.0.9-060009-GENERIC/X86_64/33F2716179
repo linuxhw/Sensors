@@ -1,0 +1,37 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +52.6 C  
+Tccd1:        +47.2 C  
+Tccd2:        +39.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.41 V  
+CPU_Opt:        0 RPM
+Chipset:     2326 RPM
+Water_Flow:     0 RPM
+Chipset:      +59.0 C  
+CPU:          +40.0 C  
+Motherboard:  +31.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +24.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:          23.00 A  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+

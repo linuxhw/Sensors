@@ -1,0 +1,35 @@
+enp56s0-pci-3800
+Adapter: PCI adapter
+PHY Temperature:  +47.0 C  
+MAC Temperature:  +47.0 C  
+
+nvme-pci-3f00
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +45.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.5 C  
+
+amdgpu-pci-4000
+Adapter: PCI adapter
+vddgfx:      899.00 mV 
+vddnb:       868.00 mV 
+edge:         +33.0 C  
+power1:      1000.00 uW 
+
+nvme-pci-3e00
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+

@@ -1,0 +1,37 @@
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.41 V  
+CPU_Opt:     1758 RPM
+Chipset:     2600 RPM
+Water_Flow:     0 RPM
+Chipset:      +60.0 C  
+CPU:          +67.0 C  
+Motherboard:  +39.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +45.0 C  
+Water_In:     -40.0 C  
+Water_Out:    -40.0 C  
+CPU:          53.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +77.9 C  
+Tccd1:        +73.8 C  
+Tccd2:        +64.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +54.9 C  (low  =  -0.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      806.00 mV 
+fan1:        1103 RPM  (min =  900 RPM, max = 4200 RPM)
+edge:         +41.0 C  (crit = +97.0 C, hyst = -273.1 C)
+PPT:           6.11 W  (cap =  35.00 W)
+
