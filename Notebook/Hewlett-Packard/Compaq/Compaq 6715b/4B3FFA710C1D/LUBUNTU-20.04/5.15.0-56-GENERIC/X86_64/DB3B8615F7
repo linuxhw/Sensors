@@ -1,0 +1,16 @@
+C1ED-acpi-0
+Adapter: ACPI interface
+in0:          12.37 V  
+curr1:         0.00 A  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +70.0 C  
+Core0 Temp:   +67.0 C  
+Core1 Temp:   +69.0 C  
+Core1 Temp:   +69.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +70.0 C  (crit = +105.0 C)
+
