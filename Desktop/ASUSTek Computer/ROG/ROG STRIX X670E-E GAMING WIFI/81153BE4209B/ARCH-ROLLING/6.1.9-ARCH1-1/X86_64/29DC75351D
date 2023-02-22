@@ -1,0 +1,36 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +31.0 C  
+
+amdgpu-pci-1400
+Adapter: PCI adapter
+vddgfx:        1.42 V  
+vddnb:         1.25 V  
+edge:         +34.0 C  
+PPT:          54.04 W  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.6 C  
+Tccd1:        +31.8 C  
+Tccd2:        +29.6 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      816.00 mV 
+fan1:         796 RPM  (min =    0 RPM, max = 2700 RPM)
+edge:         +34.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +44.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +70.0 C  (crit = +108.0 C, hyst = -273.1 C)
+                       (emerg = +113.0 C)
+PPT:          85.00 W  (cap = 339.00 W)
+

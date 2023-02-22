@@ -1,0 +1,50 @@
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.22 V  
+VPP MEM Voltage:           2.50 V  
++12V Voltage:             10.03 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.31 V  
+VBAT Voltage:              3.18 V  
+AVCC3 Voltage:             3.31 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Core Voltage:          0.00 V  
+CPU SOC Voltage:           0.00 V  
+CPU Fan:                 3571 RPM
+Chassis Fan 1:            867 RPM
+Chassis Fan 2:           1007 RPM
+Chassis Fan 3:            774 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +41.0 C  
+CPU Socket Temperature:   +30.0 C  
+Motherboard Temperature:  +36.0 C  
+Chipset Temperature:      +39.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:       +0.0 C  
+CPU VRM Output Current:    0.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +41.4 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +28.9 C  (low  = -273.1 C, high = +69.8 C)
+                       (crit = +72.8 C)
+Sensor 1:     +28.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:        1342 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +38.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +38.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:           +0.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          17.00 W  (cap = 125.00 W)
+

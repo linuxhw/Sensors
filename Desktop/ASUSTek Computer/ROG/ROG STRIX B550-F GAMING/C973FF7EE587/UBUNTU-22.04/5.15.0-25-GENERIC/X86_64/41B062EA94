@@ -1,0 +1,35 @@
+corsaircpro-hid-3-4
+Adapter: HID adapter
+in0:          12.04 V  
+in1:           4.95 V  
+in2:           3.34 V  
+fan1 4pin:   3100 RPM
+fan2 4pin:    801 RPM
+fan3 4pin:    798 RPM
+fan4 4pin:    803 RPM
+fan5 4pin:    803 RPM
+fan6 4pin:    800 RPM
+temp1:        +30.1 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +58.5 C  
+Tccd1:        +44.8 C  
+Tccd2:        +53.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+

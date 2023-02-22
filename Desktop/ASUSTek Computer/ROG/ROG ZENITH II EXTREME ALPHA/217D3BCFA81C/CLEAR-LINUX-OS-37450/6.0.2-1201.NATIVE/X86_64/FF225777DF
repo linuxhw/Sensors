@@ -1,0 +1,62 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +35.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +36.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:           7.00 W  (cap = 255.00 W)
+
+ucsi_source_psy_1_00081-i2c-1-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +63.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-4c00
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+
+d5next-hid-3-7
+Adapter: HID adapter
+Pump voltage:  11.95 V  
+Fan voltage:   12.01 V  
++5V voltage:    5.00 V  
++12V voltage:  12.01 V  
+Pump speed:   3414 RPM
+Fan speed:     335 RPM
+Coolant temp:  +30.4 C  
+Pump power:     7.45 W  
+Fan power:    560.00 mW 
+Pump current: 624.00 mA 
+Fan current:   47.00 mA 
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +54.9 C  
+Tccd1:        +33.5 C  
+Tccd2:        +35.2 C  
+Tccd3:        +39.0 C  
+Tccd4:        +34.5 C  
+Tccd5:        +36.5 C  
+Tccd6:        +35.2 C  
+Tccd7:        +35.0 C  
+Tccd8:        +35.2 C  
+
+nvme-pci-4300
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  = -273.1 C, high = +80.8 C)
+                       (crit = +80.8 C)
+Sensor 1:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +62.9 C  (low  = -273.1 C, high = +65261.8 C)
+

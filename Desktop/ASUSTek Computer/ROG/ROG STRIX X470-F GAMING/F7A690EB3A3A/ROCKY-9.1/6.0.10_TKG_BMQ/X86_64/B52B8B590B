@@ -1,0 +1,32 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:        872.00 mV 
++12V Voltage:             11.97 V  
++5V Voltage:               4.99 V  
+3VSB Voltage:              3.27 V  
+CPU Fan:                  471 RPM
+Chassis Fan 1:            949 RPM
+Chassis Fan 2:            925 RPM
+Chassis Fan 3:            936 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +50.0 C  
+Motherboard Temperature:  +37.0 C  
+Chipset Temperature:      +50.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +50.8 C  
+Tccd1:        +42.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +34.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+

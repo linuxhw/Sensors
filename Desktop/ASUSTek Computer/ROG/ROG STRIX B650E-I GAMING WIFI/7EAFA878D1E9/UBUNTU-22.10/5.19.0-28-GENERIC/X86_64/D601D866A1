@@ -1,0 +1,22 @@
+amdgpu-pci-0d00
+Adapter: PCI adapter
+vddgfx:        1.11 V  
+vddnb:         1.25 V  
+edge:         +40.0 C  
+PPT:          36.13 W  
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  =  -0.1 C, high = +84.8 C)
+                       (crit = +94.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 8:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +26.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +26.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +25.9 C  (low  = -273.1 C, high = +65261.8 C)
+

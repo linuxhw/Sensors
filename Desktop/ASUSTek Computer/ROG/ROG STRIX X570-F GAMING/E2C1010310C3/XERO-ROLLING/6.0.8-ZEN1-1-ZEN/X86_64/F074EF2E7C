@@ -1,0 +1,43 @@
+corsaircpro-hid-3-6
+Adapter: HID adapter
+in0:          11.84 V  
+in1:           4.90 V  
+in2:           3.54 V  
+fan1 4pin:   1418 RPM
+fan2 4pin:   1406 RPM
+fan3 4pin:   1411 RPM
+fan4 4pin:   1399 RPM
+fan5 4pin:   1473 RPM
+
+asusec-isa-0000
+Adapter: ISA adapter
+Chipset:     1616 RPM
+Chipset:      +59.0 C  
+CPU:          +65.0 C  
+Motherboard:  +37.0 C  
+T_Sensor:     -40.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +66.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +43.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +57.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +56.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          39.00 W  (cap = 255.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +79.1 C  
+Tccd1:        +55.2 C  
+

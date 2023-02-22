@@ -1,0 +1,50 @@
+amdgpu-pci-0b00
+Adapter: PCI adapter
+vddgfx:        6.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3000 RPM)
+edge:         +48.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +54.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +48.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:       9.00 W  (cap = 203.00 W)
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.44 V  
++12V Voltage:             12.03 V  
++5V Voltage:               4.96 V  
+3VSB Voltage:              3.29 V  
+CPU Fan:                 1088 RPM
+Chassis Fan 1:              0 RPM
+Chassis Fan 2:              0 RPM
+Chassis Fan 3:              0 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +56.0 C  
+Motherboard Temperature:  +44.0 C  
+Chipset Temperature:      +62.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +56.5 C  
+Tccd1:        +45.0 C  
+
+nvme-pci-0800
+Adapter: PCI adapter
+Composite:    +54.9 C  (low  =  -0.1 C, high = +71.8 C)
+                       (crit = +89.8 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+

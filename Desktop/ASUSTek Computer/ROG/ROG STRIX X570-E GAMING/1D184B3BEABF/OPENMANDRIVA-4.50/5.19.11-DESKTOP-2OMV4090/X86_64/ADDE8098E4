@@ -1,0 +1,34 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +28.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +35.9 C  
+Tccd1:        +42.8 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -40.1 C, high = +79.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.27 V  
+Chipset:      307 RPM
+Chipset:      +56.0 C  
+CPU:          +29.0 C  
+Motherboard:  +27.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +20.0 C  
+CPU:          19.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+

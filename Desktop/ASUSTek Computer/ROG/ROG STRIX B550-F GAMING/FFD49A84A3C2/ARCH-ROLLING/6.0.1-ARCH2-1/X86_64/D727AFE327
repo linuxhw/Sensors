@@ -1,0 +1,52 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+CPUVCORE:      1.22 V  (min =  +0.00 V, max =  +3.49 V)
++5V:           4.98 V  (min =  +4.50 V, max =  +5.50 V)
+AVSB:          3.38 V  (min =  +2.98 V, max =  +3.63 V)
+3VCC:          3.31 V  (min =  +2.98 V, max =  +3.63 V)
++12V:         12.10 V  (min = +10.85 V, max = +13.25 V)
+VIN8:        944.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN4:        232.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+3VSB:          3.38 V  (min =  +2.98 V, max =  +3.63 V)
+VBAT:          3.26 V  (min =  +2.70 V, max =  +3.63 V)
+VTT:           1.81 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN5:        336.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN6:          1.02 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN2:          1.03 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN3:        320.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+VIN7:        240.00 mV (min =  +0.00 V, max =  +0.00 V)  ALARM
+CHA_FAN1:     490 RPM  (min =    0 RPM)
+CPU_FAN:      559 RPM  (min =    0 RPM)
+CHA_FAN2:     417 RPM  (min =    0 RPM)
+CHA_FAN3:     497 RPM  (min =    0 RPM)
+CPU_OPT:      675 RPM  (min =    0 RPM)
+Motherboard:  +29.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+CPUTIN:       +35.0 C  (high = +80.0 C, hyst = +75.0 C)  sensor = thermistor
+AUXTIN0:      +90.5 C    sensor = thermistor
+AUXTIN1:      +44.0 C    sensor = thermistor
+AUXTIN3:      +81.0 C    sensor = thermistor
+CPU temp:     +38.5 C  
+TSI0_TEMP:    +50.8 C  
+beep_enable: disabled
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +39.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.29 V  
+SVI2_SoC:      1.09 V  
+Tdie:         +50.6 C  (high = +95.0 C)
+Tctl:         +50.6 C  
+Tccd1:        +52.0 C  
+SVI2_P_Core:  18.76 W  
+SVI2_P_SoC:    9.61 W  
+SVI2_C_Core:  14.49 A  
+SVI2_C_SoC:    8.83 A  
+

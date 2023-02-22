@@ -1,0 +1,47 @@
+corsairpsu-hid-3-2
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.03 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.01 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.33 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +33.0 C  (crit = +70.0 C)
+case temp:    +25.2 C  (crit = +70.0 C)
+power total: 110.00 W  
+power +12v:   66.00 W  
+power +5v:    32.00 W  
+power +3.3v:  12.00 W  
+curr +12v:     5.00 A  (crit max = +75.00 A)
+curr +5v:      6.50 A  (crit max = +40.00 A)
+curr +3.3v:    3.56 A  (crit max = +40.00 A)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nouveau-pci-0a00
+Adapter: PCI adapter
+fan1:         705 RPM
+temp1:        +23.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.44 V  
+Chipset:        0 RPM
+Chipset:      +52.0 C  
+CPU:          +27.0 C  
+Motherboard:  +23.0 C  
+T_Sensor:     +18.0 C  
+VRM:          +20.0 C  
+CPU:          25.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.6 C  
+Tccd1:        +30.2 C  
+

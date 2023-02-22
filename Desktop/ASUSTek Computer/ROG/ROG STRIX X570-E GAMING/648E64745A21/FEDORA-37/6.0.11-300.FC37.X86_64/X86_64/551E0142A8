@@ -1,0 +1,43 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+nouveau-pci-0900
+Adapter: PCI adapter
+fan1:        1150 RPM
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +46.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+ucsi_source_psy_21_00081-i2c-21-08
+Adapter: NVIDIA GPU I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.06 V  
+Chipset:     3816 RPM
+Chipset:      +75.0 C  
+CPU:          +39.0 C  
+Motherboard:  +43.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +20.0 C  
+CPU:          13.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.0 C  
+Tccd1:        +40.5 C  
+Tccd2:        +40.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+

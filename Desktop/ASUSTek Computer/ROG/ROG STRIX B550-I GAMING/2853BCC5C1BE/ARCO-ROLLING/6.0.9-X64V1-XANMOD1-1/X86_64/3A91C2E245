@@ -1,0 +1,49 @@
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      887.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +57.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+junction:     +59.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +58.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          26.00 W  (cap = 211.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +59.6 C  
+Tccd1:        +60.5 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 2:     +47.9 C  (low  = -40.1 C, high = +83.8 C)
+
+hidpp_battery_0-hid-3-9
+Adapter: HID adapter
+in0:           4.18 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +53.0 C  
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      0.00 V  
+VRM HS:         0 RPM
+Chipset:      +69.0 C  
+CPU:          +49.0 C  
+Motherboard:  +43.0 C  
+T_Sensor:     -40.0 C  
+VRM:           +0.0 C  
+CPU:           4.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +83.8 C  (low  = -273.1 C, high = +81.8 C)  ALARM
+                       (crit = +84.8 C)
+Sensor 1:     +83.8 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +60.9 C  (low  = -273.1 C, high = +65261.8 C)
+

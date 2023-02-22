@@ -1,0 +1,45 @@
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +53.0 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +64.4 C  
+Tdie:         +37.4 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+nvme-pci-0c00
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+amdgpu-pci-0e00
+Adapter: PCI adapter
+vddgfx:        1.06 V  
+fan1:         188 RPM  (min =    0 RPM, max = 4500 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      29.00 W  (cap = 120.00 W)
+
+enp67s0-pci-4300
+Adapter: PCI adapter
+MAC Temperature:  +52.8 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.6 C  
+Tdie:         +38.6 C  
+Tccd1:        +60.2 C  
+
+nvme-pci-4200
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +83.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+

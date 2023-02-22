@@ -1,0 +1,50 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.2 C  
+
+nvme-pci-0a00
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +56.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 4:     +37.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 5:     +37.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +40.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:          1.27 V  
+VPP MEM Voltage:           2.54 V  
++12V Voltage:             10.19 V  
++5V Voltage:               5.10 V  
+3VSB Voltage:              3.36 V  
+VBAT Voltage:              3.33 V  
+AVCC3 Voltage:             3.38 V  
+SB 1.05V Voltage:          1.04 V  
+CPU Core Voltage:          0.00 V  
+CPU SOC Voltage:           0.00 V  
+CPU Fan:                 1153 RPM
+Chassis Fan 1:            940 RPM
+Chassis Fan 2:            958 RPM
+Chassis Fan 3:            992 RPM
+AIO Pump:                   0 RPM
+Water Pump:                 0 RPM
+CPU OPT:                    0 RPM
+CPU Temperature:          +48.0 C  
+CPU Socket Temperature:   +30.0 C  
+Motherboard Temperature:  +36.0 C  
+Chipset Temperature:      +41.0 C  
+Tsensor 1 Temperature:   +216.0 C  
+CPU VRM Temperature:       +0.0 C  
+CPU VRM Output Current:    0.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

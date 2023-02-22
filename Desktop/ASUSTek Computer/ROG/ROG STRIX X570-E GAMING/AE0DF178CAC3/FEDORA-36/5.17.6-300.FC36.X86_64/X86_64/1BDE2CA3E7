@@ -1,0 +1,37 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +76.8 C)
+                       (crit = +79.8 C)
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+Chipset:     2522 RPM
+Chipset:      +60.0 C  
+CPU:          +51.0 C  
+Motherboard:  +42.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +20.0 C  
+CPU:          42.00 A  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.2 C  
+Tccd1:        +57.8 C  
+Tccd2:        +57.8 C  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      787.00 mV 
+fan1:        1310 RPM  (min =  400 RPM, max = 3300 RPM)
+edge:         +38.0 C  (crit = +85.0 C, hyst = -273.1 C)
+                       (emerg = +90.0 C)
+junction:     +39.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+mem:          +41.0 C  (crit = +95.0 C, hyst = -273.1 C)
+                       (emerg = +100.0 C)
+slowPPT:       6.00 W  (cap = 180.00 W)
+

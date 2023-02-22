@@ -1,0 +1,18 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+
+radeon-pci-6500
+Adapter: PCI adapter
+temp1:        +50.0*C  (crit = +120.0*C, hyst = +90.0*C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +42.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 0:        +36.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 1:        +36.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 2:        +36.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 3:        +36.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 4:        +41.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 5:        +37.0*C  (high = +95.0*C, crit = +105.0*C)
+

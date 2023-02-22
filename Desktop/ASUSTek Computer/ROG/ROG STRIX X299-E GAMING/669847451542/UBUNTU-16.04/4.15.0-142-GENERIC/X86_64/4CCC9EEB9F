@@ -1,0 +1,21 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +38.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 0:        +33.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 1:        +38.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 2:        +32.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 3:        +32.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 4:        +31.0*C  (high = +95.0*C, crit = +105.0*C)
+Core 5:        +33.0*C  (high = +95.0*C, crit = +105.0*C)
+
+nouveau-pci-6500
+Adapter: PCI adapter
+GPU core:    912.00 mV (min =  +0.80 V, max =  +1.19 V)
+temp1:        +51.0*C  (high = +95.0*C, hyst =  +3.0*C)
+                       (crit = +105.0*C, hyst =  +5.0*C)
+                       (emerg = +135.0*C, hyst =  +5.0*C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:        0 RPM
+

@@ -1,0 +1,46 @@
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +31.0 C  
+
+drivetemp-scsi-1-0
+Adapter: SCSI adapter
+temp1:        +26.0 C  (low  =  -5.0 C, high = +80.0 C)
+                       (crit low = -10.0 C, crit = +85.0 C)
+                       (lowest = +20.0 C, highest = +26.0 C)
+
+amdgpu-pci-0800
+Adapter: PCI adapter
+vddgfx:      843.00 mV 
+fan1:         789 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +34.0 C  (crit = +94.0 C, hyst = -273.1 C)
+power1:       32.20 W  (cap = 138.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.5 C  
+Tdie:         +38.5 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +30.9 C  (low  = -40.1 C, high = +83.8 C)
+                       (crit = +87.8 C)
+Sensor 1:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +22.0 C  (low  =  +0.0 C, high = +60.0 C)
+                       (crit low = -41.0 C, crit = +85.0 C)
+                       (lowest = +18.0 C, highest = +22.0 C)
+
+drivetemp-scsi-0-0
+Adapter: SCSI adapter
+temp1:        +24.0 C  
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+

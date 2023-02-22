@@ -1,0 +1,44 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.28 V  
+VRM HS:      1372 RPM
+Chipset:     3720 RPM
+T_Sensor:     -40.0 C  
+CPU:          17.00 A  
+
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      768.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +41.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +45.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          31.00 W  (cap = 203.00 W)
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+ucsi_source_psy_0_00081-i2c-0-08
+Adapter: Synopsys DesignWare I2C adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +53.5 C  
+Tccd1:        +36.5 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +51.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

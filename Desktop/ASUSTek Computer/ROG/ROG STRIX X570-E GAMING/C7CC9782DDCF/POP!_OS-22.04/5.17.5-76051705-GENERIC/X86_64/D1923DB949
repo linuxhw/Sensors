@@ -1,0 +1,25 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +48.8 C  
+Tccd1:        +42.5 C  
+Tccd2:        +40.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+Chipset:     2859 RPM
+Chipset:      +67.0 C  
+CPU:          +40.0 C  
+Motherboard:  +38.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +20.0 C  
+CPU:          14.00 A  
+

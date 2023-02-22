@@ -1,0 +1,36 @@
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.32 V  
+Chipset:     2033 RPM
+Chipset:      +59.0 C  
+CPU:          +40.0 C  
+Motherboard:  +40.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +20.0 C  
+CPU:          33.00 A  
+
+enp10s0-pci-0a00
+Adapter: PCI adapter
+PHY Temperature:  +53.9 C  
+MAC Temperature:  +55.1 C  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +51.8 C  
+Tccd1:        +36.8 C  
+Tccd2:        +51.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+

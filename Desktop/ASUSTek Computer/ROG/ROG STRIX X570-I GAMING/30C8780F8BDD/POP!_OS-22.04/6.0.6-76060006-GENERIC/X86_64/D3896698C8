@@ -1,0 +1,28 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +66.1 C  
+Tdie:         +56.1 C  
+
+hidpp_battery_0-hid-3-7
+Adapter: HID adapter
+in0:           4.20 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+
+asusec-isa-0000
+Adapter: ISA adapter
+CPU Core:      1.37 V  
+VRM HS:      1414 RPM
+Chipset:     4880 RPM
+Chipset:      +68.0 C  
+T_Sensor:     -40.0 C  
+VRM:          +53.0 C  
+CPU:          40.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +45.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

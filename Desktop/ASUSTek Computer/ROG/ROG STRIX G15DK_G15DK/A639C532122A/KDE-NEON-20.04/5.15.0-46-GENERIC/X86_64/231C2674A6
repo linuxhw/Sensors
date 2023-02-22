@@ -1,0 +1,15 @@
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     1100 RPM
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  =  -0.1 C, high = +86.8 C)
+                       (crit = +89.8 C)
+Sensor 1:     +55.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +61.4 C  
+Tccd1:        +53.8 C  
+

@@ -1,0 +1,40 @@
+amdgpu-pci-0c00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3500 RPM)
+edge:         +59.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +59.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +62.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+slowPPT:      20.00 W  (cap = 145.00 W)
+
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+Chipset:     3350 RPM
+Chipset:      +74.0 C  
+CPU:          +45.0 C  
+Motherboard:  +49.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +20.0 C  
+CPU:          18.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +55.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:   944.00 mV 
+SVI2_SoC:    1000.00 mV 
+Tdie:         +56.6 C  (high = +95.0 C)
+Tctl:         +56.6 C  
+Tccd1:        +47.5 C  
+Tccd2:        +43.5 C  
+SVI2_P_Core:  16.17 W  
+SVI2_P_SoC:    5.30 W  
+SVI2_C_Core:  17.13 A  
+SVI2_C_SoC:    5.30 A  
+

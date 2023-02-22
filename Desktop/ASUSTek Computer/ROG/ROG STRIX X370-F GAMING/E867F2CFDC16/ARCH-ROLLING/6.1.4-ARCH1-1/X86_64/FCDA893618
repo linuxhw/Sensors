@@ -1,0 +1,59 @@
+hidpp_battery_0-hid-3-6
+Adapter: HID adapter
+in0:           4.01 V  
+
+it8665-isa-0290
+Adapter: ISA adapter
+in0:         632.00 mV (min =  +0.76 V, max =  +2.44 V)
+in1:           2.51 V  (min =  +1.20 V, max =  +2.68 V)
+in2:           2.02 V  (min =  +2.63 V, max =  +2.03 V)
+in3:           2.01 V  (min =  +0.29 V, max =  +0.21 V)
+in4:         545.00 mV (min =  +1.31 V, max =  +1.02 V)
+in5:         458.00 mV (min =  +0.83 V, max =  +1.09 V)
+in6:         905.00 mV (min =  +2.37 V, max =  +2.05 V)
+3VSB:          3.29 V  (min =  +3.38 V, max =  +3.73 V)
+Vbat:          3.21 V  
++3.3V:         3.31 V  
+FAN_CPU:      506 RPM  (min =   48 RPM)
+FAN_BAT:      611 RPM  (min =   13 RPM)
+FAN_FRT:      590 RPM  (min =   65 RPM)
+FAN_BAB:     1436 RPM  (min =   -1 RPM)
+FAN_BOT:      614 RPM  (min =   -1 RPM)
+W_PUMP:         0 RPM  (min =   -1 RPM)
+T_MB1:        +28.0 C  (low  = +14.0 C, high = -29.0 C)
+T_MB2:        +33.0 C  (low  = +70.0 C, high = +84.0 C)  sensor = thermistor
+T_MB3:        +31.0 C  (low  = -59.0 C, high = -41.0 C)  sensor = thermistor
+temp4:        +31.0 C  (low  = +57.0 C, high = +32.0 C)  sensor = thermistor
+temp5:        +31.0 C  (low  = +26.0 C, high = +87.0 C)  sensor = thermistor
+temp6:        +31.0 C  (low  = +16.0 C, high =  -4.0 C)  sensor = thermistor
+intrusion0:  ALARM
+
+amdgpu-pci-0a00
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+FAN_GPU:      832 RPM  (min =    0 RPM, max = 4100 RPM)
+T_GPU:        +36.0 C  (crit = +91.0 C, hyst = -273.1 C)
+P_GPU:         7.08 W  (cap = 180.00 W)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.24 V  
+SVI2_SoC:      1.05 V  
+Tdie:         +28.8 C  (high = +95.0 C)
+Tctl:         +48.8 C  
+SVI2_P_Core:  11.58 W  
+SVI2_P_SoC:   10.23 W  
+SVI2_C_Core:   9.35 A  
+SVI2_C_SoC:    9.74 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+NVMe_comp:    +34.9 C  (low  = -273.1 C, high = +76.8 C)
+                       (crit = +78.8 C)
+NVMe1:        +34.9 C  (low  = -273.1 C, high = +65261.8 C)
+NVMe2:        +48.9 C  (low  = -273.1 C, high = +65261.8 C)
+

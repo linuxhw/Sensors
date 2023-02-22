@@ -1,0 +1,36 @@
+amdgpu-pci-1400
+Adapter: PCI adapter
+vddgfx:        1.35 V  
+vddnb:         1.25 V  
+edge:         +32.0 C  
+PPT:          48.04 W  
+
+nvme-pci-0400
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +29.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +38.4 C  
+Tccd1:        +28.6 C  
+Tccd2:        +27.4 C  
+
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:      525.00 mV 
+fan1:         729 RPM  (min =    0 RPM, max = 2700 RPM)
+edge:         +32.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +41.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +73.0 C  (crit = +108.0 C, hyst = -273.1 C)
+                       (emerg = +113.0 C)
+PPT:          81.00 W  (cap = 339.00 W)
+

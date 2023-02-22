@@ -1,0 +1,102 @@
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:        +66.0 C  
+
+asus_wmi_sensors-virtual-0
+Adapter: Virtual device
+CPU Core Voltage:               1.09 V  
+CPU SOC Voltage:                1.13 V  
+DRAM AB Voltage:                1.22 V  
+DRAM CD Voltage:                1.22 V  
+1.8V PLL Voltage:               1.83 V  
++12V Voltage:                  12.10 V  
++5V Voltage:                    5.01 V  
+3VSB Voltage:                   3.33 V  
+VBAT Voltage:                   3.18 V  
+AVCC3 Voltage:                  3.33 V  
+SB 1.05V Voltage:               1.05 V  
+CPU Core Voltage:               1.02 V  
+CPU SOC Voltage:                1.04 V  
+DRAM AB Voltage:                1.21 V  
+DRAM CD Voltage:                1.20 V  
+CPU Fan:                      1328 RPM
+Chassis Fan 1:                   0 RPM
+Chassis Fan 2:                   0 RPM
+HAMP Fan:                        0 RPM
+Water Pump 1:                    0 RPM
+CPU OPT:                         0 RPM
+Water Flow:                      0 RPM
+Waterblock Flow:                 0 RPM
+EXT Fan 1:                       0 RPM
+EXT Fan 2:                       0 RPM
+EXT Fan 3:                       0 RPM
+Cover Fan:                       0 RPM
+CPU Temperature:               +50.0 C  
+CPU Socket Temperature:        +49.0 C  
+Motherboard Temperature:       +39.0 C  
+Chipset Temperature:           +60.0 C  
+Tsensor 1 Temperature:        +216.0 C  
+CPU VRM Temperature:           +54.0 C  
+Water In:                     +216.0 C  
+Water Out:                    +216.0 C  
+Waterblock In:                +216.0 C  
+Waterblock Out:               +216.0 C  
+EXT Tsensor 1:                  +0.0 C  
+EXT Tsensor 2:                  +0.0 C  
+EXT Tsensor 3:                  +0.0 C  
+Tsensor 2 Temperature:        +216.0 C  
+DIMM.2 Tsensor 1 Temperature: +216.0 C  
+DIMM.2 Tsensor 2 Temperature: +216.0 C  
+CPU VRM Output Current:        44.00 A  
+
+k10temp-pci-00d3
+Adapter: PCI adapter
+Tctl:         +77.5 C  
+Tdie:         +50.5 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +77.5 C  
+Tdie:         +50.5 C  
+Tccd1:        +76.8 C  
+Tccd2:        +77.2 C  
+Tccd3:        +75.8 C  
+
+nvme-pci-4200
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +35.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +48.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +35.9 C  (low  =  +0.0 C, high =  +0.0 C)
+
+amdgpu-pci-4500
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +52.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +53.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +54.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          25.00 W  (cap = 289.00 W)
+
+k10temp-pci-00db
+Adapter: PCI adapter
+Tctl:         +75.9 C  
+Tdie:         +48.9 C  
+
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +75.8 C  
+Tdie:         +48.8 C  
+
+nvme-pci-4100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  =  -0.1 C, high = +74.8 C)
+                       (crit = +79.8 C)
+Sensor 2:     +36.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 3:     +49.9 C  (low  =  +0.0 C, high =  +0.0 C)
+Sensor 6:     +36.9 C  (low  =  +0.0 C, high =  +0.0 C)
+

@@ -1,0 +1,14 @@
+nvme-pci-6300
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  =  -0.1 C, high = +85.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +51.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amdgpu-pci-6700
+Adapter: PCI adapter
+vddgfx:        1.45 V  
+vddnb:         1.02 V  
+edge:         +40.0 C  
+PPT:          46.07 W  
+

@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +65.5 C  
+Tccd1:        +63.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +53.9 C  (low  =  -0.1 C, high = +81.8 C)
+                       (crit = +85.8 C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:      800 RPM
+
+nouveau-pci-0900
+Adapter: PCI adapter
+fan1:        1015 RPM
+temp1:        +36.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

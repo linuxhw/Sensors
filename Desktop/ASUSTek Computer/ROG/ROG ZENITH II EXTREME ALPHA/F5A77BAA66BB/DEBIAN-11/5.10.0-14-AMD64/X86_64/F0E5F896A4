@@ -1,0 +1,56 @@
+enp68s0-pci-4400
+Adapter: PCI adapter
+PHY Temperature:  +50.0 C  
+MAC Temperature:  +51.0 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +41.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +41.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+amd_energy-isa-0000
+Adapter: ISA adapter
+energy1:          N/A
+energy2:          N/A
+energy3:          N/A
+energy4:          N/A
+energy5:          N/A
+energy6:          N/A
+energy7:          N/A
+energy8:          N/A
+energy9:          N/A
+energy10:         N/A
+energy11:         N/A
+energy12:         N/A
+energy13:         N/A
+energy14:         N/A
+energy15:         N/A
+energy16:         N/A
+energy17:         N/A
+energy18:         N/A
+energy19:         N/A
+energy20:         N/A
+energy21:         N/A
+energy22:         N/A
+energy23:         N/A
+energy24:         N/A
+energy25:         N/A
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +63.9 C  
+Tdie:         +63.9 C  
+Tccd1:        +40.5 C  
+Tccd3:        +41.2 C  
+Tccd5:        +41.8 C  
+Tccd7:        +45.8 C  
+
+nvme-pci-4c00
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +36.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+

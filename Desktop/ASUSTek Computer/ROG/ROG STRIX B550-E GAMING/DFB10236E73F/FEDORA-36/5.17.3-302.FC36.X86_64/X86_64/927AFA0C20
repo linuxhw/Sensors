@@ -1,0 +1,24 @@
+asus_wmi_ec_sensors-virtual-0
+Adapter: Virtual device
+CPU_Opt:        0 RPM
+Chipset:      +39.0 C  
+CPU:          +30.0 C  
+Motherboard:  +22.0 C  
+T_Sensor:    +216.0 C  
+VRM:          +36.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +40.2 C  
+Tccd2:        +29.8 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -20.1 C, high = +83.8 C)
+                       (crit = +88.8 C)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +89.8 C)
+

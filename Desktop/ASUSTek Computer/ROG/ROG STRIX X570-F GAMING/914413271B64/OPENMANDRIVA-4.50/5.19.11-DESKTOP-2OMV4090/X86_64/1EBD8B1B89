@@ -1,0 +1,26 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      775.00 mV 
+fan1:           0 RPM  (min =    0 RPM, max = 3300 RPM)
+edge:         +45.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +47.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +50.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+PPT:          33.00 W  (cap = 281.00 W)
+
+asusec-isa-0000
+Adapter: ISA adapter
+Chipset:     2166 RPM
+Chipset:      +59.0 C  
+CPU:          +30.0 C  
+Motherboard:  +31.0 C  
+T_Sensor:     -40.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +32.8 C  
+Tccd1:        +28.5 C  
+Tccd2:        +28.8 C  
+
