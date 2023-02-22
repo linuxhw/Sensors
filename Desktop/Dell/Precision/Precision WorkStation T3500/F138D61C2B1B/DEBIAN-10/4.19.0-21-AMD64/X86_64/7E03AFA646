@@ -1,0 +1,51 @@
+jc42-i2c-0-1d
+Adapter: SMBus I801 adapter at ece0
+temp1:        +36.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at ece0
+temp1:        +37.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at ece0
+temp1:        +38.5 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +51.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 1:       +52.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 2:       +47.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 8:       +50.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 9:       +49.0 C  (high = +81.0 C, crit = +101.0 C)
+Core 10:      +43.0 C  (high = +81.0 C, crit = +101.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:    793 RPM
+Motherboard Fan:  794 RPM
+Ambient:          +34.0 C  
+
+jc42-i2c-0-1c
+Adapter: SMBus I801 adapter at ece0
+temp1:        +37.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at ece0
+temp1:        +36.8 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at ece0
+temp1:        +37.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+

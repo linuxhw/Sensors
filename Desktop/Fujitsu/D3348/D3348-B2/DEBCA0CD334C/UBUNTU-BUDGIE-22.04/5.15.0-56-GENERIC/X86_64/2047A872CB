@@ -1,0 +1,32 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:      1.06 V  (min =  +0.82 V, max =  +1.21 V)
+fan1:        1140 RPM
+temp1:        +31.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +41.9 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 0:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 1:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 2:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 3:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 4:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 5:        +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 6:        +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 7:        +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 8:        +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 9:        +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 10:       +26.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 11:       +24.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 12:       +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 13:       +25.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 14:       +24.0 C  (high = +83.0 C, crit = +93.0 C)
+Core 15:       +25.0 C  (high = +83.0 C, crit = +93.0 C)
+

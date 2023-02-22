@@ -1,0 +1,67 @@
+ftsteutates-i2c-0-73
+Adapter: SMBus I801 adapter at f040
+VCC 3.3V:      3.40 V  
+3.3V AUX:      3.32 V  
+V_IN (12V):   11.81 V  
+VBAT 3.0V:     3.21 V  
+CPU:         1080 RPM
+SYS:            0 RPM
+OEM:            0 RPM
+PSU:            0 RPM
+n.a.:           0 RPM
+n.a.:           0 RPM
+n.a.:           0 RPM
+n.a.:           0 RPM
+PECI:         +29.0 C  
+Graphics:     +26.0 C  
+Ambient:      +26.0 C  
+Core:         +31.0 C  
+Memory:       +29.0 C  
+PCH:          +35.0 C  
+Teutates:       FAULT  
+Temp8:          FAULT  
+Temp9:          FAULT  
+Temp10:         FAULT  
+Temp11:         FAULT  
+Temp12:         FAULT  
+Temp13:         FAULT  
+Temp14:         FAULT  
+Temp15:         FAULT  
+Temp16:         FAULT  
+
+jc42-i2c-0-1a
+Adapter: SMBus I801 adapter at f040
+temp1:        +31.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-18
+Adapter: SMBus I801 adapter at f040
+temp1:        +29.0 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +29.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +24.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +24.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +24.0 C  (high = +80.0 C, crit = +100.0 C)
+
+jc42-i2c-0-1b
+Adapter: SMBus I801 adapter at f040
+temp1:        +31.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+jc42-i2c-0-19
+Adapter: SMBus I801 adapter at f040
+temp1:        +30.2 C  (low  =  +0.0 C)                  ALARM (HIGH, CRIT)
+                       (high =  +0.0 C, hyst =  +0.0 C)
+                       (crit =  +0.0 C, hyst =  +0.0 C)
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +35.5 C  
+

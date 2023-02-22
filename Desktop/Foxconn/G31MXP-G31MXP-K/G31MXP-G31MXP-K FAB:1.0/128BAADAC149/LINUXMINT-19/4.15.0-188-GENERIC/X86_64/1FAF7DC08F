@@ -1,0 +1,17 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +38.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 1:       +34.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 2:       +31.0 C  (high = +74.0 C, crit = +100.0 C)
+Core 3:       +36.0 C  (high = +74.0 C, crit = +100.0 C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0 C  (crit = +125.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +70.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +85.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

@@ -1,0 +1,27 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +54.0 C  (high = +78.0 C, crit = +100.0 C)
+Core 1:       +54.0 C  (high = +78.0 C, crit = +100.0 C)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+temp1:        +56.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +130.0 C, hyst =  +2.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+fschds-i2c-0-73
+Adapter: SMBus I801 adapter at 18e0
+in0:          12.11 V  
+in1:           4.94 V  
+in2:           3.04 V  
+fan1:        1140 RPM  (div = 4)
+fan2:           FAULT  (div = 4)
+fan3:         540 RPM  (div = 4)
+fan4:           FAULT  (div = 4)
+fan5:           FAULT  (div = 4)
+temp1:        +42.0 C  (high = +70.0 C)
+temp2:        +33.0 C  (high = +65.0 C)
+temp3:        +31.0 C  (high = +57.0 C)
+temp4:        +41.0 C  (high = +70.0 C)
+temp5:        +31.0 C  (high = +62.0 C)
+

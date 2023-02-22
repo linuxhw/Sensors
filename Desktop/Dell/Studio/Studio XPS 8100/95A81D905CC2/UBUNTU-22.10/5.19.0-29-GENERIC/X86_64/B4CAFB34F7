@@ -1,0 +1,30 @@
+adt7473-i2c-4-2e
+Adapter: nvkm-0000:01:00.0-bus-0003
+in1:           3.00 V  (min =  +0.00 V, max =  +2.99 V)
++3.3V:         3.28 V  (min =  +2.96 V, max =  +3.63 V)
+fan1:         706 RPM  (min =    0 RPM)
+fan2:           0 RPM  (min =    0 RPM)
+fan3:           0 RPM  (min =  164 RPM)  ALARM
+temp1:        +41.8 C  (low  = +65.0 C, high = +85.0 C)  ALARM
+                       (crit = +97.0 C, hyst = +97.0 C)
+Board Temp:   +41.5 C  (low  = +20.0 C, high = +60.0 C)
+                       (crit = +100.0 C, hyst = +100.0 C)
+temp3:        +41.5 C  (low  = +80.0 C, high = +105.0 C)  ALARM
+                       (crit = +107.0 C, hyst = +103.0 C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:         898 RPM  (min =    0 RPM, max = 4550 RPM)
+fan2:         940 RPM  (min =    0 RPM, max = 2255 RPM)
+
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:      1.02 V  (min =  +1.00 V, max =  +1.08 V)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +63.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +61.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +66.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +62.0 C  (high = +83.0 C, crit = +99.0 C)
+

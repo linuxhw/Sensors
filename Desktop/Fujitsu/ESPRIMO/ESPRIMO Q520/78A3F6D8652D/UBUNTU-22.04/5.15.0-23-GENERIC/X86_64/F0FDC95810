@@ -1,0 +1,29 @@
+theseus-isa-0000
+Adapter: ISA adapter
+3.3V:          3.38 V  
+VREF:          1.07 V  
+VBAT:          2.12 V  
+3.3AUX:        3.38 V  
+12V:           0.00 V  
+fan1:        1480 RPM
+temp2:        +52.0 C  
+temp3:        +52.0 C  
+temp4:        +75.0 C  
+temp5:        +64.0 C  
+temp6:        +59.0 C  
+temp8:        +66.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +95.0 C)
+temp2:        +29.8 C  (crit = +95.0 C)
+
+pch_haswell-virtual-0
+Adapter: Virtual device
+temp1:        +75.5 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +69.0 C  (high = +84.0 C, crit = +90.0 C)
+Core 0:        +69.0 C  (high = +84.0 C, crit = +90.0 C)
+

@@ -1,0 +1,48 @@
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +54.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 8:        +47.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 10:       +48.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 11:       +47.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 12:       +48.0 C  (high = +92.0 C, crit = +102.0 C)
+
+amdgpu-pci-0500
+Adapter: PCI adapter
+vddgfx:      725.00 mV 
+fan1:        1195 RPM  (min =    0 RPM, max = 4950 RPM)
+edge:         +53.0 C  (crit = +100.0 C, hyst = -273.1 C)
+                       (emerg = +105.0 C)
+junction:     +53.0 C  (crit = +110.0 C, hyst = -273.1 C)
+                       (emerg = +115.0 C)
+mem:          +60.0 C  (crit = +105.0 C, hyst = -273.1 C)
+                       (emerg = +110.0 C)
+PPT:          33.00 W  (cap = 188.00 W)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:  994 RPM  (min =    0 RPM, max = 5755 RPM)
+Processor Fan:  999 RPM  (min =    0 RPM, max = 5755 RPM)
+Other Fan:      607 RPM  (min =    0 RPM, max = 5000 RPM)
+CPU:            +50.0 C  
+CPU:            +55.0 C  
+SODIMM:         +25.0 C  
+SODIMM:         +39.0 C  
+SODIMM:         +38.0 C  
+SODIMM:         +25.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +43.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 8:        +45.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 10:       +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 11:       +42.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 12:       +42.0 C  (high = +92.0 C, crit = +102.0 C)
+

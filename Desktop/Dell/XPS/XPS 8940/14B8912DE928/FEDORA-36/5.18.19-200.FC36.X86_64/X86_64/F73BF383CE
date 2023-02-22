@@ -1,0 +1,43 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +48.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +39.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 4:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 5:        +36.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 6:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 7:        +37.0 C  (high = +80.0 C, crit = +100.0 C)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +44.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +33.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:         805 RPM  (min =    0 RPM, max = 3230 RPM)
+fan2:        1008 RPM  (min =    0 RPM, max = 4050 RPM)
+temp1:        +43.0 C  
+temp2:        +44.0 C  
+temp4:        +34.0 C  
+temp5:        +36.0 C  
+temp6:        +33.0 C  
+temp7:        +28.0 C  
+temp8:       +126.0 C  
+
+nouveau-pci-0100
+Adapter: PCI adapter
+fan1:         969 RPM
+temp1:        +32.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

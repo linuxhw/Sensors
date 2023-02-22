@@ -1,0 +1,41 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    900.00 mV (min =  +0.85 V, max =  +1.05 V)
+temp1:        +49.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan:   1489 RPM
+Motherboard Fan: 1195 RPM
+
+f71882fg-isa-0a00
+Adapter: ISA adapter
++3.3V:         3.36 V  
+in1:         872.00 mV (max =  +2.04 V)
+in2:           1.10 V  
+in3:         904.00 mV 
+in4:         976.00 mV 
+in5:         800.00 mV 
+in6:         656.00 mV 
+3VSB:          3.38 V  
+Vbat:          3.25 V  
+fan1:        1489 RPM
+fan2:        1195 RPM
+fan3:           0 RPM  ALARM
+fan4:           0 RPM  ALARM
+temp1:        +65.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = thermistor
+temp2:        +27.0 C  (high = +255.0 C, hyst = +251.0 C)
+                       (crit = +255.0 C, hyst = +251.0 C)  sensor = transistor
+temp3:          FAULT  (high = +255.0 C, hyst = +253.0 C)
+                       (crit = +255.0 C, hyst = +253.0 C)  sensor = transistor
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +30.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 1:       +31.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 2:       +30.0 C  (high = +83.0 C, crit = +99.0 C)
+Core 3:       +33.0 C  (high = +83.0 C, crit = +99.0 C)
+
