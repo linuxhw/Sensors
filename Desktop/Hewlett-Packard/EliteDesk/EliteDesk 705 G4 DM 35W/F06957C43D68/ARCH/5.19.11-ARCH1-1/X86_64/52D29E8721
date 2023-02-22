@@ -1,0 +1,21 @@
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +45.6 C  (high = +70.0 C)
+                       (crit = +100.0 C, hyst = +99.0 C)
+
+amdgpu-pci-0008
+Adapter: PCI adapter
+vddgfx:      818.00 mV 
+vddnb:       893.00 mV 
+edge:         +45.0 C  
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:       32.47 mW (avg =   1.60 mW, interval =   0.01 s)
+                       (crit =  35.00 W)
+
