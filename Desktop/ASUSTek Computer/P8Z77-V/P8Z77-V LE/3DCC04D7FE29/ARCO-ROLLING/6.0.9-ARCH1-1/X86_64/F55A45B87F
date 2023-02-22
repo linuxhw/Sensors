@@ -1,0 +1,22 @@
+nouveau-pci-0100
+Adapter: PCI adapter
+GPU core:    1000.00 mV (min =  +0.82 V, max =  +1.21 V)
+fan1:           0 RPM
+temp1:        +40.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+power1:       31.82 W  (crit = 196.15 mW)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +106.0 C)
+temp2:        +29.8 C  (crit = +106.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 0:        +35.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 1:        +35.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 2:        +31.0 C  (high = +85.0 C, crit = +105.0 C)
+Core 3:        +29.0 C  (high = +85.0 C, crit = +105.0 C)
+

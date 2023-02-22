@@ -1,0 +1,33 @@
+drivetemp-scsi-3-0
+Adapter: SCSI adapter
+temp1:        +43.0 C  (low  =  +5.0 C, high = +55.0 C)
+                       (crit low =  +5.0 C, crit = +55.0 C)
+                       (lowest = +39.0 C, highest = +46.0 C)
+
+drivetemp-scsi-2-0
+Adapter: SCSI adapter
+temp1:        +30.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +40.0 C  (high = +76.0 C, crit = +100.0 C)
+Core 1:       +37.0 C  (high = +76.0 C, crit = +100.0 C)
+
+drivetemp-scsi-2-10
+Adapter: SCSI adapter
+temp1:        +44.0 C  (low  =  +5.0 C, high = +55.0 C)
+                       (crit low =  +5.0 C, crit = +55.0 C)
+                       (lowest = +40.0 C, highest = +48.0 C)
+
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:       1.09 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:       3.39 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:         5.02 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:       12.30 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:      827 RPM  (min =  600 RPM, max = 7200 RPM)
+CHASSIS FAN Speed: 1928 RPM  (min =  600 RPM, max = 7200 RPM)
+POWER FAN Speed:   1035 RPM  (min = 1800 RPM, max = 7200 RPM)
+CPU Temperature:    +37.0 C  (high = +60.0 C, crit = +95.0 C)
+MB Temperature:     +29.0 C  (high = +45.0 C, crit = +95.0 C)
+

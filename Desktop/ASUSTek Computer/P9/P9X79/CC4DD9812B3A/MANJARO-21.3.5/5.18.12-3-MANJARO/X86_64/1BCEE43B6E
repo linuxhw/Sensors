@@ -1,0 +1,23 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:         978 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +56.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          24.01 W  (cap = 115.00 W)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 0:        +41.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 1:        +43.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 2:        +45.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 3:        +41.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 4:        +43.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 5:        +42.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 8:        +41.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 9:        +43.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 10:       +38.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 11:       +36.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 12:       +37.0 C  (high = +71.0 C, crit = +87.0 C)
+Core 13:       +42.0 C  (high = +71.0 C, crit = +87.0 C)
+
