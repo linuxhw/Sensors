@@ -1,0 +1,41 @@
+amdgpu-pci-3300
+Adapter: PCI adapter
+vddgfx:      830.00 mV 
+vddnb:       715.00 mV 
+edge:         +44.0 C  
+PPT:           3.17 W  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +46.4 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          17.35 V  
+
+ath11k_hwmon-pci-0100
+Adapter: PCI adapter
+temp1:        +40.0 C  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        2482 RPM
+fan2:        65535 RPM
+CPU:          +46.0 C  
+GPU:              N/A  
+temp3:        +46.0 C  
+temp4:         +0.0 C  
+temp5:        +46.0 C  
+temp6:        +46.0 C  
+temp7:        +46.0 C  
+temp8:            N/A  
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -60.1 C, high = +89.8 C)
+                       (crit = +94.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +20.0 C  (crit = +110.0 C)
+
