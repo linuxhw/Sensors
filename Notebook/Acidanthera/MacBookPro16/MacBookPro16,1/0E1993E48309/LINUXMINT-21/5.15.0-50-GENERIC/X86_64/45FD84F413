@@ -1,0 +1,35 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +26.0 C  
+
+CROS_USBPD_CHARGER0-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +34.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +35.0 C  (high = +100.0 C, crit = +100.0 C)
+
+CROS_USBPD_CHARGER1-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  
+curr1:            N/A  (max =  +1.50 A)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +32.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +21.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +21.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           8.03 V  
+curr1:         1.55 A  
+

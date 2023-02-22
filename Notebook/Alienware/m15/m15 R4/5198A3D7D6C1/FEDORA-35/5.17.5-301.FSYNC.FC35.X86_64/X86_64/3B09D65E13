@@ -1,0 +1,39 @@
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +49.0 C  
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +68.0 C  
+
+nvme-pci-3d00
+Adapter: PCI adapter
+Composite:    +47.9 C  (low  = -273.1 C, high = +72.8 C)
+                       (crit = +75.8 C)
+Sensor 1:     +47.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +59.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +66.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +64.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 6:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 7:        +65.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-3c00
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  =  -0.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +49.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.62 V  
+curr1:         0.00 A  
+

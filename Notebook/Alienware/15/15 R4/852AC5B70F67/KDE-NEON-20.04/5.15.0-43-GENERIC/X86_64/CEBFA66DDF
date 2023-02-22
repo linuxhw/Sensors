@@ -1,0 +1,35 @@
+ath10k_hwmon-pci-4700
+Adapter: PCI adapter
+temp1:        +76.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 0:        +73.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 1:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 2:        +71.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 3:        +69.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 4:        +67.0 C  (high = +100.0 C, crit = +100.0 C)
+Core 5:        +68.0 C  (high = +100.0 C, crit = +100.0 C)
+
+nvme-pci-4500
+Adapter: PCI adapter
+Composite:    +44.9 C  (low  = -20.1 C, high = +77.8 C)
+                       (crit = +81.8 C)
+Sensor 1:     +44.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +80.0 C  
+
+nvme-pci-4400
+Adapter: PCI adapter
+Composite:    +50.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +50.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +58.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
