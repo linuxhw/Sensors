@@ -1,0 +1,16 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        1790 RPM
+fan2:         888 RPM
+
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      1000.00 mV 
+fan1:         634 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +74.0*C  (crit = +94.0*C, hyst = -273.1*C)
+slowPPT:      40.22 W  (cap = 110.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +49.2*C  
+

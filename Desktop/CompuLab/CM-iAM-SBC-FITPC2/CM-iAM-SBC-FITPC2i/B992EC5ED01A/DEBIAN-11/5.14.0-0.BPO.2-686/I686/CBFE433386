@@ -1,0 +1,20 @@
+f71808e-isa-0290
+Adapter: ISA adapter
++3.3V:         3.28 V  
+in1:           0.00 V  
+in2:           0.00 V  
+in3:           0.00 V  
+in4:           1.06 V  
+in5:           1.76 V  
+3VSB:          3.30 V  
+Vbat:          3.31 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:         +0.0 C  (crit = +127.0 C)
+temp2:         +0.0 C  (crit = +95.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +31.0 C  (crit = +90.0 C)
+

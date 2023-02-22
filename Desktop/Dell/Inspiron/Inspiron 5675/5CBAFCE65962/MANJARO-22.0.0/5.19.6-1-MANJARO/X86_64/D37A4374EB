@@ -1,0 +1,24 @@
+amdgpu-pci-0900
+Adapter: PCI adapter
+vddgfx:      875.00 mV 
+fan1:        1469 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +38.0 C  (crit = +94.0 C, hyst = -273.1 C)
+PPT:          17.08 W  (cap =  85.00 W)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +71.1 C  
+Tdie:         +51.1 C  
+
+ath10k_hwmon-pci-0500
+Adapter: PCI adapter
+temp1:        +50.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        2205 RPM  (min =  757 RPM, max = 3135 RPM)
+fan2:        2213 RPM  (min =  745 RPM, max = 3160 RPM)
+temp1:        +52.0 C  
+temp7:        +50.0 C  
+temp9:        +39.0 C  
+

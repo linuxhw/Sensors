@@ -1,0 +1,28 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        1109 RPM  (min =    0 RPM, max = 3230 RPM)
+fan2:        1000 RPM  (min =    0 RPM, max = 4050 RPM)
+
+pch_cometlake-virtual-0
+Adapter: Virtual device
+temp1:        +48.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 0:        +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 1:        +42.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 2:        +43.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 3:        +44.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 4:        +42.0 C  (high = +84.0 C, crit = +100.0 C)
+Core 5:        +42.0 C  (high = +84.0 C, crit = +100.0 C)
+
+nvme-pci-0200
+Adapter: PCI adapter
+Composite:    +40.9 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+

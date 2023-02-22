@@ -1,0 +1,23 @@
+soc_dts1-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+Core 1:       +41.0 C  (high = +105.0 C, crit = +105.0 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +36.0 C  (crit = +90.0 C)
+
+soc_dts0-virtual-0
+Adapter: Virtual device
+temp1:        +39.0 C  
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        1730 RPM
+fan2:        1730 RPM
+fan3:        1730 RPM
+
