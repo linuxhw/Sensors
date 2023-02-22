@@ -1,0 +1,39 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +44.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:        +42.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:        +43.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:        +43.0 C  (high = +79.0 C, crit = +89.0 C)
+
+pch_lewisburg-virtual-0
+Adapter: Virtual device
+temp1:        +30.0 C  
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +47.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +46.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +46.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:        +45.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:        +47.0 C  (high = +79.0 C, crit = +89.0 C)
+
+dell_smm-isa-0000
+Adapter: ISA adapter
+fan1:        1512 RPM  (min =    0 RPM, max = 6300 RPM)
+fan2:        1521 RPM  (min =    0 RPM, max = 6300 RPM)
+fan3:         745 RPM  (min =    0 RPM, max = 3000 RPM)
+temp1:        +45.0 C  
+temp2:        +46.0 C  
+temp3:        +36.0 C  
+temp6:        +40.0 C  
+temp8:        +21.0 C  
+

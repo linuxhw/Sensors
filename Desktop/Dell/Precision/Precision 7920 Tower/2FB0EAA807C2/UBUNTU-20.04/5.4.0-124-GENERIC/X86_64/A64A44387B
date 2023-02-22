@@ -1,0 +1,25 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +25.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 0:        +24.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 1:        +23.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 2:        +24.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 3:        +23.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 4:        +24.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 5:        +23.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 6:        +25.0 C  (high = +79.0 C, crit = +89.0 C)
+Core 7:        +24.0 C  (high = +79.0 C, crit = +89.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:           0 RPM
+fan2:         789 RPM
+fan3:         797 RPM
+
+nouveau-pci-b300
+Adapter: PCI adapter
+fan1:        1062 RPM
+temp1:        +38.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+

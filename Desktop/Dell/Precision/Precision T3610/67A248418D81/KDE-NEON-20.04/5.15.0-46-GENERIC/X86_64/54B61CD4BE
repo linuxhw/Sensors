@@ -1,0 +1,28 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan: 1000 RPM
+Other Fan:      593 RPM
+Other Fan:      601 RPM
+Other:          +33.0 C  
+Other:              N/A  
+SODIMM:         +23.0 C  
+SODIMM:         +23.0 C  
+Ambient:        +19.0 C  
+Ambient:        +19.0 C  
+CPU:            +27.0 C  
+CPU:                N/A  
+Ambient:        +26.0 C  
+Ambient:        +24.0 C  
+
+radeon-pci-0200
+Adapter: PCI adapter
+temp1:        +28.0 C  (crit = +120.0 C, hyst = +90.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +28.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 0:        +20.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 1:        +23.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 2:        +23.0 C  (high = +81.0 C, crit = +95.0 C)
+Core 3:        +25.0 C  (high = +81.0 C, crit = +95.0 C)
+

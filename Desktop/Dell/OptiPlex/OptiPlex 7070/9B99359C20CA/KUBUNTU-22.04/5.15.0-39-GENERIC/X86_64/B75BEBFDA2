@@ -1,0 +1,27 @@
+pch_cannonlake-virtual-0
+Adapter: Virtual device
+temp1:        +41.0 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 0:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 1:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 2:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 3:        +37.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 4:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 5:        +51.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 6:        +35.0 C  (high = +86.0 C, crit = +100.0 C)
+Core 7:        +36.0 C  (high = +86.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      700.00 mV 
+fan1:        1269 RPM  (min =    0 RPM, max = 5500 RPM)
+edge:         +48.0 C  (crit = +97.0 C, hyst = -273.1 C)
+slowPPT:       5.18 W  (cap =  32.00 W)
+

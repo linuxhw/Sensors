@@ -1,0 +1,31 @@
+dell_smm-isa-0000
+Adapter: ISA adapter
+Processor Fan:  995 RPM  (min =    0 RPM, max = 4520 RPM)
+Other Fan:        0 RPM
+Other Fan:      590 RPM  (min =    0 RPM, max = 5000 RPM)
+CPU:            +45.0 C  
+SODIMM:         +21.0 C  
+SODIMM:         +26.0 C  
+SODIMM:         +23.0 C  
+Ambient:        +33.0 C  
+
+nvme-pci-0700
+Adapter: PCI adapter
+Composite:    +19.9 C  (low  =  -0.1 C, high = +80.8 C)
+                       (crit = +84.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +45.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 0:        +40.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 1:        +39.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 2:        +37.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 3:        +45.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 4:        +35.0 C  (high = +85.0 C, crit = +95.0 C)
+Core 5:        +42.0 C  (high = +85.0 C, crit = +95.0 C)
+
+nvme-pci-0b00
+Adapter: PCI adapter
+Composite:    +21.9 C  (low  =  -0.1 C, high = +80.8 C)
+                       (crit = +84.8 C)
+

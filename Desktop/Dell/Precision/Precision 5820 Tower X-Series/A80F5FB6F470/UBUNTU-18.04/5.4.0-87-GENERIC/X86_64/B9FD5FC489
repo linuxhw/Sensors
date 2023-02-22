@@ -1,0 +1,33 @@
+amdgpu-pci-6500
+Adapter: PCI adapter
+vddgfx:      793.00 mV 
+fan1:        2038 RPM  (min = 1800 RPM, max = 6000 RPM)
+edge:         +37.0 C  (crit = +97.0 C, hyst = -273.1 C)
+power1:        4.10 W  (cap =  25.00 W)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+fan1:        1003 RPM
+fan2:         699 RPM
+fan3:         585 RPM
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 0:        +39.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 1:        +38.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 2:        +38.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 3:        +38.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 4:        +40.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 5:        +39.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 6:        +52.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 7:        +38.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 8:        +38.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 9:        +39.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 10:       +37.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 11:       +37.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 12:       +40.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 13:       +39.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 14:       +40.0 C  (high = +73.0 C, crit = +83.0 C)
+Core 15:       +39.0 C  (high = +73.0 C, crit = +83.0 C)
+

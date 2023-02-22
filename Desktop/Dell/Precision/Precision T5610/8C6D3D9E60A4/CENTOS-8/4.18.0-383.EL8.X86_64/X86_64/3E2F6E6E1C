@@ -1,0 +1,38 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:        +28.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:        +24.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:        +28.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:        +31.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:        +25.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:        +26.0 C  (high = +69.0 C, crit = +79.0 C)
+
+nouveau-pci-0200
+Adapter: PCI adapter
+GPU core:     +0.90 V  (min =  +0.78 V, max =  +1.16 V)
+fan1:        2940 RPM
+temp1:        +44.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+coretemp-isa-0001
+Adapter: ISA adapter
+Package id 1:  +39.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 0:        +32.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 1:        +25.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 2:        +29.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 3:        +39.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 4:        +29.0 C  (high = +69.0 C, crit = +79.0 C)
+Core 5:        +27.0 C  (high = +69.0 C, crit = +79.0 C)
+
+dell_smm-virtual-0
+Adapter: Virtual device
+Processor Fan: 1000 RPM
+Processor Fan: 1005 RPM
+Other Fan:      615 RPM
+Other:          +34.0 C  
+Other:          +42.0 C  
+SODIMM:         +34.0 C  
+SODIMM:         +35.0 C  
+
