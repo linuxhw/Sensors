@@ -1,0 +1,21 @@
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          11.36 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+temp1:        +54.0 C  
+temp2:         +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +24.9 C  (low  =  -0.1 C, high = +79.8 C)
+                       (crit = +82.8 C)
+

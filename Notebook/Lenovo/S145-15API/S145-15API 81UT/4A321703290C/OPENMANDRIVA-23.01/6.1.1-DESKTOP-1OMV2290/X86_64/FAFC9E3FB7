@@ -1,0 +1,25 @@
+amdgpu-pci-0300
+Adapter: PCI adapter
+vddgfx:           N/A  
+vddnb:            N/A  
+edge:         +39.0 C  
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:           7.88 V  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:        +37.0 C  
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +39.2 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +29.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +29.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +31.9 C  (low  = -273.1 C, high = +65261.8 C)
+

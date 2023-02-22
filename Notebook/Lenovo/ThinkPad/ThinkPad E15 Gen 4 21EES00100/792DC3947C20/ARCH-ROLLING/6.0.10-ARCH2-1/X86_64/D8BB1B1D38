@@ -1,0 +1,40 @@
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.43 V  
+SVI2_SoC:    775.00 mV 
+Tdie:         +50.6 C  (high = +95.0 C)
+Tctl:         +50.6 C  
+SVI2_P_Core:  18.70 W  
+SVI2_P_SoC:    2.94 W  
+SVI2_C_Core:  11.86 A  
+SVI2_C_SoC:    3.83 A  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:        1.43 V  
+vddnb:       774.00 mV 
+edge:         +44.0 C  
+PPT:           3.00 mW 
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:        1800 RPM
+fan2:        1800 RPM
+CPU:          +49.0 C  
+GPU:           +0.0 C  
+temp3:         +0.0 C  
+temp4:         +0.0 C  
+temp5:         +0.0 C  
+temp6:         +0.0 C  
+temp7:         +0.0 C  
+temp8:         +0.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +21.9 C  (low  =  -0.1 C, high = +79.8 C)
+                       (crit = +82.8 C)
+
+BAT0-acpi-0
+Adapter: ACPI interface
+in0:          13.09 V  
+

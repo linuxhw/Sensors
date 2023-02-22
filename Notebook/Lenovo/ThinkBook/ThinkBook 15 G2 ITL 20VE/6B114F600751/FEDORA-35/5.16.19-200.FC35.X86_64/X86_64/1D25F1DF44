@@ -1,0 +1,35 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +93.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 0:        +90.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 1:        +91.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 2:        +89.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+Core 3:        +90.0 C  (high = +100.0 C, crit = +100.0 C)  ALARM (CRIT)
+
+ucsi_source_psy_USBC000:001-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:          12.77 V  
+
+thinkpad-isa-0000
+Adapter: ISA adapter
+fan1:         257 RPM
+
+ucsi_source_psy_USBC000:002-isa-0000
+Adapter: ISA adapter
+in0:           0.00 V  (min =  +0.00 V, max =  +0.00 V)
+curr1:         0.00 A  (max =  +0.00 A)
+
+nvme-pci-e100
+Adapter: PCI adapter
+Composite:    +70.8 C  (low  =  -5.2 C, high = +79.8 C)
+                       (crit = +84.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+
