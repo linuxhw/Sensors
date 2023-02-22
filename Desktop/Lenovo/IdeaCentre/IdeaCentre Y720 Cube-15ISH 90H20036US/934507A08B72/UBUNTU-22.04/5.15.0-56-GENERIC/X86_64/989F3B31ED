@@ -1,0 +1,28 @@
+ath10k_hwmon-pci-0300
+Adapter: PCI adapter
+temp1:            N/A  
+
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +47.5 C  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +119.0 C)
+temp2:        +29.8 C  (crit = +119.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +43.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +40.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +43.0 C  (high = +80.0 C, crit = +100.0 C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      937.00 mV 
+fan1:         752 RPM  (min =    0 RPM, max = 5300 RPM)
+edge:         +42.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      14.15 W  (cap = 110.00 W)
+

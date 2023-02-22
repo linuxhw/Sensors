@@ -1,0 +1,22 @@
+amdgpu-pci-0600
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:        1398 RPM  (min =    0 RPM, max = 3800 RPM)
+edge:         +40.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      33.19 W  (cap =  65.00 W)
+
+zenpower-pci-00c3
+Adapter: PCI adapter
+SVI2_Core:     1.36 V  
+SVI2_SoC:    875.00 mV 
+Tdie:         +50.4 C  (high = +95.0 C)
+Tctl:         +50.4 C  
+SVI2_P_Core:  55.00 W  
+SVI2_P_SoC:    5.68 W  
+SVI2_C_Core:  40.53 A  
+SVI2_C_SoC:    6.49 A  
+
+iwlwifi_1-virtual-0
+Adapter: Virtual device
+temp1:            N/A  
+

@@ -1,0 +1,30 @@
+amdgpu-pci-4100
+Adapter: PCI adapter
+vddgfx:      687.00 mV 
+fan1:        1991 RPM  (min = 1800 RPM, max = 6900 RPM)
+edge:         +45.0 C  (crit = +97.0 C, hyst = -273.1 C)
+slowPPT:       4.08 W  (cap =  35.00 W)
+
+enp1s0-pci-0100
+Adapter: PCI adapter
+PHY Temperature:  +66.5 C  
+MAC Temperature:  +68.6 C  
+
+nvme-pci-2200
+Adapter: PCI adapter
+Composite:    +38.9 C  (low  =  -5.2 C, high = +83.8 C)
+                       (crit = +87.8 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +70.8 C  
+Tccd3:        +52.5 C  
+Tccd5:        +52.8 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +83.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+

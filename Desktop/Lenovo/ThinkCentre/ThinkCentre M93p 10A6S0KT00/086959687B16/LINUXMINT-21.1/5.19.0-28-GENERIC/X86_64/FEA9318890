@@ -1,0 +1,32 @@
+it8792-isa-0a40
+Adapter: ISA adapter
+in0:         316.00 mV (min =  +0.98 V, max =  +2.09 V)  ALARM
+in1:           1.83 V  (min =  +0.48 V, max =  +2.59 V)
+in2:           0.00 V  (min =  +1.70 V, max =  +2.76 V)  ALARM
++3.3V:         1.62 V  (min =  +2.69 V, max =  +1.17 V)  ALARM
+in4:           1.64 V  (min =  +2.71 V, max =  +0.81 V)  ALARM
+in5:           2.48 V  (min =  +1.12 V, max =  +1.41 V)  ALARM
+in6:           2.78 V  (min =  +2.41 V, max =  +2.74 V)  ALARM
+3VSB:          1.61 V  (min =  +0.62 V, max =  +2.54 V)
+Vbat:          1.62 V  
+fan1:        1275 RPM  (min =   10 RPM)
+fan2:        1194 RPM  (min =   -1 RPM)  ALARM
+fan3:           0 RPM  (min =   -1 RPM)  ALARM
+temp1:        +33.0 C  (low  = +101.0 C, high = -19.0 C)  ALARM  sensor = thermal diode
+temp2:         +2.0 C  (low  = -123.0 C, high = -88.0 C)  ALARM  sensor = disabled
+temp3:        +19.0 C  (low  = -107.0 C, high =  +9.0 C)  ALARM  sensor = thermal diode
+intrusion0:  ALARM
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8 C  (crit = +105.0 C)
+temp2:        +29.8 C  (crit = +105.0 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 0:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 1:        +26.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 2:        +23.0 C  (high = +80.0 C, crit = +100.0 C)
+Core 3:        +25.0 C  (high = +80.0 C, crit = +100.0 C)
+

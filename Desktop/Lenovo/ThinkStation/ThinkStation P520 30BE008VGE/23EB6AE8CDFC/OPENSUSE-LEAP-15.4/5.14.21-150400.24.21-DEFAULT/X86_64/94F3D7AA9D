@@ -1,0 +1,28 @@
+i350bb-pci-0200
+Adapter: PCI adapter
+loc1:         +44.0 C  (high = +120.0 C, crit = +110.0 C)
+
+nvme-pci-1800
+Adapter: PCI adapter
+Composite:    +32.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +32.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +31.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 0:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 1:        +30.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 2:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 3:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 4:        +28.0 C  (high = +92.0 C, crit = +102.0 C)
+Core 5:        +29.0 C  (high = +92.0 C, crit = +102.0 C)
+
+nvme-pci-1900
+Adapter: PCI adapter
+Composite:    +33.9 C  (low  = -273.1 C, high = +84.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +33.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +30.9 C  (low  = -273.1 C, high = +65261.8 C)
+
