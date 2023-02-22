@@ -1,0 +1,28 @@
+nouveau-pci-0400
+Adapter: PCI adapter
+GPU core:    925.00 mV (min =  +0.80 V, max =  +1.19 V)
+fan1:        3480 RPM
+temp1:        +33.0 C  (high = +95.0 C, hyst =  +3.0 C)
+                       (crit = +105.0 C, hyst =  +5.0 C)
+                       (emerg = +135.0 C, hyst =  +5.0 C)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+power1:      136.84 W  (crit = 219.76 W)
+
+nvme-pci-0500
+Adapter: PCI adapter
+Composite:    +37.9 C  (low  = -273.1 C, high = +82.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +37.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +52.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+radeon-pci-0100
+Adapter: PCI adapter
+temp1:        +61.5 C  (crit = +120.0 C, hyst = +90.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+temp1:        +31.0 C  (high = +70.0 C)
+                       (crit = +80.0 C, hyst = +77.0 C)
+

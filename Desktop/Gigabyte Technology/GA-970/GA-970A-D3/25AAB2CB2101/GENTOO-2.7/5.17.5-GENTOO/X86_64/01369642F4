@@ -1,0 +1,50 @@
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      900.00 mV 
+fan1:         746 RPM  (min =    0 RPM, max = 3200 RPM)
+edge:         +50.0 C  (crit = +94.0 C, hyst = -273.1 C)
+slowPPT:      37.23 W  (cap = 135.00 W)
+
+fam15h_power-pci-00c4
+Adapter: PCI adapter
+CPU Power:    36.25 W  (crit = 124.95 W)
+
+it8720-isa-0228
+Adapter: ISA adapter
+Vcore:           784.00 mV (min =  +0.00 V, max =  +4.08 V)
+Vdram:             1.47 V  (min =  +0.00 V, max =  +4.08 V)
++3.3V:             3.26 V  (min =  +0.00 V, max =  +4.08 V)
++5V:               5.00 V  (min =  +0.00 V, max =  +6.85 V)
++12V:             12.17 V  (min =  +0.00 V, max = +16.17 V)
+5VSB:              4.97 V  (min =  +0.00 V, max =  +6.85 V)
+Vbat:              3.34 V  
+CPU_FAN:         1054 RPM  (min =   10 RPM)
+SYS_FAN1:         783 RPM  (min =   10 RPM)
+PWR_FAN2:        337500 RPM  (min =   10 RPM)
+SYS Temp:         +36.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermistor
+CPU Casing Temp:  +39.0 C  (low  = +127.0 C, high = +127.0 C)  sensor = thermal diode
+k10temp_int:      +35.0 C  (low  = +127.0 C, high = +70.0 C)  sensor = Intel PECI
+intrusion0:      OK
+
+corsairpsu-hid-3-1
+Adapter: HID adapter
+v_in:        230.00 V  
+v_out +12v:   12.23 V  (crit min =  +8.41 V, crit max = +15.59 V)
+v_out +5v:     5.05 V  (crit min =  +3.50 V, crit max =  +6.50 V)
+v_out +3.3v:   3.30 V  (crit min =  +2.31 V, crit max =  +4.30 V)
+psu fan:        0 RPM
+vrm temp:     +47.5 C  (crit = +70.0 C)
+case temp:    +39.2 C  (crit = +70.0 C)
+power total:  84.00 W  
+power +12v:   44.00 W  
+power +5v:    24.00 W  
+power +3.3v:  17.50 W  
+curr +12v:     3.75 A  (crit max = +65.00 A)
+curr +5v:      4.88 A  (crit max = +40.00 A)
+curr +3.3v:    5.44 A  (crit max = +40.00 A)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+k10temp:      +23.8 C  (high = +70.0 C)
+                       (crit = +90.0 C, hyst = +87.0 C)
+
