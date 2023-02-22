@@ -1,0 +1,24 @@
+jupiter-isa-0000
+Adapter: ISA adapter
+PD Contract Voltage:   5.00 V  
+System Fan:          4637 RPM
+Battery Temp:         +30.0 C  
+PD Contract Current:   1.50 A  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           7.52 V  
+curr1:         1.42 A  
+
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:       15.00 mV 
+vddnb:       690.00 mV 
+edge:         +49.0 C  
+slowPPT:       3.01 W  (cap =  15.00 W)
+fastPPT:       3.01 W  (cap =  15.00 W)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +57.0 C  (crit = +105.0 C)
+

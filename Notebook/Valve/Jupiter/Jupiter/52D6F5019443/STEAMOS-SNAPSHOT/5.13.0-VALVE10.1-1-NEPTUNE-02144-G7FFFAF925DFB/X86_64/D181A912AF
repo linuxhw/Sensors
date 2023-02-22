@@ -1,0 +1,30 @@
+amdgpu-pci-0400
+Adapter: PCI adapter
+vddgfx:      669.00 mV 
+vddnb:       664.00 mV 
+edge:         +57.0 C  
+slowPPT:      14.14 W  (cap =  15.00 W)
+fastPPT:      14.14 W  (cap =  15.00 W)
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.73 V  
+curr1:         0.00 A  
+
+jupiter-isa-0000
+Adapter: ISA adapter
+PD Contract Voltage:      N/A  
+System Fan:          5109 RPM
+Battery Temp:         +30.0 C  
+PD Contract Current:   3.00 A  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +36.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +62.0 C  (crit = +105.0 C)
+
