@@ -1,0 +1,16 @@
+nct1008-i2c-4-4c
+Adapter: 7000d000.i2c
+temp1:        +40.0 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +53.0 C, hyst = +43.0 C)
+temp2:        +46.8 C  (low  =  +0.0 C, high = +85.0 C)
+                       (crit = +90.0 C, hyst = +80.0 C)
+
+surface_rt_battery-i2c-4-0a
+Adapter: 7000d000.i2c
+in0:           7.39 V  
+curr1:       -829.00 mA 
+
+tsensor0_thermal-virtual-0
+Adapter: Virtual device
+temp1:        +50.6 C  (crit = +90.0 C)
+

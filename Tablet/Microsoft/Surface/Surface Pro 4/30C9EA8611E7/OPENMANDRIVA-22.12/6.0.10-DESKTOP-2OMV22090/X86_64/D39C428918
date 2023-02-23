@@ -1,0 +1,19 @@
+pch_skylake-virtual-0
+Adapter: Virtual device
+temp1:        +37.5 C  
+
+BAT1-acpi-0
+Adapter: ACPI interface
+in0:           8.60 V  
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +42.0 C  
+temp2:         +0.0 C  
+temp3:        +30.7 C  
+temp4:        +35.0 C  
+
+nvme-pci-0100
+Adapter: PCI adapter
+Composite:    +33.9 C  
+
